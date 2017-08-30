@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Think by Numbers</title>
+	<atom:link href="/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A better world through data.</description>
+	<lastBuildDate>Tue, 09 May 2017 15:30:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2016/10/cropped-Think-By-Numbers-tbn-logo-favicon-icon-Thumbnail-600-x-600-transparent.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Think by Numbers</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.1.1" mode="simple" feedslug="podcast" -->
+	<itunes:summary>Numbers cannot lie.&lt;br /&gt;
+A world without disease, starvation, violence, and suffering is the ultimate destination of humanity. Getting there will require voters to base their decisions on statistical cost-benefit analyses instead of irrational emotions. The power of numbers can make utopia a reality.</itunes:summary>
+	<itunes:author>Bob Butterfield</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="/wp-content/uploads/powerpress/Think-by-Numbers-Podcast-Profile-Logo-iTunes-3000-3000.jpg" />
+	<itunes:owner>
+		<itunes:name>Bob Butterfield</itunes:name>
+		<itunes:email>m@thinkbynumbers.org</itunes:email>
+	</itunes:owner>
+	<managingEditor>m@thinkbynumbers.org (Bob Butterfield)</managingEditor>
+	<copyright> Creative Commons Attribution 3.0 Unported License</copyright>
+	<itunes:subtitle>Creating a better world through data.</itunes:subtitle>
+	<image>
+		<title>Think by Numbers</title>
+		<url>/wp-content/uploads/powerpress/Think-by-Numbers-Podcast-Profile-Logo-iTunes-3000-3000.jpg</url>
+		<link>/</link>
+	</image>
+	<itunes:category text="News &amp; Politics">
+	</itunes:category>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<rawvoice:subscribe feed="/feed/podcast/" itunes="https://itunes.apple.com/us/podcast/think-by-numbers/id660714690"></rawvoice:subscribe>
+<site xmlns="com-wordpress:feed-additions:1">26068032</site>	<item>
+		<title>Anti-Terrorism Spending 50,000 Times More Than on Any Other Cause of Death</title>
+		<link>/government-spending/false-sense-of-insecurity/</link>
+		<pubDate>Tue, 04 Oct 2016 09:40:00 +0000</pubDate>
+		<guid isPermaLink="false">/wordpress/?p=4</guid>
+		<comments>/government-spending/false-sense-of-insecurity/#comments</comments>
+		<wfw:commentRss>/government-spending/false-sense-of-insecurity/feed/</wfw:commentRss>
+		<slash:comments>78</slash:comments>
+		<category><![CDATA[Government Spending]]></category>
+		<category><![CDATA[Terrorism]]></category>
+		<category><![CDATA[americans]]></category>
+		<category><![CDATA[anti-terrorism]]></category>
+		<category><![CDATA[anxiety fatigue]]></category>
+		<category><![CDATA[bass ackwards]]></category>
+		<category><![CDATA[cancer]]></category>
+		<category><![CDATA[cause of death]]></category>
+		<category><![CDATA[cost-benefit analysis]]></category>
+		<category><![CDATA[dangers]]></category>
+		<category><![CDATA[disproportionate]]></category>
+		<category><![CDATA[evolutionary psychology]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[heart disease]]></category>
+		<category><![CDATA[lightning]]></category>
+		<category><![CDATA[logic fail]]></category>
+		<category><![CDATA[medical research]]></category>
+		<category><![CDATA[military spending]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[obama]]></category>
+		<category><![CDATA[obvious]]></category>
+		<category><![CDATA[priorities]]></category>
+		<category><![CDATA[proportions]]></category>
+		<category><![CDATA[republican campaign]]></category>
+		<category><![CDATA[risks]]></category>
+		<category><![CDATA[slider]]></category>
+		<category><![CDATA[spending]]></category>
+		<category><![CDATA[stroke]]></category>
+		<category><![CDATA[terrorism]]></category>
+		<category><![CDATA[terrorist]]></category>
+		<category><![CDATA[threat of terrorism]]></category>
+		<category><![CDATA[u.s.]]></category>
+		<category><![CDATA[united states]]></category>
+		<category><![CDATA[victims]]></category>
+		<category><![CDATA[war on terror]]></category>
+		<description>&lt;p&gt;The US spends more than $500 million per victim on anti-terrorism efforts.  However, cancer research spending is only $10,000 per victim.  Evolutionary psychology may offer an explanation for this irrational threat amplification.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/government-spending/false-sense-of-insecurity/&quot;&gt;Anti-Terrorism Spending 50,000 Times More Than on Any Other Cause of Death&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div dir="ltr">
+<div dir="ltr">
+<p><em><a href="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg"><img data-attachment-id="656" data-permalink="/government-spending/false-sense-of-insecurity/attachment/lightning/" data-orig-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg?fit=257%2C288&amp;ssl=1" data-orig-size="257,288" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Old Man Struck by Lightning" data-image-description="" data-medium-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg?fit=257%2C288&amp;ssl=1" data-large-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg?fit=257%2C288&amp;ssl=1" class="size-full wp-image-656 alignright" title="Old Man Struck by Lightning " src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg?resize=231%2C259" alt="Old Man Struck by Lightning " data-recalc-dims="1" /></a></em></p>
+<p>The US spends more than $500 million per victim on anti-terrorism efforts. &nbsp;However, cancer research spending is only $10,000 per victim. &nbsp;Evolutionary psychology may offer an explanation for this irrational threat amplification.</p>
+<h6>But first a message from NATIONAL REPUBLICAN campaign committee:</h6>
+<p><em>Lightning.</em></p>
+<p><em>Over the last decade it has stricken more Americans than terrorists have. It will stop at nothing to destroy our way of life.</em></p>
+<p><em>Yet some politicians in Washington don’t see lightning as a threat.&nbsp;Barack&nbsp;Hussein Obama&nbsp;<span id="SPELLING_ERROR_0">doesn</span>’t. In the Senate, he voted to allocate hundreds of billions of dollars to the so-called war on terror, while spending absolutely nothing on a threat which has taken far more American lives. He just <span id="SPELLING_ERROR_1">doesn</span>’t get it.</em></p>
+<p><em>Barack Obama.</em></p>
+<p><em>Wrong on lightning.</em></p>
+<p><em>Wrong for America.</em></p>
+<h3>Putting Terrorism in Perspective</h3>
+<p>Roughly <a href="http://www.state.gov/s/ct/rls/crt/2003/33777.htm">3,000 Americans</a> have lost their lives to terrorist attacks in the last decade. This averages out to a loss of 300 people a year, which is a tragic figure and, as a country, it behooves us to do everything we can to reduce or eliminate the threat of terrorism. But there are still a lot of other ways to wind up being the main course at a worm banquet. The gravest dangers we face include heart disease, cancer, and celebrity breakups. Unfortunately, our country doesn’t have infinite resources available to eliminate every threat. So the task falls to our government to allocate what resources we do have in a manner proportional to the magnitude of each threat. If we, as a society, want to effectively counter the dangers we face, we first have to put them in perspective.</p>
+<h3>How You&#8217;re Really Going to Die</h3>
+</div>
+<p>Ranked by the number of victims, heart disease comes in as the number one threat. It’s responsible for <a href="http://www.cdc.gov/nchs/data/nvsr/nvsr51/nvsr51_05.pdf">70</a><a href="http://www.cdc.gov/nchs/data/nvsr/nvsr51/nvsr51_05.pdf">0,000 deaths</a>&nbsp;a year. This coronary malady keeps food on the tables of funeral directors nationwide. And, like a perpetual motion machine, this very food fills their arteries with cholesterol leading to even more heart attacks.</p>
+<p>On to number two. Cancer kills <a href="http://www.cdc.gov/nchs/data/nvsr/nvsr51/nvsr51_05.pdf">550,000 people a year</a>. But ironically, some futurists see it as a potential key to immortality. It removes the limit on the number of times that a cell can replicate itself. Thus, if properly harnessed, this disease could be used to defy aging by allowing eternal tissue regeneration. This would enable Joan Rivers to continue enchanting Americans with her iconic brand of celebrity commentary for generations to come.</p>
+</div>
+<p><a href="http://www.cdc.gov/nchs/data/nvsr/nvsr51/nvsr51_05.pdf">Runners up for the best solution to overpopulation include strokes with 160,000 casualties a year, respiratory disease with 120,000 casualties annually, diabetes at 70,000 , pneumonia at 60,000 , Alzheimer’s disease at 50,000 , and vehicular accidents at 40,000.</a></p>
+<p>As previously stated, averaged over the last decade which contained the worst terrorist attack in our nation’s history, terrorism still only killed about 300 people a year. Compare this to the <a href="http://web.archive.org/web/20090410234302/http://www.lightningsafety.noaa.gov:80/resources/Ltg%20Safety-Facts.pdf">1000 people</a> who are struck by lightning every year. Hopefully, by putting storm clouds on the federal no-fly list we’ll be able to reduce this number in the future. But until then, based on current trends you’re three times more likely to be struck by lightning than to be killed in a terrorist attack.</p>
+<p style="text-align: center;"><a href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg"><img data-attachment-id="697" data-permalink="/government-spending/false-sense-of-insecurity/attachment/death-and-dollars/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?fit=960%2C320&amp;ssl=1" data-orig-size="960,320" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Common Causes of Death vs Prevention Funding" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?fit=300%2C100&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?fit=960%2C320&amp;ssl=1" class=" wp-image-697 aligncenter" title="Death and Dollars: Common Causes of Death vs Prevention Funding" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?resize=960%2C320" alt="Infographic Showing Disproportionate (Imbalance) US Spending to Combat Terrorism" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?w=960&amp;ssl=1 960w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?resize=300%2C100&amp;ssl=1 300w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?resize=768%2C256&amp;ssl=1 768w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/death-and-dollars.jpg?resize=672%2C224&amp;ssl=1 672w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></a></p>
+<p>&nbsp;</p>
+<table>
+<tbody>
+<tr>
+<td width="150"><strong>Risk</strong></td>
+<td width="150"><strong>Annual Deaths</strong></td>
+<td width="150"><strong>Lifetime risk</strong></td>
+</tr>
+<tr>
+<td>Heart disease</td>
+<td>652,486</td>
+<td>1 in 5</td>
+</tr>
+<tr>
+<td>Cancer</td>
+<td>553,888</td>
+<td>1 in 7</td>
+</tr>
+<tr>
+<td>Stroke</td>
+<td>150,074</td>
+<td>1 in 24</td>
+</tr>
+<tr>
+<td><a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2007%2F10%2F28%2Fweekinreview%2F28sack.html%3F_r%3D5&amp;REFUSE_COOKIE_ERROR=SHOW_ERROR">Hospital infections</a></td>
+<td>99,000</td>
+<td>1 in 38</td>
+</tr>
+<tr>
+<td>Flu</td>
+<td>59,664</td>
+<td>1 in 63</td>
+</tr>
+<tr>
+<td>Car accidents</td>
+<td>44,757</td>
+<td>1 in 84</td>
+</tr>
+<tr>
+<td>Suicide</td>
+<td>31,484</td>
+<td>1 in 119</td>
+</tr>
+<tr>
+<td>Accidental poisoning</td>
+<td>19,456</td>
+<td>1 in 193</td>
+</tr>
+<tr>
+<td>MRSA (resistant bacteria)</td>
+<td>19,000</td>
+<td>1 in 197</td>
+</tr>
+<tr>
+<td>Falls</td>
+<td>17,229</td>
+<td>1 in 218</td>
+</tr>
+<tr>
+<td>Drowning</td>
+<td>3,306</td>
+<td>1 in 1,134</td>
+</tr>
+<tr>
+<td>Bike accident</td>
+<td>762</td>
+<td>1 in 4,919</td>
+</tr>
+<tr>
+<td>Air/space accident</td>
+<td>742</td>
+<td>1 in 5,051</td>
+</tr>
+<tr>
+<td>Excessive cold</td>
+<td>620</td>
+<td>1 in 6,045</td>
+</tr>
+<tr>
+<td>Sun/heat exposure</td>
+<td>273</td>
+<td>1 in 13,729</td>
+</tr>
+<tr>
+<td><a href="http://www.flmnh.ufl.edu/fish/isaf/shark-attacks-maps-data/trends/attacks-fatalities">Shark attack*</a></td>
+<td>62</td>
+<td>1 in 60,453</td>
+</tr>
+<tr>
+<td>Lightning</td>
+<td>47</td>
+<td>1 in 79, 746</td>
+</tr>
+<tr>
+<td>Train crash</td>
+<td>24</td>
+<td>1 in 156,169</td>
+</tr>
+<tr>
+<td>Fireworks</td>
+<td>11</td>
+<td>1 in 340,733</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">&nbsp;<em><span style="font-size: small;">Sources: Unless otherwise noted, all accidental death information from<a href="http://www.nsc.org/learn/safety-knowledge/Pages/injury-facts.aspx">National Safety Council</a>. Disease death information from&nbsp;<a href="http://www.cdc.gov/nchs/fastats/deaths.htm">Centers for Disease Control and Prevention</a>. Lifetime risk is calculated by dividing 2003 population (290,850,005) by the number of deaths, divided by 77.6, the life expectancy of a person born in 2003. *Shark data represents number of attacks worldwide, not deaths.</span></em></p>
+<p>&nbsp;</p>
+<h3>Screwed Up Spending Priorities</h3>
+<p>Now that we’ve compared the risks, let’s examine how the government chooses to allocate our limited resources to combat these threats. To the least likely means of death I’ve mentioned, terrorism, the federal government devotes about <a href="http://www.fas.org/sgp/crs/natsec/RL33110.pdf">$150 billion annually</a>. On the other hand, to combat the most likely cause of death, heart disease, the government contributes only <a href="http://web.archive.org/web/20090115095455/http://www.nih.gov//news/fundingresearchareas.htm">$2 billion</a>. And just <a href="http://web.archive.org/web/20090115095455/http://www.nih.gov//news/fundingresearchareas.htm">$300 million</a>&nbsp;is devoted to research on the third most likely cause of death, strokes.</p>
+<p>So looking at it another way, we spend $500 million for every death from terrorism and only $2,000 for every death resulting from strokes. That means we spend 250,000 times more per death on terrorism. I’m sure all of this is very flattering to Osama bin Laden, but this disparity might leave some stroke victims scratching their heads, assuming they’ve retained full motor control of their arms.</p>
+<p style="text-align: center;"><img data-attachment-id="661" data-permalink="/government-spending/false-sense-of-insecurity/attachment/death_and_dollar-2/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?fit=923%2C548&amp;ssl=1" data-orig-size="923,548" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Number of Deaths from Various Causes and Funding to Combat Each Cause" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?fit=300%2C178&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?fit=923%2C548&amp;ssl=1" class="aligncenter size-full wp-image-661" title="Number of Deaths from Various Causes and Funding to Combat Each Cause" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?resize=517%2C307" alt="Graph of US Deaths from Various Causes and Funding to Combat Each Cause" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?w=923&amp;ssl=1 923w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?resize=300%2C178&amp;ssl=1 300w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?resize=768%2C456&amp;ssl=1 768w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Death_and_Dollar1.jpg?resize=672%2C399&amp;ssl=1 672w" sizes="(max-width: 517px) 100vw, 517px" data-recalc-dims="1" /></p>
+<h3>Why is the government response so disproportionate to the threat?</h3>
+<h6>EVOLUTION</h6>
+<p>Evolutionary psychology may be able to explain this phenomenon. The human brain has been around for 200,000 years. &nbsp; More than 99% of that evolution has been characterized by starvation and general scarcity of resources typified the environment in which humans evolved. &nbsp;In this situation, violent acquisition of resources from other groups was often a necessary survival&nbsp;technique. Hence, human brains most hyper-vigilant and&nbsp;aggressive&nbsp;toward human threats (i.e. terrorists) were most likely to survive and propagate these&nbsp;characteristics.</p>
+<p>On the other hand, throughout evolutionary history medical science was almost non-existent. &nbsp;Hence, there would be no survival value added by a tendency to focus on more likely health-related causes of death. We just weren&#8217;t designed for these times.</p>
+<h6>Anxiety Fatigue</h6>
+<p>One possible reason is anxiety fatigue. When an individual is subjected to a stimulus for an extended period of time, such as the aroma of a hospital room, the sound of a fan, or the endless nagging of the mother-in-law, their mind eventually just filters it out. Mortality risks such as heart disease and cancer extend farther back in time than even the existence of our current civilization. Our society now more or less accepts these unfortunate facts of life as another cost of doing business.Thus, they’re filtered out of our collective consciousness to some extent. On the other hand, consider the SARS virus scare a few years ago. Despite the absence of a single American fatality, the newness of this airborne illness allowed it to occupy headlines for weeks. Similarly, the Islamic terrorist menace is also a relatively new phenomenon to the US. Maybe threat fatigue for terrorism just hasn’t set in yet.</p>
+<h6>Economic Consequences</h6>
+<p>The economic consequences of terrorism would, at first thought, seem like a justification for the level of concern. There was a huge financial cost associated with the 9/11 attacks. Total related insurance claim payments are estimated at <a href="http://www.iii.org/page-not-found?attempt=yy_obj_data/binary/760752_1_0/September%252011%2520Anniversary.pdf">$32.5 billion</a>. However, there’s been no definitive proof that the attacks lead to a significant decline in GDP. <a href="http://web.archive.org/web/20061105182817/http://safespaces.com/SS.Security_htm/Security_Terrorism_Cost.htm">In fact, a GDP which had been falling due to recession in the quarter prior to 9/11 actually started growing again in the quarter following 9/11.</a></p>
+<p>It’s conventional wisdom that military spending is good for the economy. However, most macroeconomic models show that, in the long term, military spending diverts resources from productive uses, such as consumption and investment. This ultimately slows economic growth and reduces employment. So if one thinks they’re protecting our economy by taking trillions of dollars away from other productive uses to fight the so-called global war on terror, they should consider upgrading their abycuss to a calculator.</p>
+<h6>Nuclear Bombs</h6>
+<p>Another seemingly more justifiable reason for a magnified response to terrorism is the potential for a nuclear attack that could result in a far greater number of casualties than the typical terrorist attacks have to date. According to many experts on nuclear proliferation, the possibly insurmountable technical challenges of building or acquiring a thermo-nuclear weapon are enormous. <a href="http://www.iiss.org/en/about-s-us/press-s-room">Including the requirement that the weapon be portable, makes the likelihood of acquisition dramatically more remote. </a>However, there is a real threat that highly enriched uranium could be aquired from a former Soviet state and used to make a crude bomb. This is a serious risk and needs to be addressed by either securing or downgrading the 1000 tons of yellowcake remaining within Russia and her neighbors. The government currently spends about a billion dollars on this effort annually. Compare this to the two billion we spend in Iraq every week and one might assume we have a bonobo setting our national security priorities in exchange for bananas.</p>
+<h6>Human Psychology</h6>
+<p>Finally, the psychological makeup of our species could also be a contributing factor to this risk amplification. Just look at the plot structure of a work of fiction. The vast majority of conflicts are between a human protagonist and a human antagonist.We seem to maintain an inherent attraction to interpersonal or, on a larger scale, inter-societal conflict. It’s only natural that this affinity translates to our media diet as well. <a href="http://web.archive.org/web/20110812194103/http://comminfo.rutgers.edu/jri/workingpapers/agendasettingsars2003.html">Many studies have shown that the media sets the public policy agenda.</a>So, the point is that interpersonal and societal conflicts like that between Western civilization and Muslim extremists are simply better able to maintain our attention than conflicts between man and complex, abstract medical threats.</p>
+<p>In addition, sociologists and psychologists have determined that society amplifies the danger of risks imposed upon them, such as terrorism. Conversely, society finds risks resulting from voluntary behavior, such as car accidents, more acceptable.</p>
+<p style="text-align: center;"><a href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Risk_Amplification.jpg"><img data-attachment-id="666" data-permalink="/government-spending/false-sense-of-insecurity/attachment/risk_amplification/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Risk_Amplification.jpg?fit=640%2C473&amp;ssl=1" data-orig-size="640,473" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Social Amplification of Risks" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Risk_Amplification.jpg?fit=300%2C222&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Risk_Amplification.jpg?fit=640%2C473&amp;ssl=1" class="aligncenter size-full wp-image-666" title="Social Amplification of Risks" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Risk_Amplification.jpg?resize=640%2C473" alt="Flow Chart Representing Social Amplification of Risks (Challenges to the Quantification of the Risks of Terrorism)" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Risk_Amplification.jpg?w=640&amp;ssl=1 640w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Risk_Amplification.jpg?resize=300%2C222&amp;ssl=1 300w" sizes="(max-width: 640px) 100vw, 640px" data-recalc-dims="1" /></a></p>
+<p style="text-align: left; padding-left: 30px;"><em>&nbsp;Graph Source:&nbsp;<a href="http://www.federationofscientists.org/">http://www.federationofscientists.org/</a></em></p>
+<h6><a href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg"><img data-attachment-id="754" data-permalink="/government-spending/false-sense-of-insecurity/attachment/594-1/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?fit=850%2C2120&amp;ssl=1" data-orig-size="850,2120" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Cancer and Terrorism Deaths and Spending" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?fit=120%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?fit=850%2C2120&amp;ssl=1" class="aligncenter size-full wp-image-754" title="Cancer and Terrorism Deaths and Spending" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?resize=850%2C2120" alt="Graph Illustrating Cancer and Terrorism Deaths and Spending (by Tony Piro)" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?w=850&amp;ssl=1 850w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?resize=120%2C300&amp;ssl=1 120w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?resize=768%2C1915&amp;ssl=1 768w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/594-1.jpg?resize=672%2C1676&amp;ssl=1 672w" sizes="(max-width: 850px) 100vw, 850px" data-recalc-dims="1" /></a></h6>
+<p style="text-align: left; padding-left: 30px;"><em>&nbsp;Graph Source: <a href="http://www.federationofscientists.org/" target="_blank">http://calamitiesofnature.com/</a></em></p>
+<p style="text-align: left; padding-left: 30px;">
+<p>The post <a rel="nofollow" href="/government-spending/false-sense-of-insecurity/">Anti-Terrorism Spending 50,000 Times More Than on Any Other Cause of Death</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3" length="8981398" type="audio/mpeg" />
+		<itunes:subtitle>The US spends more than $500 million per victim on anti-terrorism efforts.  However, cancer research spending is only $10,000 per victim.  Evolutionary psychology may offer an explanation for this irrational threat amplification.</itunes:subtitle>
+		<itunes:summary>The US spends more than $500 million per victim on anti-terrorism efforts.  However, cancer research spending is only $10,000 per victim.  Evolutionary psychology may offer an explanation for this irrational threat amplification.</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>12:11</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">4</post-id>		<itunes:order>2</itunes:order>
+	</item>
+	<item>
+		<title>Financial Sector Costs Us More than Any Other Sector In Economy</title>
+		<link>/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/</link>
+		<pubDate>Mon, 11 Apr 2016 22:24:00 +0000</pubDate>
+		<guid isPermaLink="false">/wordpress/?p=12</guid>
+		<comments>/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/#comments</comments>
+		<wfw:commentRss>/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		<category><![CDATA[Corporate Welfare]]></category>
+		<category><![CDATA[Federal Reserve]]></category>
+		<category><![CDATA[Financial Sector]]></category>
+		<category><![CDATA[GDP]]></category>
+		<category><![CDATA[$2 trillion]]></category>
+		<category><![CDATA[aig]]></category>
+		<category><![CDATA[auction]]></category>
+		<category><![CDATA[banks]]></category>
+		<category><![CDATA[billion]]></category>
+		<category><![CDATA[cost]]></category>
+		<category><![CDATA[crisis]]></category>
+		<category><![CDATA[economic crisis]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[election]]></category>
+		<category><![CDATA[feds]]></category>
+		<category><![CDATA[financial contribution]]></category>
+		<category><![CDATA[financial industry gdp]]></category>
+		<category><![CDATA[financial institution]]></category>
+		<category><![CDATA[financial sector]]></category>
+		<category><![CDATA[gdp share]]></category>
+		<category><![CDATA[goldman-sachs]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[industry]]></category>
+		<category><![CDATA[lobby]]></category>
+		<category><![CDATA[lobbying]]></category>
+		<category><![CDATA[merril-lynch]]></category>
+		<category><![CDATA[paper shuffling]]></category>
+		<category><![CDATA[political investment]]></category>
+		<category><![CDATA[sector]]></category>
+		<category><![CDATA[trillion]]></category>
+		<category><![CDATA[u.s.]]></category>
+		<category><![CDATA[united states]]></category>
+		<category><![CDATA[wall st]]></category>
+		<category><![CDATA[wall street]]></category>
+		<category><![CDATA[where your tax dollars are going]]></category>
+		<description>&lt;p&gt;The financial sector receives more of the average paycheck than any other sector of the economy.  Its share of the economy totals $2 trillion dollars. In 1985, the financial sector earned less than 16% of domestic corporate profits.  Today, it’s over 40%. In the 1960s, finance and insurance accounted for only 4% of GDP, whereas in 2007 finance and insurance accounted for […]&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/&quot;&gt;Financial Sector Costs Us More than Any Other Sector In Economy&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div dir="ltr" style="text-align: left;">
+<p>The financial sector receives more of the average paycheck than any other sector of the economy. &nbsp;Its share of the economy totals $2 trillion dollars.</p>
+<p>In&nbsp;1985, the financial sector earned less than 16% of domestic corporate profits. &nbsp;Today, it&#8217;s over&nbsp;40%.</p>
+<p>In the 1960s, finance and insurance accounted for only <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2009%2F03%2F27%2Fopinion%2F27krugman.html%3F_r%3D5&amp;REFUSE_COOKIE_ERROR=SHOW_ERROR">4%</a> of GDP, whereas in 2007 finance and insurance accounted for <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2009%2F03%2F27%2Fopinion%2F27krugman.html%3F_r%3D5&amp;REFUSE_COOKIE_ERROR=SHOW_ERROR">8%</a> of GDP.</p>
+<p>The purpose of the financial services industry is basically to transfer money from savers to entrepreneurs. It primarily consists of using a computer to shift money from one bank account to another. This service requires virtually no physical labor and very few material resources.</p>
+<p>Yet, this relatively simple service cost our country more than <a href="http://web.archive.org/web/20090313222046/http://www.workforce.az.gov/admin/uploadedPublications/2100_gdp.xls">$2 trillion</a> in 2007. That was more than the country spent on health care, construction, food, utilities or&nbsp;transportation.</p>
+<div>
+<p><a href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg"><img data-attachment-id="187" data-permalink="/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/attachment/gdp-by-indusrty-graph/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?fit=995%2C640&amp;ssl=1" data-orig-size="995,640" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Mike&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1239479539&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="US GDP by Indusrty Graph" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?fit=300%2C193&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?fit=995%2C640&amp;ssl=1" class="size-full wp-image-187 aligncenter" title="US GDP by Indusrty Graph" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?resize=627%2C403" alt="United States GDP by Industry Graph 2007 (Infographic)" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?w=995&amp;ssl=1 995w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?resize=300%2C193&amp;ssl=1 300w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?resize=768%2C494&amp;ssl=1 768w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/GDP-by-Indusrty-Graph.jpg?resize=672%2C432&amp;ssl=1 672w" sizes="(max-width: 627px) 100vw, 627px" data-recalc-dims="1" /></a><br />
+How can&nbsp;financial paper shuffling to cost us more than the construction of the skyscraper where the paper shuffling will then take place? How does this industry get us to spend such an inordinate amount of money on their services?</p>
+<p>The free market system automatically optimizes resource allocation to satisfy society&#8217;s wants and needs. The current problems in our financial sector can be seen as our economy&#8217;s attempt to reduce the excessive size of the financial sector and redirect those resources to more productive purposes. Yet, the government is doing everything in its power to counteract this process. The feds have taken or committed to take over <a href="http://web.archive.org/web/20090505164441/http://www.bloomberg.com:80/apps/news?pid=20601087%26sid=armOzfkwtCA4%26refer=home">$12 trillion</a> from the other sectors and given them to financial institution to maintain this imbalance. This works out to <a href="http://ww4.totalnoid.com/?kwrf=https%3A%2F%2Fthinkbynumbers.org">$42,105</a> for every man, woman and child in the U.S.</p>
+<p>The financial sector is at a historic high as share of the overall economy.</p>
+<p style="text-align: center;"><a href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/NYUGDPFinancialShare.jpg"><img data-attachment-id="674" data-permalink="/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/attachment/nyugdpfinancialshare/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/NYUGDPFinancialShare.jpg?fit=1152%2C838&amp;ssl=1" data-orig-size="1152,838" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Financial Sector Share of GDP Over Time" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/NYUGDPFinancialShare.jpg?fit=300%2C218&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2009/04/NYUGDPFinancialShare.jpg?fit=1024%2C745&amp;ssl=1" class="aligncenter size-large wp-image-674" title="Financial Sector Share of GDP Over Time" src="https://i0.wp.com/web.archive.org/web/20130123214607/https://thinkbynumbers.org/wp-content/uploads/2009/04/NYUGDPFinancialShare-1024x744.jpg?resize=620%2C450" alt="Graph of Financial Industry Sector Share of US GDP Over Time (Since 1860)" data-recalc-dims="1" /></a></p>
+<p style="padding-left: 30px;"><em>Graph Source:&nbsp;<a href="https://en.wikipedia.org/wiki/File:NYUGDPFinancialShare.jpg" target="_blank">https://en.wikipedia.org/wiki/File:NYUGDPFinancialShare.jpg</a></em></p>
+<p>Note another year in history when it peaked, 1929. &nbsp;At that time, many of the country&#8217;s resources were shifted to this low-employee, unproductive sector. &nbsp;It was followed by a decade of unemployment and economic stagnation. &nbsp;This would suggest that it may be unwise for the government to fuel this bloating if they wish to avoid another lost decade.</p>
+<p>This begs the question &#8220;Why is government taking money from the paychecks of working people and giving it to AIG and Goldman-Sachs?&#8221; They claim that their failure will result in the collapse of our entire economic system. &nbsp;This would, of course, eventually lead to a dystopian Mad Max scenario. However, the presented choice between government bailout and complete financial collapse is a false dichotomy. In reality, if the government allowed these irresponsible actors to fail, they would enter a bankruptcy process and be sold off to more smaller, more responsible companies.</p>
+<p>Correlation doesn&#8217;t necessarily imply causation. However, the reason the government is so set on using tax dollars to prop up these insolvent companies (as opposed to taking the bankruptcy route) might be related to campaign contributions. For instance, AIG executives gave more than <a href="http://abcnews.go.com/Politics/story?id=7110145">$630,000</a> during the 2008 political cycle even as the company was falling apart. President Obama collected a total of <a href="http://abcnews.go.com/Politics/story?id=7110145&amp;page=1">$130,000</a> from AIG in 2008, while McCain accepted a total of <a href="http://abcnews.go.com/Politics/story?id=7110145&amp;page=1">$59,499</a>. Last year AIG and its subsidiaries spent about <a href="http://www.opensecrets.org/news/2009/03/before-the-fall-aig-payouts-we/">$9.7 million</a> on federal lobbying, or about $53,000 for every day Congress was in session in 2008. Additionally, Obama&#8217;s top presidential campaign contributor was <a href="http://www.huffingtonpost.com/earl-ofari-hutchinson/mccain-and-obamas-wall-st_b_129872.html">Goldman-Sachs</a>. McCain&#8217;s was Merril-Lynch.</p>
+<p>For all the awful investments AIG made, this political investment has produced a <a href="http://www.cnn.com/2009/POLITICS/03/16/AIG.bonuses/">1730000%</a> rate of return.</p>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/government-spending/corporate-welfare/financial-sector-costs-us-more-than-all/">Financial Sector Costs Us More than Any Other Sector In Economy</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>The financial sector receives more of the average paycheck than any other sector of the economy.  Its share of the economy totals $2 trillion dollars. In 1985, the financial sector earned less than 16% of domestic corporate profits.  Today,</itunes:subtitle>
+		<itunes:summary>The financial sector receives more of the average paycheck than any other sector of the economy.  Its share of the economy totals $2 trillion dollars. In 1985, the financial sector earned less than 16% of domestic corporate profits.  Today, it’s over 40%. In the 1960s, finance and insurance accounted for only 4% of GDP, whereas in 2007 finance and insurance accounted for […]</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+<post-id xmlns="com-wordpress:feed-additions:1">12</post-id>		<itunes:order>3</itunes:order>
+	</item>
+	<item>
+		<title>Why Think by Numbers?</title>
+		<link>/empiricism-2/why-think-by-numbers/</link>
+		<pubDate>Tue, 25 Jun 2013 18:34:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=8476</guid>
+		<comments>/empiricism-2/why-think-by-numbers/#comments</comments>
+		<wfw:commentRss>/empiricism-2/why-think-by-numbers/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		<category><![CDATA[Empiricism]]></category>
+		<description>&lt;p&gt;A world without disease, starvation, violence, and suffering is the ultimate destination of humanity. Getting there will require voters to base their decisions on statistical cost-benefit analyses instead of irrational emotions. The power of numbers can make utopia a reality.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/empiricism-2/why-think-by-numbers/&quot;&gt;Why Think by Numbers?&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h3>Numbers cannot lie.</h3>
+<p>A world without disease, starvation, violence, and suffering is the ultimate destination of humanity. Getting there will require voters to base their decisions on statistical cost-benefit analyses instead of irrational emotions. The power of numbers can make utopia a reality.</p>
+<p>The Others</p>
+<p>Your mind has been infiltrated. Your logical and conscious prefrontal cortex is ever thwarted by powerful saboteurs hiding within the dark realm of your subconscious. The usurpers of your decision-making processes are none other than the ignorant reptilian brain stem and emotional limbic system. They torture you with sadness for the slightest defiance. They drug you with narcotic neurochemicals to reward your obedience. This diabolical duo is responsible for all forms of irrational human behavior, such as racism, war, and marriage. Your only defense against these illogical bastards is to base your decisions on cold, hard numbers. For unlike these very flawed and mischievous components of our brains, <strong>numbers cannot lie.</strong></p>
+<h3>Three Brains are a Crowd</h3>
+<p>You have a total of three brains: the reptilian brain, the paleo-mammalian brain, and the rational brain. In a sense, a human being is what you might get nine months after a romantic evening between a lizard, a dog, and Mr. Spock.</p>
+<h3><a href="http://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/erlauer2003_fig1.1.gif"><img title="The Triune Brain" src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/erlauer2003_fig1.1.gif?resize=490%2C278" alt="Triune Brain - Brainstem, Limbic System, Neocortex" data-recalc-dims="1" /></a></h3>
+<p><em>Diagram Source: <a href="http://www.ascd.org/publications/books/101269/chapters/A-Walk-Through-the-Brain.aspx" target="_blank">http://www.ascd.org/publications/books/101269/chapters/A-Walk-Through-the-Brain.aspx</a></em></p>
+<ul>
+<li><strong>Brain 1: The Lizard &#8211; </strong>The reptilian part of us, the <strong>brain stem</strong>, deals with the basic survival, instinctive, and reproductive functions.  These functions are otherwise known as the four F&#8217;s:
+<ul>
+<li>fight</li>
+<li>flight</li>
+<li>feeding</li>
+<li>intercourse</li>
+</ul>
+</li>
+</ul>
+<p>That’s all that crocodiles really do with their tiny, pea-sized brains.  This republican, I mean reptilian brain is “rigid, obsessive, compulsive, ritualistic and paranoid”. It is prone to repetitive, programmed behaviors and is incapable of learning from mistakes.  The reptile brain&#8217;s only saving grace is that it is responsible for all core tasks required for self-preservation.</p>
+<ul>
+<li><strong>Brain 2: The Dog</strong><strong> </strong>– The second evolutionary stratum consists of the ancient paleo-mammalian <strong>limbic system</strong>. The limbic system adds feelings to instincts.  It morally classifies everything as either “good or bad”. The value in this portion of the brain is that it can generates more nuanced, varied and flexible behaviors than can the basic brain stem.</li>
+<li><strong>Brain 3: Mr. Spock</strong> – The characteristically human layer is the <strong>neocortex</strong>. This is the realm of reason and logic. It is this part of our brains that has given mankind the great gifts of philosophy, mathematics, science, and man&#8217;s crowning achievement, the Snuggie™.</li>
+</ul>
+<p>So within our craniums, we have an ongoing battle between the vicious, impulsive lizard, the slobbering dog digging a hole in your couch to china for no reason, and Mr. Spock struggling to determine the fate of our planet. Wouldn&#8217;t it be best to leave this job solely to Spock?</p>
+<div>
+<dl id="attachment_550">
+<dt><a href="http://fineartamerica.com/featured/triune-brain-michael-stancato.html"><img title="The Triune Brain" src="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/The-Triune-Brain-Final-web.jpg?resize=501%2C504" alt="A Lizard, a Dog, and Mr. Spock Deciding the World's Fate" data-recalc-dims="1" /></a></dt>
+<dd>Triune Brain Painting &#8211; Michael Stancato</dd>
+</dl>
+</div>
+<div>
+<h3>Why Our Brains Don&#8217;t Work Rite</h3>
+<p>So, we&#8217;ve got this top of the line neocortex which is perfectly capable of rational thought.  Why then, do we behave so irrationally as a species?  The problem is that the rational neocortex is enslaved by the lower brains.  It is not free to examine all available information in it&#8217;s quest to attain objective truth.  Instead, it frequently becomes a kind of a slimy neuro-lawyer defending and rationalizing the preconceived notions of our emotional limbic systems. Let&#8217;s break down the processing of new infomation:</p>
+<ol>
+<li>Your sensory organs are exposed to a new piece of information in the form of stimuli.</li>
+<li>This sensory stimuli is neurally transmitted to the <strong>limbic system</strong>.</li>
+<li>The limbic system decides if this information is agreeable (true) or disagreeable (false).</li>
+<li>The limbic system attaches <strong>positive</strong> emotions to <strong>agreeable</strong> information or <strong>negative</strong> emotions to <strong>disagreeable</strong> information.</li>
+<li>That <strong>feeling</strong> gives that thought a sense of conviction or <strong>truth</strong>.</li>
+<li>This information/emotion combination is what we call a <strong>belief</strong>.</li>
+<li>At that point, the <strong>neocortex</strong> is employed to blindly protect and defend this belief.</li>
+<li>The neocortex puts forth all available evidence which supports this belief.</li>
+<li>The neocortex figures out ways to discount or filter out any information which contradicts this belief.</li>
+</ol>
+<p>The limbic system, this primitive brain that can neither read nor write, provides us with the <em>feeling </em>of what is real, true, and important using its own often irrational and illogical criteria. It therefore poses great danger to all of human civilization.</p>
+<h3>Why No One is Reading this Sentence</h3>
+<p>Many of the hostile commenters on my site have expressed their own theories as to why this is.  However, I feel that the reason for this can be explained by a concept known as &#8220;The Caveman Principle&#8221;.  This principle states that our brains have generally evolved very little since the time of the caveman.</p>
+<p>The human brain has been around for about <a href="http://www.compassionheart.com/evolutionofthebrain.html">200,000</a> years.  The Stone Age only ended about <a href="http://web.archive.org/web/20120616145636/http://www.valdostamuseum.org:80/hamsmith/iceciv.html">6,000</a> years ago.  So, ninety-nine percent of our ancestors lived in environments characterized by starvation and a general scarcity of resources. Evolution crawls at a snail&#8217;s pace, so we still have these caveman brains optimized for an environment millennia away from our own. So our wants, dreams, personalities, and desires have not changed much in 200,000 years.</p>
+<p>So, like, what were cavemen into?  Surviving long enough to successfully replicate one&#8217;s genes in an unstable environment requires brains with very specific interests.  Hence, the type of brain that survived to reproductive age typically paid a great deal of attention to these questions:</p>
+<ul>
+<li>Can I eat it?</li>
+<li>Will it eat me?</li>
+<li>Can I mate with it?</li>
+<li>Will it mate with me?</li>
+</ul>
+<p>Note these topics of interest, which are suspiciously <strong>absent</strong> from this list:</p>
+<ul>
+<li>Statistics</li>
+<li>Economics</li>
+<li>Formal Cost-Benefit-Analysis</li>
+</ul>
+<p>An interest in these topics was pretty much worthless to primitive humans struggling to survive in ancient Africa.  This is especially true since math and written language didn&#8217;t even exist at the time.  Conventional evolutionary theory states that traits that offer no survival or reproductive advantage will not persist in a species. Hence, these subjects are as fascinating to us as Al Gore recounting a riveting experience of watching paint dry.</p>
+<p>Evolution has made these subjects brutally boring to most of us. So that, my non-existent reader, is why you are not reading this sentence, and are instead viewing one of the many fine pornographic websites that the prestigious internet has to offer.</p>
+<h3>Let&#8217;s Get Ignorant!</h3>
+<p><em>&#8220;It is a capital mistake to theorize before one has data, fool.&#8221;  &#8211; Mr. T</em></p>
+<p>A general disinterest in economics and statistics wouldn&#8217;t be a big deal if we lived in a dictatorship.  However, in our political system, government action is to some degree a product of public opinion.  Thomas Jefferson once said, &#8220;An informed citizenry is the bulwark of a democracy.&#8221;  Based on this quote, I think it&#8217;s safe to say that our democracy is currently bulwark-free.  The fact that I don&#8217;t know what a bulwark is further proves that we do not have an informed citizenry.</p>
+<p>The only way to understand the important details of complex and large-scale societal issues is through the use of statistics and economics. Additionally, formal cost-benefit analysis is the only way to make optimal decisions on these complicated issues.  Unfortunately, most of us don&#8217;t even know what a cost-benefit analysis is, let alone have a firm grasp of the statistical and economic data needed to perform such analyses.</p>
+<p>Here&#8217;s a list of <strong>what the average voter (such as myself) doesn&#8217;t know:</strong></p>
+<ul>
+<li>How much their government spends on:
+<ul>
+<li><a href="http://web.archive.org/web/20160815162644/http://worldpublicopinion.org/pipa/articles/brunitedstatescanadara/670.php?lb=brusc&amp;pnt=670&amp;nid=&amp;id=" target="_blank">foreign aid</a>
+<ul>
+<li>Asked to estimate how much of the federal budget goes to foreign aid the median estimate provided by survey respondents is 25%. Asked how much they thought would be an &#8220;appropriate&#8221; percentage the median response is 10%.  In reality, a mere 1% of the federal budget goes to foreign aid.</li>
+</ul>
+</li>
+<li><a href="http://www.pewresearch.org/daily-number/knowledge-deficit/" target="_blank">wars</a>
+<ul>
+<li>Americans were asked which activities the U.S. government currently spends the most money on: national defense, education, Medicare or interest on the national debt? Just 39% of Americans were able to correctly identify national defense.</li>
+</ul>
+</li>
+<li><a href="http://www.pewresearch.org/daily-number/knowledge-deficit/" target="_blank">education</a></li>
+<li><a href="http://www.pewresearch.org/daily-number/knowledge-deficit/" target="_blank">Medicare</a></li>
+<li><a href="http://www.pewresearch.org/daily-number/knowledge-deficit/" target="_blank">interest on the debt</a></li>
+</ul>
+</li>
+<li>How many <a href="http://www.people-press.org/2008/03/12/awareness-of-iraq-war-fatalities-plummets/" target="_blank">troops </a>have been killed in our various and sundry wars
+<ul>
+<li>just 28% of adults are able to say that approximately 4,000 Americans have died in the Iraq war.</li>
+</ul>
+</li>
+<li>How many <a href="http://www.nbcnews.com/id/17310383/" target="_blank">civilians</a> have been killed in our various and sundry wars
+<ul>
+<li>Iraqi civilian deaths are estimated at more than 54,000 and could be much higher; some unofficial estimates range into the hundreds of thousands.  The estimate provided by the average survey respondant as 9,890.</li>
+</ul>
+</li>
+<li>How much they pay in <a href="http://www.cbsnews.com/news/poll-reveals-most-americans-dont-know-they-got-a-tax-cut/" target="_blank">taxes</a></li>
+<li>What the rate of <a href="http://kff.org/other/poll-finding/survey-of-americans-and-economists-on-the/" target="_blank">inflation </a>is</li>
+<li>What the <a href="http://kff.org/other/poll-finding/survey-of-americans-and-economists-on-the/" target="_blank">unemployment </a>rate is</li>
+<li>How much <a href="http://kff.org/other/poll-finding/survey-of-americans-and-economists-on-the/" target="_blank">profit</a> corporations make</li>
+<li>What the <a href="http://www.people-press.org/2009/04/02/public-knows-basic-facts-about-financial-crisis/" target="_blank">Dow Jones Average</a> is</li>
+<li>2 years after the terrorist attacks on 9/11, <a href="http://usatoday30.usatoday.com/news/washington/2003-09-06-poll-iraq_x.htm" target="_blank">70%</a> of Americans believed that Saddam Hussein had perpetrated the attacks</li>
+<li>How wealth is <a href="http://www.people.hbs.edu/mnorton/norton%20ariely%20in%20press.pdf" target="_blank">distributed </a>among classes</li>
+<li>only <a href="https://www.amazon.com/exec/obidos/ASIN/0465077714/crooksandliar-20/ref=nosim" target="_blank">2 out of 5</a> voters can name all three branches of the federal government.</li>
+<li>only <a href="https://www.amazon.com/exec/obidos/ASIN/0465077714/crooksandliar-20/ref=nosim" target="_blank">1 in 5</a> know that there are 100 federal senators.</li>
+</ul>
+<p>Without factual data for our neocortices to utilize in doing a cost-benefit comparison of our electoral choices, our stupid brain stems and emotional limbic systems get to choose our candidates.</p>
+<p>The US government is the most powerful man-made entity in the history of the world. Allowing an uninformed public control of this colossus is like giving a baby a nuclear bomb. My dream is that one day we might upgrade our democracy to the equivalent of a toddler with a nuclear bomb.</p>
+<h2>Keep In the Vote!</h2>
+<p><em>&#8220;If a nation expects to be ignorant and free, in a state of civilization, it expects what never was and never will be.&#8221; &#8212; Pee Wee Herman</em></p>
+<p>Elections are won and lost not primarily on “the issues” but on the values and emotions of the electorate, including the “gut feelings” that summarize much of what voters think and feel about a candidate or party.</p>
+<p>Ideally, the goal in selecting any candidate is to identify the individual most likely to maximize the overall well-being of the citizenry. If our <strong>neocortices were in charge</strong>, politicians would be selected solely based on three primary criteria.</p>
+<ul>
+<li><strong>INTELLIGENCE</strong>,<strong> </strong>which is necessary to effectively identify and execute policies that maximize the <em>general</em><em> </em>welfare of the populace.  The best way to measure intelligence would be for the candidates to take psychometric tests and make their scores public.</li>
+<li><strong>KNOWLEDGE</strong> &#8211; An immense level of knowledge over a wide range of issues (economics, history, science, etc.) is necessary to identify and properly execute optimal public policies.  This could be evaluated through standardized testing of the candidates.</li>
+<li><strong>RECORD</strong> &#8211; The candidate&#8217;s record proves whether or not they <em>actually</em> support policies that better the general welfare of the citizenry.  It also indicates whether or not the candidate possesses the integrity necessary to resist the influence of special interests.   These are small but powerful groups who would impose their own selfish policies at the expense of the greater society.</li>
+</ul>
+<p>Unfortunately, I and most other voters have an informational vacuum between our ears with regard to this data for most candidates. Hence, our neocortices are unable to perform a rational calculation. This leaves the decision up to our stupid brain stems and emotional limbic systems. These portions of our brains can&#8217;t follow arguments of any complexity. They stuff themselves with slogans and advertisements. They eschew fact for myth. They operate on biases and stereotypes. They privilege feeling over thinking. The result is a political system of daunting irrationality.</p>
+<p>The primary factors which do influence our electoral decisions include:</p>
+<ul>
+<li><strong>LOOKS &#8211;</strong><strong> </strong><a href="http://medicalxpress.com/news/2007-10-election-outcomes-snap-judgments-sufficient.html">70%</a> of elections are won by the candidate with the prettiest face. Another <a href="http://pcl.stanford.edu/research/2008/bailenson-facial-similarity.pdf">study</a> illustrates voter preference for candidates that possess facial features similar to their own.</li>
+<li><strong>LOVELIFE</strong><strong> </strong>&#8211; Although infidelity may say something about a politician&#8217;s character, it has no direct impact of the lives of the voters.  My theory is that throughout evolutionary history, man tended to live in small groups.  Hence, the chosen leader was likely to come into direct contact with the voter&#8217;s spouse.  Powerful individuals tend to elicit a greater ability to seduce spouses.  Therefore, prehistoric voters who chose faithful leaders were less likely to have their spouse impregnated by this leader.  This would leave their spouse’s womb available for their own progeny.  Ultimately, their characteristic appreciation of fidelity would be passed to their offspring.</li>
+<li><strong>ELECTABILITY &#8211;</strong><strong> </strong>Many people choose not to vote for a third party or independent candidate that they prefer because they&#8217;re unlikely to win. Their reasoning is that they would be throwing away their chance to help elect the lesser of two evils. A survey of college students shows that 79 percent of the students &#8220;felt that their vote makes a difference.&#8221; In reality, there is only <a href="https://mises.org/library/why-vote">a one in 60 million</a> chance of a randomly selected voter affecting the presidential election.  It much more likely that that voter will die in a car accident (1 in 1 million) driving to the polls.  Hence, it&#8217;s irrational to believe that your vote is any more than a one data point in an opinion poll.</li>
+<li><strong>TRIBAL LOYALTY </strong>&#8211; Blind loyalty to political parties often distorts decision-making.  Many would claim that their loyalty to a party&#8217;s candidate is a result of their agreement with that candidate&#8217;s policies. However, for a lot of partisans, the causality is reversed.   Often individuals will modify their support for policies to achieve agreement with their candidate of the party to which they are loyal. For instance, upon the election of Barack Obama, a lot of republicans suddenly started complaining about the nation’s budget deficit. The odd thing is that, when <a href="https://en.wikipedia.org/wiki/George_W._Bush" target="_blank">George W. Bush</a> was president, these same republicans were generally silent on the issue, despite the fact that Mr. Bush ran up <a href="http://mediamatters.org/research/2011/08/25/right-wing-media-ignore-bush-effect-on-debt-to/183598">$4 trillion</a> in debt. At the same time, many democrats suddenly stopped complaining about the wars in Iraq or Afghanistan upon Obama&#8217;s election.  It&#8217;s still unclear how having a democrat for a commander in chief can suddenly make a war morally justifiable.</li>
+<li><strong>VOTER&#8217;S MOOD &#8211; </strong>An <a href="http://www.pnas.org/content/107/29/12804.full">experiment </a>indicates that being in a bad mood while voting makes you more likely to vote out incumbents.</li>
+<li><strong>FLAGS &#8211; </strong>The mere appearance of the <a href="http://web.archive.org/web/20120128102003/http://www.cornellpsych.org/people/travis/materials/Carter-etal-Flag%202008%20Election.pdf" shape="rect">American flag</a> in a voting booth makes voters more likely to vote Republican.</li>
+</ul>
+<p>We&#8217;re damn lucky that CEO&#8217;s aren&#8217;t elected by popular vote.  If the public got to decide who ran Microsoft, I would be typing this sentence on a typewriter.</p>
+<h2>How to Beat Out Your Brains</h2>
+<p>Utopia, a world without disease, starvation, violence, and suffering, is the ultimate goal and destination of society. The thinking, rational mind has the power to make utopia a reality through innovation.  We&#8217;ve had a few hundred thousand years to get there, yet it remains a distant dream. Irrational or uniformed decisions are the primary reason why humanity fails to reach its true potential.</p>
+<p>In a democracy and a free enterprise economy, voters and consumers are the deciders. Our prehistoric brains decide to waste society&#8217;s resources on wars and short-term gratification through erroneous decision-making. They are a drain on the economy, public welfare, the environment, and national security. Resources are misallocated, good ideas are rejected, and bad ideas are accepted. Money is wasted. Life and health are put in jeopardy.</p>
+<p>Irrational beliefs are sand in the gears of the entire economy.  It’s virtually certain that your life will be shorter and less happy as a result of emotion-based decisions.</p>
+<p>The only way to break the shackles put on our neocortices by its evil stepsisters is through the use of numbers.  When our rational mind has cold, hard statistics to support its arguments, it&#8217;s much more likely to overcome the emotion-based arguments of the primitive brains.  Providing your neocortex with this ammunition is the purpose of this site.  Using numbers we can overthrow this idiocracy and ignite a revolution of reason.  Suffering can be eliminated and utopia can be realized.</p>
+<p>It&#8217;s quite possible, and maybe probable, that I&#8217;m an idiot. I may be wrong about a lot of this stuff.  If so, I would be eternally grateful if you were to straighten me out in the comments section.</p>
+<p>Love,</p>
+<p>Mike P. Sinn</p>
+</div>
+<p>The post <a rel="nofollow" href="/empiricism-2/why-think-by-numbers/">Why Think by Numbers?</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3" length="15158172" type="audio/mpeg" />
+		<itunes:subtitle>A world without disease, starvation, violence, and suffering is the ultimate destination of humanity. Getting there will require voters to base their decisions on statistical cost-benefit analyses instead of irrational emotions.</itunes:subtitle>
+		<itunes:summary>A world without disease, starvation, violence, and suffering is the ultimate destination of humanity. Getting there will require voters to base their decisions on statistical cost-benefit analyses instead of irrational emotions. The power of numbers can make utopia a reality.</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>20:58</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">8476</post-id>		<itunes:order>4</itunes:order>
+	</item>
+	<item>
+		<title>Meet the Backers: Bankers Flip-Flop to Romney</title>
+		<link>/government-spending/meet-the-backers-bankers-flip-flop-to-romney/</link>
+		<pubDate>Mon, 02 Jan 2012 18:31:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2571</guid>
+		<comments>/government-spending/meet-the-backers-bankers-flip-flop-to-romney/#respond</comments>
+		<wfw:commentRss>/government-spending/meet-the-backers-bankers-flip-flop-to-romney/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Government Spending]]></category>
+		<category><![CDATA[bankers]]></category>
+		<category><![CDATA[banks]]></category>
+		<category><![CDATA[bush]]></category>
+		<category><![CDATA[citigroup]]></category>
+		<category><![CDATA[goldman-sachs]]></category>
+		<category><![CDATA[jpmorgan chase]]></category>
+		<category><![CDATA[morgan stanley]]></category>
+		<category><![CDATA[obama]]></category>
+		<category><![CDATA[romney]]></category>
+		<category><![CDATA[tarp]]></category>
+		<category><![CDATA[wall st]]></category>
+		<category><![CDATA[wall street]]></category>
+		<description>&lt;p&gt;The financial sector primarily backed Romney in 2012 after having supported Obama in 2008.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/government-spending/meet-the-backers-bankers-flip-flop-to-romney/&quot;&gt;Meet the Backers: Bankers Flip-Flop to Romney&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p>It looks like Romney may have inherited Obama’s pocket liners. Take a look at Obama’s 2008 campaign contributors and Romney’s 2012 contributors and a disturbing trend emerges: the financial sector, the very sector that borrowed and is still paying the U.S. back billions in TARP benefits, has scooted over to Romney after having supported Obama four years ago. <strong>TARP</strong> <em>What is TARP?</em> <a href="https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program">TARP</a> is the controversial Wall Street bailout program first put into place by President Bush in 2008. The program was made because banks knowingly provided risky <a href="https://en.wikipedia.org/wiki/Subprime_mortgage_crisis">subprime mortgages</a>, which borrowers were oftentimes unable to pay back. There was speculation that the entire U.S. financial system was in jeopardy as a result (whether or not this was the case, however, is a matter of debate). <img data-attachment-id="2572" data-permalink="/government-spending/meet-the-backers-bankers-flip-flop-to-romney/attachment/tarp/" data-orig-file="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2012/11/TARp.png?fit=180%2C108&amp;ssl=1" data-orig-size="180,108" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="TARp" data-image-description="" data-medium-file="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2012/11/TARp.png?fit=180%2C108&amp;ssl=1" data-large-file="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2012/11/TARp.png?fit=180%2C108&amp;ssl=1" class="alignleft size-full wp-image-2572" title="TARP Bailout Program" src="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2012/11/TARp.png?resize=180%2C108" alt="Cost of TARP program" data-recalc-dims="1" /> In any case, the U.S. government bought into many of the large banks that were struggling at the time, including AIG, Bank of America, Wells Fargo, and Citigroup. Romney has publicly <a href="http://www.politifact.com/truth-o-meter/statements/2012/may/18/mitt-romney/did-mitt-romney-flip-flop-tarp/">endorsed</a> the TARP program on numerous occasions, and Obama <a href="https://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act">saw it through</a> in his first term. TARP was risky, but in the end most of its participants bought back their assets. The Congressional Budget Office estimates that the program will ultimately cost the U.S. <a href="https://www.cbo.gov/publication/43138">$32 billion</a><em>.  </em> <strong> </strong> <strong>Campaign Contributions</strong> Interestingly, many of the companies that benefited from TARP made donations to the Obama campaign in 2008, despite the dire straits of their finances. Now, these banks have flip-flopped to greener pastures for the 2012 election. See the chart below:</p>
+<table border="1" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top" width="104"><strong>Company</strong></td>
+<td valign="top" width="90"><strong><a href="https://en.wikipedia.org/wiki/Troubled_Asset_Relief_Program">TARP Bailout $</a></strong></td>
+<td valign="top" width="113"><strong><a href="http://www.opensecrets.org/pres08/contrib.php?cycle=2008&amp;cid=N00009638">Obama Campaign 2008</a></strong></td>
+<td valign="top" width="136"><strong><a href="http://www.opensecrets.org/pres12/contrib.php?cycle=2012&amp;id=N00000286">Romney Campaign 2012</a></strong></td>
+</tr>
+<tr>
+<td valign="top" width="104">Goldman Sachs</td>
+<td valign="top" width="90">$10 billion</td>
+<td valign="top" width="113">$1,013,091</td>
+<td valign="top" width="136">$994,139</td>
+</tr>
+<tr>
+<td valign="top" width="104">JPMorgan Chase</td>
+<td valign="top" width="90">$25 billion</td>
+<td valign="top" width="113">$808,799</td>
+<td valign="top" width="136">$792,147</td>
+</tr>
+<tr>
+<td valign="top" width="104">Citigroup</td>
+<td valign="top" width="90">$45 billion</td>
+<td valign="top" width="113">$736,771</td>
+<td valign="top" width="136">$465,063</td>
+</tr>
+<tr>
+<td valign="top" width="104">Morgan Stanley</td>
+<td valign="top" width="90">$45 billion</td>
+<td valign="top" width="113">$512,232</td>
+<td valign="top" width="136">$827,255</td>
+</tr>
+</tbody>
+</table>
+<p>The post <a rel="nofollow" href="/government-spending/meet-the-backers-bankers-flip-flop-to-romney/">Meet the Backers: Bankers Flip-Flop to Romney</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/www.crowdsourcingutopia.com/tbn/podcast/tbn013_why_think_by_numbers.mp3" length="15158172" type="audio/mpeg" />
+		<itunes:subtitle>The financial sector primarily backed Romney in 2012 after having supported Obama in 2008.</itunes:subtitle>
+		<itunes:summary>The financial sector primarily backed Romney in 2012 after having supported Obama in 2008.</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>20:58</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2571</post-id>		<itunes:order>5</itunes:order>
+	</item>
+	<item>
+		<title>GOP Presidential Candidates&#8217; Budget Plans EXPOSED!!!</title>
+		<link>/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/</link>
+		<pubDate>Sun, 06 Nov 2011 18:52:13 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=1123</guid>
+		<comments>/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/#comments</comments>
+		<wfw:commentRss>/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		<category><![CDATA[Government Spending]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[budget]]></category>
+		<category><![CDATA[budget plan]]></category>
+		<category><![CDATA[conservative candidates election]]></category>
+		<category><![CDATA[cuts]]></category>
+		<category><![CDATA[dr. no]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[economy]]></category>
+		<category><![CDATA[Featured]]></category>
+		<category><![CDATA[gop]]></category>
+		<category><![CDATA[gop candidates]]></category>
+		<category><![CDATA[gop candidates for president]]></category>
+		<category><![CDATA[government taxes]]></category>
+		<category><![CDATA[herman cain]]></category>
+		<category><![CDATA[inflation]]></category>
+		<category><![CDATA[libertarian]]></category>
+		<category><![CDATA[mormobot]]></category>
+		<category><![CDATA[newt gingrich]]></category>
+		<category><![CDATA[party republican party]]></category>
+		<category><![CDATA[pizza dude]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[policy]]></category>
+		<category><![CDATA[president]]></category>
+		<category><![CDATA[presidential candidate]]></category>
+		<category><![CDATA[presidential candidates]]></category>
+		<category><![CDATA[record]]></category>
+		<category><![CDATA[rick perry]]></category>
+		<category><![CDATA[romney]]></category>
+		<category><![CDATA[ron paul]]></category>
+		<category><![CDATA[slider]]></category>
+		<category><![CDATA[spending]]></category>
+		<category><![CDATA[spending cut]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[taxpayer]]></category>
+		<category><![CDATA[the executioner]]></category>
+		<category><![CDATA[washington spending]]></category>
+		<description>&lt;p&gt;GOP Candidate Ron Paul has produced a detailed budget containing over $1 trillion in first-year reductions. Mitt Romney, Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of $20 billion a year.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/&quot;&gt;GOP Presidential Candidates’ Budget Plans EXPOSED!!!&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p style="text-align: left;">GOP Candidate Ron Paul has produced a detailed budget containing over <a href="http://www.campaignforliberty.org/the-issues/ron-paul-plan-to-restore-america/">$1 trillion</a> in first-year reductions. Mitt Romney,&nbsp;Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of <a href="https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effect_on_national_spending">$20 billion</a> a year.</p>
+<h2>Why Do the Candidates&#8217; Budget Plans Matter?</h2>
+<p>The only way that a president can&nbsp;noticeably&nbsp;affect the everyday lives of <em>all</em> Americans is by raising or lowing their standard of living. &nbsp;This is accomplished through their influence over the&nbsp;<em>real</em>&nbsp;tax rate. &nbsp;The <em>real</em>&nbsp;tax rate encompasses all normal forms of taxation, but it also includes a hidden tax known as&nbsp;<em>inflation</em>.</p>
+<p><em>All</em> of the Republican candidates have detailed plans for modifying the tax code. &nbsp;But saying you&#8217;re going to cut taxes without cutting spending correspondingly is sneaky.&nbsp;If you cut taxes, but maintain the same level of spending, then you have to either borrow or print the resulting budget shortfall. &nbsp;Borrowing the money is <em>worse</em> than paying with taxes immediately, not only because we&#8217;ll have to pay it back in a future when the government&#8217;s fiscal situation is predicted to be far worse than is today, but we&#8217;ll&nbsp;<em>also</em> have to pay a bunch of interest on top of that.</p>
+<p>The alternative to <em>borrowing</em> is to have the Federal Reserve fire up the printing press. &nbsp;The FED creates trillions of new dollars out of thin air and give it to the government through the purchase of treasury bonds. &nbsp;The effect of this is identical to the effect of criminal counterfeiting. &nbsp;If one doubles the money supply without a corresponding increase in GDP, the long-term result is that everyone&#8217;s paycheck can only buy half as much.</p>
+<p>So using the magical money machine to pay the bills just shifts the tax burden to an <strong>inflation tax</strong>. &nbsp;According to the Consumer Price Index, inflation is only about <a href="http://inflationdata.com/inflation/inflation_rate/currentinflation.asp">3.5%</a>. However, the real rate of inflation is currently almost&nbsp;<a href="http://web.archive.org/web/20140831034511/http://www.cnbc.com/id/42551209/Inflation_Actually_Near_10_Using_Older_Measure">10%</a>.&nbsp;The inflation tax, while largely ignored, hurts middle-class and low-income Americans the most. &nbsp;This is because inflation is flat tax which doesn&#8217;t tax the poor at a lower rate the way our progressive income tax system does. In fact, it&#8217;s somewhat regressive because the loss in value is delayed. &nbsp;When the new money is initially created, price inflation hasn&#8217;t set in yet. &nbsp;The first people who get to spend the new money are generally giant financial institutions. &nbsp;By the time it filters down the average Joe, it&#8217;s already lost a lot of it&#8217;s value.</p>
+<p>So the only way a president can change the&nbsp;<em>real&nbsp;</em>tax rate is by increasing or decreasing&nbsp;government <strong>spending</strong>. &nbsp;Therefor, the only thing about a candidate that&#8217;s&nbsp;guaranteed to&nbsp;significantly impact your life is not whether they think gay people should have the right to suffer through the institution of marriage. It&#8217;s not whether or not their religion&#8217;s doctrine includes magic underwear. &nbsp;It&#8217;s not even their tax plan. It is only the candidates&#8217; positions on <strong>spending</strong>&nbsp;that is&nbsp;guaranteed&nbsp;to directly affect your everyday life by increasing or decreasing your standard of living.</p>
+<h3>But does a president really have any control over spending?</h3>
+<p>After all, isn&#8217;t the level of spending set by the congress? &nbsp;This is <em>generally</em> true, but the president does have a number of very powerful means of controlling the budget:</p>
+<ol>
+<li>The Power to Appoint the&nbsp;Chairman&nbsp;of the Federal Reserve &#8211;&nbsp;This power enables the president to choose a chairman who would refuse to monetize the debt. &nbsp;In this case, the government wouldn&#8217;t be able to print new money out of thin air. Then congress couldn’t spend any more than tax revenues or borrowing permits.</li>
+<li>The Power to Veto &#8211; The president has the power to veto bills containing spending which he opposes. &nbsp;Congress would then have to override this veto with a two-thirds majority both houses.</li>
+</ol>
+<h1>The Candidates Compared</h1>
+<p>We know that President Obama stands shoulder to shoulder with our nation&#8217;s drunken sailors on spending, but what about the potential Republican nominees?</p>
+<p>&nbsp;</p>
+<h1 style="text-align: left;"><strong><a href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Mitt-Romney-Mormobot-5000-Android-Robot-speech2.jpg"><img data-attachment-id="1428" data-permalink="/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/attachment/mitt-romney-mormobot-5000-android-robot-speech-3/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Mitt-Romney-Mormobot-5000-Android-Robot-speech2.jpg?fit=376%2C474&amp;ssl=1" data-orig-size="376,474" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Mitt Romney Android Robot" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Mitt-Romney-Mormobot-5000-Android-Robot-speech2.jpg?fit=238%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Mitt-Romney-Mormobot-5000-Android-Robot-speech2.jpg?fit=376%2C474&amp;ssl=1" class="alignleft size-full wp-image-1428" title="Mitt Romney Android Robot " src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Mitt-Romney-Mormobot-5000-Android-Robot-speech2.jpg?resize=271%2C341" alt="Picture of Mitt Romney as an Android Robot " srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Mitt-Romney-Mormobot-5000-Android-Robot-speech2.jpg?w=376&amp;ssl=1 376w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Mitt-Romney-Mormobot-5000-Android-Robot-speech2.jpg?resize=238%2C300&amp;ssl=1 238w" sizes="(max-width: 271px) 100vw, 271px" data-recalc-dims="1" /></a>Mitt Romney</strong></h1>
+<h3>(a.k.a. Mormobot 5000)</h3>
+<h2>Specific Cuts = <strong>$20 Billion</strong></h2>
+<p>Romney wants to repeal Obamacare (which is very similar to Romneycare aside from the fact that Romneycare covered abortions). &nbsp;As stated before, this would save <a href="https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effect_on_national_spending">$20 billion</a> a year.</p>
+<p>Other than that, this is the maximum level of specificity from his&nbsp;<a href="http://web.archive.org/web/20121014220820/http://www.mittromney.com/issues/fiscal-responsibility">programmers</a>:</p>
+<p><em>&#8220;Mitt Romney will bring fiscal restraint to Washington by placing a hard cap on federal spending to force our government to live within its means and put an end to deficit spending.</em></p>
+<p><em>Mitt will also curb federal spending by repealing Obamacare, the federal takeover of health care that is scheduled to cost taxpayers one trillion dollars over the next ten years. He will also focus on eliminating wasteful government spending and right-sizing the federal government to save taxpayer dollars.&nbsp;00010101.&#8221;</em></p>
+<h3>The Romney Record on Spending</h3>
+<p>If we&#8217;ve learned anything from the vast disparity between George W. Bush&#8217;s fiscal rhetoric and <a href="https://www.mercatus.org/publication/spending-under-president-george-w-bush">fiscal record</a>, it&#8217;s that Romney&#8217;s gubernatorial&nbsp;record might be a better indicator of what we could expect from a Romney federal budget. Under Mr. Romney, state spending went from $22.3 billion to $28.1 billion, an annual increase of 6.5 percent. &nbsp;This is twice as much as the average 2.9% average statewide budget increase.</p>
+<p>So, if his record is any indication, we shouldn&#8217;t expect too much from a Romney presidency in the way of cutting the federal budget.</p>
+<p>&nbsp;</p>
+<p>Image Source (Below)</p>
+<h1 style="text-align: left;"><a href="http://thestrangestadventures.blogspot.com/2011/06/2012-candidates-ron-paul.html"><img data-attachment-id="1397" data-permalink="/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/attachment/ron-paul-dr-no-3/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/ron-paul-Dr-No.jpg?fit=1008%2C1440&amp;ssl=1" data-orig-size="1008,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ron Paul is Dr. No Comic Book Cover" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/ron-paul-Dr-No.jpg?fit=210%2C300&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/ron-paul-Dr-No.jpg?fit=1008%2C1440&amp;ssl=1" class="alignleft wp-image-1397 size-thumbnail" title="Ron Paul is Dr. No Comic Book Cover" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/ron-paul-Dr-No-150x150.jpg?resize=150%2C150" alt="Ron Paul is Dr. No Comic Book Cover" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/ron-paul-Dr-No.jpg?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/ron-paul-Dr-No.jpg?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/ron-paul-Dr-No.jpg?zoom=3&amp;resize=150%2C150&amp;ssl=1 450w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" /></a><strong>Ron Paul</strong></h1>
+<h3 style="text-align: left;">(a.k.a. Dr. No)</h3>
+<h2>Specific Cuts = <strong>$1 Trillion</strong></h2>
+<p>From his&nbsp;<a href="http://www.campaignforliberty.org/the-issues/ron-paul-plan-to-restore-america/" target="_blank">complete detailed and itemized budget</a>:</p>
+<p>&lt;</p>
+<p>p style=&#8221;text-align: justify;&#8221;><em>&#8220;The Plan to Restore America cuts $1 trillion in spending during the first year of Ron Paul’s presidency, eliminating five cabinet departments (Energy, HUD, Commerce, Interior, and Education). It&nbsp;abolishes&nbsp;the Transportation Security Administration and returns responsibility for security to private property owners. &nbsp;It also abolishes corporate subsidies, stops foreign aid, ends foreign wars, and returns most other spending to 2006 levels.</em></p>
+<h6><em>CUTTING GOVERNMENT WASTE:</em></h6>
+<p><em>Makes a 10% reduction in the federal workforce, slashes Congressional pay and perks, and curbs excessive federal travel. To stand with the American People, President Paul will take a salary of $39,336, approximately equal to the median personal income of the American worker.&#8221;</em></p>
+<p><a href="http://thestrangestadventures.blogspot.nl/2011/06/2012-candidates-ron-paul.html" target="_blank">Image Source</a> (Above)</p>
+<h3>The Paul Record on Spending</h3>
+<p>Paul’s congressional record consists of a long list of <a href="http://web.archive.org/web/20131024012212/http://www.clubforgrowth.org/whitepapers/?subsec=137&amp;id=921">votes </a>against federal spending.</p>
+<ul>
+<li>Voted against the Medicare Prescription Drug Act</li>
+<li>Voted nine out of nine times against raising his own pay</li>
+<li>Voted against No Child Left Behind</li>
+<li>Voted against the subsidy-laden 2002 Farm Bill</li>
+<li>Voted against the 1998 and 2005 Highway bill, only 1 of 9 to vote against the pork-filled 2005 bill</li>
+<li>Voted against the Stimulus, TARP, auto bailout, and Cash for Clunkers</li>
+<li>Voted against the Iraq War</li>
+</ul>
+<div style="padding-left: 30px;"><em>Note: I tried to write this objectively, so I seriously put a lot of effort into finding any votes by Ron Paul for significant spending increases. &nbsp;I hoped to find some to add an appearance of increased credibility to the&nbsp;piece but was&nbsp;&nbsp;unsuccessful. &nbsp;If you have any examples, please leave them in comments at the bottom.</em></div>
+<p>Let&#8217;s look at how Ron Paul&#8217;s plan would affect the individual taxpayer. &nbsp;He wants to cut <a href="http://www.campaignforliberty.org/the-issues/ron-paul-plan-to-restore-america/" target="_blank">$4,000,000,000,000</a> over his 4-year term. Divide this number by <a href="https://www.irs.gov/static_assets/error/404errorPage.html" target="_blank">142,449,000</a> federal income tax filers and that comes out to an average of&nbsp;<strong>$28,080.23 in savings for each taxpayer</strong>. &nbsp;Alternatively, the $4 trillion should be divided by 307,006,550, the total US population. This would produce a 4-year savings of $13,029.04 per person.</p>
+<p>&nbsp;</p>
+<h1 style="text-align: justify;"><strong style="text-align: -webkit-auto;"><a style="color: #ed1e24; text-decoration: underline;" href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/gingrich_newt_speech-bubble-fundamentally-profound.jpg"><img data-attachment-id="1489" data-permalink="/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/attachment/gingrich_newt_speech-bubble-fundamentally-profound/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/gingrich_newt_speech-bubble-fundamentally-profound.jpg?fit=448%2C393&amp;ssl=1" data-orig-size="448,393" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Newt Gingrich Sounding Smart" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/gingrich_newt_speech-bubble-fundamentally-profound.jpg?fit=300%2C263&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/gingrich_newt_speech-bubble-fundamentally-profound.jpg?fit=448%2C393&amp;ssl=1" class="size-full wp-image-1489 alignright" title="Newt Gingrich Sounding Smart" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/gingrich_newt_speech-bubble-fundamentally-profound.jpg?resize=358%2C314" alt="Newt Gingrich Talking About How Fundamentally Profound He Is" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/gingrich_newt_speech-bubble-fundamentally-profound.jpg?w=448&amp;ssl=1 448w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/gingrich_newt_speech-bubble-fundamentally-profound.jpg?resize=300%2C263&amp;ssl=1 300w" sizes="(max-width: 358px) 100vw, 358px" data-recalc-dims="1" /></a></strong></h1>
+<h1 style="text-align: justify;"><strong style="text-align: -webkit-auto;">Newt Gingrich</strong></h1>
+<p>(a.k.a. Sorry, There&#8217;s Nothing Funny About Newt Gingrich)</p>
+<p>Specific Cuts =&nbsp;<strong style="font-size: 25px; line-height: normal;">$20 Billion</strong></p>
+<p>Like Cain and Romney, all his cuts would come from the repeal of Obamacare.</p>
+<p>Other than that, he&#8217;s not too specific. &nbsp;From his&nbsp;<a href="http://web.archive.org/web/20130125140814/http://www.newt.org/solutions/jobs-economy/">website</a>:</p>
+<p><em>&#8220;Balance the budget&nbsp;by growing the economy, controlling spending, implementing money saving reforms, and replacing destructive policies and regulatory agencies with new approaches.&#8221;</em></p>
+<h3>The Gingrich Record on Spending</h3>
+<p>Gingrich&#8217;s fiscal record is mixed. During his time in Congress, he had an exemplary voting record on a lot of the top spending proposals:</p>
+<ul>
+<li>Voted NO on the Chrysler bailout in 1979</li>
+<li>Voted YES on the Gramm-Rudman balanced budget bill in 1985</li>
+<li>Voted YES on a balanced budget amendment (as part of the “Contract for America” effort that he led) in 1995</li>
+<li>Led the effort and voted YES to cut $16.4 billion from the budget in 1995.</li>
+<li>Voted YES on welfare reform in 1996</li>
+</ul>
+<p>Gingrich has also been a vocal opponent of most of the big spending habits pushed by the White House and Congress over the past few years.&nbsp; He opposed the $787 billion stimulus proposal,&nbsp; the auto bailout,&nbsp; and Cash for Clunkers.</p>
+<p>On the other hand, in 2003, when he urged “every conservative member of Congress” to support the Medicare drug benefit bill.&nbsp; He called it the “most important reorganization of our nation&#8217;s healthcare system since the original Medicare Bill of 1965.”&nbsp; The drug benefit now costs taxpayers over $60 billion a year and has almost $16&nbsp;<em>trillion</em>&nbsp;in unfunded liabilities.</p>
+<p>Notably in 2008, he also backed the $700 billion Wall Street bailout.</p>
+<p>He&#8217;s also attacked those who oppose omnibus spending bills. &nbsp;These bills roll thousands of programs which may not pass on their own into massive one massive all or nothing bill that is more likely pass. In 1998, he derided a group of House conservatives by calling them the “the perfectionist caucus” for opposing a 4,000-page omnibus spending bill, adding that “those of us who have grown up and matured in this process understand after the last four years that we have to work together on big issues.”</p>
+<p>&nbsp;</p>
+<h1 style="font-size: 31px;"><strong><a style="color: #ed1e24; text-decoration: underline;" href="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Cain-Pizza-noid.jpg"><img class="alignright" title="Herman Cain Avoid the Noid" src="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Cain-Pizza-noid.jpg?resize=390%2C300" alt="Picture of Herman Cain Holding a Pizza Saying, 'Avoid The Noid'" data-recalc-dims="1" /></a></strong></h1>
+<h1><strong>Herman Cain</strong></h1>
+<h1>(a.k.a. Pizza Dude)</h1>
+<h2>Specific Cuts =&nbsp;<strong>$20 Billion</strong></h2>
+<p>Like all the other candidates, Cain wants to repeal Obamacare which would save&nbsp;<a href="https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effect_on_national_spending">$20 billion</a>&nbsp;a year. &nbsp;But other than that,&nbsp;<a href="http://www.caintv.com/the-issues">this</a>&nbsp;is about as detailed as it gets:</p>
+<p><em>&#8220;Nothing should be off the table. Every federal agency, every government program and expenditure must be reviewed and revised with a&nbsp;keen eye and a red pen.&#8221;</em></p>
+<h3>The Cain Record on Spending</h3>
+<p>It doesn&#8217;t exist. &nbsp;With no political record, Cain needs to be way more specific for voters to make anything close to an educated decision.</p>
+<p>What is known is that Cain supported TARP, the government bailout of the financial industry. He even chastised those who opposed it.</p>
+<p>On the other hand, Cain opposed the Democrats’ stimulus, saying, “The Obama-Reid-Pelosi cure for more national economic pain – more spending, more taxes and more socialism! That’s just more pavement for the road to perpetual debt.”</p>
+<p>This sounds nice, but without significant specific spending cuts, Cain&#8217;s 9-9-9 tax plan will actually be a 9-9-9-<strong>9</strong>&nbsp;plan. &nbsp;A 9% corporate tax, a 9% sales tax, a 9% income tax, and a&nbsp;<strong>hidden 9% inflation tax</strong>.<br />
+<img title="Rick Perry Executioner" src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/rick-perry-executioner1.jpg?resize=360%2C246" alt="Cartoon Rick Perry saying, 'Every Man I Execute Creates Another Job!'" data-recalc-dims="1" /></p>
+<h1><strong>Rick Perry</strong></h1>
+<p>(a.k.a. The Executioner)</p>
+<h2>Specific Cuts =&nbsp;<strong>$50 Billion</strong></h2>
+<h2>From his&nbsp;<a href="http://web.archive.org/web/20120211075001/http://www.rickperry.org/cut-balance-and-grow-html/">rock</a>:</h2>
+<p><em>&#8220;Consolidating Department of Education funding for all elementary and secondary programs, reducing it by 50 percent, and returning the rest of the money to the states would save $25 billion in the first year.&nbsp;Reducing the portfolio of investments by government-sponsored enterprises like Fannie Mae and Freddie Mac would save $26.5 billion over ten years.&#8221;</em></p>
+<h3>The Perry Record on Spending</h3>
+<p>Like Romney, Perry&#8217;s real&nbsp;<a href="http://www.cato.org/blog/rick-perrys-spending-record">record&nbsp;</a>is not one of fiscal restraint.&nbsp;Rick Perry came into office in December 2000. Texas general spending has risen from $29 billion that first Perry year to $41 billion by fiscal year 2011, which works out to an average annual increase of 3.5 percent. (Data from NASBO).</p>
+<p>For some perspective, let&#8217;s look at Perry versus the average spending increases of governors in all 50 states over the last decade.</p>
+<p>Here is NASBO data showing increases in state general fund spending between fiscal 2001 and fiscal 2011:</p>
+<ul>
+<li>Texas, Perry: $29 billion to $41 billion, a 41 percent increase.</li>
+<li>Total of 50 states: $506 billion to $651 billion, a 29 percent increase.</li>
+</ul>
+<div>Under Perry, the Texas budget increased 41% from</div>
+<p>However, the Texas population has grown faster than the U.S. population, so let’s put these figures on a per-capita basis.</p>
+<ul>
+<li>Texas, Perry: $1,360 per capita to $1,598 per capita, an 18 percent increase.</li>
+<li>Total of 50 states: $1,774 per capita to $2,091 per capita, an 18 percent increase.</li>
+</ul>
+<p>Perry&nbsp;is touting the &#8220;Texas Miracle&#8221; as a template for the rest of America, which is stuck in a rut of high&nbsp;<a href="http://web.archive.org/web/20130420170633/http://www.usnews.com/topics/subject/unemployment">unemployment</a>&nbsp;and could certainly use some fresh ideas for how to create jobs. Texas has clearly fared better than most other states since the recession began at the end of 2007. Its unemployment rate is&nbsp;<a href="http://www.google.com/publicdata/explore?ds=z1ebjpgk2654c1_&amp;met_y=unemployment_rate&amp;idim=state:ST480000&amp;fdim_y=seasonality:S&amp;dl=en&amp;hl=en&amp;q=texas+unemployment+rate">8.2%</a>, a full point lower than the national average. The housing bust in Texas was far milder than it was in other places. A strong energy sector kept state tax revenues from plunging the way they did in other states, which forestalled layoffs in state and local government. &nbsp;Additionally, the majority of the jobs created in Texas were government jobs. &nbsp;From the beginning of 2008 to the end of 2010, government employment in Texas increased by&nbsp;<a href="http://web.archive.org/web/20150416103545/http://www.usnews.com/news/blogs/rick-newman/2011/08/16/how-rick-perry-created-jobs-in-texas">7 percent</a>, whereas it only increased 2 percent over the rest of the country. &nbsp;Private sector jobs in Texas only grew by 0.6% during this period.</p>
+<p>So Perry&#8217;s record is perfectly&nbsp;mediocre. Like with Romney, we shouldn&#8217;t expect too much in the way of cuts&nbsp;if past is&nbsp;prologue.</p>
+<h3>The Verdict</h3>
+<p>So after examining the records and proposals of all the candidates, it appears that Ron Paul is the only candidate who intends to make balancing the federal budget a real priority. &nbsp; Based on the others&#8217; records and proposals, it appears pretty likely that, under their administrations, we&#8217;re going to continue the status quo Washington spending spree.</p>
+<p style="text-align: center;"><img data-attachment-id="1614" data-permalink="/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/attachment/budget-spending-cuts-by-gop-republican-presidential-primary-candidates-2012-infographic/" data-orig-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?fit=960%2C320&amp;ssl=1" data-orig-size="960,320" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Budget spending cuts by GOP Republican presidential primary candidates 2012 infographic" data-image-description="" data-medium-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?fit=300%2C100&amp;ssl=1" data-large-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?fit=960%2C320&amp;ssl=1" class="alignnone wp-image-1614 size-full" src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?resize=960%2C320" alt="Budget spending cuts by GOP Republican presidential primary candidates 2012 infographic" srcset="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?resize=300%2C100&amp;ssl=1 300w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?resize=768%2C256&amp;ssl=1 768w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg?resize=672%2C224&amp;ssl=1 672w" sizes="(max-width: 960px) 100vw, 960px" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/">GOP Presidential Candidates&#8217; Budget Plans EXPOSED!!!</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn012_presidential_plans_compared.mp3" length="28526750" type="audio/mpeg" />
+		<itunes:subtitle>GOP Candidate Ron Paul has produced a detailed budget containing over $1 trillion in first-year reductions. Mitt Romney, Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of $20 billion a...</itunes:subtitle>
+		<itunes:summary>GOP Candidate Ron Paul has produced a detailed budget containing over $1 trillion in first-year reductions. Mitt Romney, Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of $20 billion a year.</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:37</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1123</post-id>		<itunes:order>6</itunes:order>
+	</item>
+	<item>
+		<title>A More Progressive Tax System Makes People Happier</title>
+		<link>/taxes/a-more-progressive-tax-system-makes-people-happier/</link>
+		<pubDate>Thu, 08 Sep 2011 22:49:26 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=249</guid>
+		<comments>/taxes/a-more-progressive-tax-system-makes-people-happier/#comments</comments>
+		<wfw:commentRss>/taxes/a-more-progressive-tax-system-makes-people-happier/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		<category><![CDATA[Taxes]]></category>
+		<category><![CDATA[flat tax]]></category>
+		<category><![CDATA[government]]></category>
+		<category><![CDATA[Government Spending]]></category>
+		<category><![CDATA[happiness]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[living]]></category>
+		<category><![CDATA[policy]]></category>
+		<category><![CDATA[progressive]]></category>
+		<category><![CDATA[quality]]></category>
+		<category><![CDATA[social]]></category>
+		<category><![CDATA[society]]></category>
+		<category><![CDATA[spending]]></category>
+		<category><![CDATA[standard]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[tax system]]></category>
+		<description>&lt;p&gt;A new study comparing 54 nations found that the more progressive the tax policy is, the happier the citizens are.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/taxes/a-more-progressive-tax-system-makes-people-happier/&quot;&gt;A More Progressive Tax System Makes People Happier&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div id="attachment_519" style="width: 200px" class="wp-caption alignleft"><img data-attachment-id="519" data-permalink="/taxes/a-more-progressive-tax-system-makes-people-happier/attachment/smileymoneyface/" data-orig-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg?fit=190%2C190&amp;ssl=1" data-orig-size="190,190" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Smiley Money Face" data-image-description="&lt;p&gt;Smiley Money Face&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg?fit=190%2C190&amp;ssl=1" data-large-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg?fit=190%2C190&amp;ssl=1" class="size-full wp-image-519 " title="Smiley Money Face" src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg?resize=190%2C190" alt="Smiley Money Face" srcset="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg?w=190&amp;ssl=1 190w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 190px) 100vw, 190px" data-recalc-dims="1" /><p class="wp-caption-text">Illustration by The New York Times</p></div>
+<p>From medicalnewstoday.com:</p>
+<p>The way some people talk, you&#8217;d think that a flat tax system &#8211; in which everyone pays at the same rate regardless of income &#8211; would make citizens feel better than more progressive taxation, where wealthier people are taxed at higher rates. Indeed, the U.S. has been diminishing progressivity of its tax structure for decades.</p>
+<p>But a new study comparing 54 nations found that flattening the tax risks flattening social wellbeing as well. &#8220;The more progressive the tax policy is, the happier the citizens are,&#8221; says University of Virginia psychologist Shigehiro Oishi, summarizing the findings, which will be published in an upcoming issue of Psychological Science, a journal of the Association for Psychological Science. Oishi conducted the study with Ulrich Schimmack of the University of Toronto at Mississauga and Ed Diener, also at University of Illinois and the Gallup Organization.</p>
+<p>The researchers analyzed the relationship between tax progressivity and personal well-being in 54 nations surveyed by the Gallup Organization in 2007 &#8211; a total of <a href="http://www.sharing.org/information-centre/reports/financing-global-sharing-economy-part-three-1-taxing-financial">59,634 </a>respondents. Well-being was expressed in people&#8217;s assessments of their overall life quality, from &#8220;worst&#8221; to &#8220;best possible life,&#8221; on a scale of 1 to 10; and in whether they enjoyed positive daily experiences (such as smiling, being treated with respect, and eating good food) or suffered negative ones, including sadness, worry, and shame. Finally, the analysis looked at the participants&#8217; satisfaction with their nation&#8217;s public goods, from schools to clean air.</p>
+<p>The degree of progressivity was measured by the difference between the highest and lowest tax rates, corrected for such confounding factors as family size, social security taxes paid, and tax benefits received by individuals.</p>
+<p>The results: On average, residents of the nations with the most progressive taxation evaluated their own lives as closer to &#8220;the best possible.&#8221; They also reported having more satisfying experiences and fewer discomfiting ones than respondents living in nations with less progressive taxes. That happiness, Oishi says, was &#8220;explained by a greater degree of satisfaction with the public goods, such as housing, education, and public transportation.&#8221;</p>
+<p>Higher government spending per se did not yield greater happiness, in spite of the well-being that was associated with satisfaction with state-funded services. In fact, there was a slight negative correlation between government spending and average happiness.</p>
+<p>&#8220;That data is kind of weird,&#8221; Oishi says. He guesses that the misalignment might indicate national differences in the efficiency with which those services are delivered or in people&#8217;s relative ability to access them. For example, the U.S. spends more on education and health care than other developed countries, &#8220;but its international standing in those areas is not so great.&#8221; Such puzzling findings may be illuminated in further research.</p>
+<p>The study, like others Oishi has done looking at connections between economics and personal life, has important social implications. &#8220;If the goal of societies is to make citizens happy, tax policy matters,&#8221; he says. &#8220;Certain policies, like tax progressivity, seem to be more conducive to the happiness of the people.&#8221;</p>
+<p><a href="http://www.medicalnewstoday.com/releases/234017.php">http://www.medicalnewstoday.com/releases/234017.php</a></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/taxes/a-more-progressive-tax-system-makes-people-happier/">A More Progressive Tax System Makes People Happier</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn011_taxes_make_us_happy.mp3" length="5242880" type="audio/mpeg" />
+		<itunes:subtitle>A new study comparing 54 nations found that the more progressive the tax policy is, the happier the citizens are.</itunes:subtitle>
+		<itunes:summary>A new study comparing 54 nations found that the more progressive the tax policy is, the happier the citizens are.</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>4:17</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">249</post-id>		<itunes:order>7</itunes:order>
+	</item>
+	<item>
+		<title>Voters See ‘Corporate Welfare’ Programs As A Good Place To Cut Government Spending</title>
+		<link>/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/</link>
+		<pubDate>Tue, 06 Sep 2011 22:29:41 +0000</pubDate>
+		<guid isPermaLink="false">/blog/?p=241</guid>
+		<comments>/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/#respond</comments>
+		<wfw:commentRss>/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Corporate Welfare]]></category>
+		<category><![CDATA[budget]]></category>
+		<category><![CDATA[corporate welfare]]></category>
+		<category><![CDATA[cuts]]></category>
+		<category><![CDATA[economics]]></category>
+		<category><![CDATA[farm subsidies]]></category>
+		<category><![CDATA[finance]]></category>
+		<category><![CDATA[Government Spending]]></category>
+		<category><![CDATA[money]]></category>
+		<category><![CDATA[subsidies]]></category>
+		<description>&lt;p&gt;15% of likely U.S. voters think the federal government should continue to provide funding for foreign countries to buy military weapons from U.S. companies. Seventy percent (70%) oppose this funding to promote U.S. arms sales.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/&quot;&gt;Voters See ‘Corporate Welfare’ Programs As A Good Place To Cut Government Spending&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p><span class="Apple-style-span" style="line-height: 18px;"><img data-attachment-id="245" data-permalink="/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/attachment/socialism-rich/" data-orig-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich.jpg?fit=600%2C464&amp;ssl=1" data-orig-size="600,464" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Socialism for the Rich" data-image-description="" data-medium-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich.jpg?fit=300%2C232&amp;ssl=1" data-large-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich.jpg?fit=600%2C464&amp;ssl=1" class="size-medium wp-image-245 alignleft" style="border-style: initial; border-color: initial;" title="Socialism for the Rich. Capitalism for the Rest." src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich-300x232.jpg?resize=300%2C232" alt="Socialism for the Rich. Capitalism for the Rest." srcset="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich.jpg?w=600&amp;ssl=1 600w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" /></span></p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding-top: 5px; padding-bottom: 5px;"><a href="http://www.rasmussenreports.com/public_content/politics/general_politics/august_2011/voters_see_these_corporate_welfare_programs_as_a_good_place_to_cut_government_spending">15%</a> of likely U.S. voters think the federal government should continue to provide <a href="https://www.amazon.com/gp/product/0745642411/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0745642411&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">funding for foreign countries</a> to buy military weapons from U.S. <span class="Apple-style-span" style="line-height: normal;">companies. Seventy percent (<a href="http://www.rasmussenreports.com/public_content/politics/general_politics/august_2011/voters_see_these_corporate_welfare_programs_as_a_good_place_to_cut_government_spending">70%</a>) oppose this funding to promote U.S. arms sales. Fifteen percent (<a href="http://www.rasmussenreports.com/public_content/politics/general_politics/august_2011/voters_see_these_corporate_welfare_programs_as_a_good_place_to_cut_government_spending">15%</a>) are undecided about it.  (To see survey question wording, <a style="color: #3e72ae;" href="http://www.rasmussenreports.com/public_content/politics/questions/pt_survey_questions/august_2011/questions_corporate_welfare_august_11_12_2011" target="_self">click here</a>.)</span></p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding-top: 5px; padding-bottom: 5px;">Voters are more closely divided on the topic of <a href="https://www.amazon.com/gp/product/B005ZH34ZQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B005ZH34ZQ&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">farm subsidies</a>. The U.S. government typically provides more than <a href="https://en.wikipedia.org/wiki/Agricultural_subsidy">$20 billion</a> a year in crop and farm subsidies, and 37% of voters feel those subsidies should continue. But a plurality (46%) thinks those subsidies should be ended, while 17% more are not sure.</p>
+<p style="margin-top: 0px; margin-bottom: 0px; padding-top: 5px; padding-bottom: 5px;">Similarly, the federal government’s <a href="https://www.amazon.com/gp/product/0521104661/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0521104661&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">Export-Import bank</a> provides billions of dollars in loans and loan guarantees to companies like Boeing and General Electric. The stated purpose is to sustain American jobs by financing U.S. exports.  But just <a href="https://www.downsizinggovernment.org/search-results?cx=006606822365722333854%3Afgcvw6tf0fw&amp;cof=FORID%3A10&amp;ie=UTF-8&amp;query=voters%20don%20t%20support%20corporate%20welfare&amp;sa=Search">29%</a> of voters believe the government should continue to provide loans and loan guarantees to help finance export sales for large corporations. Again, a plurality of 46% opposes loans and loan guarantees for this purpose. Twenty-five percent (<a href="https://www.downsizinggovernment.org/search-results?cx=006606822365722333854%3Afgcvw6tf0fw&amp;cof=FORID%3A10&amp;ie=UTF-8&amp;query=voters%20don%20t%20support%20corporate%20welfare&amp;sa=Search">25%</a>) are undecided.</p>
+<p>  &#8211; Rasmussen Reports™</p>
+<p>The post <a rel="nofollow" href="/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/">Voters See ‘Corporate Welfare’ Programs As A Good Place To Cut Government Spending</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn010_cut_corporate_welfare.mp3" length="2241550" type="audio/mpeg" />
+		<itunes:subtitle>15% of likely U.S. voters think the federal government should continue to provide funding for foreign countries to buy military weapons from U.S. companies. Seventy percent (70%) oppose this funding to promote U.S. arms sales.</itunes:subtitle>
+		<itunes:summary>15% of likely U.S. voters think the federal government should continue to provide funding for foreign countries to buy military weapons from U.S. companies. Seventy percent (70%) oppose this funding to promote U.S. arms sales.</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>2:12</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">241</post-id>		<itunes:order>8</itunes:order>
+	</item>
+	<item>
+		<title>Fun Facts About Iraq!</title>
+		<link>/military/war/posts/</link>
+		<pubDate>Sat, 13 Aug 2011 23:50:15 +0000</pubDate>
+		<guid isPermaLink="false">/wordpress/?p=16</guid>
+		<comments>/military/war/posts/#respond</comments>
+		<wfw:commentRss>/military/war/posts/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Iraq]]></category>
+		<category><![CDATA[War]]></category>
+		<category><![CDATA[billion]]></category>
+		<category><![CDATA[civilians]]></category>
+		<category><![CDATA[cost]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[deaths]]></category>
+		<category><![CDATA[deaths in Iraq]]></category>
+		<category><![CDATA[did you know]]></category>
+		<category><![CDATA[factoids]]></category>
+		<category><![CDATA[facts]]></category>
+		<category><![CDATA[iraq]]></category>
+		<category><![CDATA[iraqis]]></category>
+		<category><![CDATA[killed]]></category>
+		<category><![CDATA[life]]></category>
+		<category><![CDATA[living]]></category>
+		<category><![CDATA[lost homes]]></category>
+		<category><![CDATA[million]]></category>
+		<category><![CDATA[polls]]></category>
+		<category><![CDATA[public opinion]]></category>
+		<category><![CDATA[quality]]></category>
+		<category><![CDATA[quality of life]]></category>
+		<category><![CDATA[spending]]></category>
+		<category><![CDATA[standard]]></category>
+		<category><![CDATA[support our troops]]></category>
+		<category><![CDATA[trillion]]></category>
+		<category><![CDATA[troops]]></category>
+		<category><![CDATA[war]]></category>
+		<category><![CDATA[wmds]]></category>
+		<category><![CDATA[world hunger]]></category>
+		<description>&lt;p&gt;The Iraq war will end up costing at least $3 trillion.  With that much money, you could end world hunger for 100 years or end American hunger for 100 minutes!&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/military/war/posts/&quot;&gt;Fun Facts About Iraq!&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<ol>
+<li><span class="Apple-style-span" style="line-height: 18px;">At least <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2010%2F10%2F23%2Fworld%2Fmiddleeast%2F23casualties.html%3F_r%3D5&amp;REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_blank">100,000 civilians</a> have been killed. That&#8217;s the equivalent of 35 September 11th attacks, but I don&#8217;t like to brag.</span></li>
+<li><span class="Apple-style-span" style="line-height: 18px;">Another interesting factoid is that the war will end up costing at least <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/09/03/AR2010090302200.html" target="_blank">$3 trillion</a>.  With that much money, you could <a href="http://articles.latimes.com/2008/jun/23/opinion/ed-food23" target="_blank">end world hunger </a>for 100 years or end American hunger for 100 minutes!</span></li>
+<li><span class="Apple-style-span" style="line-height: 18px;">Over <a href="http://usatoday30.usatoday.com/news/world/iraq/2007-06-05-iraq-report_N.htm">4 million Iraqis</a> have lost their homes a result of the war.  That&#8217;s equivalent to the population of <a href="https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_population">Maine, Idaho, and New Hampshire </a>combined. Sorry, guys. You cannot all crash on my couch.</span></li>
+</ol>
+<div><span class="Apple-style-span" style="font-size: 26px;">U.S. SPENDING IN IRAQ</span></div>
+<h3>It&#8217;s all about the <del>benjamins</del> WMD&#8217;s. Yeah, that&#8217;s it! WMD&#8217;s!</h3>
+<ul>
+<li>Spent &amp; Approved War-Spending &#8211; About <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$900 billion</a> of US taxpayers&#8217; funds spent or approved for spending through November 2010.</li>
+<li>Lost &amp; Unaccounted for in Iraq &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$9 billion</a> of US taxpayers&#8217; money and <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$549.7 milion</a> in spare parts shipped in 2004 to US contractors. Also, per ABC News, <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">190,000 guns</a>, including <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">110,000</a> AK-47 rifles.</li>
+<li>Missing &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$1 billion</a> in tractor trailers, tank recovery vehicles, machine guns, rocket-propelled grenades and other equipment and services provided to the Iraqi security forces. (Per CBS News on Dec 6, 2007.)</li>
+<li>Mismanaged &amp; Wasted in Iraq &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$10 billion</a>, per Feb 2007 Congressional hearings</li>
+<li>Halliburton Overcharges Classified by the Pentagon as Unreasonable and Unsupported &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$1.4 billion</a></li>
+<li>Amount paid to KBR, a former Halliburton division, to supply U.S. military in Iraq with food, fuel, housing and other items &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$20 billion</a></li>
+<li>Portion of the <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$20 billion</a> paid to KBR that Pentagon auditors deem &#8220;questionable or supportable&#8221; &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$3.2 billion</a></li>
+<li>U.S. 2009 Monthly Spending in Iraq &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$7.3 billion</a> as of Oct 2009</li>
+<li>U.S. 2008 Monthly Spending in Iraq &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$12 billion</a></li>
+<li>U.S. Spending per Second &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$5,000</a> in 2008 (per Senate Majority Leader Harry Reid on May 5, 2008)</li>
+<li>Cost of deploying one U.S. soldier for one year in Iraq &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">$390,000</a> (Congressional Research Service)</li>
+</ul>
+<div><a href="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/three-trillion-dollar-war.jpg"><img title="The Three Trillion Dollar War" src="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/three-trillion-dollar-war-1024x601.jpg?resize=620%2C363" alt="Infographic Detailing the Costs of the Iraq War in 10 Steps (Three Trillion Dollars)" data-recalc-dims="1" /></a></div>
+<div style="padding-left: 30px;"><span style="color: #999999;"><em>Graph Source: <a href="https://www.good.is/infographics" target="_blank">http://awesome.good.is/transparency/013/transparency013trilliondollarwar.html</a></em></span></div>
+<h2>TROOPS IN IRAQ</h2>
+<h4>Support Our Troops&#8230; By sending them to a Middle Eastern hellhole.</h4>
+<ul>
+<li><a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">47,000</a> U.S. troops. All other nations have withdrawn their troops.</li>
+<li>U.S. Troop Casualties &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">4,444</a> US troops; 98% male. 91% non-officers; 82% active duty, 11% National Guard; 74% Caucasian, 9% African-American, 11% Latino. 19% killed by non-hostile causes. 54% of US casualties were under 25 years old. 72% were from the US Army</li>
+<li>Non-U.S. Troop Casualties &#8211; Total <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">316</a>, with <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">179</a> from the UK</li>
+<li>US Troops Wounded &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">32,051</a>, 20% of which are serious brain or spinal injuries. (Total excludes psychological injuries.)</li>
+<li>US Troops with Serious Mental Health Problems &#8211; 30% of US troops develop serious mental health problems within 3 to 4 months of returning home</li>
+<li>US Military Helicopters Downed in Iraq &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">75</a> total, at least 36 by enemy fire</li>
+</ul>
+<div><a href="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/us-troop-strength-in-iraq.jpg"><img title="US Troop Strength In Iraq" src="https://i0.wp.com/web.archive.org/web/20140801140058/https://thinkbynumbers.org/wp-content/uploads/2011/08/us-troop-strength-in-iraq-1024x613.jpg?resize=620%2C371" alt="Graph of US Troop Strength In Iraq" data-recalc-dims="1" /></a></div>
+<div></div>
+<div style="padding-left: 30px;"><span style="color: #999999;"><em>Graph Source: <a href="http://www.wallstats.com/blog/us-troop-stength-in-iraq-and-other-data/" target="_blank">http://www.wallstats.com/blog/us-troop-stength-in-iraq-and-other-data/</a></em></span></div>
+<h2>IRAQI TROOPS, CIVILIANS &amp; OTHERS IN IRAQ</h2>
+<h4>I&#8217;m sure you&#8217;ve never seen one on TV, but there are actually people who live in Iraq.</h4>
+<ul>
+<li>Private Contractors in Iraq, Working in Support of US Army Troops &#8211; More than <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">180,000</a> in August 2007, per The Nation/LA Times.</li>
+<li>Journalists killed &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">146, 97</a> by murder and <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">49</a> by acts of war</li>
+<li>Journalists killed by US Forces &#8211; 14</li>
+<li>Iraqi Police and Soldiers Killed &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">9,889</a> as of Jan 31, 2011</li>
+<li>Iraqi Civilians Killed, Estimated &#8211; On October 22, 2010, ABC News reported &#8220;a secret U.S. government tally that puts the Iraqi (civilian) death toll over <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">100,000</a>,&#8221; information that was included in more than <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">400,000</a> military documents released by Wikileaks.com.</li>
+<li>A UN issued report dated Sept 20, 2006 stating that Iraqi civilian casualties have been significantly under-reported. Casualties are reported at <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">50,000</a> to over <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">100,000</a>, but may be much higher. Some informed estimates place Iraqi civilian casualties at over <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">600,000</a>.</li>
+</ul>
+<p><a href="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Yearly-Death-graph-Iraq.gif"><img title="Iraqi Deaths (2003-2010)" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Yearly-Death-graph-Iraq-1024x747.gif?resize=620%2C452" alt="Graph of Iraqi Deaths (2003-2010)" data-recalc-dims="1" /></a></p>
+<p style="padding-left: 30px;"><span style="color: #999999;"><em>Graph Source: <a href="http://musingsoniraq.blogspot.nl/2011/01/2010-ends-with-slight-drop-in-iraqi.html" target="_blank">http://musingsoniraq.blogspot.nl/2011/01/2010-ends-with-slight-drop-in-iraqi.html</a></em></span></p>
+<ul>
+<li>Iraqi Insurgents Killed, Roughly Estimated &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">55,000</a></li>
+<li>Non-Iraqi Contractors and Civilian Workers Killed &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">572</a></li>
+<li>Non-Iraqi Kidnapped &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">306, including 57 killed, 147 released, 4 escaped, 6 rescued and 89 status unknown</a>.</li>
+<li>Daily Insurgent Attacks, Feb 2004 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">14</a></li>
+<li>Daily Insurgent Attacks, July 2005 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">70</a></li>
+<li>Daily Insurgent Attacks, May 2007 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">163</a></li>
+<li>Estimated Insurgency Strength, Nov 2003 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">15,000</a></li>
+<li>Estimated Insurgency Strength, Oct 2006 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">20,000 &#8211; 30,000</a></li>
+<li>Estimated Insurgency Strength, June 2007 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">70,000</a></li>
+</ul>
+<h2>QUALITY OF LIFE INDICATORS</h2>
+<h3>Why doesn&#8217;t anyone ever focus on the 72% of kids who aren&#8217;t malnourished?</h3>
+<ul>
+<li>Iraqis Displaced Inside Iraq, by Iraq War, as of May 2007 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">2,255,000</a></li>
+<li>Iraqi Refugees in Syria &amp; Jordan &#8211;<a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm"> 2.1 million to 2.25 million</a></li>
+<li>Iraqi Unemployment Rate &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">27 to 60%</a>, where curfew not in effect</li>
+<li>Consumer Price Inflation in 2006 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">50%</a></li>
+<li>Iraqi Children Suffering from Chronic Malnutrition &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">28%</a> in June 2007 (Per CNN.com, July 30, 2007)</li>
+<li>Percent of professionals who have left Iraq since 2003 &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">40%</a></li>
+<li>Iraqi Physicians Before 2003 Invasion &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">34,000</a></li>
+<li>Iraqi Physicians Who Have Left Iraq Since 2005 Invasion &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">12,000</a></li>
+<li>Iraqi Physicians Murdered Since 2003 Invasion &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">2,000</a></li>
+<li>Average Daily Hours Iraqi Homes Have Electricity &#8211; 1 to 2 hours, per Ryan Crocker, U.S. Ambassador to Iraq (Per Los Angeles Times, July 27, 2007)</li>
+<li>Average Daily Hours Iraqi Homes Have Electricity &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">10.9</a> in May 2007</li>
+<li>Average Daily Hours Baghdad Homes Have Electricity &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">5.6</a> in May 2007</li>
+<li>Pre-War Daily Hours Baghdad Homes Have Electricity &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">16 to 24</a></li>
+<li>Number of Iraqi Homes Connected to Sewer Systems &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">37%</a></li>
+<li>Iraqis without access to adequate water supplies &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">70%</a> (Per CNN.com, July 30, 2007)</li>
+<li>Water Treatment Plants Rehabilitated &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">22%</a></li>
+</ul>
+<div><a href="/wp-content/uploads/2011/08/iraq-5year.jpg"></a></div>
+<div></div>
+<div style="padding-left: 30px;"><span style="color: #999999;"><em>Graph Source: <a href="http://web.archive.org/web/20090510050913/http://www.foreignpolicy.com:80/story/cms.php?story_id=4228" target="_blank">http://www.foreignpolicy.com/story/cms.php?story_id=4228</a></em></span></div>
+<h2>IRAQI PUBLIC OPINION</h2>
+<h5>What do they know, anyway?</h5>
+<ul>
+<li>Iraqis &#8220;strongly opposed to presence of coalition troops &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">82%</a></li>
+<li>Iraqis who believe Coalition forces are responsible for any improvement in security &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">less than 1%</a></li>
+<li>Iraqis who feel less secure because of the occupation &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">67%</a></li>
+<li>Iraqis who do not have confidence in multi-national forces &#8211; <a href="http://usliberals.about.com/od/homelandsecurit1/a/IraqNumbers.htm">72%</a></li>
+</ul>
+<div>RESULTS OF POLL Taken in Iraq in August 2005 by the British Ministry of Defense (SOURCE: BROOKINGS INSTITUTE)</div>
+<div><a href="/wp-content/uploads/2011/08/cost_of_-iraq-war_infograph.jpg"></a></div>
+<div></div>
+<div style="padding-left: 30px;"><em><span style="color: #888888;">Graph Source:</span> <a href="https://www.good.is/" target="_blank">http://www.good.is/</a></em></div>
+<div></div>
+<p>Data is presented as of March 31, 2011, except as indicated.</p>
+<p>The post <a rel="nofollow" href="/military/war/posts/">Fun Facts About Iraq!</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn009_fun_facts_about_iraq.mp3" length="10418255" type="audio/mpeg" />
+		<itunes:subtitle>The Iraq war will end up costing at least $3 trillion.  With that much money, you could end world hunger for 100 years or end American hunger for 100 minutes!</itunes:subtitle>
+		<itunes:summary>The Iraq war will end up costing at least $3 trillion.  With that much money, you could end world hunger for 100 years or end American hunger for 100 minutes!</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>10:45</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">16</post-id>		<itunes:order>9</itunes:order>
+	</item>
+	<item>
+		<title>Government Pays Doctors $44,000 to Use an iPad</title>
+		<link>/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/</link>
+		<pubDate>Fri, 05 Aug 2011 23:57:00 +0000</pubDate>
+		<guid isPermaLink="false">/wordpress/?p=18</guid>
+		<comments>/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/#comments</comments>
+		<wfw:commentRss>/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/feed/</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+		<category><![CDATA[Corporate Welfare]]></category>
+		<category><![CDATA[Healthcare]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[act]]></category>
+		<category><![CDATA[arra]]></category>
+		<category><![CDATA[doctor salary]]></category>
+		<category><![CDATA[doctors]]></category>
+		<category><![CDATA[Government Spending]]></category>
+		<category><![CDATA[hitech]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[medical records]]></category>
+		<category><![CDATA[slider]]></category>
+		<category><![CDATA[subsidies]]></category>
+		<category><![CDATA[subsidize]]></category>
+		<category><![CDATA[subsidy]]></category>
+		<category><![CDATA[tax]]></category>
+		<category><![CDATA[technology]]></category>
+		<category><![CDATA[wealth redistribution]]></category>
+		<description>&lt;p&gt;Now starving doctors will finally be able to afford an iPad thanks to your generous tax contribution! &lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/&quot;&gt;Government Pays Doctors $44,000 to Use an iPad&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p style="text-align: center;"><a style="color: #ed1e24; text-decoration: underline;" href="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg"><img data-attachment-id="128" data-permalink="/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/attachment/doctor-ipad-graph-960x320/" data-orig-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?fit=960%2C320&amp;ssl=1" data-orig-size="960,320" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Obama Wants Every Doctor Equipped with Ipad" data-image-description="" data-medium-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?fit=300%2C100&amp;ssl=1" data-large-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?fit=960%2C320&amp;ssl=1" class="size-full wp-image-128 aligncenter" title="Rich Docs: Average Doctor Salary vs Median Income" src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?resize=634%2C211" alt="Graph Illustrating Average US Doctor's Salary vs Median Citizen Income" srcset="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?resize=960%2C320&amp;ssl=1 960w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?resize=300%2C100&amp;ssl=1 300w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?resize=768%2C256&amp;ssl=1 768w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg?resize=672%2C224&amp;ssl=1 672w" sizes="(max-width: 634px) 100vw, 634px" data-recalc-dims="1" /></a>More upward wealth redistribution from the good folks at the Obama administration!</p>
+<p>Now starving doctors will finally be able to afford an iPad thanks to your generous tax contribution! With the increased efficiency of electronic record keeping they&#8217;ll probably even be able to fire some of their fat cat administrative staff!  (It&#8217;s ironic that taxes were being taken out of the paychecks of these ~$25 per hour employees in order to provide subsidies for doctors who are <a href="http://www.globalrichlist.com/">0.2% highest income earners</a> in the world. This is compounded by the fact that the changeover will enable the doctors to save even more money by laying off administrative staff after the new technology renders them redundant.)</p>
+<p>The Obama administration strongly desires that all medical records be electronic. There&#8217;s an app called Drchrono for the iPad which can make that transition happen. Logically, the government will give up to <a href="http://thenextweb.com/apple/2011/07/28/doctors-using-drchronos-ipad-app-can-now-receive-44k-from-the-government/">$44,000</a> to any doctor willing to use it.</p>
+<p>The funding will come through the Health Information Technology for Economic and Clinical Health Act (HITECH Act) in which the government allocated <a href="http://thenextweb.com/apple/2011/07/28/doctors-using-drchronos-ipad-app-can-now-receive-44k-from-the-government/">$19.2 billion</a> dollars to help move U.S. doctors to electronic medical record systems.  President Obama signed HITECH into law on February 17, 2009 as part of the American Recovery and Reinvestment Act of 2009 (ARRA), an economic stimulus bill.</p>
+<p>Thank goodness we were able to raise the debt ceiling! Now the government can afford to help these destitute medical professionals climb from the impoverished depths of the <a href="http://www.globalrichlist.com/">0.2% highest income earners</a> in the world to the 0.1% highest earners.</p>
+<p>I don&#8217;t mean to imply that I oppose the adoption of electronic health records. I wholeheartedly support this goal. However, it’s important that middle class taxpayers know that they are subsidizing the top 0.2% richest Americans.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/government-spending/corporate-welfare/more-upward-wealth-redistribution-from/">Government Pays Doctors $44,000 to Use an iPad</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3" length="1662485" type="audio/mpeg" />
+		<itunes:subtitle>Now starving doctors will finally be able to afford an iPad thanks to your generous tax contribution!</itunes:subtitle>
+		<itunes:summary>Now starving doctors will finally be able to afford an iPad thanks to your generous tax contribution!</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>2:12</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">18</post-id>		<itunes:order>10</itunes:order>
+	</item>
+	<item>
+		<title>Government Spends More on Corporate Welfare Subsidies than Social Welfare Programs</title>
+		<link>/government-spending/corporate-welfare/corporate-vs-social-welfare/</link>
+		<pubDate>Sun, 06 Mar 2011 21:03:00 +0000</pubDate>
+		<guid isPermaLink="false">/wordpress/?p=5</guid>
+		<comments>/government-spending/corporate-welfare/corporate-vs-social-welfare/#comments</comments>
+		<wfw:commentRss>/government-spending/corporate-welfare/corporate-vs-social-welfare/feed/</wfw:commentRss>
+		<slash:comments>753</slash:comments>
+		<category><![CDATA[Corporate Welfare]]></category>
+		<category><![CDATA[Government Spending]]></category>
+		<category><![CDATA[Welfare]]></category>
+		<category><![CDATA[billion]]></category>
+		<category><![CDATA[cato]]></category>
+		<category><![CDATA[ceo]]></category>
+		<category><![CDATA[corporate welfare]]></category>
+		<category><![CDATA[corporate welfare king]]></category>
+		<category><![CDATA[corporate welfare queen]]></category>
+		<category><![CDATA[corporations]]></category>
+		<category><![CDATA[lobbyists]]></category>
+		<category><![CDATA[satire]]></category>
+		<category><![CDATA[subsidies]]></category>
+		<category><![CDATA[subsidize]]></category>
+		<category><![CDATA[subsidizing]]></category>
+		<category><![CDATA[tanf]]></category>
+		<category><![CDATA[tarp]]></category>
+		<category><![CDATA[tax breaks]]></category>
+		<category><![CDATA[welfare]]></category>
+		<category><![CDATA[welfare statistics]]></category>
+		<description>&lt;p&gt;About $59 billion is spent on traditional social welfare programs. $92 billion is spent on corporate subsidies. So, the government spent 50% more on corporate welfare than it did on food stamps and housing assistance in 2006.&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;/government-spending/corporate-welfare/corporate-vs-social-welfare/&quot;&gt;Government Spends More on Corporate Welfare Subsidies than Social Welfare Programs&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;&quot;&gt;Think/ by Numbers&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<div style="width: 250px" class="wp-caption alignleft"><img title="Corporate Welfare Piggy Bank" src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2012/11/corporate-welfare-piggy-bank.jpg?resize=240%2C240" alt="Corporate Welfare Piggy Bank" data-recalc-dims="1" /><p class="wp-caption-text">Time Magazine, Vol. 152 No. 19</p></div>
+<h5 dir="ltr"><span style="letter-spacing: -0.02em;">About </span><a style="letter-spacing: -0.02em;" href="https://www.downsizinggovernment.org/hud/public-housing-rental-subsidies" target="_blank">$59</a><span style="letter-spacing: -0.02em;"> billion is spent on traditional social welfare programs. </span><a style="letter-spacing: -0.02em;" href="http://www.cato.org/publications/policy-analysis/corporate-welfare-state-how-federal-government-subsidizes-us-businesses" target="_blank">$92</a><span style="letter-spacing: -0.02em;"> billion is spent on corporate subsidies. So, the government spent nearly 50% more on corporate welfare than it did on food stamps and housing assistance in 2006.</span></h5>
+<p style="text-align: justify;"><strong><em>Before we look at the details, a heartfelt plea from the Save the CEO&#8217;s Charitable Trust:</em></strong></p>
+<p style="text-align: justify;"><em>There’s so much suffering in the world. It can all get pretty overwhelming sometimes. Consider, for a moment the sorrow in the eyes of a CEO who’s just found out that his end-of-year bonus is only going to be a paltry $2.3 million.</em></p>
+<p style="text-align: justify;"><em>“It felt like a slap in the face. Imagine what it would feel like just before Christmas to find out that you’re going to be forced to scrape by on your standard $8.4 million compensation package alone. Imagine what is was like to have to look into my daughter’s face and tell her that I couldn’t afford to both buy her a dollar sign shaped island and hire someone to chew her food from now on, too. To put her in that situation of having to choose… She’s only a child for God’s sake.”</em></p>
+<p style="text-align: justify;"><em>It doesn’t have to be this way. Thanks to federal subsidies from taxpayers like you, CEO’s like G. Allen Andreas of Archer Daniels Midland was able to take home almost <a href="http://www.aflcio.org/Corporate-Watch/Paywatch-2014">$14 million</a> in executive compensation&nbsp;last year. But he’s one of the lucky ones. There are still corporations out there that actually have to provide goods and services to their consumers in order to survive. They need your help.</em></p>
+<p dir="ltr" style="text-align: justify;"><em>For just <a href="https://object.cato.org/sites/cato.org/files/pubs/pdf/tbb-0205-7.pdf">$93 billion</a> a year the federal government is able to provide a better life for these CEO’s and their families. That’s less than the cost of 240 million cups of coffee a day. Won’t you help a needy corporation today?</em></p>
+<h1 dir="ltr">The Traditional Welfare Queen</h1>
+<h5>Definition: social welfare</h5>
+<p>n. Financial aid, such as a subsidy, provided by a government to specific individuals.</p>
+<p dir="ltr">When one thinks about government welfare, the first thing that comes to mind is the proverbial welfare queen sitting atop her majestic throne of government cheese issuing a royal decree to her clamoring throngs of illegitimate babies that they may shut the hell up while she tries to watch Judge Judy. However, many politically well-connected corporations are also parasitically draining their share of fiscal blood from your paycheck before you ever see it. It’s called corporate welfare. The intent here is to figure out which presents the greater burden to our federal budget, corporate or social welfare programs.</p>
+<p>There are, of course, positive and negative aspects to this spending.The primary negative aspect is that you have to increase taxes to pay for it. Taxing individuals lowers their standard of living. &nbsp;It reduces people’s ability to afford necessities like medical care, education, and low mileage off-road vehicles.The common usage definition of social welfare includes welfare checks and food stamps. Welfare checks are supplied through a federal program called Temporary Aid for Needy Families. Combined federal and state <a href="https://www.amazon.com/gp/product/1480174106/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1480174106&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">TANF </a>spending was about <a href="https://www.downsizinggovernment.org/hhs/welfare-spending" target="_blank">$26 </a>billion in 2006. In 2009, the federal government will spend about <a href="https://www.downsizinggovernment.org/hud/public-housing-rental-subsidies" target="_blank">$25 </a>billion on rental aid for low-income households and about <a href="https://www.downsizinggovernment.org/hud/public-housing-rental-subsidies" target="_blank">$8</a> billion on public housing projects.&nbsp;For some perspective, that’s about <a href="http://web.archive.org/web/20090503223422/http://www.whitehouse.gov:80/omb/budget/fy2006/tables.html">3 percent</a> of the total federal budget.</p>
+<p>Note: I do not consider Medicaid to be included in the term &#8220;welfare&#8221; as it is used in common parlance. &nbsp;Typically, if one states that someone is &#8220;on welfare&#8221;, they mean that the person is receiving direct financial aid from the government. &nbsp;If we included <a href="https://www.amazon.com/gp/product/1589019342/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1589019342&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">Medicaid </a>in our definition of social welfare, we would also have to consider any service that the government pays for to be &#8220;welfare&#8221;. &nbsp;For instance, public roadways to individuals&#8217; homes would also be considered &#8220;welfare&#8221; under that expansive definition.</p>
+<h3>TANF (Temporary Aid to Needy Families)</h3>
+<p>Another negative aspect relates to the fact that social welfare programs reduce the incentive for recipients to become productive members of society. However, in 1996, Congress passed a bill enacting limited welfare reform, replacing the<a href="https://www.amazon.com/gp/product/0700608982/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0700608982&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">&nbsp;Aid to Families with Dependent Children (AFDC)</a>&nbsp;program with the new Temporary Aid to Needy Families (<a href="https://en.wikipedia.org/wiki/TANF" target="_blank">TANF</a>) program. Now, with the&nbsp;recent changes in healthcare including Obamacare tax implications, some states are enacting strict criteria that a family must meet to be eligible for TANF. One key aspect of this reform required recipients to engage in job searches, on the job training, community service work, or other constructive behaviors as a condition for receiving aid. The bill was signed by a man named Bill Clinton, who is much better known for an act of fellatio which, of course, had far greater societal implications. Regardless, the success of this reform was pretty dramatic.&nbsp;<a href="http://www.acf.hhs.gov/sites/default/files/opre/change_time_1.pdf" target="_blank">Caseloads were cut nearly in half</a>. Once individuals were required to work or undertake constructive activities as a condition of receiving aid they left welfare rapidly. Another surprising result was a drop in the child poverty rate. Employment of single mothers increased substantially and the child poverty rate fell sharply from&nbsp;<a href="http://www.heritage.org/research/testimony/means-tested-welfare-spending-past-and-future-growth" target="_blank">20.8 percent in 1995 to 16.3 percent in 2000</a>.</p>
+<p><a href="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg"><img data-attachment-id="146" data-permalink="/government-spending/corporate-welfare/corporate-vs-social-welfare/attachment/child-pov-by-living-arrangements-75-09/" data-orig-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?fit=960%2C720&amp;ssl=1" data-orig-size="960,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Child Poverty Rates by Living Arrangements 75-09" data-image-description="" data-medium-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?fit=960%2C720&amp;ssl=1" class="alignnone size-full wp-image-146" title="Child Poverty Rates by Living Arrangements (1975-2009)" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?resize=605%2C454" alt="Graph of US Child Poverty Rates by Living Arrangements (1975-2009)" srcset="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?w=960&amp;ssl=1 960w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?resize=300%2C225&amp;ssl=1 300w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?resize=768%2C576&amp;ssl=1 768w, https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Child-pov-by-living-arrangements-75-09.jpg?resize=672%2C504&amp;ssl=1 672w" sizes="(max-width: 605px) 100vw, 605px" data-recalc-dims="1" /></a></p>
+<p style="padding-left: 30px;"><em>Graph Source: <a href="http://www.census.gov/hhes/www/poverty.html" target="_blank">http://census.gov/hhes/www/poverty.html</a></em></p>
+<h1>The Corporate Welfare Queen</h1>
+<p>Now, let’s consider the other kind of welfare.</p>
+<h6></h6>
+<p><strong>Definition: corporate welfare</strong></p>
+<p>n. Financial aid, such as a subsidy, provided by a government to corporations or other businesses.</p>
+<p>The Cato Institute estimated that, in 2002, <a href="https://object.cato.org/sites/cato.org/files/pubs/pdf/tbb-0205-7.pdf">$93 billion</a> were devoted to corporate welfare. This is about <a href="http://web.archive.org/web/20120206093930/http://www.gpoaccess.gov:80/usbudget/fy02/browse.html">5 percent</a> of the federal budget.</p>
+<h5>What is&nbsp;<strong>NOT</strong>&nbsp;considered corporate welfare?</h5>
+<ol>
+<li><strong>Government&nbsp;Contracts &#8211;</strong> To clarify what is and isn&#8217;t corporate welfare, a “no-bid” Iraq contract for the prestigious Halliburton, would not be considered corporate welfare because the government technically directly receives some good or service in exchange for this expenditure. Based on the Pentagon&#8217;s Defense Contract Audit Agency (DCAA) findings of <a href="http://www.halliburtonwatch.org/reports/houston2006.pdf" target="_blank">$1.4 billion</a> of overcharging and fraud, I suppose the primary service they provide could be considered to be repeatedly violating the American taxpayer.</li>
+<li><strong>Tax Breaks</strong> &#8211; Tax breaks targeted to benefit specific corporations could also be considered a form of welfare. <a href="https://www.amazon.com/gp/product/0471711780/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0471711780&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">Tax loopholes</a> force other businesses and individual taxpayers without the same political clout to pick up the slack and sacrifice a greater share of their hard-earned money to decrease the financial burden on these corporations. However, to simplify matters, we’ve only included financial handouts to companies in our working definition of corporate welfare.</li>
+</ol>
+<h5>What IS considered&nbsp;corporate welfare?</h5>
+<ul>
+<li><strong>Subsidies</strong> &#8211; On the other hand, the <a href="https://en.wikipedia.org/wiki/Energy_Policy_Act_of_2005">$15 billion</a> in subsidies contained in the Energy Policy Act of 2005, to the oil, gas, and coal industries, would be considered corporate welfare because no goods or services are directly returned to the government in exchange for these expenditures.</li>
+</ul>
+<div><a style="color: #ed1e24; text-decoration: underline;" href="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/energy-subsidies-chart.jpg"><img data-attachment-id="139" data-permalink="/government-spending/corporate-welfare/corporate-vs-social-welfare/attachment/energy-subsidies-chart/" data-orig-file="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/energy-subsidies-chart.jpg?fit=1992%2C1182&amp;ssl=1" data-orig-size="1992,1182" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Energy Subsidies Chart" data-image-description="" data-medium-file="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/energy-subsidies-chart.jpg?fit=300%2C178&amp;ssl=1" data-large-file="https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/energy-subsidies-chart.jpg?fit=1024%2C608&amp;ssl=1" class="alignnone size-large wp-image-139" title="Energy Subsidies Infographic" src="https://i0.wp.com/web.archive.org/web/20150921040658/https://thinkbynumbers.org/wp-content/uploads/2008/03/energy-subsidies-chart-1024x607.jpg?resize=620%2C367" alt="US Energy Subsidies Infographic by GOOD Magazine &amp; Deeplocal" data-recalc-dims="1" /></a></div>
+<div></div>
+<div style="padding-left: 30px;"><em>Infographic Source:&nbsp;<a href="https://www.good.is/infographics" target="_blank">http://awesome.good.is/transparency/web/1012/subsidize-this/flat.html</a></em></div>
+<div></div>
+<p>&nbsp;</p>
+<p>Whenever corporate welfare is presented to voters, it always sounds like a pretty reasonable, well-intended idea. Politicians say that they’re <a href="https://www.amazon.com/gp/product/0810988399/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0810988399&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">stimulating the economy</a> or helping struggling industries or creating jobs or funding important research. But when you steal money from the paychecks of working people, you hurt the economy by reducing their ability to buy the things they want or need. This decrease in demand damages other industries and puts people out of work.</p>
+<p>Most of the pigs at the government trough are among the biggest companies in America, including:</p>
+<ul>
+<li>The <a href="https://www.amazon.com/gp/product/B00FNSDEGQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00FNSDEGQ&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">Big 3 automakers</a></li>
+<li>Boeing</li>
+<li>Archer Daniels Midland</li>
+<li>Enron</li>
+</ul>
+<h3>Farm Subsidies</h3>
+<p>However, the largest fraction of corporate welfare spending, about 40%, went through the Department of Agriculture, most of it in the form of <a href="https://www.amazon.com/gp/product/B005ZH34ZQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B005ZH34ZQ&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">farm subsidies</a>. <a href="https://object.cato.org/sites/cato.org/files/pubs/pdf/pa592.pdf">(Edwards, Corporate Welfare, 2003) </a> Well, that sounds OK. Someone’s got to help struggling family farms stay afloat, right? But in reality, farm subsidies actually&nbsp;tilt the cotton field in favor of the largest industrial farming operations. When it comes to deciding how to dole out the money, the agricultural subsidy system utilizes a process that is essentially the opposite of that used in the social welfare system&#8217;s welfare system. In the corporate welfare system, the more money and assets you have, the more government assistance you get. Conversely, social welfare programs are set up so that the more money and assets you have, the less government assistance you get. The result is that the absolute largest 7% of corporate farming operations receive 45% of all subsidies. <a href="https://object.cato.org/sites/cato.org/files/pubs/pdf/pa515.pdf">(Edwards, Downsizing the Federal Government, 2004) </a> So instead of protecting family farms, these subsidies actually enhance the ability of large industrial operations to shut them out of the market.</p>
+<p><a href="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg"><img data-attachment-id="151" data-permalink="/government-spending/corporate-welfare/corporate-vs-social-welfare/attachment/farm-subsidies-3/" data-orig-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?fit=896%2C681&amp;ssl=1" data-orig-size="896,681" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Farm Subsidies" data-image-description="" data-medium-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?fit=300%2C228&amp;ssl=1" data-large-file="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?fit=896%2C681&amp;ssl=1" class="alignnone size-full wp-image-151" title="Farm Subsidies" src="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?resize=538%2C409" alt="Graph of Direct Government Payments to Farmers (1990-2004)" srcset="https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?w=896&amp;ssl=1 896w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?resize=300%2C228&amp;ssl=1 300w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?resize=768%2C584&amp;ssl=1 768w, https://i0.wp.com/thinkbynumbers.org/wp-content/uploads/2008/03/Farm-Subsidies2.jpg?resize=672%2C511&amp;ssl=1 672w" sizes="(max-width: 538px) 100vw, 538px" data-recalc-dims="1" /></a></p>
+<p style="padding-left: 30px;"><em>Graph Source: <a href="http://web.archive.org/web/20150509010540/http://www.ers.usda.gov:80/Data" target="_blank">http://ers.usda.gov/data</a></em></p>
+<h3>Wal-Mart. &nbsp;Always high subsidies. &nbsp;Always.</h3>
+<p>The same is true in all other industries, too. The government gives tons of favors to the largest corporations, increasing the significant advantage they already have over smaller competing businesses. If, in the court of public opinion, <a href="https://www.amazon.com/gp/product/1595580212/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1595580212&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">Wal-Mart</a> has been tried and convicted for the <a href="https://www.amazon.com/gp/product/B000BTH4K4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B000BTH4K4&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">murder of main street</a>, mom-and-pop America, then the government could easily be found guilty as a willing accomplice. Wal-Mart receives hundreds of millions of dollars of subsidization by local governments throughout the country. These subsidies take the form of bribes by local politicians trying to convince Wal-Mart to come to their town with the dream of significant job creation. Of course, from that follows a larger tax base. For example, a distribution center in Macclenny, Florida received <a href="https://ilsr.org/walmart-distribution-centers-capture-150-million-subsidies/" target="_blank">$9 million</a> in <a href="https://www.amazon.com/gp/product/0143038788/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0143038788&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">government subsidies</a> in the form of free land, government-funded recruitment and training of employees, targeted tax breaks, and housing subsidies for employees allowing them to be paid significantly lower wages. A study by Good Jobs First found that 244 Wal-Marts around the country had received over $1 billion in government favors.</p>
+<h1>The Big Picture</h1>
+<p>So now let’s look at the big picture. The final totals are <a href="https://www.downsizinggovernment.org/health-and-human-services" target="_blank">$59</a> billion, 3 percent of the total federal budget, for regular welfare and <a href="http://www.cato.org/publications/policy-analysis/corporate-welfare-state-how-federal-government-subsidizes-us-businesses" target="_blank">$92 </a>billion, 5 percent of the total federal budget, for corporations. So, the government spends roughly 50% more on corporate welfare than it does on these particular public assistance programs.</p>
+<p>Should we spend less on <a href="https://www.amazon.com/gp/product/158322033X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=158322033X&amp;linkCode=as2&amp;tag=quant08-20" target="_blank">corporate welfare</a> and/or social welfare programs? Or should we spend even more? It’s up to you. A bunch of people died horrible deaths to make sure this country remained a democracy, so if you feel strongly about this issue you owe it to them to call or write your congressman and senators and give them a piece of your mind.</p>
+<h2>Some More Sources:</h2>
+<p>2013 Budget:&nbsp;<a href="https://www.whitehouse.gov/sites/default/files/omb/budget/fy2013/assets/budget.pdf" target="_blank">http://www.whitehouse.gov/sites/default/files/omb/budget/fy2013/assets/budget.pdf</a></p>
+<p>Source: Office of Management and Budget, Budget of the United States Government (Washington: Government&nbsp;Publishing Office), various years; and data from the American Association for the Advancement of Science R&amp;D&nbsp;Budget and Policy Program, various years.</p>
+<p>Source: U.S. Department of Agriculture, Economic Research Service,&nbsp;<a href="http://ers.usda.gov/data-products.aspx#.UzsvUPldV8E" target="_blank" rel="nofollow">http://www.ers.usda.gov/data</a>.</p>
+<p>Source: &nbsp;Export-Import Bank, 2006 Annual Report (Washington: Export-Import Bank, 2007).</p>
+<p>Source Data from Chris Edwards at Cato:</p>
+<p><a href="/wp-content/uploads/2008/03/Corporate-Welfare-Programs-BY-Agency-21.jpg" target="_blank">Corporate Welfare by Agency</a></p>
+<p><a href="/wp-content/uploads/2008/03/Corporate-Welfare-Programs-BY-Agency1.jpg" target="_blank">Corporate Welfare by Agency 2</a></p>
+<p><a href="/wp-content/uploads/2008/03/Corporate-Welfare-to-Companies.jpg" target="_blank">Corporate Welfare by Company</a></p>
+<p><em>I am extremely appreciative of any corrections or additional info that I left out. &nbsp;Please include&nbsp;<strong style="font-size: 0.8em;">hyperlinked</strong>&nbsp;SOURCES. &nbsp;I want to update this post with more recent numbers and more expansive definitions of both corporate and social welfare.</em></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/government-spending/corporate-welfare/corporate-vs-social-welfare/">Government Spends More on Corporate Welfare Subsidies than Social Welfare Programs</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn003_corporate_welfare_statistics.mp3" length="8514376" type="audio/mpeg" />
+		<itunes:subtitle>About $59 billion is spent on traditional social welfare programs. $92 billion is spent on corporate subsidies. So, the government spent 50% more on corporate welfare than it did on food stamps and housing assistance in 2006.</itunes:subtitle>
+		<itunes:summary>About $59 billion is spent on traditional social welfare programs. $92 billion is spent on corporate subsidies. So, the government spent 50% more on corporate welfare than it did on food stamps and housing assistance in 2006.</itunes:summary>
+		<itunes:author>Bob Butterfield</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>11:39</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">5</post-id>		<itunes:order>11</itunes:order>
+	</item>
+</channel>
+</rss>

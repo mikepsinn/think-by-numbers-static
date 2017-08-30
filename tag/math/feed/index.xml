@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>math &#8211; Think by Numbers</title>
+	<atom:link href="/tag/math/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A better world through data.</description>
+	<lastBuildDate>Tue, 09 May 2017 15:30:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>https://i2.wp.com/thinkbynumbers.org/wp-content/uploads/2016/10/cropped-Think-By-Numbers-tbn-logo-favicon-icon-Thumbnail-600-x-600-transparent.png?fit=32%2C32&#038;ssl=1</url>
+	<title>math &#8211; Think by Numbers</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">26068032</site>	<item>
+		<title>cos(b) says, &#8220;The kids today need to learn their mathematics, ya see!&#8221;</title>
+		<link>/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see/</link>
+		<comments>/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see/#comments</comments>
+		<pubDate>Fri, 02 Sep 2011 04:01:19 +0000</pubDate>
+		<dc:creator><![CDATA[Mike P. Sinn]]></dc:creator>
+				<category><![CDATA[Monkey Business]]></category>
+		<category><![CDATA[bill]]></category>
+		<category><![CDATA[cos b]]></category>
+		<category><![CDATA[cosby]]></category>
+		<category><![CDATA[math]]></category>
+		<category><![CDATA[mathematics]]></category>
+		<category><![CDATA[sin b]]></category>
+		<category><![CDATA[tan b]]></category>
+
+		<guid isPermaLink="false">/blog/?p=200</guid>
+		<description><![CDATA[<p>Mathematical proof that Bill Cosby is not square: &#160;</p>
+<p>The post <a rel="nofollow" href="/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see/">cos(b) says, &#8220;The kids today need to learn their mathematics, ya see!&#8221;</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #536a86;">Mathematical proof that Bill Cosby is not square:</span></p>
+<p><img title="Bill Cosby" src="https://i1.wp.com/thinkbynumbers.org/wp-content/uploads/2011/09/tumblr_lqmd964J311r1at80o1_1280.jpg?resize=614%2C384" alt="Bill Cosby" data-recalc-dims="1" /></p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see/">cos(b) says, &#8220;The kids today need to learn their mathematics, ya see!&#8221;</a> appeared first on <a rel="nofollow" href="/">Think by Numbers</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">200</post-id>	</item>
+	</channel>
+</rss>
