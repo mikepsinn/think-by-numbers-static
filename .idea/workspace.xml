@@ -42,19 +42,29 @@
                 <element signature="e#114860#114866#0" expanded="true" />
                 <element signature="e#114866#114872#0" expanded="true" />
                 <element signature="e#114872#114878#0" expanded="true" />
-                <marker date="1507947491313" expanded="false" signature="127535:127825" ph="{...}" />
-                <marker date="1507947491313" expanded="false" signature="127915:128200" ph="{...}" />
-                <marker date="1507947491313" expanded="false" signature="128289:128573" ph="{...}" />
-                <marker date="1507947491313" expanded="false" signature="128661:128944" ph="{...}" />
-                <marker date="1507947491313" expanded="false" signature="129032:129315" ph="{...}" />
-                <marker date="1507947491313" expanded="false" signature="129405:129690" ph="{...}" />
+                <marker date="1507948226476" expanded="false" signature="127535:127825" ph="{...}" />
+                <marker date="1507948226476" expanded="false" signature="127915:128200" ph="{...}" />
+                <marker date="1507948226476" expanded="false" signature="128289:128573" ph="{...}" />
+                <marker date="1507948226476" expanded="false" signature="128661:128944" ph="{...}" />
+                <marker date="1507948226476" expanded="false" signature="129032:129315" ph="{...}" />
+                <marker date="1507948226476" expanded="false" signature="129405:129690" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".nojekyll" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.nojekyll">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -87,12 +97,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1581" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -154,7 +167,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -212,17 +226,25 @@
             <element signature="e#114860#114866#0" expanded="true" />
             <element signature="e#114866#114872#0" expanded="true" />
             <element signature="e#114872#114878#0" expanded="true" />
-            <marker date="1507947491313" expanded="false" signature="127535:127825" ph="{...}" />
-            <marker date="1507947491313" expanded="false" signature="127915:128200" ph="{...}" />
-            <marker date="1507947491313" expanded="false" signature="128289:128573" ph="{...}" />
-            <marker date="1507947491313" expanded="false" signature="128661:128944" ph="{...}" />
-            <marker date="1507947491313" expanded="false" signature="129032:129315" ph="{...}" />
-            <marker date="1507947491313" expanded="false" signature="129405:129690" ph="{...}" />
+            <marker date="1507948226476" expanded="false" signature="127535:127825" ph="{...}" />
+            <marker date="1507948226476" expanded="false" signature="127915:128200" ph="{...}" />
+            <marker date="1507948226476" expanded="false" signature="128289:128573" ph="{...}" />
+            <marker date="1507948226476" expanded="false" signature="128661:128944" ph="{...}" />
+            <marker date="1507948226476" expanded="false" signature="129032:129315" ph="{...}" />
+            <marker date="1507948226476" expanded="false" signature="129405:129690" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.nojekyll">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
