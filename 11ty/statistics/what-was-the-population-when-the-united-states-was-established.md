@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/08/1200px-Population_of_the_United_States_1790-2000.png
   media:
-    featuredImage: assets/1200px-Population_of_the_Unite-SUaWNU1jnXNU.png
+    featuredImage: statistics/assets/1200px-Population_of_the_Unite-SUaWNU1jnXNU.png
   categories:
     - Statistics
   tags:

@@ -5,7 +5,7 @@ date: 2020-12-06T01:51:09.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2020/12/johnny-5.gif
   media:
-    featuredImage: assets/johnny-5-yOhs7kgS4wLB.gif
+    featuredImage: psychology/assets/johnny-5-yOhs7kgS4wLB.gif
   categories:
     - Psychology
     - Science

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/productivity-pay-gap.png
   media:
-    featuredImage: assets/productivity-pay-gap-Nj4SDse3nv1O.png
+    featuredImage: economics/assets/productivity-pay-gap-Nj4SDse3nv1O.png
   categories:
     - Economics
     - Federal Reserve

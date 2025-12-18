@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2009/02/Debt-to-GDP-Forecast-Chart.png
   media:
-    featuredImage: assets/Debt-to-GDP-Forecast-Chart-lIl8zhFJyXDt.png
+    featuredImage: debt/assets/Debt-to-GDP-Forecast-Chart-lIl8zhFJyXDt.png
   categories:
     - Debt
     - GDP

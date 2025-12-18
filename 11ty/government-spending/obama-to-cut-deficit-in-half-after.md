@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2009/03/Obama-to-cut-deficit-in-half.jpg
   media:
-    featuredImage: assets/Obama-to-cut-deficit-in-half-iZL1sZuA1cmh.jpg
+    featuredImage: government-spending/assets/Obama-to-cut-deficit-in-half-iZL1sZuA1cmh.jpg
   categories:
     - Government Spending
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=8

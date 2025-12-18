@@ -5,7 +5,7 @@ date: 2020-02-08T06:34:05.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2020/02/nuclear-bombs.jpg
   media:
-    featuredImage: assets/nuclear-bombs-nuDf6YAhMCaz.jpg
+    featuredImage: military/assets/nuclear-bombs-nuDf6YAhMCaz.jpg
   categories:
     - Military
   tags:

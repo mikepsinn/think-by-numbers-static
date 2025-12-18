@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2008/03/corporate-welfare-piggy-bank-thumb-150x150.jpg
   media:
-    featuredImage: assets/corporate-welfare-piggy-bank-t-dVDRGzGaLO3A.jpg
+    featuredImage: government-spending/assets/corporate-welfare-piggy-bank-t-dVDRGzGaLO3A.jpg
   categories:
     - Government Spending
   tags:

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/4-trillion-new-money-from-federal-reserve-went-to-top-1-percent.png
   media:
-    featuredImage: assets/4-trillion-new-money-from-fede-tfVZAqdIkVHc.png
+    featuredImage: economics/assets/4-trillion-new-money-from-fede-tfVZAqdIkVHc.png
   categories:
     - Economics
     - Federal Reserve

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2022/03/how-much-we-know-numbers.png
   media:
-    featuredImage: assets/how-much-we-know-numbers-Veec32GfY4tp.png
+    featuredImage: health/assets/how-much-we-know-numbers-Veec32GfY4tp.png
   categories:
     - Health
   tags:

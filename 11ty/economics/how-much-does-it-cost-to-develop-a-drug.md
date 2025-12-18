@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/08/2-Crossing-over-the-Valley-of-Death-The-distinct-stages-of-drug-development-from.png
   media:
-    featuredImage: assets/2-Crossing-over-the-Valley-of--6SfLDqKeQBNe.png
+    featuredImage: economics/assets/2-Crossing-over-the-Valley-of--6SfLDqKeQBNe.png
   categories:
     - Economics
     - Healthcare

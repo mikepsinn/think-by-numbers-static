@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/04/trends-in-human-well-being.png
   media:
-    featuredImage: assets/trends-in-human-well-being-Bz32zMaMiuah.png
+    featuredImage: economics/assets/trends-in-human-well-being-Bz32zMaMiuah.png
   categories:
     - Economics
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9700

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2012/11/featured-image-tarp.png
   media:
-    featuredImage: assets/featured-image-tarp-omhqlcl75h4c.png
+    featuredImage: government-spending/assets/featured-image-tarp-omhqlcl75h4c.png
   categories:
     - Government Spending
   tags:

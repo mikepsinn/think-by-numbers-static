@@ -5,7 +5,7 @@ date: 2013-02-28T22:36:49.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2013/02/Duffman2.jpg
   media:
-    featuredImage: assets/Duffman2-GOVyHQ4FwakJ.jpg
+    featuredImage: monkey-business/assets/Duffman2-GOVyHQ4FwakJ.jpg
   categories:
     - Monkey Business
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8242

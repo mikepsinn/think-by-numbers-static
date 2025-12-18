@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/10/Suffering-Caused-by-Various-Animal-Foods.jpg
   media:
-    featuredImage: assets/Suffering-Caused-by-Various-An-Clia8kVmgTL3.jpg
+    featuredImage: utilitarianism/assets/Suffering-Caused-by-Various-An-Clia8kVmgTL3.jpg
   categories:
     - Utilitarianism
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1067

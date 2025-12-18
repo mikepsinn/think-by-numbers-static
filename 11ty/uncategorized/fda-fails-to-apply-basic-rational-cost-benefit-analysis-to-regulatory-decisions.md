@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2025/01/DALL·E-2025-01-15-16.48.11-A-wide-format-digital-illustration-representing-the-concept-of-logical-reasoning-and-quantitative-analysis-in-decision-making-reimagined-in-a-neo-bru.webp
   media:
-    featuredImage: assets/DALL·E-2025-01-15-16.48.11-A-w-kmGKDqlHQ9Uv.webp
+    featuredImage: uncategorized/assets/DALL·E-2025-01-15-16.48.11-A-w-kmGKDqlHQ9Uv.webp
   categories:
     - Health
   tags:

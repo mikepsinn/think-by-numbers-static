@@ -5,7 +5,7 @@ date: 2011-10-26T16:11:50.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/10/brain-gears.jpg
   media:
-    featuredImage: assets/brain-gears-m34ruynHlic8.jpg
+    featuredImage: psychology/assets/brain-gears-m34ruynHlic8.jpg
   categories:
     - Psychology
   tags:

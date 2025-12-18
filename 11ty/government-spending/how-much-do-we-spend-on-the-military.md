@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/05/military-expenditure-by-country-in-thousands-of-2000-us-dollars.png
   media:
-    featuredImage: assets/military-expenditure-by-countr-HXD27H6q2Zrw.png
+    featuredImage: government-spending/assets/military-expenditure-by-countr-HXD27H6q2Zrw.png
   categories:
     - Government Spending
     - Military

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2013/03/wealth-inequality-featured-image.png
   media:
-    featuredImage: assets/wealth-inequality-featured-ima-vRUxvkOEZHjp.png
+    featuredImage: economics/assets/wealth-inequality-featured-ima-vRUxvkOEZHjp.png
   categories:
     - Economics
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8256

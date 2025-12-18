@@ -5,7 +5,7 @@ date: 2012-11-26T03:50:41.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2012/11/felicific-calculus.jpg
   media:
-    featuredImage: assets/felicific-calculus-2Zc29o0R0L0l.jpg
+    featuredImage: empiricism-2/assets/felicific-calculus-2Zc29o0R0L0l.jpg
   categories:
     - Empiricism
     - Utilitarianism

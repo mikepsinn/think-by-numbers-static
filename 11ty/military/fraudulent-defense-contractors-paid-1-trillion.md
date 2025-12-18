@@ -5,7 +5,7 @@ date: 2011-10-21T07:45:18.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/10/war-profiteer.gif
   media:
-    featuredImage: assets/war-profiteer-yzxdHsHs8896.gif
+    featuredImage: military/assets/war-profiteer-yzxdHsHs8896.gif
   categories:
     - Military
   tags:

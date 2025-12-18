@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/10/Unrepresentative-Democracy-e1319168693378.jpg
   media:
-    featuredImage: assets/Unrepresentative-Democracy-e13-RrgDr3uuCUKW.jpg
+    featuredImage: democracy/assets/Unrepresentative-Democracy-e13-RrgDr3uuCUKW.jpg
   categories:
     - Democracy
   tags:

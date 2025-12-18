@@ -5,7 +5,7 @@ date: 2011-09-09T03:49:26.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg
   media:
-    featuredImage: assets/SmileyMoneyFace-9xBjiEM78yjP.jpg
+    featuredImage: taxes/assets/SmileyMoneyFace-9xBjiEM78yjP.jpg
   categories:
     - Taxes
   tags:

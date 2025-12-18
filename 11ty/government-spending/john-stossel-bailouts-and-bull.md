@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2009/03/Bailout-Costs-16000-per-Worker.png
   media:
-    featuredImage: assets/Bailout-Costs-16000-per-Worker-v6MMeWBX976U.png
+    featuredImage: government-spending/assets/Bailout-Costs-16000-per-Worker-v6MMeWBX976U.png
   categories:
     - Corporate Welfare
     - Government Spending

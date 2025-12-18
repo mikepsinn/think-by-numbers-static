@@ -5,7 +5,7 @@ date: 2025-01-17T09:53:43.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2025/01/change-the-world.webp
   media:
-    featuredImage: assets/change-the-world-5KcIJiECYn2N.webp
+    featuredImage: politics/assets/change-the-world-5KcIJiECYn2N.webp
   categories:
     - Politics
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10786

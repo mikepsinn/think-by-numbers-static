@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2012/04/featured-image-GDP-by-Indusrty-Graph.jpg
   media:
-    featuredImage: assets/featured-image-GDP-by-Indusrty-FhlxF9YSJdeI.jpg
+    featuredImage: federal-reserve/assets/featured-image-GDP-by-Indusrty-FhlxF9YSJdeI.jpg
   categories:
     - Corporate Welfare
     - Federal Reserve

@@ -7,7 +7,7 @@ date: 2024-03-09T12:51:44.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2024/03/coronavirus.jpeg
   media:
-    featuredImage: assets/coronavirus-IUQK2rt24lx2.jpeg
+    featuredImage: science/assets/coronavirus-IUQK2rt24lx2.jpeg
   categories:
     - Science
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10694

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/Map_of_USA_VA-e1616263111399.png
   media:
-    featuredImage: assets/Map_of_USA_VA-e1616263111399-UVbXSAOCl6gk.png
+    featuredImage: military/assets/Map_of_USA_VA-e1616263111399-UVbXSAOCl6gk.png
   categories:
     - Military
   tags:

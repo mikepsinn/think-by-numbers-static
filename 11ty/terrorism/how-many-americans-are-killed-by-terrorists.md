@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/05/fatalities-from-terrorism.png
   media:
-    featuredImage: assets/fatalities-from-terrorism-lo21OP48dfgZ.png
+    featuredImage: terrorism/assets/fatalities-from-terrorism-lo21OP48dfgZ.png
   categories:
     - Terrorism
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9571

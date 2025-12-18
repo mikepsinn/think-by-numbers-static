@@ -5,7 +5,7 @@ date: 2024-08-31T08:00:15.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2024/08/irs.png
   media:
-    featuredImage: assets/irs-AkRaiZckP1ai.png
+    featuredImage: taxes/assets/irs-AkRaiZckP1ai.png
   categories:
     - Taxes
   tags:

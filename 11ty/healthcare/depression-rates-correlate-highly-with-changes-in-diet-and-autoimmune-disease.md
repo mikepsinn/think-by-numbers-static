@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/10/Tryptophan-Steal-Chart1-1024x791.jpg
   media:
-    featuredImage: assets/Tryptophan-Steal-Chart1-1024x7-ol8TtUkGmWZR.jpg
+    featuredImage: healthcare/assets/Tryptophan-Steal-Chart1-1024x7-ol8TtUkGmWZR.jpg
   categories:
     - Healthcare
   tags:

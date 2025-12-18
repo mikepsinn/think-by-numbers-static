@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/09/Country-based-correlation-scatter-plot-for-log-GDP-per-capita-and-Democracy-for-the-year.png
   media:
-    featuredImage: assets/Country-based-correlation-scat-u30Yn21Ekpoo.png
+    featuredImage: democracy/assets/Country-based-correlation-scat-u30Yn21Ekpoo.png
   categories:
     - Democracy
   tags:

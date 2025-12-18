@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2024/07/DALL·E-2024-07-20-22.07.01-A-wide-90s-retro-style-image-depicting-a-contrast-between-a-modern-expensive-bottled-water-factory-and-a-poor-rural-area-lacking-basic-water-infras.webp
   media:
-    featuredImage: assets/DALL·E-2024-07-20-22.07.01-A-w-OFjhucId5RbM.webp
+    featuredImage: economics/assets/DALL·E-2024-07-20-22.07.01-A-w-OFjhucId5RbM.webp
   categories:
     - Economics
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10733

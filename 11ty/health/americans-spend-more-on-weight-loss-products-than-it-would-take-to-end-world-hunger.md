@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/04/weight-loss-vs-world-hunger-spending.png
   media:
-    featuredImage: assets/weight-loss-vs-world-hunger-sp-u4C6RS5eC3Vr.png
+    featuredImage: health/assets/weight-loss-vs-world-hunger-sp-u4C6RS5eC3Vr.png
   categories:
     - Health
     - Utilitarianism

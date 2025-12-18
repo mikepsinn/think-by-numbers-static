@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/07/real-world-evidence-in-efficacy-clinical-trials-vs-rcts.png
   media:
-    featuredImage: assets/real-world-evidence-in-efficac-8Hv8Qa979nSu.png
+    featuredImage: health/assets/real-world-evidence-in-efficac-8Hv8Qa979nSu.png
   categories:
     - Health
     - Healthcare

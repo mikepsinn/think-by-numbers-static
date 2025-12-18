@@ -7,7 +7,7 @@ date: 2020-04-02T00:14:11.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2020/04/junk-mail.jpg
   media:
-    featuredImage: assets/junk-mail-mKSlr5WOLdK9.jpg
+    featuredImage: government-spending/assets/junk-mail-mKSlr5WOLdK9.jpg
   categories:
     - Government Spending
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9690

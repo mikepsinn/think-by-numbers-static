@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2013/04/Cropped-Priorities-Money-Spent-on-War-Sports-Neuroscience-Cancer-Research-Graph-Think-by-Numbers.png
   media:
-    featuredImage: assets/Cropped-Priorities-Money-Spent-m34XReuV2jwO.png
+    featuredImage: government-spending/assets/Cropped-Priorities-Money-Spent-m34XReuV2jwO.png
   categories:
     - Government Spending
     - Military

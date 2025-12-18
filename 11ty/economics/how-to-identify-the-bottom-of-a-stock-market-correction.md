@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/04/sp-500-vs-corporate-profits-after-tax-2020-1.png
   media:
-    featuredImage: assets/sp-500-vs-corporate-profits-af-Y7WQ0PsHm5Cw.png
+    featuredImage: economics/assets/sp-500-vs-corporate-profits-af-Y7WQ0PsHm5Cw.png
   categories:
     - Economics
   tags:

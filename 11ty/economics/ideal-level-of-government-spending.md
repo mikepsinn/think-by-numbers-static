@@ -5,7 +5,7 @@ date: 2012-04-17T19:56:00.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2012/11/Armey.gif
   media:
-    featuredImage: assets/Armey-VVZxDF7F2wwe.gif
+    featuredImage: economics/assets/Armey-VVZxDF7F2wwe.gif
   categories:
     - Economics
     - GDP

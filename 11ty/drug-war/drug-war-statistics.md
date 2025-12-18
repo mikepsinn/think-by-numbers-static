@@ -7,7 +7,7 @@ date: 2013-04-05T02:01:10.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif
   media:
-    featuredImage: assets/image_gallery-KK8LMYxBX7A1.gif
+    featuredImage: drug-war/assets/image_gallery-KK8LMYxBX7A1.gif
   categories:
     - Drug War
     - Government Spending

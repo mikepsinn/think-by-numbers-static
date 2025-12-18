@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/08/pexels-photo-3278364.jpeg
   media:
-    featuredImage: assets/pexels-photo-3278364-rKrXeVRYaahy.jpeg
+    featuredImage: statistics/assets/pexels-photo-3278364-rKrXeVRYaahy.jpeg
   categories:
     - Statistics
   tags:

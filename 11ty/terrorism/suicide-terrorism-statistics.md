@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2012/01/tbn-think-by-numbers-infographic-intervention-increases-terrorism-960-320.png
   media:
-    featuredImage: assets/tbn-think-by-numbers-infograph-9OdNhIiv2YkY.png
+    featuredImage: terrorism/assets/tbn-think-by-numbers-infograph-9OdNhIiv2YkY.png
   categories:
     - Terrorism
   tags:

@@ -5,7 +5,7 @@ date: 2011-08-06T04:57:00.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph.jpg
   media:
-    featuredImage: assets/Doctor-Ipad-Graph-7vUochlJjX7h.jpg
+    featuredImage: healthcare/assets/Doctor-Ipad-Graph-7vUochlJjX7h.jpg
   categories:
     - Corporate Welfare
     - Healthcare

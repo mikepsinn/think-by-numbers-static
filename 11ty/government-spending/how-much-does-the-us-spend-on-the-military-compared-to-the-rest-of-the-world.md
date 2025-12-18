@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/03/2018_Military_Expenditures_by_Country.png
   media:
-    featuredImage: assets/2018_Military_Expenditures_by_-Q28U1wByDHuP.png
+    featuredImage: government-spending/assets/2018_Military_Expenditures_by_-Q28U1wByDHuP.png
   categories:
     - Government Spending
     - Military

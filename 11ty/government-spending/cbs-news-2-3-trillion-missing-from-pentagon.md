@@ -5,7 +5,7 @@ date: 2013-01-26T00:51:04.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2013/01/p.jpg
   media:
-    featuredImage: assets/p-R5eflAJVhgtO.jpg
+    featuredImage: government-spending/assets/p-R5eflAJVhgtO.jpg
   categories:
     - Government Spending
     - Military

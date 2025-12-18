@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/07/money-printer-go-brr-photo.gif
   media:
-    featuredImage: assets/money-printer-go-brr-photo-84AdixNq1iA7.gif
+    featuredImage: economics/assets/money-printer-go-brr-photo-84AdixNq1iA7.gif
   categories:
     - Economics
     - Federal Reserve

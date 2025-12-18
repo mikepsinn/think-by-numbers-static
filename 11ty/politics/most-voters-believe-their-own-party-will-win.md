@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/08/wishful-thinking-bias-in-voters-chart.png
   media:
-    featuredImage: assets/wishful-thinking-bias-in-voter-lslrTcpc6sOq.png
+    featuredImage: politics/assets/wishful-thinking-bias-in-voter-lslrTcpc6sOq.png
   categories:
     - Politics
   tags:

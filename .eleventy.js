@@ -2,8 +2,10 @@ const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
   // Copy assets to output
-  eleventyConfig.addPassthroughCopy("11ty/assets");
-  eleventyConfig.addPassthroughCopy("11ty/**/assets");
+  eleventyConfig.addPassthroughCopy("content/assets");
+  eleventyConfig.addPassthroughCopy("content/**/assets");
+  // Preserve WordPress uploads for SEO
+  eleventyConfig.addPassthroughCopy("content/wp-content");
 
   // Date filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -75,10 +77,10 @@ module.exports = function(eleventyConfig) {
   // Set input and output directories
   return {
     dir: {
-      input: "11ty",
+      input: "content",
       output: "_site",
-      includes: "_includes",
-      data: "_data"
+      includes: "../11ty/_includes",
+      data: "../11ty/_data"
     },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",

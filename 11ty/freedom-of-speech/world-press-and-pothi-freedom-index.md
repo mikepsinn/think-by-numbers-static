@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg
   media:
-    featuredImage: assets/Press-freedom-speech-propagand-KlarhjbYyAhk.jpg
+    featuredImage: freedom-of-speech/assets/Press-freedom-speech-propagand-KlarhjbYyAhk.jpg
   categories:
     - Freedom of Speech
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8637

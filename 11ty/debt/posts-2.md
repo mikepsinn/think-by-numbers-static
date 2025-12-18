@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/09/featured-image-House-Bubble.jpg
   media:
-    featuredImage: assets/featured-image-House-Bubble-Ez96BvGXZ0Dx.jpg
+    featuredImage: debt/assets/featured-image-House-Bubble-Ez96BvGXZ0Dx.jpg
   categories:
     - Debt
     - Economics

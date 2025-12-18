@@ -5,7 +5,7 @@ date: 2019-06-23T00:03:46.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2019/07/dna.png
   media:
-    featuredImage: assets/dna-wnd2Zcy42eSF.png
+    featuredImage: science/assets/dna-wnd2Zcy42eSF.png
   categories:
     - Science
   tags:

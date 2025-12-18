@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2024/05/DALL·E-2024-05-23-04.39.35-A-balanced-scale-with-a-cat-on-one-side-and-various-animals-chickens-fish-cattle-along-with-environmental-symbols-trees-earth-on-the-other-side.webp
   media:
-    featuredImage: assets/DALL·E-2024-05-23-04.39.35-A-b-XAdBMpaO8itn.webp
+    featuredImage: utilitarianism/assets/DALL·E-2024-05-23-04.39.35-A-b-XAdBMpaO8itn.webp
   categories:
     - Utilitarianism
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10728

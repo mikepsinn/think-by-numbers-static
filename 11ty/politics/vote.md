@@ -5,7 +5,7 @@ date: 2014-11-05T05:17:16.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2014/11/vote-button-495.jpg
   media:
-    featuredImage: assets/vote-button-495-0tBsrVVHTJeX.jpg
+    featuredImage: politics/assets/vote-button-495-0tBsrVVHTJeX.jpg
   categories:
     - Politics
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8707

@@ -5,7 +5,7 @@ date: 2019-07-07T23:58:16.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2019/07/dna.png
   media:
-    featuredImage: assets/dna-wnd2Zcy42eSF.png
+    featuredImage: healthcare/assets/dna-wnd2Zcy42eSF.png
   categories:
     - Healthcare
   tags:

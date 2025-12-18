@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/02/featured-image-debt-by-GOP-presidential-candidate-2012.jpg
   media:
-    featuredImage: assets/featured-image-debt-by-GOP-pre-82RZniSnpTAT.jpg
+    featuredImage: debt/assets/featured-image-debt-by-GOP-pre-82RZniSnpTAT.jpg
   categories:
     - Debt
     - Taxes

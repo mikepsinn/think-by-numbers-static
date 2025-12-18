@@ -5,7 +5,7 @@ date: 2024-11-26T10:42:47.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2024/11/image.png
   media:
-    featuredImage: assets/image-Y2vJ9cpwu3is.png
+    featuredImage: democracy/assets/image-Y2vJ9cpwu3is.png
   categories:
     - Democracy
   tags:

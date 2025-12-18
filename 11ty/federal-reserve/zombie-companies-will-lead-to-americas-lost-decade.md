@@ -5,7 +5,7 @@ date: 2021-09-21T06:42:10.000Z
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2021/09/ScreenClip.png
   media:
-    featuredImage: assets/ScreenClip-7TotU81oOtbc.png
+    featuredImage: federal-reserve/assets/ScreenClip-7TotU81oOtbc.png
   categories:
     - Federal Reserve
   tags:

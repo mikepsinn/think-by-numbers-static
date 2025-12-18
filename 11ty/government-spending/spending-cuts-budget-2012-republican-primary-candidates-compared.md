@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg
   media:
-    featuredImage: assets/Budget-spending-cuts-by-GOP-Re-I5Jo7BGMtAp6.jpg
+    featuredImage: government-spending/assets/Budget-spending-cuts-by-GOP-Re-I5Jo7BGMtAp6.jpg
   categories:
     - Government Spending
     - Podcast

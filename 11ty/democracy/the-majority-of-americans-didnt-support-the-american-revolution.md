@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/09/public-support-for-american-revolution-pie-chart.png
   media:
-    featuredImage: assets/public-support-for-american-re-qbwzWRXlZwF3.png
+    featuredImage: democracy/assets/public-support-for-american-re-qbwzWRXlZwF3.png
   categories:
     - Democracy
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10012

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/06/us-stock-market-returns-under-trump-obama.png
   media:
-    featuredImage: assets/us-stock-market-returns-under--MkS3WdD9fKXp.png
+    featuredImage: economics/assets/us-stock-market-returns-under--MkS3WdD9fKXp.png
   categories:
     - Economics
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9622

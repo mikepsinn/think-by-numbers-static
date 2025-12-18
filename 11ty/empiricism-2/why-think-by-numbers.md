@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/09/The-Triune-Brain-Final-web.jpg
   media:
-    featuredImage: assets/The-Triune-Brain-Final-web-JK8okkIjLlMj.jpg
+    featuredImage: empiricism-2/assets/The-Triune-Brain-Final-web-JK8okkIjLlMj.jpg
   categories:
     - Empiricism
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8476

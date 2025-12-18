@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/10/featured-image-monetary-system-steals-from-poor.jpg
   media:
-    featuredImage: assets/featured-image-monetary-system-eeUESyfRPlhS.jpg
+    featuredImage: financial-sector/assets/featured-image-monetary-system-eeUESyfRPlhS.jpg
   categories:
     - Financial Sector
   tags:

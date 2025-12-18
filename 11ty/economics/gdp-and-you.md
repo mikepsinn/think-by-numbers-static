@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2013/03/government-spending-usa-factory-gdp.jpg
   media:
-    featuredImage: assets/government-spending-usa-factor-6oODZoEnDJ33.jpg
+    featuredImage: economics/assets/government-spending-usa-factor-6oODZoEnDJ33.jpg
   categories:
     - Economics
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8269

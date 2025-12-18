@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/03/opioid-overdose-vs-cancer-graph.png
   media:
-    featuredImage: assets/opioid-overdose-vs-cancer-grap-rYCF6VBt5JnA.png
+    featuredImage: health/assets/opioid-overdose-vs-cancer-grap-rYCF6VBt5JnA.png
   categories:
     - Health
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9536

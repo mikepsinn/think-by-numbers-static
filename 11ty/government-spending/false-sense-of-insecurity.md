@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2013/10/death-and-dollars-2.jpg
   media:
-    featuredImage: assets/death-and-dollars-2-qyzuGYKQl0jM.jpg
+    featuredImage: government-spending/assets/death-and-dollars-2-qyzuGYKQl0jM.jpg
   categories:
     - Government Spending
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=4

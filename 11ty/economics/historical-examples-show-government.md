@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2009/02/featured-image-Keynes-Time2.jpg
   media:
-    featuredImage: assets/featured-image-Keynes-Time2-PwX3k7rHoHoQ.jpg
+    featuredImage: economics/assets/featured-image-Keynes-Time2-PwX3k7rHoHoQ.jpg
   categories:
     - Corporate Welfare
     - Economics

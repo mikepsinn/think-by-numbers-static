@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2012/12/world-clock-statistics-featured-image.jpg
   media:
-    featuredImage: assets/world-clock-statistics-feature-P0sOBhUdPvUi.jpg
+    featuredImage: statistics/assets/world-clock-statistics-feature-P0sOBhUdPvUi.jpg
   categories:
     - Statistics
   tags:

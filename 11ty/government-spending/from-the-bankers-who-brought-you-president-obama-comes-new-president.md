@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg
   media:
-    featuredImage: assets/Obamney-Obama-Romney-Spending--Y1Xyqp6qSlGk.jpg
+    featuredImage: government-spending/assets/Obamney-Obama-Romney-Spending--Y1Xyqp6qSlGk.jpg
   categories:
     - Government Spending
   tags:

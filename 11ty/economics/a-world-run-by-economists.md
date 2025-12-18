@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/07/world-run-by-economists.jpeg
   media:
-    featuredImage: assets/world-run-by-economists-l8v4Sios5egS.jpeg
+    featuredImage: economics/assets/world-run-by-economists-l8v4Sios5egS.jpeg
   categories:
     - Economics
     - Utilitarianism

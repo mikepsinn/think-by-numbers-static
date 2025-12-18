@@ -8,7 +8,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/09/cos-b-square-cosby-thumb-125x125.jpg
   media:
-    featuredImage: assets/cos-b-square-cosby-thumb-125x1-EAw4BaYWFeVm.jpg
+    featuredImage: monkey-business/assets/cos-b-square-cosby-thumb-125x1-EAw4BaYWFeVm.jpg
   categories:
     - Monkey Business
   uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=200

@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/05/DEA_topper-extend-scaled.jpg
   media:
-    featuredImage: assets/DEA_topper-extend-scaled-XwWhR6NMMJm1.jpg
+    featuredImage: drug-war/assets/DEA_topper-extend-scaled-XwWhR6NMMJm1.jpg
   categories:
     - Drug War
   tags:

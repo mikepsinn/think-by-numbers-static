@@ -1,0 +1,14 @@
+---
+layout: base.njk
+title: Search
+permalink: /search/
+---
+
+<h2>Search</h2>
+<div id="search"></div>
+
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    new PagefindUI({ element: "#search", showSubResults: true });
+  });
+</script>

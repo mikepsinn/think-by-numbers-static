@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/inflation-Rise-and-Fall-of-the-USD-64c2.jpg
   media:
-    featuredImage: assets/inflation-Rise-and-Fall-of-the-iT57BoWmg2Sd.jpg
+    featuredImage: economics/assets/inflation-Rise-and-Fall-of-the-iT57BoWmg2Sd.jpg
   categories:
     - Economics
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10059
