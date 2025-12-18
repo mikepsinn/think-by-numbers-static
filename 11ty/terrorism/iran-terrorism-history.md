@@ -6,7 +6,7 @@ metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2012/07/C-_Users_Mike_Documents_Think-by-Numbers_Posts-Completed_Iran-US-Violence_iran-us-government-civilian-direct-deaths-punch-out.jpg
   media:
-    featuredImage: assets/C-_Users_Mike_Documents_Think--a4Y8tVdVaOah.jpg
+    featuredImage: terrorism/assets/C-_Users_Mike_Documents_Think--tkrHFBXqBr7w.jpg
   categories:
     - Terrorism
     - War
