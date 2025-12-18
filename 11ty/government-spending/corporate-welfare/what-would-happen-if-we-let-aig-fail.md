@@ -46,7 +46,7 @@ AIG recently released a list of their [counterparties](http://web.archive.org/we
 
 On April 2nd, Hank Greenberg, former CEO of AIG, [testified](https://www.c-span.org/video/?285045-101/aig-collapse-federal-rescue-continuation) before congress that the taxpayer would have been much better off if the government had allowed AIGFP to file Chapter 11 bankruptcy. [(Video of Testimony)](https://www.c-span.org/video/?285045-101/aig-collapse-federal-rescue-continuation)
 
-[Greenberg Congressional Testimony on AIG Bailout Bankruptcy Option](http://thinkbynumbers.org/wp-content/uploads/2009/04/Greenberg-AIG-Bailout-Bankruptcy.mp3)
+[Greenberg Congressional Testimony on AIG Bailout Bankruptcy Option](assets/Greenberg-AIG-Bailout-Bankrupt-NbD0ZogJwlem.mp3)
 
 Through this process, AIGFP would be broken up and sold off. The proceeds would go to their creditors. If this were to occur, the counterparties would have only received maybe 20% or 30% of the money that AIG owed them, but Greenberg said it definitely would not have led to systemic failure of the entire financial system. It makes sense. For instance, Goldman Sachs received [$12.9 billion](https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2009%2F03%2F16%2Fbusiness%2F16rescue.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR) in counterparty payments. That’s far less than the [$18 billion](http://web.archive.org/web/20110510012015/http://www.fiercefinance.com/story/more-goldman-sachs-bonus-pool/2007-12-14) that they spent on executive bonuses in 2007. So the receipt of only $3 billion through an AIG bankruptcy settlement would not have broken them, but it would certainly have brought down executive compensation.
 
