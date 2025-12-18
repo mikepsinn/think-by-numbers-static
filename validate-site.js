@@ -74,8 +74,11 @@ async function validateSite() {
           const src = srcMatch[1];
           // Check if local image exists
           if (src.startsWith('/') && !src.startsWith('//')) {
+            // Try both the original path and URL-decoded path
             const imgPath = path.join('_site', src);
-            if (!fs.existsSync(imgPath)) {
+            const decodedPath = path.join('_site', decodeURIComponent(src));
+
+            if (!fs.existsSync(imgPath) && !fs.existsSync(decodedPath)) {
               issues.brokenImages.push({
                 file: file.replace('_site/', ''),
                 src: src
