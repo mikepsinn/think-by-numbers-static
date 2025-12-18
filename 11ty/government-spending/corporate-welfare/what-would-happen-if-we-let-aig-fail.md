@@ -62,6 +62,6 @@ The bottom line is that the average household in America had to shell out around
 
 _Infographic Source: [http://www.insuranceproviders.com/aig-bailout-timeline/](http://www.insuranceproviders.com/aig-bailout-timeline/)_
 
-<audio class="wp-audio-shortcode" id="audio-13-13" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3?_=13"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-13-13" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/assets/podcasts/tbn008_what_if_aig_failed.mp3?_=13"><a href="/assets/podcasts/tbn008_what_if_aig_failed.mp3">/assets/podcasts/tbn008_what_if_aig_failed.mp3</a></audio>
 
-Podcast: [Play in new window](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3 "Play in new window") | [Download](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3 "Download")
+Podcast: [Play in new window](/assets/podcasts/tbn008_what_if_aig_failed.mp3 "Play in new window") | [Download](/assets/podcasts/tbn008_what_if_aig_failed.mp3 "Download")

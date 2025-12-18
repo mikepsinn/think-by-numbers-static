@@ -46,6 +46,6 @@ The study, like others Oishi has done looking at connections between economics a
 
  
 
-<audio class="wp-audio-shortcode" id="audio-249-8" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn011_taxes_make_us_happy.mp3?_=8"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn011_taxes_make_us_happy.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn011_taxes_make_us_happy.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-249-8" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/assets/podcasts/tbn011_taxes_make_us_happy.mp3?_=8"><a href="/assets/podcasts/tbn011_taxes_make_us_happy.mp3">/assets/podcasts/tbn011_taxes_make_us_happy.mp3</a></audio>
 
-Podcast: [Play in new window](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn011_taxes_make_us_happy.mp3 "Play in new window") | [Download](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn011_taxes_make_us_happy.mp3 "Download")
+Podcast: [Play in new window](/assets/podcasts/tbn011_taxes_make_us_happy.mp3 "Play in new window") | [Download](/assets/podcasts/tbn011_taxes_make_us_happy.mp3 "Download")

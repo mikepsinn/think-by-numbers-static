@@ -1,0 +1,21 @@
+{
+  "name": "think-by-numbers-static",
+  "version": "1.0.0",
+  "description": "Think by Numbers - A better world through data",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "clean": "rm -rf _site"
+  },
+  "keywords": [
+    "eleventy",
+    "blog",
+    "podcast",
+    "data-driven"
+  ],
+  "author": "Mike P. Sinn",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

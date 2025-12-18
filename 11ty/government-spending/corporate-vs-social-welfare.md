@@ -130,6 +130,6 @@ _I am extremely appreciative of any corrections or additional info that I left o
 
  
 
-<audio class="wp-audio-shortcode" id="audio-5-12" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn003_corporate_welfare_statistics.mp3?_=12"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn003_corporate_welfare_statistics.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn003_corporate_welfare_statistics.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-5-12" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/assets/podcasts/tbn003_corporate_welfare_statistics.mp3?_=12"><a href="/assets/podcasts/tbn003_corporate_welfare_statistics.mp3">/assets/podcasts/tbn003_corporate_welfare_statistics.mp3</a></audio>
 
-Podcast: [Play in new window](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn003_corporate_welfare_statistics.mp3 "Play in new window") | [Download](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn003_corporate_welfare_statistics.mp3 "Download")
+Podcast: [Play in new window](/assets/podcasts/tbn003_corporate_welfare_statistics.mp3 "Play in new window") | [Download](/assets/podcasts/tbn003_corporate_welfare_statistics.mp3 "Download")

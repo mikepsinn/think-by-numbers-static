@@ -225,6 +225,6 @@ So after examining the records and proposals of all the candidates, it appears t
 
  
 
-<audio class="wp-audio-shortcode" id="audio-1123-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn012_presidential_plans_compared.mp3?_=7"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn012_presidential_plans_compared.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn012_presidential_plans_compared.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-1123-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/assets/podcasts/tbn012_presidential_plans_compared.mp3?_=7"><a href="/assets/podcasts/tbn012_presidential_plans_compared.mp3">/assets/podcasts/tbn012_presidential_plans_compared.mp3</a></audio>
 
-Podcast: [Play in new window](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn012_presidential_plans_compared.mp3 "Play in new window") | [Download](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn012_presidential_plans_compared.mp3 "Download")
+Podcast: [Play in new window](/assets/podcasts/tbn012_presidential_plans_compared.mp3 "Play in new window") | [Download](/assets/podcasts/tbn012_presidential_plans_compared.mp3 "Download")

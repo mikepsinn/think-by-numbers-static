@@ -164,6 +164,6 @@ Love,
 
 Mike P. Sinn
 
-<audio class="wp-audio-shortcode" id="audio-8476-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3?_=5"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-8476-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/assets/podcasts/tbn013_why_think_by_numbers.mp3?_=5"><a href="/assets/podcasts/tbn013_why_think_by_numbers.mp3">/assets/podcasts/tbn013_why_think_by_numbers.mp3</a></audio>
 
-Podcast: [Play in new window](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3 "Play in new window") | [Download](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn013_why_think_by_numbers.mp3 "Download")
+Podcast: [Play in new window](/assets/podcasts/tbn013_why_think_by_numbers.mp3 "Play in new window") | [Download](/assets/podcasts/tbn013_why_think_by_numbers.mp3 "Download")

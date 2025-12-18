@@ -46,3 +46,4 @@ coverage
 DEVLOG.md
 *.log
 .claude/settings.local.json
+_site/
