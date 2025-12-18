@@ -245,14 +245,18 @@
 
     {# Main Header #}
     <div class="main-header">
-      <h1><a href="/" style="text-decoration: none; color: inherit;">{{ site.name }}</a></h1>
+      <div class="logo">
+        <a href="/">
+          <img src="{{ site.logo }}" alt="{{ site.name }}" style="max-width: 300px; height: auto;">
+        </a>
+      </div>
       <p>{{ site.description }}</p>
       <nav>
         <a href="/">Home</a>
         <a href="/statistical-cost-benefit-analysis-vs-irrational-emotion/">Why Think by Numbers?</a>
         <a href="{{ site.feedPath }}">RSS</a>
         <a href="{{ site.podcastFeedPath }}">Podcast</a>
-        <a href="/search/">Search</a>
+        <a href="/search/" class="search-link">🔍 Search</a>
       </nav>
     </div>
   </header>
