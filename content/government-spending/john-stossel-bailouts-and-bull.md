@@ -74,6 +74,6 @@ However, annual _price inflation_ has only been about [1.5% over the period](ht
 
 ![](/wp-content/uploads/2020/07/Annual-Inflation-Rate-2010-Jun-2020-768x523.png)
 
-<audio class="wp-audio-shortcode" id="audio-9-14" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3?_=14"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-9-14" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/podcast/tbn006_us_pays_16000_per_worker.mp3?_=14"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3</a></audio>
 
-Podcast: [Play in new window](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3 "Play in new window") | [Download](http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3 "Download")
+Podcast: [Play in new window](/wp-content/uploads/podcast/tbn006_us_pays_16000_per_worker.mp3 "Play in new window") | [Download](/wp-content/uploads/podcast/tbn006_us_pays_16000_per_worker.mp3 "Download")

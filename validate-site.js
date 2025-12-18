@@ -1,5 +1,7 @@
 const fs = require('fs');
 const path = require('path');
+const https = require('https');
+const http = require('http');
 
 function findHtmlFiles(dir, fileList = []) {
   const files = fs.readdirSync(dir);
@@ -15,6 +17,23 @@ function findHtmlFiles(dir, fileList = []) {
   return fileList;
 }
 
+async function checkExternalUrl(url) {
+  return new Promise((resolve) => {
+    const client = url.startsWith('https:') ? https : http;
+    const request = client.request(url, { method: 'HEAD', timeout: 5000 }, (res) => {
+      resolve({ url, status: res.statusCode, broken: res.statusCode >= 400 });
+    });
+    request.on('error', () => {
+      resolve({ url, status: 'ERROR', broken: true });
+    });
+    request.on('timeout', () => {
+      request.destroy();
+      resolve({ url, status: 'TIMEOUT', broken: true });
+    });
+    request.end();
+  });
+}
+
 async function validateSite() {
   console.log('🔍 Validating site...\n');
 
@@ -22,8 +41,12 @@ async function validateSite() {
     htmlEntities: [],
     brokenImages: [],
     externalImages: [],
-    unrenderedMarkdown: []
+    unrenderedMarkdown: [],
+    brokenLinks: [],
+    brokenExternalLinks: []
   };
+
+  const externalLinksToCheck = new Set();
 
   // Find all HTML files
   const htmlFiles = findHtmlFiles('_site');
@@ -94,6 +117,55 @@ async function validateSite() {
         }
       });
     }
+
+    // Check for broken internal and external links
+    const linkMatches = content.match(/<a[^>]+href="([^"]+)"[^>]*>/g);
+    if (linkMatches) {
+      linkMatches.forEach(linkTag => {
+        const hrefMatch = linkTag.match(/href="([^"]+)"/);
+        if (hrefMatch) {
+          const href = hrefMatch[1];
+
+          // Check external links
+          if (href.startsWith('http://') || href.startsWith('https://')) {
+            externalLinksToCheck.add(href);
+          }
+          // Check if internal link (starts with /) but not anchor-only or external
+          else if (href.startsWith('/') && !href.startsWith('//') && !href.includes('#')) {
+            // Remove query params and trailing slash for checking
+            const cleanHref = href.split('?')[0].replace(/\/$/, '');
+
+            // Skip non-HTML resources (RSS feeds, media files, etc.)
+            if (cleanHref.match(/\.(xml|json|txt|pdf|mp3|mp4|zip|jpg|jpeg|png|gif|svg|webp|css|js)$/i)) {
+              return;
+            }
+
+            const linkPath = path.join('_site', cleanHref, 'index.html');
+            const linkPathAlt = path.join('_site', cleanHref + '.html');
+
+            if (!fs.existsSync(linkPath) && !fs.existsSync(linkPathAlt)) {
+              issues.brokenLinks.push({
+                file: file.replace('_site/', ''),
+                href: href
+              });
+            }
+          }
+        }
+      });
+    }
+  }
+
+  // Check external links
+  if (externalLinksToCheck.size > 0) {
+    console.log(`🌐 Checking ${externalLinksToCheck.size} external links...\n`);
+    const externalResults = await Promise.all(
+      Array.from(externalLinksToCheck).map(url => checkExternalUrl(url))
+    );
+    externalResults.forEach(result => {
+      if (result.broken) {
+        issues.brokenExternalLinks.push(result);
+      }
+    });
   }
 
   // Report issues
@@ -154,8 +226,34 @@ async function validateSite() {
     console.log('');
   }
 
+  if (issues.brokenLinks.length > 0) {
+    console.log(`❌ Found ${issues.brokenLinks.length} broken internal links:`);
+    issues.brokenLinks.slice(0, 10).forEach(issue => {
+      console.log(`   - ${issue.file}: ${issue.href}`);
+    });
+    if (issues.brokenLinks.length > 10) {
+      console.log(`   ... and ${issues.brokenLinks.length - 10} more`);
+    }
+    console.log('');
+  } else {
+    console.log('✅ No broken internal links found\n');
+  }
+
+  if (issues.brokenExternalLinks.length > 0) {
+    console.log(`❌ Found ${issues.brokenExternalLinks.length} broken external links:`);
+    issues.brokenExternalLinks.slice(0, 10).forEach(issue => {
+      console.log(`   - ${issue.url} (Status: ${issue.status})`);
+    });
+    if (issues.brokenExternalLinks.length > 10) {
+      console.log(`   ... and ${issues.brokenExternalLinks.length - 10} more`);
+    }
+    console.log('');
+  } else {
+    console.log('✅ No broken external links found\n');
+  }
+
   // Summary
-  const totalIssues = issues.htmlEntities.length + issues.brokenImages.length + issues.unrenderedMarkdown.length;
+  const totalIssues = issues.htmlEntities.length + issues.brokenImages.length + issues.unrenderedMarkdown.length + issues.brokenLinks.length + issues.brokenExternalLinks.length;
   if (totalIssues === 0) {
     console.log('🎉 No issues found! Site looks good.\n');
   } else {
