@@ -1,0 +1,69 @@
+/*
+Theme Name: Mystique - Extend
+Theme URI: http://digitalnature.eu/themes/mystique/
+Description: Automatically generated child theme of Mystique. Please leave this one activated for proper customizations to Mystique.
+Version: 1.0
+Author: <a href="http://digitalnature.eu/" title="Visit author homepage">digitalnature</a>
+Author URI: http://digitalnature.eu/
+Template: mystique
+*/
+
+/* You can safely edit this file, but keep the Template tag above unchanged! */
+
+<!-- Update your html tag to include the itemscope and itemtype attributes -->
+<html itemscope itemtype="http://schema.org/Blog">
+
+<meta name="y_key" content="93dfe083fda24a50" /> 
+
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<!-- Add the following three tags inside head -->
+<meta itemprop="name" content="Think by Numbers">
+<meta itemprop="description" content="Statistical Reasoning &gt; Blind Intuition">
+
+<style type="text/css"> #costOfWarTotal { text-align: center; width: 270px; font-weight: bold; } #costOfWarTotal_Total { font-size: 1.3em; font-weight: bold; color: #990000; } #costOfWarTotal_Link { font-size: .7em; } </style>
+
+/*** LOGO/Site_Title and Navbar***/
+#site-title{padding:10px 0 0px 0}
+    
+/* Hide tag line from homepage */
+#header .headline{ display: none; !important}
+      
+/* Black navigation */
+ul.navigation{background-position:left -464px;background-color:#000;}
+ul.navigation li{background-position:right bottom;}
+ul.navigation li a{text-shadow:none;color:#b3b3b3;}
+ 
+ul.navigation li.active a,
+ul.navigation li.current_page_item a,ul.navigation li.current_page_parent a,ul.navigation li.current_page_ancestor a,
+ul.navigation li.current-cat a,ul.navigation li.current-cat-parent a,ul.navigation li.current-cat-ancestor a{background-position:left -164px;color:#fff;}
+ 
+ul.navigation li a:hover,ul.navigation li:hover a,ul.navigation li a.fadeThis span.hover{background-color:rgba(255,255,255,0.1);}
+ul.navigation li:hover li a{background-color:transparent;}
+ul.navigation li li a:hover,ul.navigation li li a.fadeThis span.hover{background-color:#ed1e24 !important;}
+ 
+ul.navigation li.active a span.pointer,
+ul.navigation li.current_page_item a span.pointer,ul.navigation li.current_page_parent a span.pointer,ul.navigation li.current_page_ancestor a
+ 
+span.pointer,
+ul.navigation li.current-cat a span.pointer,ul.navigation li.current-cat-parent a span.pointer,ul.navigation li.current-cat-ancestor a span.pointer
+{background-position:center bottom;}
+ 
+ul.navigation ul{background-color:rgba(0,0,0,0.66);border-color:#000;}
+ 
+ul.navigation li.active ul,
+ul.navigation li.current_page_item ul,ul.navigation li.current_page_parent ul,ul.navigation li.current_page_ancestor ul,
+ul.navigation li.current-cat ul,ul.navigation li.current-cat-parent ul,ul.navigation li.current-cat-ancestor ul
+{background-color:#656565;border-color:#656565;}
+ 
+ul.navigation ul ul{border-top:1px solid rgba(255,255,255,0.5);}
+#commentform div.social_connect_ui { padding-left: 90px;}
+
+.gallery {text-align: center;}

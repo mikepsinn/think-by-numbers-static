@@ -1,0 +1,111 @@
+/*
+Theme Name: 	WPLMS - Quantimodo
+Theme URI: 	http://www.euged.com/wordpress-themes/metrolium
+Description: 	Modern, metro, multi-purpose responsive WordPress theme. Beautifully designed, lovingly coded and absolutely bursting with functionality. As though that's not enough, you'll also receive free updates and <a href="http://www.euged.com/support" target="_blank">great support</a> to boot. What more could you possibly want? ;)
+Version: 	1
+Author: 	QuantiModo
+Author URI: 	http://quantimo.do
+License:	GNU General Public License version 3.0
+License URI:	http://www.gnu.org/licenses/gpl-3.0.html
+Template:	wplms
+*/
+
+/************************************/
+/*         QM Profile/Groups        */
+/************************************/
+/* Menu items */
+#importantMenuItem-personal-li a{
+    border-left: 10px solid #E8484A !important;
+    padding-left: 10px !important;
+}
+#importantMenuItem-groups-li a{
+    border-left: 10px solid #E8484A !important;
+    padding-left: 10px !important;
+}
+
+/* Full-width on profile page */
+.bp-user #buddypress .container{
+    max-width: 100%;
+}
+/* Full-width on group details page */
+.single-item.groups #buddypress .container{
+    max-width: 100%;
+}
+
+/* Make the sidebar on the groups page match the groups listview */
+.buddysidebar .widget_title{
+    display: none;
+}
+.buddysidebar .item-options{
+    height: 51px;
+}
+.buddysidebar .item-options a{
+    display: inline;
+    line-height: 51px;
+}
+
+/* Fix the appearnce of the "what's new" field */
+#whats-new-content{
+    max-width: 400px;
+}
+
+/************************************/
+/*            WPLMS FIXES           */
+/************************************/
+/* Hidden groups don't show up because of "hidden" class"*/
+#groups-list .hidden{
+	display: block  !important;
+	visibility: inherit  !important;
+}
+
+/* Make sure all names fit in that tiny box */
+.member_info h3{
+    font-size: 13px;
+    margin: 0 10px;
+}
+
+/* A fix for the WPLMS header to make it small enough to function on its own */
+.thinheader{
+    margin-bottom: -45px;
+    margin-top: -30px;
+}
+
+/* Keep the same border for selected menuitems */
+#buddypress div.item-list-tabs ul li.current{
+    border-bottom: 1px solid rgba(255,255,255,0.1) !important;
+}
+
+#item-body{
+    border-radius: 0;
+}
+
+/************************************/
+/*      OTHER WIDGET OVERRIDES      */
+/************************************/
+/* Get rid of "Connect with:" text of Social Login */
+#wp-social-login-connect-with{
+	display: none;
+}
+
+.setButton {      
+    cursor: pointer;       
+    border: none;
+    transition: all 0.2s ease-in-out;
+   -webkit-transition: all 0.2s ease-in-out;
+   -moz-transition: all 0.2s ease-in-out;
+}
+
+.setButton:hover{
+	color: #29bdca;
+}
+
+#login-dialog {
+    height:auto !important;
+}
+
+#accordion-content-rangepickers .ui-state-active {    
+    border: 1px solid #78c8ce !important;
+    background:#78c8ce !important; 
+    font-weight: bold !important;
+    color: #ffffff !important;
+}
