@@ -1,5 +1,5 @@
 ---
-title: Zombie Companies Will Lead to America&#8217;s Lost Decade
+title: Zombie Companies Will Lead to America's Lost Decade
 authors: []
 date: 2021-09-21T06:42:10.000Z
 metadata:

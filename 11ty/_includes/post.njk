@@ -1,0 +1,26 @@
+---
+layout: base.njk
+---
+
+{%- if metadata.media.featuredImage %}
+<div class="featured-image" style="margin-bottom: 30px;">
+  <img src="/{{ metadata.media.featuredImage }}" alt="{{ title | decodeHtml }}" style="max-width: 100%; height: auto; border-radius: 4px;">
+</div>
+{%- endif %}
+
+<article>
+  <h1>{{ title | decodeHtml }}</h1>
+  <time datetime="{{ date | dateToISO }}" style="color: #666; font-size: 0.9em;">{{ date | readableDate }}</time>
+
+  {%- if metadata.categories %}
+  <p style="margin-top: 10px;"><strong>Categories:</strong>
+    {%- for category in metadata.categories %}
+      {{ category }}{% if not loop.last %}, {% endif %}
+    {%- endfor %}
+  </p>
+  {%- endif %}
+
+  <div class="post-content" style="margin-top: 30px;">
+    {{ content | safe }}
+  </div>
+</article>

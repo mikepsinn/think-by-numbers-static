@@ -1,5 +1,5 @@
 ---
-title: GOP Presidential Candidates&#8217; Budget Plans EXPOSED!!!
+title: GOP Presidential Candidates' Budget Plans EXPOSED!!!
 authors: []
 date: 2011-11-07T00:52:13.000Z
 metadata:

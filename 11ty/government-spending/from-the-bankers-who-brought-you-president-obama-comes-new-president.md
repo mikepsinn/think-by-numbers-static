@@ -1,5 +1,5 @@
 ---
-title: From the Bankers Who Brought You President Obama Comes NEW PRESIDENT&#x2122;!
+title: From the Bankers Who Brought You President Obama Comes NEW PRESIDENT™!
 authors: []
 date: 2012-11-01T18:50:15.000Z
 metadata:

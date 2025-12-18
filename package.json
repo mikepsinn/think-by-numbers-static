@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Think by Numbers - A better world through data",
   "scripts": {
-    "start": "npm run clean && npm run serve",
-    "serve": "echo '\n🚀 Starting dev server...\n' && eleventy --serve --quiet & sleep 2 && echo '\n✅ Server running at http://localhost:8080\n' && wait",
+    "start": "npm run clean && eleventy --serve",
+    "serve": "eleventy --serve",
     "build": "npm run clean && eleventy && npm run search",
     "search": "npx pagefind --site _site",
-    "clean": "rm -rf _site"
+    "clean": "npx rimraf _site"
   },
   "keywords": [
     "eleventy",
@@ -20,6 +20,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "luxon": "^3.4.4",
-    "pagefind": "^1.0.4"
+    "pagefind": "^1.0.4",
+    "rimraf": "^5.0.5"
   }
 }

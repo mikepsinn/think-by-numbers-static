@@ -1,5 +1,5 @@
 ---
-title: The Majority of Americans Didn&#8217;t Support the American Revolution
+title: The Majority of Americans Didn't Support the American Revolution
 authors: []
 date: 2020-09-20T22:11:48.000Z
 metadata:

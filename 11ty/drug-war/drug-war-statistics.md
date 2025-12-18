@@ -1,6 +1,6 @@
 ---
 title: >-
-  $1.5 Trillion Has Been Wasted on a Drug War that Hasn&#8217;t Even Reduced
+  $1.5 Trillion Has Been Wasted on a Drug War that Hasn't Even Reduced
   Drug Use
 authors: []
 date: 2013-04-05T02:01:10.000Z

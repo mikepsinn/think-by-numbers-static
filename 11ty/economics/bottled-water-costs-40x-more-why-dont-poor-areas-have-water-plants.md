@@ -1,5 +1,5 @@
 ---
-title: 'Bottled Water Costs 40x More: Why Don&#8217;t Poor Areas Have Water Plants?'
+title: "Bottled Water Costs 40x More: Why Don't Poor Areas Have Water Plants?"
 authors: []
 date: 2024-07-21T09:02:53.000Z
 metadata:

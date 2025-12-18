@@ -1,6 +1,6 @@
 ---
 title: >-
-  There&#8217;s about a 0.1% Chance that COVID-19 Coincidentally Arose in Nature
+  There's about a 0.1% Chance that COVID-19 Coincidentally Arose in Nature
   near the Wuhan Institute of Virology
 authors: []
 date: 2024-03-09T12:51:44.000Z
@@ -33,15 +33,11 @@ To evaluate the probability, we apply a simplified Feynman estimate with the fol
 
 **Combined Area of Influence**: For 5 labs, the combined area of influence is
 
-```
-(5 \times 31,400 \text{ km}^2)
-```
+$$5 \\times 31,400 \\text{ km}^2$$
 
 **Probability Calculation**:
 
-```
-\text{Probability (\%)} = \left( \frac{\text{Combined Area of Influence}}{\text{Earth's Land Surface Area}} \right) \times 100 = 0.1\%
-```
+$$\\text{Probability } (\\%) = \\left( \\frac{\\text{Combined Area of Influence}}{\\text{Earth's Land Surface Area}} \\right) \\times 100 = 0.1\\%$$
 
 This estimate suggests a 0.1% probability that COVID-19 spontaneously arose within close proximity to one of these labs by chance.
 

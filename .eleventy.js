@@ -35,6 +35,19 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, limit);
   });
 
+  // Decode HTML entities
+  eleventyConfig.addFilter("decodeHtml", (str) => {
+    if (!str) return str;
+    const entities = {
+      '&#8217;': "'", '&#8216;': "'", '&#8220;': '"', '&#8221;': '"',
+      '&#8230;': '...', '&#x2122;': '™', '&#038;': '&', '&amp;': '&',
+      '&#8211;': '–', '&#8212;': '—', '&quot;': '"', '&#039;': "'",
+      '&lt;': '<', '&gt;': '>'
+    };
+    // Replace both numeric (&#8217;) and named (&amp;) entities
+    return str.replace(/&#?[\w\d]+;/g, match => entities[match] || match);
+  });
+
   // Escape HTML
   eleventyConfig.addFilter("escape", (str) => {
     return str.replace(/&/g, "&amp;")

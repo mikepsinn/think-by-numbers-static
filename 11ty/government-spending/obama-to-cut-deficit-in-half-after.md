@@ -1,5 +1,5 @@
 ---
-title: Obama to cut deficit in half&#8230; After quadrupling it.
+title: Obama to cut deficit in half... After quadrupling it.
 authors: []
 date: 2009-03-08T04:27:00.000Z
 metadata:

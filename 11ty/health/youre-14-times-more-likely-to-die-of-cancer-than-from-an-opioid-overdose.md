@@ -1,6 +1,6 @@
 ---
 title: >-
-  You&#8217;re 14 Times More Likely To Die of Cancer Than From an Opioid
+  You're 14 Times More Likely To Die of Cancer Than From an Opioid
   Overdose
 authors: []
 date: 2019-03-22T08:38:38.000Z

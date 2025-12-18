@@ -1,5 +1,5 @@
 ---
-title: How many people have Alzheimer&#8217;s disease?
+title: How many people have Alzheimer's disease?
 authors: []
 date: 2019-05-08T04:39:29.000Z
 metadata:

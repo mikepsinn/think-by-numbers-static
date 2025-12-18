@@ -1,5 +1,5 @@
 ---
-title: There&#8217;s a 0.00001% Chance that Your Vote Will Matter
+title: There's a 0.00001% Chance that Your Vote Will Matter
 authors: []
 date: 2014-11-05T05:17:16.000Z
 metadata:

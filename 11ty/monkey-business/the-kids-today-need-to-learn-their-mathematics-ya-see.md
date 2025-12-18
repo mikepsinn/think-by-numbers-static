@@ -1,7 +1,7 @@
 ---
 title: >-
-  cos(b) says, &#8220;The kids today need to learn their mathematics, ya
-  see!&#8221;
+  cos(b) says, "The kids today need to learn their mathematics, ya
+  see!"
 authors: []
 date: 2011-09-02T09:01:19.000Z
 metadata:

@@ -7,10 +7,12 @@ Static site built with [Eleventy](https://www.11ty.dev/) from WordPress export.
 ## Features
 
 - ✅ 93 blog posts with full content
+- ✅ Featured images for all posts
 - ✅ Self-hosted podcast with 13 episodes (130MB MP3s)
 - ✅ RSS feed for blog
 - ✅ Podcast RSS feed
 - ✅ Client-side search (Pagefind)
+- ✅ LaTeX math rendering (KaTeX)
 - ✅ Responsive layouts
 
 ## Quick Start
@@ -65,6 +67,21 @@ npm run build
 ## Search
 
 Search is powered by [Pagefind](https://pagefind.app/), a static search library that indexes your site at build time.
+
+## LaTeX Math Rendering
+
+Mathematical expressions are rendered using [KaTeX](https://katex.org/). Use these delimiters:
+- Inline math: `$equation$` or `\(equation\)`
+- Display math: `$$equation$$` or `\[equation\]`
+
+Example:
+```markdown
+The formula $$E = mc^2$$ shows mass-energy equivalence.
+```
+
+## Featured Images
+
+Featured images are automatically displayed at the top of each post. The importer downloads them from WordPress and stores them in `assets/` subdirectories.
 
 ## Deployment
 
