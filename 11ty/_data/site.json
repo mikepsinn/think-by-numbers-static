@@ -1,11 +1,21 @@
 {
   "name": "Think by Numbers",
-  "description": "A better world through data",
+  "description": "Let's create a better world through data!",
   "url": "https://thinkbynumbers.org",
   "author": {
     "name": "Mike P. Sinn",
     "email": "m@mikesinn.com"
   },
   "feedPath": "/feed.xml",
-  "podcastFeedPath": "/podcast.xml"
+  "podcastFeedPath": "/podcast.xml",
+  "social": {
+    "twitter": "https://twitter.com/thinkbynumbers",
+    "twitterHandle": "@thinkbynumbers",
+    "facebook": "https://www.facebook.com/thinkbynumbers/",
+    "linkedin": "https://www.linkedin.com/in/mikesinn",
+    "youtube": "https://www.youtube.com/channel/UCO9IkqWQx70wGCxr517Qi4A",
+    "github": "https://github.com/mikepsinn"
+  },
+  "logo": "/wp-content/uploads/2016/10/Think-By-Numbers-tbn-Masthead-Logo-960x1252.gif",
+  "favicon": "/wp-content/uploads/2016/10/Think-By-Numbers-tbn-logo-favicon-icon-Thumbnail-600-x-600-transparent.png"
 }

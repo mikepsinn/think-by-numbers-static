@@ -74,6 +74,24 @@ module.exports = function(eleventyConfig) {
     return match ? match[1] : null;
   });
 
+  // Extract excerpt from content
+  eleventyConfig.addFilter("excerpt", (content) => {
+    if (!content) return "";
+    // Remove markdown images, links, and formatting
+    let excerpt = content
+      .replace(/!\[.*?\]\(.*?\)/g, '') // Remove images
+      .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // Convert links to text
+      .replace(/[#*_`]/g, '') // Remove markdown formatting
+      .replace(/\n+/g, ' ') // Replace newlines with spaces
+      .trim();
+    // Truncate to ~150 characters at word boundary
+    if (excerpt.length > 150) {
+      excerpt = excerpt.substring(0, 150);
+      excerpt = excerpt.substring(0, excerpt.lastIndexOf(' ')) + '...';
+    }
+    return excerpt;
+  });
+
   // Set input and output directories
   return {
     dir: {
