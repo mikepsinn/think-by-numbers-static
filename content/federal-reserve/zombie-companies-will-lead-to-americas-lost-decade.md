@@ -72,11 +72,9 @@ This was the approach of Japan in the ’90s. The [zombie companies](https://www
 
 The best investment approach at this point is more complicated. You don’t really want to buy any general index funds like the Dow or S&P. Over the entire decade of the 1970s, inflation climbed 103% compared to only 16% for the S&P 500. 
 
-![image.png](assets/0-ezrdIGfLNXh3.html; charset=utf-8)
 
 However, may be able to find good companies or sectors that are more likely to outperform the overall market. For example, Intel grew 1230% during the ’70s despite stagflation.  This may be true because new technologies offer companies ways to cut costs which they can be forced to adopt to ensure their survival during economically desperate times.
 
-![image.png](assets/0-fVtoVwjxIXlq.html; charset=utf-8)
 
 You would have done even better just sticking with gold throughout the ’70s and enjoyed a 1700% return if you sold it as soon as Paul Volker started raising interest rates.
 

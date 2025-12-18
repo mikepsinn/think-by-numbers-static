@@ -45,7 +45,7 @@ Here’s why:
 ### **2\. The Cost of Doing Nothing**
 
 -   Long COVID affects an estimated 10-30% of COVID-19 cases, translating to millions of individuals with persistent symptoms, reduced productivity, and increased healthcare costs.
-    -   **Economic Burden**: Long COVID is projected to cost the U.S. economy $3.7 trillion, per \[[update](https://jheor.org/doi/full/10.5195/jheor.2023.1189) by David Cutler at Harvard Kennedy School\](https://jheor.org/doi/full/10.5195/jheor.2023.1189).
+    -   **Economic Burden**: Long COVID is projected to cost the U.S. economy $3.7 trillion, per [update by David Cutler at Harvard Kennedy School](https://jheor.org/doi/full/10.5195/jheor.2023.1189).
     -   Allowing continued mAb use, even partially effective, could have mitigated this cascade. Assume just 5% fewer Long COVID cases from mAbs: that’s 185,000 fewer cases per million infections, potentially saving $370 billion in direct and indirect costs.
 
 * * *
@@ -107,7 +107,7 @@ Instead, this decision highlights the FDA’s inability to pivot during a crisis
 -   $600 million: At an average hospitalization cost of $20,000, this saves **$600 million** and countless lives. [https://www.healthcare.gov/why-coverage-is-important/protection-from-high-medical-costs/](https://www.healthcare.gov/why-coverage-is-important/protection-from-high-medical-costs/)
 -   40-60%: FDA-approved flu vaccines often hover around **40-60% efficacy**—why the double standard here? [https://www.ama-assn.org/delivering-care/public-health/8-things-doctors-wish-patients-knew-about-flu-vaccines](https://www.ama-assn.org/delivering-care/public-health/8-things-doctors-wish-patients-knew-about-flu-vaccines)
 -   10-30%: Long COVID affects an estimated **10-30%** of COVID-19 cases, translating to millions of individuals with persistent symptoms, reduced productivity, and increased healthcare costs. [https://www.nature.com/articles/s41579-022-00846-2](https://www.nature.com/articles/s41579-022-00846-2)
--   $3.7 trillion: Long COVID is projected to cost the U.S. economy **$3.7 trillion**, per \[[update](https://jheor.org/doi/full/10.5195/jheor.2023.1189) by David Cutler at Harvard Kennedy School\](https://jheor.org/doi/full/10.5195/jheor.2023.1189)
+-   $3.7 trillion: Long COVID is projected to cost the U.S. economy **$3.7 trillion**, per [update by David Cutler at Harvard Kennedy School](https://jheor.org/doi/full/10.5195/jheor.2023.1189)
 -   $10-20 million annually: Developing and maintaining a monitoring system could cost **$10-20 million annually**, a negligible amount compared to the potential healthcare savings from even modest improvements in treatment outcomes. [https://kpwashingtonresearch.org/index.php/news-and-events/recent-news/news-2019/fda-commits-220-million-next-phase-drug-safety-monitoring-system](https://kpwashingtonresearch.org/index.php/news-and-events/recent-news/news-2019/fda-commits-220-million-next-phase-drug-safety-monitoring-system)
 -   ~3%: **Immunocompromised patients** (**~3%** of U.S. population): These individuals rely on mAbs for passive immunity because vaccines are often ineffective for them. [https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-considerations/covid-19-immunocompromised-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-considerations/covid-19-immunocompromised-patients.html)
 -   ~0.2%: Risk of severe infusion reactions from mAbs is **~0.2%**. [https://jamanetwork.com/journals/jama/fullarticle/2777081](https://jamanetwork.com/journals/jama/fullarticle/2777081)

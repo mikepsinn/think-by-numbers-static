@@ -29,6 +29,25 @@ permalink: /search/
 
 <script>
   window.addEventListener('DOMContentLoaded', () => {
-    new PagefindUI({ element: "#search", showSubResults: true });
+    // Initialize Pagefind UI
+    const pagefind = new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false
+    });
+
+    // Auto-search if there's a query parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    const query = urlParams.get('q');
+    if (query) {
+      // Wait for Pagefind to initialize, then trigger search
+      setTimeout(() => {
+        const searchInput = document.querySelector('#search input[type="text"]');
+        if (searchInput) {
+          searchInput.value = query;
+          searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+      }, 100);
+    }
   });
 </script>

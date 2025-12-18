@@ -110,7 +110,7 @@ The average hourly rate of pay in the US is [$24](https://tradingeconomics.com/u
 
 ## Fun Facts About Junk Mail
 
--   The American receives an average of [41 pounds](http://American receives an average of 41 pounds of junk mail per year) of junk mail per year.
+-   The American receives an average of [41 pounds](http://www.41pounds.org/) of junk mail per year.
 -   [5.6 million tons](http://www.law.nyu.edu/about/sustainability/whatyoucando/junkmail) of junk mail end up in American landfills every year.
 -   We spend [eight months of our life](https://www.treehugger.com/culture/stop-junk-mail-7-ways-to-reduce-it-and-opt-out-for-good.html) sorting junk mail.
 -   American businesses sent [149 billion](https://thedma.org/marketing-insights/marketing-statistics/direct-mail-statistics/) pieces of direct mail and nearly 10 billion catalogs in 2016.

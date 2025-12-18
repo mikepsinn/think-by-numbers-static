@@ -77,13 +77,20 @@ module.exports = function(eleventyConfig) {
   // Extract excerpt from content
   eleventyConfig.addFilter("excerpt", (content) => {
     if (!content) return "";
-    // Remove markdown images, links, and formatting
-    let excerpt = content
-      .replace(/!\[.*?\]\(.*?\)/g, '') // Remove images
-      .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1') // Convert links to text
-      .replace(/[#*_`]/g, '') // Remove markdown formatting
-      .replace(/\n+/g, ' ') // Replace newlines with spaces
+    // Decode HTML entities first
+    const entities = {
+      '&lt;': '<', '&gt;': '>', '&amp;': '&', '&quot;': '"', '&#39;': "'",
+      '&nbsp;': ' ', '&#8217;': "'", '&#8216;': "'", '&#8220;': '"',
+      '&#8221;': '"', '&#8211;': '–', '&#8212;': '—'
+    };
+    let decoded = content.replace(/&[#\w]+;/g, match => entities[match] || '');
+
+    // Strip HTML tags and get plain text
+    let excerpt = decoded
+      .replace(/<[^>]+>/g, '') // Remove HTML tags
+      .replace(/\s+/g, ' ') // Normalize whitespace
       .trim();
+
     // Truncate to ~150 characters at word boundary
     if (excerpt.length > 150) {
       excerpt = excerpt.substring(0, 150);

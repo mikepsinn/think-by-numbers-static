@@ -30,7 +30,7 @@ title: Home
 
         <div class="post-info">
           <div class="entry-summary">
-            <p>{{ post.templateContent | excerpt }}</p>
+            <p>{{ post.templateContent | excerpt | safe }}</p>
           </div>
         </div>
 
@@ -50,8 +50,9 @@ title: Home
   <aside class="sidebar">
     <div class="widget">
       <h4>Search</h4>
-      <form action="/search/">
-        <input type="text" name="q" placeholder="Search...">
+      <form action="/search/" method="get">
+        <input type="text" name="q" placeholder="Search posts..." required>
+        <button type="submit">🔍 Search</button>
       </form>
     </div>
 

@@ -29,10 +29,10 @@ When predicting the outcome of the next election, you might want to be a little 
 
 <table><tbody><tr><td>Presidential Candidate</td><td>Democrat Respondents</td><td>Republican Respondents</td></tr><tr><td>John McCain (R)</td><td>12%</td><td>62%</td></tr><tr><td>Barack Obama (D)</td><td>87%</td><td>38%</td></tr></tbody></table>
 
-[Source](Source: https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1844&context=student_scholarship)
+[Source](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1844&context=student_scholarship)
 
 <table><tbody><tr><td>Presidential Candidate</td><td>Democrat Respondents</td><td>Republican Respondents</td></tr><tr><td>Donald Trump (R)</td><td>9%</td><td>66%</td></tr><tr><td>Hillary Clinton (D)</td><td>91%</td><td>33%</td></tr></tbody></table>
 
-[Source](Source: https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1844&context=student_scholarship)
+[Source](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1844&context=student_scholarship)
 
 If this wishful thinking bias did not exist, one would expect the respondents predictions to be much closer to the current polling data which as split very evenly.
