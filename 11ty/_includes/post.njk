@@ -4,7 +4,7 @@ layout: base.njk
 
 {%- if metadata.media.featuredImage %}
 <div class="featured-image" style="margin-bottom: 30px;">
-  <img src="/{{ metadata.media.featuredImage }}" alt="{{ title | decodeHtml }}" style="max-width: 100%; height: auto; border-radius: 4px;">
+  <img src="{{ metadata.media.featuredImage }}" alt="{{ title | decodeHtml }}" style="max-width: 100%; height: auto; border-radius: 4px;">
 </div>
 {%- endif %}
 
