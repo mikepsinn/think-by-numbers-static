@@ -1,0 +1,36 @@
+---
+permalink: /podcast.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.name }} Podcast</title>
+    <link>{{ site.url }}/</link>
+    <description>{{ site.description }}</description>
+    <language>en-us</language>
+    <copyright>{{ site.author.name }}</copyright>
+    <itunes:author>{{ site.author.name }}</itunes:author>
+    <itunes:summary>{{ site.description }}</itunes:summary>
+    <itunes:owner>
+      <itunes:name>{{ site.author.name }}</itunes:name>
+      <itunes:email>{{ site.author.email }}</itunes:email>
+    </itunes:owner>
+    {%- for post in collections.all | reverse %}
+    {%- if post.templateContent and post.templateContent.includes('/assets/podcasts/') %}
+    <item>
+      <title>{{ post.data.title | escape }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
+      <description>{{ post.data.title | escape }}</description>
+      <content:encoded><![CDATA[{{ post.templateContent | htmlToAbsoluteUrls(site.url) }}]]></content:encoded>
+      {%- set mp3Match = post.templateContent | findMp3Url %}
+      {%- if mp3Match %}
+      <enclosure url="{{ site.url }}{{ mp3Match }}" type="audio/mpeg"/>
+      <itunes:duration>0</itunes:duration>
+      {%- endif %}
+    </item>
+    {%- endif %}
+    {%- endfor %}
+  </channel>
+</rss>

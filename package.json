@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "Think by Numbers - A better world through data",
   "scripts": {
-    "start": "eleventy --serve",
-    "build": "eleventy",
+    "start": "npm run clean && npm run serve",
+    "serve": "echo '\n🚀 Starting dev server...\n' && eleventy --serve --quiet & sleep 2 && echo '\n✅ Server running at http://localhost:8080\n' && wait",
+    "build": "npm run clean && eleventy && npm run search",
+    "search": "npx pagefind --site _site",
     "clean": "rm -rf _site"
   },
   "keywords": [
@@ -16,6 +18,8 @@
   "author": "Mike P. Sinn",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "luxon": "^3.4.4",
+    "pagefind": "^1.0.4"
   }
 }

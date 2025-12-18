@@ -1,0 +1,11 @@
+{
+  "name": "Think by Numbers",
+  "description": "A better world through data",
+  "url": "https://thinkbynumbers.org",
+  "author": {
+    "name": "Mike P. Sinn",
+    "email": "m@mikesinn.com"
+  },
+  "feedPath": "/feed.xml",
+  "podcastFeedPath": "/podcast.xml"
+}

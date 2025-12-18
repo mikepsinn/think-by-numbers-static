@@ -1,0 +1,24 @@
+---
+layout: base.njk
+title: Home
+---
+
+<h2>Recent Posts</h2>
+
+<div class="post-list">
+  {%- for post in collections.all | reverse | limit(10) %}
+  {%- if post.data.title %}
+  <article style="margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid #eee;">
+    <h3><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
+    <time datetime="{{ post.date | dateToISO }}">{{ post.date | readableDate }}</time>
+    {%- if post.data.metadata.categories %}
+    <p><strong>Categories:</strong>
+      {%- for category in post.data.metadata.categories %}
+        {{ category }}{% if not loop.last %}, {% endif %}
+      {%- endfor %}
+    </p>
+    {%- endif %}
+  </article>
+  {%- endif %}
+  {%- endfor %}
+</div>
