@@ -9,7 +9,7 @@ title: Home
 
     <div class="post-grid">
       {%- for post in collections.all | reverse %}
-      {%- if post.data.title %}
+      {%- if post.data.title and post.inputPath.endsWith('.md') %}
       <article class="post-card">
         {%- if post.data.metadata.media.featuredImage %}
         <div class="post-image">
