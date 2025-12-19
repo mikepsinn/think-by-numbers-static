@@ -7,7 +7,7 @@
     "email": "m@mikesinn.com"
   },
   "feedPath": "/feed.xml",
-  "podcastFeedPath": "/podcast.xml",
+  "podcastFeedPath": "/feed/podcast",
   "social": {
     "twitter": "https://twitter.com/thinkbynumbers",
     "twitterHandle": "@thinkbynumbers",

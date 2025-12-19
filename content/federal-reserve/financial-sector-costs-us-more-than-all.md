@@ -70,6 +70,6 @@ Correlation doesn’t necessarily imply causation. However, the reason the gover
 
 For all the awful investments AIG made, this political investment has produced a [1730000%](http://www.cnn.com/2009/POLITICS/03/16/AIG.bonuses/) rate of return.
 
-<audio class="wp-audio-shortcode" id="audio-12-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/podcast/tbn007_financial_sector_costs.mp3?_=2"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-12-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3?_=2"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3</a></audio>
 
-Podcast: [Play in new window](/wp-content/uploads/podcast/tbn007_financial_sector_costs.mp3 "Play in new window") | [Download](/wp-content/uploads/podcast/tbn007_financial_sector_costs.mp3 "Download")
+Podcast: [Play in new window](/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3 "Play in new window") | [Download](/wp-content/uploads/2016/10/tbn007_financial_sector_costs.mp3 "Download")

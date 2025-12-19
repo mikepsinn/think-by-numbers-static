@@ -41,6 +41,6 @@ I don’t mean to imply that I oppose the adoption of electronic health records.
 
  
 
-<audio class="wp-audio-shortcode" id="audio-18-11" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/podcast/tbn004_ipads-for-doctors.mp3?_=11"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-18-11" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3?_=11"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3</a></audio>
 
-Podcast: [Play in new window](/wp-content/uploads/podcast/tbn004_ipads-for-doctors.mp3 "Play in new window") | [Download](/wp-content/uploads/podcast/tbn004_ipads-for-doctors.mp3 "Download")
+Podcast: [Play in new window](/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3 "Play in new window") | [Download](/wp-content/uploads/2016/10/tbn004_ipads-for-doctors.mp3 "Download")

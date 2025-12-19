@@ -103,6 +103,6 @@ In addition, sociologists and psychologists have determined that society amplifi
 
   
 
-<audio class="wp-audio-shortcode" id="audio-4-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/podcast/tbn001_anti_terroism_spending.mp3?_=1"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-4-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3?_=1"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3</a></audio>
 
-Podcast: [Play in new window](/wp-content/uploads/podcast/tbn001_anti_terroism_spending.mp3 "Play in new window") | [Download](/wp-content/uploads/podcast/tbn001_anti_terroism_spending.mp3 "Download")
+Podcast: [Play in new window](/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3 "Play in new window") | [Download](/wp-content/uploads/2016/10/tbn001_anti_terroism_spending.mp3 "Download")

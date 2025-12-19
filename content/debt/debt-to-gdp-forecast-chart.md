@@ -38,6 +38,6 @@ _Graph Source: [http://www.gao.gov/financial/citizensguide2008.pdf](http://www.g
 [http://en.wikipedia.org/wiki/United\_States\_federal\_budget  
 ](https://en.wikipedia.org/wiki/United_States_federal_budget)
 
-<audio class="wp-audio-shortcode" id="audio-6-16" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/podcast/tbn002_us_national_debt.mp3?_=16"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3</a></audio>
+<audio class="wp-audio-shortcode" id="audio-6-16" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3?_=16"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3</a></audio>
 
-Podcast: [Play in new window](/wp-content/uploads/podcast/tbn002_us_national_debt.mp3 "Play in new window") | [Download](/wp-content/uploads/podcast/tbn002_us_national_debt.mp3 "Download")
+Podcast: [Play in new window](/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3 "Play in new window") | [Download](/wp-content/uploads/2016/10/tbn002_us_national_debt.mp3 "Download")
