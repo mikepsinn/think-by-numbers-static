@@ -108,10 +108,10 @@ module.exports = function(eleventyConfig) {
   // Set input and output directories
   return {
     dir: {
-      input: "content",
+      input: ["11ty", "content"],  // Templates in 11ty, content in content
       output: "_site",
-      includes: "../11ty/_includes",
-      data: "../11ty/_data"
+      includes: "11ty/_includes",  // Includes are in 11ty folder
+      data: "11ty/_data"  // Data files are in 11ty folder
     },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
