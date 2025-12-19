@@ -99,6 +99,12 @@ module.exports = function(eleventyConfig) {
     return excerpt;
   });
 
+  // URL encode filter for sharing URLs
+  eleventyConfig.addFilter("urlencode", (str) => {
+    if (!str) return "";
+    return encodeURIComponent(str);
+  });
+
   // Set input and output directories
   return {
     dir: {

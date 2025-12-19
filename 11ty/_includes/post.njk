@@ -25,6 +25,60 @@ layout: base.njk
       <div class="post-content" style="margin-top: 30px;">
         {{ content | safe }}
       </div>
+
+      {# Social Sharing Buttons #}
+      <div class="social-sharing">
+        <h3>Share this post</h3>
+        <div class="share-buttons">
+          {%- set postUrl = site.url + page.url %}
+          {%- set postTitle = title | decodeHtml %}
+          {%- set encodedUrl = postUrl | urlencode %}
+          {%- set encodedTitle = postTitle | urlencode %}
+          
+          <a href="https://twitter.com/intent/tweet?url={{ encodedUrl }}&text={{ encodedTitle }}" 
+             target="_blank" 
+             rel="noopener noreferrer"
+             class="share-button twitter"
+             aria-label="Share on Twitter">
+            <span class="icon">🐦</span>
+            <span>Twitter</span>
+          </a>
+
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ encodedUrl }}" 
+             target="_blank" 
+             rel="noopener noreferrer"
+             class="share-button facebook"
+             aria-label="Share on Facebook">
+            <span class="icon">📘</span>
+            <span>Facebook</span>
+          </a>
+
+          <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ encodedUrl }}" 
+             target="_blank" 
+             rel="noopener noreferrer"
+             class="share-button linkedin"
+             aria-label="Share on LinkedIn">
+            <span class="icon">💼</span>
+            <span>LinkedIn</span>
+          </a>
+
+          <a href="https://reddit.com/submit?url={{ encodedUrl }}&title={{ encodedTitle }}" 
+             target="_blank" 
+             rel="noopener noreferrer"
+             class="share-button reddit"
+             aria-label="Share on Reddit">
+            <span class="icon">🤖</span>
+            <span>Reddit</span>
+          </a>
+
+          <a href="mailto:?subject={{ encodedTitle }}&body={{ encodedUrl }}" 
+             class="share-button email"
+             aria-label="Share via Email">
+            <span class="icon">✉️</span>
+            <span>Email</span>
+          </a>
+        </div>
+      </div>
     </article>
   </div>
 

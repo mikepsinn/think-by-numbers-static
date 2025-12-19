@@ -79,6 +79,17 @@
       --shadow-offset: 6px;
     }
 
+    /* Dark Mode Variables */
+    [data-theme="dark"] {
+      --color-bg: #1a1a1a;
+      --color-black: #fff;
+      --color-white: #000;
+      --color-primary: #00d9ff;
+      --color-secondary: #ffeb3b;
+      --color-accent: #ff006e;
+      --color-success: #00ff88;
+    }
+
     * {
       box-sizing: border-box;
     }
@@ -411,6 +422,98 @@
       text-decoration-color: var(--color-accent);
     }
 
+    /* Social Sharing Buttons */
+    .social-sharing {
+      margin-top: 40px;
+      padding-top: 30px;
+      border-top: var(--border-thick) solid var(--color-black);
+    }
+
+    .social-sharing h3 {
+      margin-bottom: 20px;
+      font-size: 1.2em;
+      text-transform: uppercase;
+    }
+
+    .share-buttons {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 15px;
+    }
+
+    .share-button {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 20px;
+      text-decoration: none;
+      color: var(--color-black);
+      background: var(--color-white);
+      border: var(--border-thick) solid var(--color-black);
+      box-shadow: 4px 4px 0 var(--color-black);
+      font-weight: 900;
+      font-size: 0.9em;
+      text-transform: uppercase;
+      transition: all 0.2s;
+      cursor: pointer;
+    }
+
+    .share-button:hover {
+      transform: translate(2px, 2px);
+      box-shadow: 2px 2px 0 var(--color-black);
+    }
+
+    .share-button.twitter {
+      background: #1DA1F2;
+      color: var(--color-white);
+    }
+
+    .share-button.twitter:hover {
+      background: #0d8bd9;
+    }
+
+    .share-button.facebook {
+      background: #1877F2;
+      color: var(--color-white);
+    }
+
+    .share-button.facebook:hover {
+      background: #0e66d0;
+    }
+
+    .share-button.linkedin {
+      background: #0A66C2;
+      color: var(--color-white);
+    }
+
+    .share-button.linkedin:hover {
+      background: #0855a0;
+    }
+
+    .share-button.reddit {
+      background: #FF4500;
+      color: var(--color-white);
+    }
+
+    .share-button.reddit:hover {
+      background: #e63d00;
+    }
+
+    .share-button.email {
+      background: var(--color-secondary);
+      color: var(--color-black);
+    }
+
+    .share-button.email:hover {
+      background: var(--color-primary);
+    }
+
+    .share-button .icon {
+      font-size: 1.1em;
+      line-height: 1;
+    }
+
     /* Pagefind Search UI - Neobrutalist Style */
     .pagefind-ui__search-input {
       background: var(--color-white) !important;
@@ -585,6 +688,19 @@
         width: 50px;
         height: 50px;
         font-size: 20px;
+      }
+
+      .share-buttons {
+        gap: 8px;
+      }
+
+      .share-button {
+        font-size: 0.8em;
+        padding: 10px 16px;
+      }
+
+      .share-button .icon {
+        font-size: 1em;
       }
     }
   </style>
