@@ -140,10 +140,12 @@ async function validateSite() {
               return;
             }
 
+            // Check for various index file possibilities
             const linkPath = path.join('_site', cleanHref, 'index.html');
             const linkPathAlt = path.join('_site', cleanHref + '.html');
+            const linkPathXml = path.join('_site', cleanHref, 'index.xml');
 
-            if (!fs.existsSync(linkPath) && !fs.existsSync(linkPathAlt)) {
+            if (!fs.existsSync(linkPath) && !fs.existsSync(linkPathAlt) && !fs.existsSync(linkPathXml)) {
               issues.brokenLinks.push({
                 file: file.replace('_site/', ''),
                 href: href

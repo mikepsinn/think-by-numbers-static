@@ -6,10 +6,10 @@ authors: []
 date: 2025-01-16T04:51:31.000Z
 metadata:
   featuredImage: >-
-    https://thinkbynumbers.org/wp-content/uploads/2025/01/DALL·E-2025-01-15-16.48.11-A-wide-format-digital-illustration-representing-the-concept-of-logical-reasoning-and-quantitative-analysis-in-decision-making-reimagined-in-a-neo-bru.webp
+    https://thinkbynumbers.org/wp-content/uploads/2025/01/fda-cost-benefit-analysis.webp
   media:
     featuredImage: >-
-      /wp-content/uploads/2025/01/DALL%C2%B7E-2025-01-15-16.48.11-A-wide-format-digital-illustration-representing-the-concept-of-logical-reasoning-and-quantitative-analysis-in-decision-making-reimagined-in-a-neo-bru.webp
+      /wp-content/uploads/2025/01/fda-cost-benefit-analysis.webp
   categories:
     - Health
   tags:

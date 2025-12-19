@@ -1,0 +1,77 @@
+---
+layout: base.njk
+title: Economics
+permalink: /category/economics/
+---
+
+<div class="container">
+  <div class="main-content">
+    <h2>Economics</h2>
+    <p style="font-size: 1.1em; margin-bottom: 30px;">Data-driven analysis of economic policy, statistics, and trends.</p>
+
+    <div class="post-grid">
+      {%- for post in collections.all | reverse %}
+      {%- if post.inputPath.includes('/economics/') and post.data.title and post.inputPath.endsWith('.md') %}
+      <article class="post-card">
+        {%- if post.data.metadata.media.featuredImage %}
+        <div class="post-image">
+          <a href="{{ post.url }}">
+            <img src="{{ post.data.metadata.media.featuredImage }}" alt="{{ post.data.title | decodeHtml }}">
+          </a>
+        </div>
+        {%- endif %}
+
+        <div class="post-header">
+          <h3>
+            <a href="{{ post.url }}">{{ post.data.title | decodeHtml }}</a>
+          </h3>
+          <span class="post-meta">
+            <small class="meta-author">{{ site.author.name }}</small>
+          </span>
+        </div>
+
+        <div class="post-info">
+          <div class="entry-summary">
+            <p>{{ post.templateContent | excerpt | safe }}</p>
+          </div>
+        </div>
+
+        <div class="post-footer">
+          <small>
+            <a href="{{ post.url }}">
+              <span class="read-more">Read more</span>
+            </a>
+          </small>
+        </div>
+      </article>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+  </div>
+
+  <aside class="sidebar">
+    <div class="widget">
+      <h4>Search</h4>
+      <form action="/search/" method="get">
+        <input type="text" name="q" placeholder="Search posts..." required>
+        <button type="submit">🔍 Search</button>
+      </form>
+    </div>
+
+    <div class="widget">
+      <h4>Categories</h4>
+      <ul class="social-links">
+        <li><a href="/category/economics/">Economics</a></li>
+      </ul>
+    </div>
+
+    <div class="widget">
+      <h4>Follow Us</h4>
+      <ul class="social-links">
+        <li><a href="{{ site.social.facebook }}" target="_blank">Facebook</a></li>
+        <li><a href="{{ site.social.twitter }}" target="_blank">Twitter</a></li>
+        <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
+      </ul>
+    </div>
+  </aside>
+</div>

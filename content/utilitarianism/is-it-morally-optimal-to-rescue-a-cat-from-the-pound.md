@@ -4,10 +4,10 @@ authors: []
 date: 2020-05-23T14:40:10.000Z
 metadata:
   featuredImage: >-
-    https://thinkbynumbers.org/wp-content/uploads/2024/05/DALL·E-2024-05-23-04.39.35-A-balanced-scale-with-a-cat-on-one-side-and-various-animals-chickens-fish-cattle-along-with-environmental-symbols-trees-earth-on-the-other-side.webp
+    https://thinkbynumbers.org/wp-content/uploads/2024/05/cat-rescue-ethics.webp
   media:
     featuredImage: >-
-      /wp-content/uploads/2024/05/DALL%C2%B7E-2024-05-23-04.39.35-A-balanced-scale-with-a-cat-on-one-side-and-various-animals-chickens-fish-cattle-along-with-environmental-symbols-trees-earth-on-the-other-side.webp
+      /wp-content/uploads/2024/05/cat-rescue-ethics.webp
   categories:
     - Utilitarianism
   uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10728
