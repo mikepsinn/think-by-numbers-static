@@ -105,10 +105,47 @@ module.exports = function(eleventyConfig) {
     return encodeURIComponent(str);
   });
 
+  // Get all unique tags from collections
+  eleventyConfig.addFilter("getAllTags", (collection) => {
+    let tagSet = new Set();
+    collection.forEach(item => {
+      if (item.data.tags) {
+        item.data.tags.forEach(tag => tagSet.add(tag));
+      }
+    });
+    return Array.from(tagSet);
+  });
+
+  // Slugify filter for URLs
+  eleventyConfig.addFilter("slugify", (str) => {
+    if (!str) return "";
+    return str
+      .toString()
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, '-')
+      .replace(/[^\w\-]+/g, '')
+      .replace(/\-\-+/g, '-')
+      .replace(/^-+/, '')
+      .replace(/-+$/, '');
+  });
+
+  // Create a posts-only collection (excludes feeds and other templates)
+  // This prevents circular reference issues in RSS feeds
+  eleventyConfig.addCollection("posts", function(collectionApi) {
+    return collectionApi.getAll().filter(item => {
+      // Only include markdown files from content directory
+      return item.inputPath &&
+             item.inputPath.includes('/content/') &&
+             item.inputPath.endsWith('.md') &&
+             item.data.title;
+    });
+  });
+
   // Set input and output directories
   return {
     dir: {
-      input: ["11ty", "content"],  // Templates in 11ty, content in content
+      input: ".",  // Root directory (includes both 11ty and content)
       output: "_site",
       includes: "11ty/_includes",  // Includes are in 11ty folder
       data: "11ty/_data"  // Data files are in 11ty folder

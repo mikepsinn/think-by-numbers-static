@@ -1,15 +1,25 @@
 ---
 layout: base.njk
-title: Home
+title: "Posts by Admin"
+permalink: "/author/admin/"
 ---
 
 <div class="container">
   <div class="main-content">
-    <h2>Recent Posts</h2>
+    <h1>Posts by Admin</h1>
+
+    {%- set authorPosts = collections.all | reverse %}
+    {%- set mdPosts = [] %}
+    {%- for post in authorPosts %}
+      {%- if post.data.title and post.inputPath.endsWith('.md') %}
+        {%- set mdPosts = (mdPosts.push(post), mdPosts) %}
+      {%- endif %}
+    {%- endfor %}
+
+    <p>{{ mdPosts.length }} posts</p>
 
     <div class="post-grid">
-      {%- for post in collections.all | reverse %}
-      {%- if post.data.title and post.inputPath.endsWith('.md') %}
+      {%- for post in mdPosts %}
       <article class="post-card">
         {%- if post.data.metadata.media.featuredImage %}
         <div class="post-image">
@@ -26,6 +36,7 @@ title: Home
         </div>
 
         <div class="post-info">
+          <time datetime="{{ post.date | dateToISO }}">{{ post.date | readableDate }}</time>
           <div class="entry-summary">
             <p>{{ post.templateContent | excerpt | safe }}</p>
           </div>
@@ -39,7 +50,6 @@ title: Home
           </small>
         </div>
       </article>
-      {%- endif %}
       {%- endfor %}
     </div>
   </div>
@@ -61,15 +71,5 @@ title: Home
         <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
       </ul>
     </div>
-
-    <div class="widget">
-      <h4>Subscribe</h4>
-      <p>Join thousands of subscribers</p>
-      <form action="#">
-        <input type="email" placeholder="Your email">
-        <button type="submit">Subscribe</button>
-      </form>
-    </div>
   </aside>
 </div>
-

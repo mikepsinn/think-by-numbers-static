@@ -1,0 +1,115 @@
+---
+layout: base.njk
+pagination:
+  data: collections.all
+  size: 10
+  reverse: true
+  alias: pagedPosts
+permalink: "{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber + 1 }}/{% else %}/{% endif %}"
+eleventyComputed:
+  title: "{% if pagination.pageNumber > 0 %}Page {{ pagination.pageNumber + 1 }} - {% endif %}Think by Numbers"
+---
+
+<div class="container">
+  <div class="main-content">
+    <h2>Recent Posts</h2>
+
+    <div class="post-grid">
+      {%- for post in pagedPosts %}
+      {%- if post.data.title and post.inputPath.endsWith('.md') %}
+      <article class="post-card">
+        {%- if post.data.metadata.media.featuredImage %}
+        <div class="post-image">
+          <a href="{{ post.url }}">
+            <img src="{{ post.data.metadata.media.featuredImage }}" alt="{{ post.data.title | decodeHtml }}">
+          </a>
+        </div>
+        {%- endif %}
+
+        <div class="post-header">
+          <h3 class="post-title">
+            <a href="{{ post.url }}">{{ post.data.title | decodeHtml }}</a>
+          </h3>
+        </div>
+
+        <div class="post-info">
+          <div class="entry-summary">
+            <p>{{ post.templateContent | excerpt | safe }}</p>
+          </div>
+        </div>
+
+        <div class="post-footer">
+          <small>
+            <a href="{{ post.url }}">
+              <span class="read-more">Read more</span>
+            </a>
+          </small>
+        </div>
+      </article>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+
+    {# Pagination Navigation #}
+    {%- if pagination.href.previous or pagination.href.next %}
+    <nav class="pagination" aria-label="Pagination">
+      <div class="pagination-links">
+        {%- if pagination.href.previous %}
+        <a href="{{ pagination.href.previous }}" class="pagination-link prev">← Newer Posts</a>
+        {%- else %}
+        <span class="pagination-link prev disabled">← Newer Posts</span>
+        {%- endif %}
+
+        <span class="pagination-info">
+          Page {{ pagination.pageNumber + 1 }} of {{ pagination.hrefs | length }}
+        </span>
+
+        {%- if pagination.href.next %}
+        <a href="{{ pagination.href.next }}" class="pagination-link next">Older Posts →</a>
+        {%- else %}
+        <span class="pagination-link next disabled">Older Posts →</span>
+        {%- endif %}
+      </div>
+
+      {# Page numbers #}
+      <div class="pagination-numbers">
+        {%- for pageHref in pagination.hrefs %}
+        {%- if loop.index0 == pagination.pageNumber %}
+        <span class="page-number current">{{ loop.index }}</span>
+        {%- else %}
+        <a href="{{ pageHref }}" class="page-number">{{ loop.index }}</a>
+        {%- endif %}
+        {%- endfor %}
+      </div>
+    </nav>
+    {%- endif %}
+  </div>
+
+  <aside class="sidebar">
+    <div class="widget">
+      <h4>Search</h4>
+      <form action="/search/" method="get">
+        <input type="text" name="q" placeholder="Search posts..." required>
+        <button type="submit">🔍 Search</button>
+      </form>
+    </div>
+
+    <div class="widget">
+      <h4>Follow Us</h4>
+      <ul class="social-links">
+        <li><a href="{{ site.social.facebook }}" target="_blank">Facebook</a></li>
+        <li><a href="{{ site.social.twitter }}" target="_blank">Twitter</a></li>
+        <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
+      </ul>
+    </div>
+
+    <div class="widget">
+      <h4>Subscribe</h4>
+      <p>Join thousands of subscribers</p>
+      <form action="#">
+        <input type="email" placeholder="Your email">
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+  </aside>
+</div>

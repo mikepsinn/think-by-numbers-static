@@ -17,22 +17,19 @@ layout: false
       <itunes:name>{{ site.author.name }}</itunes:name>
       <itunes:email>{{ site.author.email }}</itunes:email>
     </itunes:owner>
-    {%- for post in collections.all | reverse %}
-    {%- if post.templateContent and post.templateContent.includes('/assets/podcasts/') %}
+    {%- for post in collections.posts | reverse %}
+    {%- set mp3Match = post.content | findMp3Url %}
+    {%- if mp3Match %}
     <item>
       <title>{{ post.data.title | escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
       <pubDate>{{ post.date | dateToRfc822 }}</pubDate>
       <description>{{ post.data.title | escape }}</description>
-      <content:encoded><![CDATA[{{ post.templateContent | htmlToAbsoluteUrls(site.url) }}]]></content:encoded>
-      {%- set mp3Match = post.templateContent | findMp3Url %}
-      {%- if mp3Match %}
+      <content:encoded><![CDATA[{{ post.content | htmlToAbsoluteUrls(site.url) }}]]></content:encoded>
       <enclosure url="{{ site.url }}{{ mp3Match }}" type="audio/mpeg"/>
       <itunes:duration>0</itunes:duration>
-      {%- endif %}
     </item>
     {%- endif %}
     {%- endfor %}
   </channel>
 </rss>
-

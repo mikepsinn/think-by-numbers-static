@@ -1,0 +1,62 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+layout: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {%- for post in collections.posts | reverse %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    <lastmod>{{ post.date | dateToISO }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  {%- endfor %}
+
+  {%- for category in categories.list %}
+  <url>
+    <loc>{{ site.url }}/category/{{ category.slug }}/</loc>
+    <lastmod>{{ collections.posts | getNewestCollectionItemDate | dateToISO }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {%- endfor %}
+
+  {%- for tag in collections.posts | getAllTags | sort %}
+  <url>
+    <loc>{{ site.url }}/tag/{{ tag | slugify }}/</loc>
+    <lastmod>{{ collections.posts | getNewestCollectionItemDate | dateToISO }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  {%- endfor %}
+
+  <url>
+    <loc>{{ site.url }}/</loc>
+    <lastmod>{{ collections.posts | getNewestCollectionItemDate | dateToISO }}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>{{ site.url }}/author/admin/</loc>
+    <lastmod>{{ collections.posts | getNewestCollectionItemDate | dateToISO }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>{{ site.url }}/search/</loc>
+    <lastmod>{{ collections.posts | getNewestCollectionItemDate | dateToISO }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>{{ site.url }}/subscribe/</loc>
+    <lastmod>{{ collections.posts | getNewestCollectionItemDate | dateToISO }}</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

@@ -1,0 +1,87 @@
+---
+layout: base.njk
+title: All Tags
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+  filter:
+    - all
+    - posts
+permalink: /tag/{{ tag | slugify }}/
+eleventyComputed:
+  title: "Posts tagged '{{ tag }}'"
+---
+
+<div class="container">
+  <div class="main-content">
+    <h1>{{ title }}</h1>
+    <p>{{ collections[tag].length }} post{% if collections[tag].length != 1 %}s{% endif %} tagged with "{{ tag }}"</p>
+
+    <div class="post-grid">
+      {%- for post in collections[tag] | reverse %}
+      {%- if post.data.title %}
+      <article class="post-card">
+        {%- if post.data.metadata.media.featuredImage %}
+        <div class="post-image">
+          <a href="{{ post.url }}">
+            <img src="{{ post.data.metadata.media.featuredImage }}" alt="{{ post.data.title | decodeHtml }}">
+          </a>
+        </div>
+        {%- endif %}
+
+        <div class="post-header">
+          <h3 class="post-title">
+            <a href="{{ post.url }}">{{ post.data.title | decodeHtml }}</a>
+          </h3>
+        </div>
+
+        <div class="post-info">
+          <time datetime="{{ post.date | dateToISO }}">{{ post.date | readableDate }}</time>
+          <div class="entry-summary">
+            <p>{{ post.templateContent | excerpt | safe }}</p>
+          </div>
+        </div>
+
+        <div class="post-footer">
+          <small>
+            <a href="{{ post.url }}">
+              <span class="read-more">Read more</span>
+            </a>
+          </small>
+        </div>
+      </article>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+  </div>
+
+  <aside class="sidebar">
+    <div class="widget">
+      <h4>Search</h4>
+      <form action="/search/" method="get">
+        <input type="text" name="q" placeholder="Search posts..." required>
+        <button type="submit">🔍 Search</button>
+      </form>
+    </div>
+
+    <div class="widget">
+      <h4>All Tags</h4>
+      <div class="tag-cloud">
+        {%- for tagName in collections.all | getAllTags | sort %}
+        {%- set tagUrl = ('/tag/' + tagName) | slugify %}
+        <a href="{{ tagUrl }}/" class="tag-link{% if tagName == tag %} active{% endif %}">{{ tagName }}</a>
+        {%- endfor %}
+      </div>
+    </div>
+
+    <div class="widget">
+      <h4>Follow Us</h4>
+      <ul class="social-links">
+        <li><a href="{{ site.social.facebook }}" target="_blank">Facebook</a></li>
+        <li><a href="{{ site.social.twitter }}" target="_blank">Twitter</a></li>
+        <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
+      </ul>
+    </div>
+  </aside>
+</div>

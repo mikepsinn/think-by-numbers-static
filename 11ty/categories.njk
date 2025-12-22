@@ -1,0 +1,95 @@
+---
+layout: base.njk
+pagination:
+  data: categories.list
+  size: 1
+  alias: category
+permalink: /category/{{ category.slug }}/
+eleventyComputed:
+  title: "Category: {{ category.name }}"
+---
+
+<div class="container">
+  <div class="main-content">
+    <h1>{{ category.name }}</h1>
+
+    {%- set categoryPosts = [] %}
+    {%- for post in collections.all %}
+      {%- if post.data.metadata and post.data.metadata.categories %}
+        {%- for cat in post.data.metadata.categories %}
+          {%- set catSlug = cat | lower | replace(' ', '-') | replace('/', '-') %}
+          {%- if catSlug == category.slug or cat | slugify == category.slug %}
+            {%- set categoryPosts = (categoryPosts.push(post), categoryPosts) %}
+          {%- endif %}
+        {%- endfor %}
+      {%- endif %}
+    {%- endfor %}
+
+    <p>{{ categoryPosts.length }} post{% if categoryPosts.length != 1 %}s{% endif %} in this category</p>
+
+    <div class="post-grid">
+      {%- for post in categoryPosts | reverse %}
+      {%- if post.data.title %}
+      <article class="post-card">
+        {%- if post.data.metadata.media.featuredImage %}
+        <div class="post-image">
+          <a href="{{ post.url }}">
+            <img src="{{ post.data.metadata.media.featuredImage }}" alt="{{ post.data.title | decodeHtml }}">
+          </a>
+        </div>
+        {%- endif %}
+
+        <div class="post-header">
+          <h3 class="post-title">
+            <a href="{{ post.url }}">{{ post.data.title | decodeHtml }}</a>
+          </h3>
+        </div>
+
+        <div class="post-info">
+          <time datetime="{{ post.date | dateToISO }}">{{ post.date | readableDate }}</time>
+          <div class="entry-summary">
+            <p>{{ post.templateContent | excerpt | safe }}</p>
+          </div>
+        </div>
+
+        <div class="post-footer">
+          <small>
+            <a href="{{ post.url }}">
+              <span class="read-more">Read more</span>
+            </a>
+          </small>
+        </div>
+      </article>
+      {%- endif %}
+      {%- endfor %}
+    </div>
+  </div>
+
+  <aside class="sidebar">
+    <div class="widget">
+      <h4>Search</h4>
+      <form action="/search/" method="get">
+        <input type="text" name="q" placeholder="Search posts..." required>
+        <button type="submit">🔍 Search</button>
+      </form>
+    </div>
+
+    <div class="widget">
+      <h4>All Categories</h4>
+      <ul class="category-list">
+        {%- for cat in categories.list %}
+        <li><a href="/category/{{ cat.slug }}/"{% if cat.slug == category.slug %} class="active"{% endif %}>{{ cat.name }}</a></li>
+        {%- endfor %}
+      </ul>
+    </div>
+
+    <div class="widget">
+      <h4>Follow Us</h4>
+      <ul class="social-links">
+        <li><a href="{{ site.social.facebook }}" target="_blank">Facebook</a></li>
+        <li><a href="{{ site.social.twitter }}" target="_blank">Twitter</a></li>
+        <li><a href="{{ site.social.linkedin }}" target="_blank">LinkedIn</a></li>
+      </ul>
+    </div>
+  </aside>
+</div>
