@@ -3,7 +3,6 @@ layout: base.njk
 pagination:
   data: collections.posts
   size: 10
-  reverse: true
   alias: pagedPosts
 permalink: "{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber + 1 }}/{% else %}/{% endif %}"
 eleventyComputed:

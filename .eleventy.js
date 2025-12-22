@@ -133,13 +133,18 @@ module.exports = function(eleventyConfig) {
   // Create a posts-only collection (excludes feeds and other templates)
   // This prevents circular reference issues in RSS feeds
   eleventyConfig.addCollection("posts", function(collectionApi) {
-    return collectionApi.getAll().filter(item => {
-      // Only include markdown files from content directory
-      return item.inputPath &&
-             item.inputPath.includes('/content/') &&
-             item.inputPath.endsWith('.md') &&
-             item.data.title;
-    });
+    return collectionApi.getAll()
+      .filter(item => {
+        // Only include markdown files from content directory
+        return item.inputPath &&
+               item.inputPath.includes('/content/') &&
+               item.inputPath.endsWith('.md') &&
+               item.data.title;
+      })
+      .sort((a, b) => {
+        // Sort by date (newest first)
+        return b.date - a.date;
+      });
   });
 
   // Set input and output directories
