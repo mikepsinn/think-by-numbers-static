@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 pagination:
-  data: collections.all
+  data: collections.posts
   size: 10
   reverse: true
   alias: pagedPosts
@@ -34,7 +34,11 @@ eleventyComputed:
 
         <div class="post-info">
           <div class="entry-summary">
-            <p>{{ post.templateContent | excerpt | safe }}</p>
+            {%- if post.data.description %}
+            <p>{{ post.data.description }}</p>
+            {%- elif post.data.metadata and post.data.metadata.summary %}
+            <p>{{ post.data.metadata.summary }}</p>
+            {%- endif %}
           </div>
         </div>
 
