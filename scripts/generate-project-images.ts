@@ -1,5 +1,5 @@
 /**
- * Generate OG images for book chapters
+ * Generate OG images and infographics for blog posts
  */
 
 import dotenv from 'dotenv';
@@ -7,179 +7,172 @@ import path from 'path';
 import fs from 'fs/promises';
 import matter from 'gray-matter';
 import { generateAndSaveImages } from './lib/genai-image.js';
-import {
-  getBookFilesForProcessing,
-  stringifyWithFrontmatter,
-  loadQuartoVariables,
-  replaceQuartoVariables
-} from './lib/file-utils.js';
+import { glob } from 'glob';
 
 // Load environment variables
 dotenv.config();
 
 /**
- * Generate OG image, infographic, and slide for a single file
- * @param filePath Path to the QMD file
- * @param variables Map of variable names to values for replacement
+ * Get all markdown posts from content directory
+ */
+async function getAllPosts(): Promise<string[]> {
+  const posts = await glob('content/**/*.md', {
+    ignore: ['**/node_modules/**', '**/_site/**'],
+    absolute: true,
+  });
+  return posts;
+}
+
+/**
+ * Generate OG image and infographic for a single post
+ * @param filePath Path to the markdown file
  * @param forceRegenerate If true, regenerate images even if they already exist
  */
-async function generateImageForFile(
+async function generateImagesForPost(
   filePath: string,
-  variables: Map<string, string>,
   forceRegenerate = false
 ): Promise<void> {
   console.log(`\n[*] Processing: ${filePath}`);
-
-  const fileName = path.basename(filePath, '.qmd');
 
   // Read file with frontmatter
   const fileContent = await fs.readFile(filePath, 'utf-8');
   const { data: frontmatter, content: body } = matter(fileContent);
 
-  // Replace Quarto variables with actual values for LLM
-  const bodyWithReplacedVariables = replaceQuartoVariables(body, variables);
-
-  // Skip if no title or description
-  if (!frontmatter.title && !frontmatter.description) {
-    console.log(`[SKIP] No title or description for prompt generation`);
+  // Skip if no title
+  if (!frontmatter.title) {
+    console.log(`[SKIP] No title for prompt generation`);
     return;
   }
 
-  console.log(`  Title: ${frontmatter.title || '(no title)'}`);
-  console.log(`  Description: ${frontmatter.description || '(no description)'}`);
+  console.log(`  Title: ${frontmatter.title}`);
 
-  const relativePath = path.relative(process.cwd(), filePath);
-  const ogOutputDir = path.join(process.cwd(), 'assets', 'og-images', path.dirname(relativePath));
-  const infographicOutputDir = path.join(process.cwd(), 'assets', 'infographics', path.dirname(relativePath));
-  const slideOutputDir = path.join(process.cwd(), 'assets', 'slides', path.dirname(relativePath));
+  // Get relative path for organizing images
+  const relativePath = path.relative('content', filePath);
+  const fileName = path.basename(filePath, '.md');
+  const dirName = path.dirname(relativePath);
 
-  // Check if image files already exist on disk
-  const ogImageFile = path.join(ogOutputDir, `${fileName}-og.png`);
-  const infographicImageFile = path.join(infographicOutputDir, `${fileName}-infographic.png`);
-  const slideImageFile = path.join(slideOutputDir, `${fileName}-slide.png`);
+  // Output directories
+  const ogOutputDir = path.join('content', 'assets', 'og-images', dirName);
+  const infographicOutputDir = path.join('content', 'assets', 'infographics', dirName);
+
+  // Check if images already exist
+  const ogImageFile = path.join(ogOutputDir, `${fileName}.png`);
+  const infographicImageFile = path.join(infographicOutputDir, `${fileName}.png`);
 
   const hasOgImage = await fs.access(ogImageFile).then(() => true).catch(() => false);
   const hasInfographic = await fs.access(infographicImageFile).then(() => true).catch(() => false);
-  const hasSlide = await fs.access(slideImageFile).then(() => true).catch(() => false);
 
-  // Skip if already has all images (unless forceRegenerate is true)
-  if (!forceRegenerate && hasOgImage && hasInfographic && hasSlide) {
-    console.log(`[SKIP] Already has all images (OG, infographic, slide)`);
+  // Skip if already has both images (unless forceRegenerate is true)
+  if (!forceRegenerate && hasOgImage && hasInfographic) {
+    console.log(`[SKIP] Already has all images (OG, infographic)`);
     return;
   }
 
   let ogImagePath: string | null = null;
   let infographicImagePath: string | null = null;
-  let slideImagePath: string | null = null;
+
+  // Extract excerpt for image generation prompt (first 500 chars of content)
+  const excerpt = body
+    .replace(/<[^>]+>/g, '') // Remove HTML tags
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove markdown links, keep text
+    .replace(/!\[([^\]]*)\]\([^)]+\)/g, '') // Remove images
+    .replace(/\s+/g, ' ') // Normalize whitespace
+    .trim()
+    .substring(0, 500);
 
   // Generate OG image (optimized for social media thumbnails)
   if (!hasOgImage || forceRegenerate) {
     console.log(`  Generating OG image (social media optimized)...`);
-    const ogPrompt = `Please generate an engaging, simple social media image for the following content.
-Use a fun retro futuristic style and large text.
+    const ogPrompt = `Create a professional, elegant social media thumbnail image for an article titled "${frontmatter.title}".
 
----
-${bodyWithReplacedVariables}
----`;
+Style: Classic black and white design with serif fonts (like Crimson Text or Baskerville), minimal and academic aesthetic, similar to Benjamin Franklin era publications.
 
-    const ogFiles = await generateAndSaveImages({
-      prompt: ogPrompt,
-      aspectRatio: '16:9',
-      outputDir: ogOutputDir,
-      filePrefix: `${fileName}-og`,
-    });
+Article summary: ${excerpt}
 
-    if (ogFiles && ogFiles.length > 0) {
-      ogImagePath = path.relative(process.cwd(), ogFiles[0]).replace(/\\/g, '/');
-      console.log(`  [OK] Generated OG image: ${ogImagePath}`);
-    } else {
-      console.log(`  [WARN] No OG image generated`);
+Important:
+- Use a clean, timeless design with high contrast
+- Include the title prominently
+- No photos of people
+- Simple, elegant typography
+- Black text on white or light gray background`;
+
+    try {
+      const ogFiles = await generateAndSaveImages({
+        prompt: ogPrompt,
+        aspectRatio: '16:9',
+        outputDir: ogOutputDir,
+        filePrefix: fileName,
+      });
+
+      if (ogFiles && ogFiles.length > 0) {
+        ogImagePath = path.relative('content', ogFiles[0]).replace(/\\/g, '/');
+        console.log(`  [OK] Generated OG image: ${ogImagePath}`);
+      } else {
+        console.log(`  [WARN] No OG image generated`);
+      }
+    } catch (error) {
+      console.error(`  [ERROR] Failed to generate OG image:`, error);
     }
   }
 
-  // Generate infographic (detailed, full-size)
+  // Generate infographic (detailed, vertical)
   if (!hasInfographic || forceRegenerate) {
     console.log(`  Generating infographic (detailed)...`);
-    const infographicPrompt = `Please generate a simple infographic for the following content.
-Use a fun retro futuristic style and large text.
+    const infographicPrompt = `Create a detailed infographic for an article titled "${frontmatter.title}".
 
----
-${bodyWithReplacedVariables}
----`;
+Style: Classic black and white design with serif fonts (like Crimson Text or Baskerville), minimal and academic aesthetic, similar to Benjamin Franklin era publications.
 
-    const infographicFiles = await generateAndSaveImages({
-      prompt: infographicPrompt,
-      aspectRatio: '9:16',
-      outputDir: infographicOutputDir,
-      filePrefix: `${fileName}-infographic`,
-    });
+Article summary: ${excerpt}
 
-    if (infographicFiles && infographicFiles.length > 0) {
-      infographicImagePath = path.relative(process.cwd(), infographicFiles[0]).replace(/\\/g, '/');
-      console.log(`  [OK] Generated infographic: ${infographicImagePath}`);
-    } else {
-      console.log(`  [WARN] No infographic generated`);
+Important:
+- Visualize the key data or concepts from the article
+- Use charts, graphs, or diagrams where appropriate
+- Black and white only
+- Clean, timeless design
+- Large, readable text
+- No photos of people`;
+
+    try {
+      const infographicFiles = await generateAndSaveImages({
+        prompt: infographicPrompt,
+        aspectRatio: '9:16',
+        outputDir: infographicOutputDir,
+        filePrefix: fileName,
+      });
+
+      if (infographicFiles && infographicFiles.length > 0) {
+        infographicImagePath = path.relative('content', infographicFiles[0]).replace(/\\/g, '/');
+        console.log(`  [OK] Generated infographic: ${infographicImagePath}`);
+      } else {
+        console.log(`  [WARN] No infographic generated`);
+      }
+    } catch (error) {
+      console.error(`  [ERROR] Failed to generate infographic:`, error);
     }
   }
 
-  // Generate slide (PowerPoint-optimized presentation)
-  if (!hasSlide || forceRegenerate) {
-    console.log(`  Generating slide (PowerPoint-optimized)...`);
-    const slidePrompt = `Please generate a simple PowerPoint presentation slide for the following content.
-Use a fun retro futuristic style and large text.
-
----
-${bodyWithReplacedVariables}
----`;
-
-    const slideFiles = await generateAndSaveImages({
-      prompt: slidePrompt,
-      aspectRatio: '16:9',
-      outputDir: slideOutputDir,
-      filePrefix: `${fileName}-slide`,
-    });
-
-    if (slideFiles && slideFiles.length > 0) {
-      slideImagePath = path.relative(process.cwd(), slideFiles[0]).replace(/\\/g, '/');
-      console.log(`  [OK] Generated slide: ${slideImagePath}`);
-    } else {
-      console.log(`  [WARN] No slide generated`);
-    }
-  }
-
-  // Update file if we generated any new images
-  if (ogImagePath || infographicImagePath || slideImagePath) {
-    let updatedBody = body;
+  // Update frontmatter if we generated any new images
+  if (ogImagePath || infographicImagePath) {
     const updatedFrontmatter = { ...frontmatter };
 
-    // Add OG image to frontmatter
-    if (ogImagePath) {
-      updatedFrontmatter.image = `/${ogImagePath}`;
+    // Ensure metadata structure exists
+    if (!updatedFrontmatter.metadata) {
+      updatedFrontmatter.metadata = {};
+    }
+    if (!updatedFrontmatter.metadata.media) {
+      updatedFrontmatter.metadata.media = {};
     }
 
-    // Insert infographic at top of content (after setup-parameters include)
+    // Add generated images to frontmatter
+    if (ogImagePath) {
+      updatedFrontmatter.metadata.media.ogImage = `/${ogImagePath}`;
+    }
     if (infographicImagePath) {
-      // Check if infographic reference already exists in the body
-      const infographicPattern = `${fileName}-infographic.png`;
-      if (!updatedBody.includes(infographicPattern)) {
-        const includeDirective = '{{< include /knowledge/includes/setup-parameters.qmd >}}';
-        const infographicMarkdown = `![Infographic](/${infographicImagePath})`;
-
-        // Find the include directive and insert infographic after it
-        if (updatedBody.includes(includeDirective)) {
-          updatedBody = updatedBody.replace(
-            includeDirective,
-            `${includeDirective}\n\n${infographicMarkdown}\n`
-          );
-        } else {
-          // If no include directive, insert at the very beginning
-          updatedBody = `${infographicMarkdown}\n\n${updatedBody}`;
-        }
-      }
+      updatedFrontmatter.metadata.media.infographic = `/${infographicImagePath}`;
     }
 
     // Write updated file
-    const updatedContent = stringifyWithFrontmatter(updatedBody, updatedFrontmatter);
+    const updatedContent = matter.stringify(body, updatedFrontmatter);
     await fs.writeFile(filePath, updatedContent, 'utf-8');
 
     console.log(`  [OK] Updated ${filePath}`);
@@ -189,86 +182,75 @@ ${bodyWithReplacedVariables}
 }
 
 /**
- * Generate OG images for book chapters
+ * Generate images for all blog posts
  */
-async function generateBookChapterImages(fileFilter?: string): Promise<void> {
+async function generateAllPostImages(fileFilter?: string): Promise<void> {
   console.log('\n' + '='.repeat(60));
-  console.log('Generating OG images for book chapters');
+  console.log('Generating OG images and infographics for blog posts');
   console.log('='.repeat(60) + '\n');
 
-  // Load variables for replacement
-  console.log('[*] Loading variables from _variables.yml...');
-  const variables = await loadQuartoVariables();
-  console.log(`[OK] Loaded ${variables.size} variables\n`);
-
-  // Get all book files
-  console.log('[*] Loading book files...');
-  const allBookFiles = await getBookFilesForProcessing();
+  // Get all posts
+  console.log('[*] Loading blog posts...');
+  const allPosts = await getAllPosts();
 
   // Filter to specific file if provided
-  let bookFiles: string[];
+  let posts: string[];
   if (fileFilter) {
-    const matchingFiles = allBookFiles.filter(f => f.includes(fileFilter));
-    if (matchingFiles.length === 0) {
-      console.error(`ERROR: No files found matching "${fileFilter}"`);
-      console.error('\nAvailable files:');
-      allBookFiles.slice(0, 10).forEach(f => console.error(`  - ${f}`));
-      if (allBookFiles.length > 10) {
-        console.error(`  ... and ${allBookFiles.length - 10} more`);
+    const matchingPosts = allPosts.filter(f => f.includes(fileFilter));
+    if (matchingPosts.length === 0) {
+      console.error(`ERROR: No posts found matching "${fileFilter}"`);
+      console.error('\nAvailable posts:');
+      allPosts.slice(0, 10).forEach(f => console.error(`  - ${f}`));
+      if (allPosts.length > 10) {
+        console.error(`  ... and ${allPosts.length - 10} more`);
       }
       process.exit(1);
     }
 
     // Only process the first matching file when filter is provided
-    bookFiles = [matchingFiles[0]];
+    posts = [matchingPosts[0]];
 
-    if (matchingFiles.length > 1) {
-      console.log(`[INFO] Found ${matchingFiles.length} matching files, processing only the first one:`);
-      console.log(`  Selected: ${matchingFiles[0]}`);
-      console.log(`  Skipped: ${matchingFiles.slice(1).join(', ')}\n`);
+    if (matchingPosts.length > 1) {
+      console.log(`[INFO] Found ${matchingPosts.length} matching files, processing only the first one:`);
+      console.log(`  Selected: ${matchingPosts[0]}`);
+      console.log(`  Skipped: ${matchingPosts.slice(1).join(', ')}\n`);
     } else {
-      console.log(`[OK] Found 1 file matching "${fileFilter}"\n`);
+      console.log(`[OK] Found 1 post matching "${fileFilter}"\n`);
     }
   } else {
-    bookFiles = allBookFiles;
-    console.log(`[OK] Found ${bookFiles.length} book files\n`);
+    posts = allPosts;
+    console.log(`[OK] Found ${posts.length} blog posts\n`);
   }
 
-  let filesProcessed = 0;
-  const filesSkipped = 0;
-  let filesGenerated = 0;
-  let filesFailed = 0;
+  let postsProcessed = 0;
+  let postsGenerated = 0;
+  let postsFailed = 0;
 
   // Force regeneration if processing a specific file
   const forceRegenerate = !!fileFilter;
 
-  for (const filePath of bookFiles) {
+  for (const filePath of posts) {
     try {
-      filesProcessed++;
-      await generateImageForFile(filePath, variables, forceRegenerate);
-      filesGenerated++;
+      postsProcessed++;
+      await generateImagesForPost(filePath, forceRegenerate);
+      postsGenerated++;
     } catch (error) {
-      if (error instanceof Error && error.message === 'Image generation failed') {
-        filesFailed++;
-      } else {
-        console.error(`[ERROR] Failed to process ${filePath}:`, error);
-        filesFailed++;
-      }
+      console.error(`[ERROR] Failed to process ${filePath}:`, error);
+      postsFailed++;
       // Continue with next file
     }
   }
 
   console.log('\n' + '='.repeat(60));
   console.log('Summary:');
-  console.log(`  Files processed: ${filesProcessed}`);
-  console.log(`  Images generated: ${filesGenerated}`);
-  console.log(`  Files skipped: ${filesSkipped}`);
-  console.log(`  Files failed: ${filesFailed}`);
+  console.log(`  Posts processed: ${postsProcessed}`);
+  console.log(`  Posts with images generated: ${postsGenerated}`);
+  console.log(`  Posts failed: ${postsFailed}`);
   console.log('='.repeat(60) + '\n');
 }
 
 async function main() {
-  console.log('🎨 Book Chapter OG Image Generator');
+  console.log('🎨 Blog Post Image Generator');
   console.log('='.repeat(60));
 
   // Check for API key
@@ -295,10 +277,10 @@ async function main() {
   }
 
   if (fileFilter) {
-    console.log(`\nGenerating image for file matching: "${fileFilter}"\n`);
+    console.log(`\nGenerating images for post matching: "${fileFilter}"\n`);
   }
 
-  await generateBookChapterImages(fileFilter);
+  await generateAllPostImages(fileFilter);
 }
 
 // Run the script
