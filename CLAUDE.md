@@ -17,7 +17,6 @@ use dark humor, absurd observations, and irrefutable facts to trick humanity int
 
 ### DO
 
--   **Be ruthlessly concise.** Every word should earn its place. If you can cut it, cut it.
 -   **Use dark humor about death and human stupidity.**
 -   **Make cynical but loving observations about humanity.** We're idiots, but we're OUR idiots.
 -   **Use simple, conversational language.** No jargon. Write like you're explaining something to a smart friend who might think you're crazy.
@@ -73,7 +72,6 @@ Build from reasonable to insane:
 
 ## The Final Check
 
--   **Concision:** Can I cut words without losing meaning or significant humor?
 -   **Clarity:** Can my mom understand this?
 -   **Credibility:** Would I stake my reputation on this claim?
 -   **Directness:** Does this sound like Kurt Vonnegut or Douglas Adams wrote it?
@@ -86,13 +84,14 @@ Read it aloud. Does it sound like a startup pitch deck or a Wikipedia article ab
 
 ## Remember: Conciseness Above All
 
-**The #1 Goal: Make the book SHORTER, FUNNIER, and MORE USEFUL.**
+**The #1 Goal: Make writing FUNNIER**
 
 When in doubt:
-- Cut words rather than add them
-- Use comedy techniques only if they make things significantlyfunnier
+- Use comedy techniques only if they make things significantly funnier
 - Never add filler for the sake of being clever
-- If a joke requires setup, it's probably not worth it
-- Every edit should reduce word count
 
 Think: Philomena Cunk explaining economics to drunk people at a funeral, but keeping it brief because the bar is closing.
+
+# Images
+
+Do not remove any images or charts or important math or anything! 
