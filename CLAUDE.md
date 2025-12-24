@@ -67,7 +67,6 @@ Build from reasonable to insane:
 
 ### Simple Math as Profound Discovery
 - "$2.7 trillion is bigger than $68 billion. I checked."
-- "271.8% is more than 100%, which shouldn't be possible but is"
 - "After the first few hundred nuclear warheads, you're just showing off"
 
 ## The Final Check
