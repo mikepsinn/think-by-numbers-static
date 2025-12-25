@@ -1,0 +1,11 @@
+# Apache redirects for legacy URLs
+RewriteEngine On
+
+RewriteRule ^3-easy-steps/?$ /empiricism-2/why-think-by-numbers/ [R=301,L]
+RewriteRule ^i-am-biased/?$ /empiricism-2/why-think-by-numbers/ [R=301,L]
+RewriteRule ^vote-2/?$ /politics/vote/ [R=301,L]
+RewriteRule ^empiricist-movement/?$ /empiricism-2/why-think-by-numbers/ [R=301,L]
+RewriteRule ^manage-subscriptions/?$ / [R=301,L]
+RewriteRule ^terms-of-service/?$ / [R=301,L]
+RewriteRule ^qm/?$ https://quantimo.do [R=302,L]
+RewriteRule ^subscribe/?$ / [R=301,L]

@@ -1,0 +1,5 @@
+# Redirects for legacy URLs
+# Format: from to [status]
+
+# External redirect to QuantiModo
+/qm https://quantimo.do 302
