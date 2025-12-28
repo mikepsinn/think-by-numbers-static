@@ -130,20 +130,64 @@ module.exports = function(eleventyConfig) {
       .replace(/-+$/, '');
   });
 
-  // Create a posts-only collection (excludes feeds and other templates)
-  // This prevents circular reference issues in RSS feeds
+  // WordPress-style posts collection (blog articles that appear in feeds/listings)
   eleventyConfig.addCollection("posts", function(collectionApi) {
     return collectionApi.getAll()
       .filter(item => {
         // Only include markdown files from content directory
-        return item.inputPath &&
-               item.inputPath.includes('/content/') &&
-               item.inputPath.endsWith('.md') &&
-               item.data.title;
+        if (!item.inputPath ||
+            !item.inputPath.includes('/content/') ||
+            !item.inputPath.endsWith('.md') ||
+            !item.data.title) {
+          return false;
+        }
+
+        // Include items explicitly marked as posts
+        if (item.data.type === 'post') {
+          return true;
+        }
+
+        // Include WordPress imports (legacy)
+        if (item.data.metadata && item.data.metadata.type === 'wordpress') {
+          return true;
+        }
+
+        // Exclude everything else (pages, utility content, etc.)
+        return false;
       })
       .sort((a, b) => {
         // Sort by date (newest first)
         return b.date - a.date;
+      });
+  });
+
+  // WordPress-style pages collection (standalone pages that don't appear in feeds)
+  eleventyConfig.addCollection("pages", function(collectionApi) {
+    return collectionApi.getAll()
+      .filter(item => {
+        // Only include markdown files from content directory
+        if (!item.inputPath ||
+            !item.inputPath.includes('/content/') ||
+            !item.inputPath.endsWith('.md') ||
+            !item.data.title) {
+          return false;
+        }
+
+        // Include items explicitly marked as pages
+        if (item.data.type === 'page') {
+          return true;
+        }
+
+        // Include legacy page metadata
+        if (item.data.metadata && item.data.metadata.type === 'page') {
+          return true;
+        }
+
+        return false;
+      })
+      .sort((a, b) => {
+        // Sort by title alphabetically
+        return (a.data.title || '').localeCompare(b.data.title || '');
       });
   });
 

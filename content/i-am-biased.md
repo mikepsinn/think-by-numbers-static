@@ -1,8 +1,8 @@
 ---
 title: "I Am Biased"
 date: 2013-06-25
+type: page
 metadata:
-  type: page
   url: https://thinkbynumbers.org/i-am-biased/
 tags:
   - empiricism

@@ -1,8 +1,8 @@
 ---
 title: "The Empiricist Movement"
 date: 2013-06-25
+type: page
 metadata:
-  type: page
   url: https://thinkbynumbers.org/empiricist-movement/
 tags:
   - empiricism

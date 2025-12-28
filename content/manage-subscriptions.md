@@ -1,8 +1,8 @@
 ---
 title: "Manage Subscriptions"
 date: 2024-12-25
+type: page
 metadata:
-  type: page
   url: https://thinkbynumbers.org/manage-subscriptions/
 tags:
   - subscription

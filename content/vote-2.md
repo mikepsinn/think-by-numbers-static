@@ -1,8 +1,8 @@
 ---
 title: "Vote!"
 date: 2013-06-25
+type: page
 metadata:
-  type: page
   url: https://thinkbynumbers.org/vote-2/
 tags:
   - politics

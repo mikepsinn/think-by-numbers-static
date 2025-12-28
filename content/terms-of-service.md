@@ -1,8 +1,8 @@
 ---
 title: "Terms of Service"
 date: 2024-12-25
+type: page
 metadata:
-  type: page
   url: https://thinkbynumbers.org/terms-of-service/
 ---
 

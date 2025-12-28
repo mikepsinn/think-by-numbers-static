@@ -1,8 +1,8 @@
 ---
 title: "Crowdsourcing Utopia: Solve All the World's Problems in 3 Easy Steps"
 date: 2013-06-25
+type: page
 metadata:
-  type: page
   url: https://thinkbynumbers.org/3-easy-steps/
 tags:
   - solutions

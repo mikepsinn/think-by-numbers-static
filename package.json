@@ -9,7 +9,8 @@
     "search": "npx pagefind --site _site --output-subdir _pagefind",
     "clean": "npx rimraf _site",
     "generate-images": "tsx scripts/generate-project-images.ts",
-    "generate-images:file": "tsx scripts/generate-project-images.ts"
+    "generate-images:file": "tsx scripts/generate-project-images.ts",
+    "generate-checklist": "tsx scripts/generate-post-checklist.ts"
   },
   "keywords": [
     "eleventy",
