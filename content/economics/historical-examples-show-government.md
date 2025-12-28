@@ -33,15 +33,17 @@ tags:
   - financial-sector
   - gdp
 ---
-This [study](https://www.minneapolisfed.org/research/SR/SR421.pdf) by the Federal Reserve examines the effects of government intervention and the absence thereof in two similar financial crises which occurred simultaneously in Chile and Mexico. Chile liquidated the insolvent banks and instituted a new regulatory system to prevent future abuses. Mexico nationalized the entire banking system keeping the insolvent banks on life support at the expense of the taxpayer.
+This [study](https://www.minneapolisfed.org/research/SR/SR421.pdf) by the Federal Reserve examines the effects of government intervention and the absence thereof in two similar financial crises which occurred simultaneously in Chile and Mexico. Chile liquidated the insolvent banks and instituted a new regulatory system to prevent future abuses. Mexico nationalized the entire banking system keeping the insolvent banks on life support at the expense of the taxpayer.
 
-This is what happened. Over the next 25 years, Chile’s per capita GDP grew 100% while Mexico has exhibited an impressive 0% growth rate.  This means the average Chilean is twice as rich as he was 25 years ago, whereas the average Mexican stayed just as poor as he was before.
+Sometimes I wonder if economic experiments are just countries playing Rock, Paper, Scissors with each other's futures.
+
+This is what happened. Over the next 25 years, Chile's per capita GDP grew 100% while Mexico has exhibited an impressive 0% growth rate. This means the average Chilean is twice as rich as he was 25 years ago, whereas the average Mexican stayed just as poor as he was before. It's like one country took the stairs and the other took the escalator that was broken and just stood there.
 
 [![Graph Illustrating High GDP Growth in Chile and Flat GDP Growth in Mexico Since 1980. Title: Real GDP per working-age person in Chile and Mexico.](/wp-content/uploads/2009/02/chile-mexico-recession-672x458.jpg)](http://thinkbynumbers.org/wp-content/uploads/2009/02/chile-mexico-recession.jpg)
 
-The lesson is clear. If the government subsidizes bad behavior you get more of it. If the government taxes good behavior you get less of it.
+The lesson is clear. If the government subsidizes bad behavior you get more of it. If the government taxes good behavior you get less of it. This raises the profound question: What if we subsidized good behavior instead? But that would be too simple, wouldn't it?
 
-Yet that’s exactly what were doing. We’re taxing successful, competently run businesses to subsidize irresponsible, poorly run businesses. Until we realize this simple fact, the previous trend of increased productivity and standards of living will only be a memory.
+Yet that's exactly what were doing. We're taxing successful, competently run businesses to subsidize irresponsible, poorly run businesses. It's like punishing the kid who did their homework to reward the kid who ate it. Until we realize this simple fact, the previous trend of increased productivity and standards of living will only be a memory.
 
 <audio class="wp-audio-shortcode" id="audio-7-15" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn005_chile_mexico-government-intervention.mp3?_=15"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn005_chile_mexico-government-intervention.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn005_chile_mexico-government-intervention.mp3</a></audio>
 

@@ -17,38 +17,68 @@ metadata:
 tags:
   - democracy
 ---
-## Filthy Redcoats
+## The Math on Revolution
 
-Historians estimate that the proportion of adult white male loyalists to Great Britain somewhere between [15% and 33%](https://books.google.com/books?id=xK1NuzpAcH8C&pg=PA235#v=onepage&q&f=false) during the American Revolution for democracy. There were about [400,000](https://www.jstor.org/stable/1919095) Loyalists or [16%](https://www.jstor.org/stable/1919095) of the white population of [2.25 million](https://www.jstor.org/stable/1919095) in 1780.
+The American Revolution was fought to give people the right to vote on things. Ironically, most Americans didn't vote for it. Probably because they didn't have the right to vote yet.
 
-## The Apathetic
+Here's how Americans felt about fighting the world's most powerful empire to establish democracy:
 
-Approximately [half the colonists](http://hnn.us/articles/5641.html) of European ancestry tried to avoid involvement in the revolution. The uninterested included deliberate pacifists, recent immigrants, and simple apolitical folk.
+**Loyalists (Team Britain):** [15-33%](https://books.google.com/books?id=xK1NuzpAcH8C&pg=PA235#v=onepage&q&f=false) thought the revolution was a terrible idea. About [400,000 people](https://www.jstor.org/stable/1919095) actively supported the king. That's [16%](https://www.jstor.org/stable/1919095) of the [2.25 million](https://www.jstor.org/stable/1919095) white colonists in 1780. These people looked at the most powerful military in the world and decided, "Yes, I'll take their side." Smart.
 
-## Crazy Revolutionaries
+**The Apathetic (Team Netflix):** Approximately [half the colonists](http://hnn.us/articles/5641.html) tried to avoid the whole thing. This included pacifists, recent immigrants, and people who just wanted to be left alone. Reasonable. When someone says "Hey, want to fight the British Empire?" and you respond "I'd rather not," that's not cowardice, that's basic risk assessment.
 
-The patriots received active support from perhaps [33 to 45 percent](https://books.google.com/books?id=-w_xPy-S3aEC&pg=PA147#v=onepage&q&f=false) of the white populace. [John Adams](https://en.wikipedia.org/wiki/John_Adams) has sometimes been cited as having claimed, in an 1813 letter, that one-third of Americans supported the revolution and one-third were against.
+**Patriots (Team Revolution):** [33-45%](https://books.google.com/books?id=-w_xPy-S3aEC&pg=PA147#v=onepage&q&f=false) actively supported independence. [John Adams](https://en.wikipedia.org/wiki/John_Adams) estimated one-third supported it, one-third opposed it, and one-third didn't care.
 
-## Why Democracy?
+So the thing we celebrate every Fourth of July? Most people at the time were either against it or couldn't be bothered.
 
-Life sucked for millions of years, then democracy happened.
+If you ever feel powerless because your minority opinion doesn't matter, just remember that America was founded by a minority opinion. Inspiring, if you ignore all the context.
+
+## Why This Minority Opinion Mattered
+
+Life was terrible for millions of years. Then democracy happened. Then life got less terrible.
+
+Could be a coincidence. Though statistically speaking, when something stays the same for 99.9% of history and then changes dramatically in the final 0.1%, that's what scientists call "suspicious timing."
 
 ![](/wp-content/uploads/2020/09/global-trends-in-gdp-and-democracy-1500-2000-chart-768x576.png)
 
-For thousands of years, the average person made about [$1000 per year](https://ourworldindata.org/economic-growth). Today, the average GDP per capita is [$52,000 per year](https://ourworldindata.org/economic-growth) in the US.
+The average person made about [$1,000 per year](https://ourworldindata.org/economic-growth) for thousands of years. Today it's [$52,000 per year](https://ourworldindata.org/economic-growth) in the US. That's a 52X increase.
 
-What led to this sudden 52X explosion in wealth? This happened over a period of 200 years. For perspective, biologically modern humans have existed around [200,000 years](https://www.universetoday.com/38125/how-long-have-humans-been-on-earth/#:~:text=While%20our%20ancestors%20have%20been,earnest%20only%20in%20the%201800s.). 200 years is 0.1% of 200,000. So after being generally for literally 99.9% of human existence, global wealth suddenly multiplies itself by 52 during 0.1% of our existence.
+Here's the notable part: This happened over 200 years. Modern humans have existed for [200,000 years](https://www.universetoday.com/38125/how-long-have-humans-been-on-earth/#:~:text=While%20our%20ancestors%20have%20been,earnest%20only%20in%20the%201800s.). Do the math: 200 is 0.1% of 200,000.
 
-## Dis-Incentivizing Innovation
+Translation: Humanity was poor for 99.9% of its existence. Then wealth multiplied 52X during the final 0.1%. Right after democracy showed up.
 
-Prior to representative democracies, the divine right of kings stated that everything was owned by the king or whatever. So there was no point in spending your life developing some new technology or building a business that could be confiscated at any time. Thus there was little reward for innovation. Thus there was little innovation.
+Before democracy, humans had tried everything: monarchy, theocracy, oligarchy, anarchy. For 199,800 years we experimented with every possible way to organize society. Then we tried democracy and suddenly everyone got 52 times richer. Makes you wonder what took us so long.
 
-## Meritocratic Resource Deployment
+## How Kings Prevent Innovation
 
-Then some representative democracies and free markets were born. Democratic governments produce more of a meritocracy than an aristocracy. In an ideal free market, the most productive people acquire and then get to control and deploy most of society’s resources. Hence, resources are deployed much more efficiently than they are by a bunch of randomly selected inbred aristocrats.
+Before democracies, the divine right of kings meant everything belonged to the king. Build something valuable? The king can take it. Invent something useful? Also the king's now.
 
-The benefits of this compound and snowball to produce exponential growth as seen in the GDP curve.
+The divine right of kings was based on the idea that God chose the king to rule. Which is interesting because God chose a lot of incompetent people. You'd think an all-knowing deity would have better judgment about who gets absolute power over millions of people.
 
-## Everyone Seems to Hate Direct Democracy
+There's no point developing technology or building businesses when a monarch can confiscate them on a whim. No reward for innovation means no innovation. The math is simple.
 
-Everyone seems to care tremendously about the various global problems but are undyingly loyal to the system that allows them to thrive. It’s as if everyone sees constant hand-wringing as the perfect all-purpose solution for everything.
+Kings would say, "Why should I encourage innovation? I already have a crown." Hard to argue with that logic.
+
+## How Democracy Makes Everyone Richer
+
+Representative democracies and free markets created something different: meritocracy instead of aristocracy.
+
+In functioning markets, productive people control more resources. Resources get deployed by people who know how to use them, not by randomly selected inbred aristocrats who inherited a crown.
+
+Under monarchy, the person in charge was whoever's dad was in charge. Under democracy, the person in charge is whoever convinces the most people they should be in charge. Both systems have their flaws, but at least democracy occasionally produces competent leaders by accident.
+
+The returns compound. Each improvement enables the next one. The GDP curve shows this clearly.
+
+## The Irony
+
+That minority of revolutionaries created a system that made everyone wealthier. Even the descendants of the loyalists who opposed it.
+
+The Loyalists who fled to Canada probably feel pretty silly now. "Let's stay loyal to the king," they said. "What's the worst that could happen?" Well, they got Canada. Which is nice, but they could have had America. The math shows they chose wrong.
+
+**Sources:**
+- [The Loyalists in the American Revolution - Robert McCluer Calhoon](https://books.google.com/books?id=xK1NuzpAcH8C&pg=PA235)
+- [Loyalist Population in the United States - JSTOR](https://www.jstor.org/stable/1919095)
+- [Historians Estimate Revolutionary Support - History News Network](http://hnn.us/articles/5641.html)
+- [American Revolution Support - Google Books](https://books.google.com/books?id=-w_xPy-S3aEC&pg=PA147)
+- [Economic Growth Data - Our World in Data](https://ourworldindata.org/economic-growth)
+- [How Long Have Humans Been on Earth? - Universe Today](https://www.universetoday.com/38125/how-long-have-humans-been-on-earth/)

@@ -12,32 +12,44 @@ tags:
 
 # Crowdsourcing Utopia
 
-## The Problem: Suffering
+## The Problem: Dying
 
-Human suffering manifests in countless forms—physical illness, mental anguish, loneliness, conflict, hunger, disease, and poverty affect all populations regardless of wealth or education. Thousands of children face starvation daily, and hundreds of millions of animals perish in industrial farming systems annually.
+People are dying. Also, they're sad. Some are lonely. Others are hungry. This happens despite living on a planet that grows food for free and has enough resources to feed everyone twice over. The confusion is notable.
 
-## Why Suffering Persists
+Thousands of children starve daily while governments spend roughly one trillion dollars preventing deaths from terrorism, which kills fewer people than lightning strikes. You have the math for this. It's third-grade arithmetic.
 
-Despite technological advancement creating abundance, resources remain irrationally allocated using archaic, emotion-based neural structures. Governments control approximately half of global resources but direct funding primarily toward special interests rather than maximizing societal welfare.
+## Why This Keeps Happening
 
-Human evolutionary history—shaped by scarce savanna resources and tribal competition—created genetic predispositions toward conflict rather than utilitarian cooperation.
+Your primate brain evolved on savannas where resources were scarce and the neighboring tribe might eat you. That brain now controls nuclear weapons and global food distribution. It's like using a calculator to hammer nails—technically possible, but you're missing the point.
 
-Modern military spending exemplifies this misallocation: governments spend roughly one trillion dollars on counter-terrorism, which kills fewer people than lightning strikes.
+Governments control about half of all resources. They spend these resources based on who gives them the most papers with dead presidents on them, not on who's dying the most. It's a simple system: weapons makers give papers to politicians, politicians buy weapons, weapons makers get more papers. Like a dog chasing its tail, if the tail was made of money and the dog was democracy.
 
-## The Three-Step Solution
+## How You Fix This
 
-### Step 1: Learn
+### Step 1: Learn What Actually Works
 
-Citizens must study public policy through data-driven analysis rather than partisan rhetoric. The Think by Numbers platform aims to create a crowdsourced repository of policy information, employing gamification and democratic voting to surface quality content.
+Step 1 is called "Step 1" because it comes before Step 2. This is how numbers work, which is appropriate for a site called Think by Numbers.
 
-### Step 2: Decide
+Read studies instead of campaign slogans. Studies are like campaign slogans but with footnotes and uncomfortable truths. The Think by Numbers platform collects data on what policies actually reduce suffering—not which ones sound good when shouted, which is a different metric entirely.
 
-Using crowdsourcing methods, communities can quantify suffering and calculate cost-effectiveness of potential solutions. A Felicific Calculus framework would rank interventions by suffering reduction per dollar invested.
+You upvote facts with sources. You downvote name-calling. It's like Reddit, but for not dying, which is admittedly a narrower use case than Reddit's current focus.
 
-### Step 3: Act
+### Step 2: Do the Math
 
-A charitable foundation would direct resources toward proven, high-impact solutions—potentially replacing ineffective government programs.
+Calculate which solutions prevent the most suffering per dollar. Rank them. Pick the top ones. This requires third-grade arithmetic, which you have. If you don't have third-grade arithmetic, you may be a dog, in which case this entire website is wasted on you.
 
-## Implementation Framework
+If a charity saves one life for $3,000 and another saves one life for $300,000, you might think "just do both." But money is finite, unlike opinions, so you have to choose. Mathematics invented ranking specifically for situations like this.
 
-The proposal includes databases for cataloging suffering types and proposed remedies, measuring impact through monetary valuations, pain scales, and prevalence data to guide rational resource allocation.
+Some interventions save lives for pennies. Others cost millions per life saved. You probably want to start with the penny ones, unless you really hate pennies, which is a personal choice but seems inefficient.
+
+### Step 3: Spend Money on What Works
+
+Direct resources toward proven solutions that save the most lives per dollar instead of whatever makes you feel good or scares you the most.
+
+A charitable foundation could demonstrate this works. Then governments might notice that saving lives is cheaper than not saving lives. Though history suggests they won't notice, so you'll have to keep doing it yourself.
+
+## The Technical Bits
+
+You'll need databases to track suffering types and solutions. You measure impact using money valuations and pain scales. You rank by effectiveness. Then you fund the top ones.
+
+It's not complicated. The math is simple. The hard part is convincing humans to do the obvious thing instead of the thing that makes the cave-dweller part of their brain feel safe.

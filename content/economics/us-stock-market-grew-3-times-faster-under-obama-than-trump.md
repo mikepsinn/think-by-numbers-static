@@ -18,11 +18,11 @@ tags:
 ---
 ![US Stock Market Grew 3 Times Faster Under Obama Than Trump](/wp-content/uploads/2019/06/us-stock-market-returns-under-trump-obama-480x325.png)
 
-U.S. stocks gained 21% for the first two years of the Trump administration. versus 71.2% in the first two years of the Obama administration.
+First two years of Trump: stocks up 21%. First two years of Obama: stocks up 71.2%. That's 3.4 times faster. I checked the math on my fingers and toes, and it still came out that way.
 
-Obama did have an advantage in that he took office after a significant market correction.
+Obama did start after a market crash, which helps. It's easier to grow when you're starting from the bottom. It's like how it's easier to clean your room when it's already on fire—anywhere you go from there is technically an improvement.
 
-However, claims that Trump’s business genius deserve credit for growth under his administration may not be justified since 21% is simply the long term average. Over the past 50 years the market has gained 10% a year on average. 21% over two years divided by 2 is 10.5% per year.
+But Trump's 21% gain is just the 50-year average (10.5% per year). Nothing special. Just average. Like getting a participation trophy for existing. Which, to be fair, is pretty much what the stock market gives you if you just hold index funds and don't panic-sell every time CNBC screams about something.
 
 ## Sources
 

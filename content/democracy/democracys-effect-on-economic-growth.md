@@ -19,20 +19,43 @@ metadata:
 tags:
   - democracy
 ---
-A country that switches from non-democracy to democracy achieves about [20% higher](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/) GDP per capita over the next 30 years. The [30%](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/) increase in the number of democratic countries over the past 50 years has yielded roughly [6% higher](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/) world GDP.
+## Democracy: The Only Get-Rich-Quick Scheme That Actually Works
+
+Democracy comes from the Greek words "demos" meaning people and "kratos" meaning power. Or as some historians say, "demo" meaning demonstration and "cracy" meaning crazy. Both seem accurate based on election coverage.
+
+Here's the math, which requires third-grade arithmetic:
+
+When a country switches from non-democracy to democracy, GDP per capita goes up about [20%](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/) over 30 years. I checked. It's like compound interest, except instead of money making money, voting rights make money.
+
+If you ever doubt the power of democracy, just remember that your vote can make all the difference. That's what they tell you, anyway.
 
 ![](/wp-content/uploads/2020/09/gdp-before-and-after-democractic-transitions-chart-300x218.png)
 
-[Source: Does democracy boost economic growth?](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/)
+The number of democracies increased [30%](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/) over the past 50 years. World GDP went up [6%](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/) just from that. Not bad for letting people vote.
 
-The global wealth explosion over the last 200 year immediately followed the democratic American Revolution. Furthermore, growth in GDP tracks perfectly with the spread of democracy to other countries around the world.
+## The Suspicious Timing
+
+For thousands of years, everyone was poor. Then democracy happened. Then everyone got rich.
+
+Coincidence? The data suggests probably not. Though it could also be a coincidence. I'm not a statistician, I'm just reading what the statisticians say.
 
 ![](/wp-content/uploads/2020/09/global-trends-in-gdp-and-democracy-1500-2000-chart-768x576.png)
 
-[Source: Estimates of World GDP, One Million B.C. – Present](https://delong.typepad.com/print/20061012_LRWGDP.pdf)
+The global wealth explosion started right after the American Revolution. The line on that chart goes from "basically flat for all of human history" to "suddenly vertical" right when democracy shows up. It's like humanity was stuck in first gear for millennia, then someone invented voting and we hit the accelerator.
 
-Below you can see that countries with a higher Democracy Index score are wealthier than less democratic ones.
+Before democracy, economic growth was so slow you'd think the economy was being run by a committee. Which it basically was, except the committee was just one king and he inherited the job from his dad.
+
+## More Democracy = More Money
+
+Countries with higher Democracy Index scores are wealthier. Below is a scatter plot proving that democracy and GDP track together like they're handcuffed.
 
 ![](/wp-content/uploads/2020/09/Country-based-correlation-scatter-plot-for-log-GDP-per-capita-and-Democracy-for-the-year-300x242.png)
 
-[Source: Bayesian Dynamical Systems Modelling in the Social Sciences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086468)
+The correlation is so strong you'd think someone faked the data. They didn't. I checked the methodology section. It's legitimate, which is disappointing because it would have made for a better story.
+
+Sometimes I wonder if democracy is just good for the economy, or if the economy is just good for democracy. Then I remember I'm not qualified to answer that question, so I just look at the numbers instead.
+
+**Sources:**
+- [Does democracy boost economic growth? - World Economic Forum](https://www.weforum.org/agenda/2014/05/democracy-boost-economic-growth/)
+- [Estimates of World GDP, One Million B.C. – Present - DeLong](https://delong.typepad.com/print/20061012_LRWGDP.pdf)
+- [Bayesian Dynamical Systems Modelling in the Social Sciences - PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0086468)

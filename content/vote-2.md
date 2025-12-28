@@ -11,23 +11,34 @@ tags:
 
 # Vote!
 
-## Voting for Comments
+## Voting on Comments (The Easy Kind)
 
-The site encourages users to employ the comments voting system by:
+This website has voting buttons. They're rectangular and respond to clicking, which is a technology humans mastered in approximately 1995.
 
-1. **Upvoting comments** that contain factual information with proper sources
-2. **Downvoting ad hominem attacks** directed at anyone
+Use them like this:
 
-Name-calling is completely unproductive. Personal attacks cause emotional responses to override rational thinking, making primates out of philosophers.
+1. **Upvote** comments with facts and sources - These are statements connected to reality via citations. Reality is the thing that exists whether you believe in it or not.
 
-## Voting for Politicians
+2. **Downvote** name-calling and personal attacks - These are statements designed to make someone feel bad instead of making anyone smarter. They're the intellectual equivalent of throwing your food instead of eating it.
 
-Should you vote in elections? Two perspectives:
+Calling someone stupid doesn't make you right. It just triggers their primate brain to call you stupid back. Then you're both primates throwing cognitive feces at each other instead of solving problems. Your opposable thumbs deserve better. They evolved over millions of years specifically so you could do things other than fling poop.
 
-### The Self-Interested Answer: No
+## Voting for Politicians (The Hard Kind)
 
-Statistical evidence shows your individual vote has less than a 0.00001% chance of determining a national election outcome. By comparison, you face a 0.002% likelihood of injury driving to the polls. Therefore, from a practical standpoint focused on personal welfare, staying home is more rational.
+Should you vote in actual elections? The math says interesting things, which is a polite way of saying "the answer is depressing but technically correct."
 
-### The Civic-Minded Answer: Yes
+### The Selfish Answer: No
 
-However, if you possess genuine knowledge about candidates' abilities to reduce suffering, you should vote. This motivation is "irrational" but frames it as fulfilling civic duty. The best candidate likely won't be on the ballot or will run third-party.
+Your individual vote has roughly a 0.00001% chance of determining a national election. These are lottery odds, except the lottery occasionally pays out and voting never does.
+
+You have a 0.002% chance of getting injured driving to the polls. You're 200 times more likely to hurt yourself voting than to affect the outcome. This is called "democracy," and Winston Churchill thought it was the worst system except for all the others. He may have been drunk when he said this, but he wasn't wrong.
+
+From a pure self-interest perspective, staying home and watching Netflix is more rational than voting. Which is depressing, but accurate, which is this website's brand.
+
+### The Less Selfish Answer: Yes, Vote Anyway
+
+If you actually know which candidate will reduce more suffering, vote for them. This is technically irrational—your vote still won't matter statistically—but it's the nice kind of irrational, like giving money to save starving children you'll never meet.
+
+The candidate who would actually fix things probably isn't on the ballot. They're probably at home, having done this same math, realizing the system rewards everything except competence. Democracy is a system where the people most qualified to lead are smart enough to avoid leading, which is ironic in a Greek tragedy kind of way.
+
+But sure, vote anyway. It beats watching TV. Actually, statistically it doesn't beat watching TV, but it feels more virtuous, and sometimes feelings matter even when math says they shouldn't.

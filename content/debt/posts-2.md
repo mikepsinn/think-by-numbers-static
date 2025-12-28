@@ -40,23 +40,79 @@ tags:
 
 Image by Ed Hall (halltoons)
 
-Empty houses in the US = [14 million](http://usatoday30.usatoday.com/money/economy/housing/2009-02-12-vacancy12_N.htm).
+Americans built [14 million houses](http://usatoday30.usatoday.com/money/economy/housing/2009-02-12-vacancy12_N.htm) nobody needed. At a median price of [$160,000](http://abcnews.go.com/Business/ConsumerNews/save-big-buy-foreclosed-house/story?id=13052724), that's [$2 trillion](http://www.rd.com/money/the-government-is-wasting-your-tax-dollars/) in wasted resources.
 
-Median Home Price = [$160,000](http://abcnews.go.com/Business/ConsumerNews/save-big-buy-foreclosed-house/story?id=13052724).
+That's not hindsight talking. These houses are empty. Unoccupied. Abandoned. They exist because the government told the economy to build houses it didn't need.
 
-Money Wasted on Building Unneeded Homes = [$2 trillion](http://www.rd.com/money/the-government-is-wasting-your-tax-dollars/).
+## How to Waste $2 Trillion
 
-Why would Americans be so dumb as to build 14 million houses they didn’t need?  The two primary reasons we built too many houses are:
+Two government policies created the housing bubble:
 
-1.  The **United States spends more than $100 billion annually to subsidize homeownership**.  The mortgage market is expanded through the government-sponsored enterprises Fannie Mae and Freddie Mac. Homeowners get a big deduction on federal income taxes for mortgage interest payments and for state and local property taxes and they even get favored treatment on capital gains from the sales of primary residences.
-2.  The **Fed kept interest rates artificially too low for too long** instead of using the natural market interest rate.  The government was keeping interest rates low because it was stimulating a short-term economic boom (excessive housing construction).  Politicians care primarily about short-term economic performance because the crash that happens in 5 years isn’t going to keep them from getting re-elected.
+### 1. Homeownership Subsidies ($100+ Billion Annually)
 
-If the government did not engage in these acts of market manipulation, the boom would not have occurred and the crash would not have occurred.
+The United States spends over $100 billion per year encouraging people to buy houses:
+- Fannie Mae and Freddie Mac expand the mortgage market
+- Mortgage interest tax deduction
+- Property tax deduction
+- Capital gains exemption on primary residences
 
-Following 9/11 the Federal Reserve reacted to keep the stock market from continuing its decent and the economy from slipping into a recession. They began to lower interest rates to increase borrowing, producing short-term economic growth.
+This makes buying houses artificially cheaper than renting. When you make something cheaper, people buy more of it. When people buy more houses, prices go up. When prices go up, speculators arrive. When speculators arrive, bubbles form.
 
-These artificially low-interest rates made it much cheaper to get a mortgage. The cheaper something is, the more people buy of it. Hence, lots of people stopped renting and got mortgages. The heightened demand for mortgages intrinsically meant a higher demand for houses. Since the demand for houses had increased the sellers were able to increase the price correspondingly. When investors saw house prices going up and up, they speculated that they could rely on that trend to continue. So, many investors bought houses with the plan of selling them at a later date when they were worth more money. The new demand for housing from speculators drove prices up even further which drew in more speculators. Rinse and repeat.
+### 2. Artificially Low Interest Rates
 
-Is free market capitalism the culprit? That would be a reasonable theory if we’d had anything close to a free market within 100 years.  In a free market, prices are determined solely by supply and demand.  Prices act as signals telling an economy how to allocate its limited resources to most efficiently satisfy the desires of the people. When population increases, demand for houses increases. This results in the cost of a house to increase. This is a signal to investors that they should direct their capital at housing production and a signal to workers to go into the construction field. Hence, the function of prices in coordinating societal behaviour is pretty damn important.
+After 9/11, the Federal Reserve lowered interest rates to prevent a recession. Low interest rates make borrowing cheap. Cheap borrowing increases demand for mortgages. More mortgage demand means more house demand. More house demand means higher prices.
 
-However, in America, the Federal Reserve has the ability to alter the price of borrowing money so that the wrong signals get sent to workers and investors. Our current economic situation is the merely the consequence of this malinvestment.
+Politicians like low interest rates because they create short-term economic booms. The crash happens 5 years later, which is someone else's problem. Specifically, your problem.
+
+## The Bubble Mechanism
+
+Here's how low interest rates create housing bubbles:
+
+1. **Fed lowers rates** - Mortgages get cheaper
+2. **People stop renting** - Why rent when mortgages cost less?
+3. **House demand increases** - More buyers chase the same number of houses
+4. **Prices rise** - Sellers raise prices because they can
+5. **Speculators arrive** - "Prices always go up, so I'll buy now and sell later"
+6. **More demand** - Speculators buy multiple houses
+7. **Prices rise more** - Even more buyers arrive
+8. **Repeat until crash**
+
+The speculation phase is crucial. When normal people see house prices rising 20% per year, they think "I should buy before prices get higher." When investors see the same thing, they buy multiple houses. This drives prices even higher, attracting more speculators, creating a feedback loop that ends when someone realizes houses aren't actually worth that much.
+
+## Free Market Capitalism?
+
+You could blame free market capitalism for this. That would be reasonable if America had free markets.
+
+In free markets, prices are determined by supply and demand. Prices signal where resources should go. When population increases, house demand increases, prices rise, and builders build more houses. When population stabilizes, demand stabilizes, prices stabilize, builders build fewer houses.
+
+This is how markets coordinate economic activity without central planning. It works pretty well unless someone manipulates the price signals.
+
+The Federal Reserve manipulates the price of borrowing money. This sends false signals to workers and investors. Construction workers think "there's high demand for housing" and enter the field. Builders think "we should build more houses" and start projects. Investors think "housing is a great investment" and buy properties.
+
+They're all responding rationally to price signals. The problem is the price signals are wrong. The Fed made borrowing artificially cheap, creating artificial demand, which created artificial construction, which created 14 million empty houses.
+
+## How Price Signals Work (When Not Manipulated)
+
+Prices coordinate economic behavior without anyone being in charge. When something becomes scarce, its price rises. The higher price tells producers "make more of this" and consumers "use less of this." When something becomes abundant, its price falls, telling producers to make less and consumers they can use more.
+
+This system works if prices reflect actual supply and demand. It breaks when the government manipulates prices to achieve political goals like "stimulating the economy" or "making homeownership affordable."
+
+The housing bubble wasn't a market failure. It was a government success. The government wanted more homeownership and more economic activity. Mission accomplished. The $2 trillion in wasted resources and the financial crisis were just externalities.
+
+## The Current Situation
+
+14 million empty houses represent:
+- Wasted lumber, concrete, copper, steel
+- Wasted labor (millions of construction workers built houses nobody needed)
+- Wasted land (can't put something useful where an empty house sits)
+- Wasted capital (money spent on houses could have gone to productive investments)
+
+These resources are gone. You can't un-build a house and get the materials back. The bubble didn't just transfer wealth from one group to another. It destroyed wealth by misallocating resources on a massive scale.
+
+The economy built 14 million houses instead of things people actually wanted. We can't fix that. We can only avoid doing it again by not manipulating interest rates and not subsidizing particular industries.
+
+Or we can keep subsidizing homeownership and manipulating interest rates, then act surprised when it happens again.
+
+---
+
+Sources: [USA Today: Housing Vacancy Data](http://usatoday30.usatoday.com/money/economy/housing/2009-02-12-vacancy12_N.htm), [ABC News: Median Home Prices](http://abcnews.go.com/Business/ConsumerNews/save-big-buy-foreclosed-house/story?id=13052724)

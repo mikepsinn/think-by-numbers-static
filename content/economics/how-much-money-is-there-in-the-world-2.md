@@ -12,11 +12,13 @@ metadata:
 tags:
   - economics
 ---
-In 2017, the entire world produced about [$127.8 trillion](https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html) of wealth (GDP).
+In 2017, humans produced [$127.8 trillion](https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html) worth of stuff (GDP). That's a lot of stuff. Where do we keep it all?
 
-This comes out to $17,500 of GDP per person.
+Divided by 7.3 billion people, that's $17,500 per person. You have opposable thumbs and invented the internet, so this seems low. Then again, babies don't contribute much to GDP and there are a lot of them.
 
-#### Sources:
+If you think about it, money is just collective hallucination we all agreed to have together. Before money, we had the barter system, which was just trading stuff. The problem was, if you had chickens and wanted a cow, you needed to find someone who wanted exactly your number of chickens for exactly one cow. Now we use paper with dead people's faces on it instead. Much more efficient.
 
--   https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html
--   https://howmuch.net/articles/broad-money-world-2019
+#### Sources
+
+- https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html
+- https://howmuch.net/articles/broad-money-world-2019

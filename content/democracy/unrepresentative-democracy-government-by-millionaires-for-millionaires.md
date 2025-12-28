@@ -25,28 +25,55 @@ metadata:
 tags:
   - democracy
 ---
-In a truly representative democracy, the more public support there is for a policy, the more likely it would be to become law.
+## How Democracy Is Supposed to Work
+
+The word "representative" in representative democracy implies that the representatives represent you. Like how a lawyer represents a client, or how a painting represents a landscape, or how those stick figures on bathroom doors represent people.
+
+In a functioning representative democracy, the more people want something, the more likely it becomes law.
 
 ![](/wp-content/uploads/2022/11/image-4-300x255.png)
 
-However, public support has almost no influence on what laws are passed. Whether there is [0% or 100%](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf) support for a policy, there’s a [30% likelihood](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf) that it will become law.
+Makes sense, right? It's almost like that's the entire point of the system.
+
+## How It Actually Works
+
+Public support has [near zero influence](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf) on what laws pass. Whether [0% or 100%](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf) of Americans support a policy, it has about a [30% chance](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf) of becoming law.
 
 ![](/wp-content/uploads/2022/11/image-5-300x255.png)
 
-Our representative government is not socioeconomically representative of the governed. Half of the representatives in Congress are millionaires, compared to less than 1% of the general population.
+That's a flat line. The math is showing you something.
+
+If you ever feel like your vote doesn't matter, you might be onto something. The data from Princeton suggests your intuition is statistically valid.
+
+## Why This Happens
+
+Half the representatives in Congress are millionaires. In the general population, less than 1% are millionaires.
 
 ![Graph Showing Percentage of Millionaires in Congress Compared to the General Public](/wp-content/uploads/2011/10/Unrepresentative-Democracy-e1319168693378.jpg)
 
-The result is that public policy is far more consistent with the desires of the top 1% than the average person. 
+When your representatives are 50X wealthier than the people they represent, public policy tends to align with what rich people want. Shocking, I know.
 
-## Solution: A Government Exchange Policy
+They say "representation matters." Turns out they meant representing millionaires. To be fair, millionaires are people too. Very wealthy people, but still technically people.
 
-Buckminster Fuller said that when trying to change something, instead of going up against it, create something new that makes the problem obsolete. The solution is to have the government issue everyone a receipt with an exchange policy.
+Congress is basically a millionaires' club that occasionally lets non-millionaires join, like how some country clubs have a token middle-class member to show they're not elitist. Except in this case, the country club makes all the laws.
 
-Every citizen should have access to a shopping cart showing what their share of public resources will be spent on. They should have the ability to adjust their allocation as they see fit.
+## How to Fix This
+
+Buckminster Fuller said when you want to change something, don't fight it. Build something better that makes it obsolete.
+
+Buckminster Fuller also designed geodesic domes, which were supposed to revolutionize housing. Now they're mostly used for planetariums and that one eccentric neighbor's greenhouse. But his quote about building better systems is still good.
+
+Here's how you do that for resource allocation:
+
+Give every citizen a shopping cart showing what their share of public resources gets spent on. Let them adjust the allocation themselves.
 
 CodePen Embed Fallback
 
-It’s important to recognize that our resources are finite, so it’s good to have an increase in one area automatically decrease resources in another area. Here’s a crude prototype that you’re welcome to fork and improve:
+Resources are finite. An increase in one area decreases another. The prototype above shows how this works. Fork it and improve it if you want.
 
-Do you have any ideas about how to optimize societal resource allocation? Please share them in the comments!
+The current system lets millionaires decide how to spend your money. This system lets you decide how to spend your money. The math is simple.
+
+Will this actually happen? Probably not. But if you ever wonder why democracy doesn't feel very democratic, just remember that it's working exactly as designed. By millionaires. For millionaires.
+
+**Sources:**
+- [Testing Theories of American Politics - Gilens & Page, Princeton](https://scholar.princeton.edu/sites/default/files/mgilens/files/gilens_and_page_2014_-testing_theories_of_american_politics.doc.pdf)
