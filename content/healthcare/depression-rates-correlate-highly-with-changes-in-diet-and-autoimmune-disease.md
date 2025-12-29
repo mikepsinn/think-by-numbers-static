@@ -20,41 +20,39 @@ metadata:
 tags:
   - healthcare
 ---
-The increase in depression is most correlated with the increase in inflammatory autoimmune diseases and with significant changes in the western diet.
-
-The US suicide rate has increased by 40% over the last 20 years.
+The US suicide rate jumped 40% over the last 20 years. Turns out when you replace vegetables with fried oil and your immune system with constant inflammation, your brain stops making the chemicals that prevent you from wanting to die. The math is third-grade level. The confusion is notable.
 
 ![](/wp-content/uploads/2019/10/Crude_U.S._suicide_rate_1981_2016-480x288.png)
 
 By Jajhill – Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=70922923
 
-The increase in suicides that appeared around the year 2000 correlates highly with changes in the American diet starting around the year 2000.
-
-One such change is the increase in vegetable oil consumption. This vegetable oil is often used in fried foods and contains many pro-inflammatory trans-fats.
+Around the year 2000, Americans decided to conduct a massive uncontrolled experiment: What happens if we deep-fry everything in inflammatory oils while simultaneously stopping the consumption of things that grow from the ground?
 
 ![](/wp-content/uploads/2019/10/vegtable-oil-fat-intake-increase-1038x731.png)
 
-The rise in suicides also correlates with a 10% decrease in vegetable intake. Vegetables themselves are generally anti-inflammatory.
+Vegetable oil consumption went up. Vegetable oil is the thing you use to fry foods, not an actual vegetable. The naming is like calling cigarettes "lung enhancers."
 
 ![](/wp-content/uploads/2019/10/vegetable-consumption-decrease-672x477.png)
 
-The rise in suicides also correlates with a 25% decrease in fruit intake. Fruit is also typically anti-inflammatory.
+Meanwhile, actual vegetable consumption dropped 10%. Things that grow from dirt and reduce inflammation? Apparently less appealing than deep-fried trans fats.
 
 ![](/wp-content/uploads/2019/10/fruit-intake-decrease-1038x737.png)
 
-The prevalence of autoimmune disorders has been increasing for many decades.
+Fruit intake fell 25%. Fruit also reduces inflammation, which explains why humans stopped eating it.
+
+Autoimmune disorders have been climbing for decades. Your immune system, which evolved to fight infections, now spends its time attacking your own organs. Evolution did not prepare it for this much fried oil.
 
 ![](/wp-content/uploads/2019/10/rise-in-autoimmune-disease-chart.gif)
 
-If an individual has an autoimmune disease they are much more likely to also have depression and vice versa.
+People with autoimmune diseases are significantly more likely to have depression. People with depression are significantly more likely to have autoimmune diseases. It's almost as if they're the same thing.
 
 ![](/wp-content/uploads/2019/10/depression-autoimmune-relationship-1038x1202.png)
 
-Depression has all of the hallmarks of sickness behavior triggered by the immune system when people are sick by inhibiting the production of serotonin and melatonin.
+When your immune system freaks out from constant inflammation, it steals tryptophan from your brain. Tryptophan is what your body uses to make serotonin and melatonin - the chemicals that make you not want to die and help you sleep. Remove those chemicals and you get what doctors call "depression" and what your body calls "appropriate response to being poisoned."
 
 ![](/wp-content/uploads/2019/10/Tryptophan-Steal-Chart1-1024x791-672x519.jpg)
 
-As shown above, our new diet is highly inflammatory so it’s triggering this sickness behavior all the time for many people.
+The inflammatory diet triggers permanent sickness behavior in millions of people. We then give them antidepressants instead of vegetables. It's like treating a broken leg with positive thinking.
 
 ## Sources
 

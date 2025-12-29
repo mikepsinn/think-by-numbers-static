@@ -13,10 +13,12 @@ metadata:
 tags:
   - economics
 ---
-In a poll by Reuters March 5-13, 0% of economists expressed support for tariffs on steel and aluminum imports.
+Reuters polled 60 economists in March 2018 about steel and aluminum tariffs. The percent who supported them: 0%. That's zero as in the number that comes before one. Zero as in the amount of unicorns in your garage.
 
-Nearly 80 percent of 60 economists who answered a question on the tariffs said they would do more harm than good and the rest said it would do nothing or very little. Not one respondent said they would benefit the US economy.
+Not "almost zero." Zero. As in the number that comes before one. 80% said tariffs would harm the economy. The other 20% said they'd do nothing. Nobody said they'd help. It's like asking 60 doctors if you should eat broken glass and having zero of them say yes.
 
-_Sources_
+When literally zero economists support your economic policy, that's not a difference of opinion. That's just being wrong. It's like insisting that water flows uphill or that the Earth is shaped like a Dorito.
 
-_https://www.reuters.com/article/us-usa-economy-poll-idUSKCN1GQ02_G
+#### Sources
+
+https://www.reuters.com/article/us-usa-economy-poll-idUSKCN1GQ02G

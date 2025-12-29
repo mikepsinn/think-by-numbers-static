@@ -19,6 +19,24 @@ tags:
   - government-spending
   - military
 ---
+## How Much Do You Spend on Weapons?
+
+Here's what your government spends on military equipment. The chart tracks how much various countries spend on things designed to make other humans stop being alive.
+
+The good news: you're winning at this particular competition.
+
+The less good news: this is a competition you're winning.
+
+It's like being proud you won a hot dog eating contest, except instead of hot dogs it's weapons, and instead of stomach aches everyone gets death.
+
 ## Military Spending By Country Over Time
 
 <iframe style="width: 100%; height: 600px; border: 0px none;" src="https://ourworldindata.org/grapher/military-expenditure-by-country-in-thousands-of-2000-us-dollars?time=1914..2007"></iframe>
+
+The chart shows military spending from 1914 to 2007. Notice the pattern: countries spend enormous sums preparing to kill each other, then they kill each other, then they spend enormous sums preparing to do it again.
+
+Military spending follows the same cycle as the seasons, except instead of winter, spring, summer, and fall, it's preparation, war, recovery, and more preparation. Nature is beautiful.
+
+Humans invented agriculture 10,000 years ago. You have had 10,000 years to figure out a better system. This is what you chose.
+
+Before you judge humanity for spending trillions on weapons instead of solving problems, remember that weapons ARE how we solve problems. Very permanently. Some would say too permanently, but those people are no longer with us to make that argument.

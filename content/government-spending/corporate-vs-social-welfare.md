@@ -26,9 +26,11 @@ Time Magazine, Vol. 152 No. 19
 
 ##### About [$59](https://www.downsizinggovernment.org/hud/public-housing-rental-subsidies) billion is spent on traditional social welfare programs. [$92](http://www.cato.org/publications/policy-analysis/corporate-welfare-state-how-federal-government-subsidizes-us-businesses) billion is spent on corporate subsidies. So, the government spent nearly 50% more on corporate welfare than it did on food stamps and housing assistance in 2006.
 
-**_Before we look at the details, a heartfelt plea from the Save the CEO’s Charitable Trust:_**
+**_Before we look at the details, a heartfelt plea from the Save the CEO's Charitable Trust:_**
 
-_There’s so much suffering in the world. It can all get pretty overwhelming sometimes. Consider, for a moment the sorrow in the eyes of a CEO who’s just found out that his end-of-year bonus is only going to be a paltry $2.3 million._
+_There's so much suffering in the world. It can all get pretty overwhelming sometimes. Consider, for a moment the sorrow in the eyes of a CEO who's just found out that his end-of-year bonus is only going to be a paltry $2.3 million._
+
+_Before you judge CEOs, try living on $2.3 million yourself. You can't even buy a small yacht with that. You'd have to settle for a medium-sized yacht, which is basically poverty._
 
 _“It felt like a slap in the face. Imagine what it would feel like just before Christmas to find out that you’re going to be forced to scrape by on your standard $8.4 million compensation package alone. Imagine what is was like to have to look into my daughter’s face and tell her that I couldn’t afford to both buy her a dollar sign shaped island and hire someone to chew her food from now on, too. To put her in that situation of having to choose… She’s only a child for God’s sake.”_
 
@@ -42,7 +44,9 @@ _For just [$93 billion](https://object.cato.org/sites/cato.org/files/pubs/pdf/tb
 
 n. Financial aid, such as a subsidy, provided by a government to specific individuals.
 
-When one thinks about government welfare, the first thing that comes to mind is the proverbial welfare queen sitting atop her majestic throne of government cheese issuing a royal decree to her clamoring throngs of illegitimate babies that they may shut the hell up while she tries to watch Judge Judy. However, many politically well-connected corporations are also parasitically draining their share of fiscal blood from your paycheck before you ever see it. It’s called corporate welfare. The intent here is to figure out which presents the greater burden to our federal budget, corporate or social welfare programs.
+When one thinks about government welfare, the first thing that comes to mind is the proverbial welfare queen sitting atop her majestic throne of government cheese issuing a royal decree to her clamoring throngs of illegitimate babies that they may shut the hell up while she tries to watch Judge Judy. However, many politically well-connected corporations are also parasitically draining their share of fiscal blood from your paycheck before you ever see it. It's called corporate welfare. The intent here is to figure out which presents the greater burden to our federal budget, corporate or social welfare programs.
+
+Before you criticize welfare queens, try sitting on a throne of government cheese yourself. It's very uncomfortable. The cheese is not structurally sound. This is why corporations prefer cash subsidies, which are much easier to sit on and also don't attract mice.
 
 There are, of course, positive and negative aspects to this spending.The primary negative aspect is that you have to increase taxes to pay for it. Taxing individuals lowers their standard of living.  It reduces people’s ability to afford necessities like medical care, education, and low mileage off-road vehicles.The common usage definition of social welfare includes welfare checks and food stamps. Welfare checks are supplied through a federal program called Temporary Aid for Needy Families. Combined federal and state [TANF](https://www.amazon.com/gp/product/1480174106/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480174106&linkCode=as2&tag=quant08-20) spending was about [$26](https://www.downsizinggovernment.org/hhs/welfare-spending) billion in 2006. In 2009, the federal government will spend about [$25](https://www.downsizinggovernment.org/hud/public-housing-rental-subsidies) billion on rental aid for low-income households and about [$8](https://www.downsizinggovernment.org/hud/public-housing-rental-subsidies) billion on public housing projects. For some perspective, that’s about [3 percent](http://web.archive.org/web/20090503223422/http://www.whitehouse.gov:80/omb/budget/fy2006/tables.html) of the total federal budget.
 

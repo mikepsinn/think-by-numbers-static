@@ -20,6 +20,20 @@ tags:
   - health
   - utilitarianism
 ---
-Americans spend more than [$60 billion](https://money.usnews.com/money/personal-finance/articles/2013/01/02/the-heavy-price-of-losing-weight) annually to try to lose weight, on everything from paying for gym memberships and joining weight-loss programs to drinking diet soda.
+Americans spend [$60 billion](https://money.usnews.com/money/personal-finance/articles/2013/01/02/the-heavy-price-of-losing-weight) annually trying to have less food on their bodies. Gym memberships, weight-loss programs, diet soda. It's like reverse shopping, except you pay more.
 
-Resolving the global food crisis would cost [$30 billion](https://www.nytimes.com/2008/06/04/news/04iht-04food.13446176.html) a year according to the UN Food and Agriculture Organization.
+The UN Food and Agriculture Organization says ending world hunger would cost [$30 billion](https://www.nytimes.com/2008/06/04/news/04iht-04food.13446176.html) per year. That's the annual budget. Not per person. Total.
+
+So Americans spend twice as much trying to eat less as it would cost to feed everyone on Earth who doesn't have enough to eat. One group is paying to subtract calories from their body. The other group would like some calories to add to their body. Economics is when you can't connect these two things.
+
+The math is third-grade level. You have third grade, so the confusion is notable.
+
+![](/wp-content/uploads/2019/04/weight-loss-vs-world-hunger-spending.png)
+
+You could feed every starving person on the planet and still have $30 billion left over for gym memberships. Or you could spend $60 billion teaching your body that food is the enemy while other bodies shut down from lack of food.
+
+Weight loss is a multi-billion dollar industry because "eat less, move more" isn't a product you can buy. You can only do it. But doing things is hard, so instead you buy a thing that promises to help you do the thing. Then you don't do the thing, but at least you bought something.
+
+Meanwhile, hunger is a problem that could be solved by giving people food, which we have. But that would be too simple. Simplicity doesn't scale.
+
+This is what you're doing with opposable thumbs and the capacity for abstract thought.

@@ -23,6 +23,8 @@ As of 2020, the cost to you for a stamp is [$0.55](https://www.stamps.com/usps/c
 
 The United States Postal Service fulfills a very important mission. Everyone benefits from it and all postal workers deserve our thanks.
 
+Especially the junk mailers, who benefit the most. They get to mail you things you don't want for 65% off, which you then throw away, which kills trees, which you pay for. It's a beautiful circle of life, like The Lion King, except with more credit card offers and fewer singing meerkats.
+
 ## Billions from the US Treasury Used to Artificially Lower Prices
 
 ### $3 Billion in Annual Deficits
@@ -71,9 +73,11 @@ This effort at complete forgiveness of debt failed to survive through the passag
 
 However, Representative Connolly stated that there will be continued effort to transfer the debt to taxpayers. “It needs debt forgiveness, not debt extension,” [Connolly told NPR](https://www.nydailynews.com/news/national/ny-us-post-office-catastrophic-losses-coronavirus-20200408-bvhndbqw4bfd7gjt3wgcwuo7g4-story.html).
 
-## It’s Illegal For a Private Service to Deliver Mail More Cheaply Than the USPS
+## It's Illegal For a Private Service to Deliver Mail More Cheaply Than the USPS
 
 The United States Postal Service (USPS) enjoys a complex series of financial subsidies and tax advantages over private delivery services such as FedEx and UPS. Indeed **it has been made illegal for a private company to deliver a letter to your mailbox at a rate lower than the USPS.**
+
+The USPS has a monopoly on your mailbox, which is illegal when companies do it, but legal when the government does it. This is called "different rules," which is Latin for "we make the rules so we win."
 
 Hence, they enjoy many economies of scale benefits that come with being a monopoly. Despite this, it still runs a [$4.2 billion-per-year](https://www.sonecon.com/docs/studies/Study_of_USPS_Subsidies-Shapiro-Sonecon-March_25_2015.pdf) deficit that has to be covered by the taxpayer via the US Treasury.
 
@@ -101,6 +105,8 @@ Eliminating this discount for bulk mailers could save:
 ## 2.5 Billion Hours are Wasted Sorting Junk Mail Every Year
 
 The average American spends about [2 minutes](https://www.pca.state.mn.us/too-much-junk-mail) per day, 6 days per week sorting through junk mail. There are [159 million](https://facts.usps.com/size-and-scope/) mailboxes in the US. This is 1 mailbox for every 2 people since people in households share a mailbox.
+
+Before you complain about wasting 2 minutes per day, remember that those 2 minutes are giving you valuable information about credit cards you don't want and furniture sales you'll never attend. This is called "enriching your life," except the opposite.
 
 2 minutes x 6 days x 52 weeks x 159 million mailboxes = [1.6 billion hours](https://docs.google.com/spreadsheets/d/1NxtJZHDUywmmSy9lJn0iX66YoukV_1-cDQet9sSwdUg/edit#gid=0) wasted sorting junk mail in the US every year.
 

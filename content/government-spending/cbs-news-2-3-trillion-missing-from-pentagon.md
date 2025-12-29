@@ -19,26 +19,34 @@ tags:
 ---
 http://youtu.be/XXm2yaoWyN8
 
-> On Sept. 10, Secretary of Defense Donald Rumsfeld declared war. Not on foreign terrorists, “the adversary’s closer to home. It’s the Pentagon bureaucracy,” he said.
-> 
-> He said money wasted by the military poses a serious threat.
-> 
-> “In fact, it could be said it’s a matter of life and death,” he said.
-> 
-> Rumsfeld promised change but the next day – Sept. 11– the world changed and in the rush to fund the war on terrorism, the war on waste seems to have been forgotten.
-> 
-> Just last week President Bush announced, “my 2003 budget calls for more than $48 billion in new defense spending.”
-> 
-> More money for the Pentagon, **CBS News Correspondent Vince Gonzales** reports, while its own auditors admit the military cannot account for 25 percent of what it spends.
-> 
-> “According to some estimates we cannot track $2.3 trillion in transactions,” Rumsfeld admitted.
-> 
-> $2.3 trillion — that’s $8,000 for every man, woman and child in America. To understand how the Pentagon can lose track of trillions, consider the case of one military accountant who tried to find out what happened to a mere $300 million.
-> 
-> “We know it’s gone. But we don’t know what they spent it on,” said Jim Minnery, Defense Finance and Accounting Service.
-> 
->  
-> 
->  
-> 
-> [http://www.cbsnews.com/8301-18563\_162-325985.html](http://www.cbsnews.com/news/the-war-on-waste/)
+On September 10, 2001, Defense Secretary Donald Rumsfeld declared war on Pentagon bureaucracy and waste. He told reporters the military cannot account for 25% of what it spends.
+
+"According to some estimates we cannot track $2.3 trillion in transactions," Rumsfeld admitted.
+
+The next day, planes hit the Twin Towers. The war on waste was quietly forgotten.
+
+Sometimes timing really is everything. It's like announcing you're going on a diet the morning before Thanksgiving.
+
+## The Math Is Third Grade
+
+$2.3 trillion divided by 290 million Americans equals $8,000 per person. That's your share of money the Pentagon lost. Not spent badly. Not wasted on overpriced hammers. Actually lost. Gone. Vanished. Like socks in a dryer, except each sock cost $8,000.
+
+Pentagon accountant Jim Minnery tried to track down a mere $300 million. His conclusion: "We know it's gone. But we don't know what they spent it on."
+
+This is the same government that will audit you over a $600 discrepancy on your tax return. They can track your Venmo payment for splitting a pizza, but $2.3 trillion just kind of wandered off.
+
+The Pentagon is called that because it has five sides, which is more sides than most buildings. This makes it 67% more secure, mathematically speaking. Each additional side adds roughly 13.4% more Pentagon-ness, which is why triangular buildings are so vulnerable to attack.
+
+## What Happened Next
+
+President Bush announced $48 billion in new defense spending. Because if you can't find $2.3 trillion, the logical solution is to add more money to the pile.
+
+It's like losing your car keys and buying another car to solve the problem. Except the car costs $48 billion and also can't find the first car.
+
+The Pentagon still cannot account for roughly a quarter of its spending. The Government Accountability Office has tried to audit the Department of Defense and failed. Every year. For decades.
+
+Before you criticize the Pentagon's accounting, try losing $2.3 trillion yourself. It's harder than you think.
+
+You could give the Pentagon less money. But that would require knowing where the money goes, which brings us back to the original problem. It's a perfect circle, really. Like a pentagon, but with fewer sides.
+
+Source: [CBS News - The War on Waste](http://www.cbsnews.com/news/the-war-on-waste/)

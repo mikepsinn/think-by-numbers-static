@@ -23,21 +23,29 @@ tags:
   - healthcare
   - utilitarianism
 ---
-## The FDA’s Mandate is Not to Maximize Lives Saved
+## The FDA's Mandate is Not to Maximize Lives Saved
 
-Reducing disease and increasing longevity is not the congressional mandate of the FDA. It is to ensure the “safety and efficacy of drugs and medical devices.” The FDA could fulfill its order perfectly by rejecting all new drugs, which would 100% guarantee that an unsafe or ineffective drug never gets on the market again.
+The FDA is called that because it's an acronym, which is when you take the first letters of several words and make them into a shorter word. FDA stands for "Food and Drug Administration." They administer food and drugs. Administering is what you call it when you're in charge of something but you're not exactly sure what you're doing with it.
 
-A mandate preferable to the [60 million](https://www.theworldcounts.com/populations/world/deaths) people that die every year and the [2.5 billion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) people suffering from chronic diseases would be to **maximize the average healthy human lifespan**.
+The FDA's job is to ensure "safety and efficacy of drugs and medical devices." Not to save the most lives. Not to reduce disease. Not to increase longevity. Just to make sure unsafe drugs don't get approved. The mandate is very specific. Stay in your lane. Your lane is "preventing bad things" not "enabling good things."
+
+This is like hiring a lifeguard whose only job is to make sure no one drowns using an unsafe life preserver. People can drown without a life preserver all day long. That's not the lifeguard's problem. The lifeguard's job description says "life preserver safety inspector" not "prevent drowning." Reading comprehension is important in bureaucracy.
+
+The FDA could fulfill its mandate perfectly by rejecting every new drug. Zero unsafe drugs would ever get approved. Mission accomplished. Everyone dies, but safely. You can die from a disease that has a cure sitting in a lab somewhere, but at least you didn't die from an unsafe drug. See the difference? One death is in the FDA's jurisdiction, the other isn't.
+
+[60 million people](https://www.theworldcounts.com/populations/world/deaths) die every year. [2.5 billion people](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6214883/) suffer from chronic diseases. A better mandate might be "maximize the average healthy human lifespan." But that's not what you told them to do. You gave them a narrow mandate and they're following it. This is what you call "doing your job" even when your job makes no sense.
 
 ## The Health Explosion
 
-For thousands of years, everything sucked, and the average human life expectancy was 28. Then something happened around 1800, and life expectancy exploded.
+For thousands of years, everything sucked, and you died at 28. Then something happened around 1800, and life expectancy exploded. You went from "probably dead before 30" to "might make it to 80" in about 200 years.
+
+This is the steepest increase in human lifespan in all of recorded history. For context, Cleopatra lived closer in time to the moon landing than to the building of the pyramids. And her life expectancy was basically the same as the pyramid builders. Then suddenly in 1800, something changed. You'll never guess what it was. (It was science and capitalism, working together like a buddy cop movie.)
 
 ![](/wp-content/uploads/2021/02/life-span-explosion-2-300x266.png)
 
-## Structural Changes Leading to the Health Explosion
+## What Caused the Health Explosion
 
-Let’s zoom in and see what happened in the last centuries leading to this explosion.
+Here's what happened in the centuries leading to this explosion:
 
 ![](/wp-content/uploads/2021/02/events-leading-to-health-explosion-2-768x445.png)
 
@@ -94,57 +102,73 @@ The 1906 Pure Food and Drugs Act empowered the Bureau of Chemistry (forerunner o
 
 Manufacturers were required to demonstrate to FDA that they had carried out all reasonably applicable studies to demonstrate safety and that the drug was “safe for use.”
 
-##### 1950’s – FDA Protects Americans from the Thalidomide Disaster
+##### 1950's – FDA Protects Americans from the Thalidomide Disaster
 
-In the late 1950s, thalidomide became available in 46 countries (**but not the U.S.**) to treat nausea associated with morning sickness during pregnancy. Unfortunately, the potential side effects were not fully understood. As a result, thousands of children were born with congenital disabilities, most notably phocomelia (limb malformations).
+In the late 1950s, thalidomide was available in 46 countries to treat morning sickness during pregnancy. Not in the U.S., though. The existing 1938 FDA safety requirements kept it out.
+
+Thousands of children in Europe were born with severe limb malformations. Zero in the U.S. The 1938 safety regulations worked perfectly. This is what you call a "success story" in regulation. The system worked exactly as designed.
 
 ![](/wp-content/uploads/2021/02/thalidomide-journalist-the-sunday-times-scandals-in-history-headline-thalidomide-768x534.jpg)
 
-Fortunately, the existing 1938 FDA safety requirements **completely protected Americans** from the fate of Europe. However, amid the terrifying news reports of the tragedy, the U.S. government felt compelled to do something in response.
+But amid terrifying news reports of deformed babies in Europe, the U.S. government felt compelled to "do something." The existing system had completely protected Americans, so naturally, you changed it. This is what you call "solving a problem that didn't happen by creating new problems that will happen." Politics is when you fix things that aren't broken.
 
-## 1962 – Kefauver Harris Efficacy Amendment.
+## 1962 – Kefauver Harris Efficacy Amendment
 
-As effective safety regulations were already in place, the government chose to restrict the production of new treatments, primarily by requiring extensive additional efficacy testing via the 1962 **Kefauver Harris Amendment**.
+Safety regulations were already working. So the government added massive new efficacy testing requirements via the 1962 Kefauver Harris Amendment. If it's not broken, add 10 years and $1 billion to the process. This is what you call "improvement" even though everything got worse.
+
+The amendment is called "Kefauver Harris" because it was sponsored by Senator Estes Kefauver and Representative Oren Harris. Naming laws after the people who wrote them is a tradition in government. It makes it easier to know who to blame when everything goes wrong.
 
 ### Results of Increased Restrictions
 
 #### Reduction in New Treatments
 
-The new regulatory clampdown on approvals immediately reduced the production of new treatments by 70%.
+The new regulations immediately reduced the production of new treatments by 70%. You cut medical progress by two-thirds overnight.
 
 ![](/wp-content/uploads/2021/03/new-treatments-per-year-2-768x454.png)
 
 #### Slowed Growth in Lifespan
 
-Over the previous 50 years, rapid advancements in medical science had produced a 4-year increase in human lifespan every decade. This amazingly linear growth rate had followed millennia with a flat human lifespan of around 28 years. Following this new 70% reduction in the pace of medical progress, the growth in human lifespan was immediately cut in half to an increase of 2 years per decade.
+For 50 years before 1962, life expectancy grew by 4 years per decade. A perfectly linear growth rate that had followed millennia of zero growth.
+
+After the 1962 regulations cut medical progress by 70%, life expectancy growth was immediately cut in half. From 4 years per decade to 2 years per decade.
+
+You added regulations. Medical progress was cut by 70%. Lifespan growth was cut by 50%. The timing is notable.
 
 ![](/wp-content/uploads/2022/07/lifespan-increase-768x566.png)
 
 ## Diminishing Returns?
 
-You might say, “It seems more likely — or as likely — to me that drug development provides diminishing returns to life expectancy.” However, diminishing returns produce a slope of exponential decay. It may be partially responsible, but it’s not going to create a sudden change in the linear slope of a curve as linear as life expectancy was before and after the FDA.
+You might say "maybe we're just running out of easy medical discoveries." Diminishing returns are real. But diminishing returns produce exponential decay. A gradual curve downward.
 
 ![](/wp-content/uploads/2022/02/diminishing-returns.png)
 
-Additionally, we’re only three lifetimes from George Washington. The modern scientific method has only been applied to medicine for .0001% of human history. However, the more clinical research studies one reads, the more one realizes how little we know. We know almost nothing compared to what will eventually be known about the human body. The currently highly restrictive method of clinical research makes rapid discovery impossible. We’re at the very beginning of thousands or millions of years of systematic discovery. So it’s unlikely that this decline in lifespan growth resulted from diminishing returns due to our running out of things to discover.
+You don't get a sudden, immediate change in a perfectly linear slope. Especially not on the exact year new regulations were implemented.
+
+Also, you're only three lifetimes from George Washington. The modern scientific method has been applied to medicine for 0.0001% of human history. You know almost nothing compared to what will eventually be known about the human body.
+
+You're at the very beginning of thousands of years of systematic discovery. Running out of things to discover is not your problem. Making discovery impossibly slow and expensive is your problem.
 
 #### 2 Year Drug Lag
 
-It currently takes over ten years for a life-saving drug to make its way through the FDA’s regulatory process and become available to dying patients. Following the 1962 increase in U.S. regulations, one can see a divergence from the growth in life expectancy in Switzerland, which did not introduce the same delays to availability.
+It takes over 10 years for a life-saving drug to make it through the FDA and become available to dying patients. "Life-saving" and "dying patients" are in the same sentence with "10 years." The irony is not subtle. If you're dying, 10 years might as well be forever. But at least when you die, you'll die knowing the drug that could have saved you was thoroughly tested on other people who didn't die as fast.
+
+After the 1962 U.S. regulations, life expectancy in the U.S. diverged from Switzerland, which didn't add the same delays.
 
 ![](/wp-content/uploads/2021/03/us-swiss-life-expectancy-5-768x435.png)
 
-Perhaps it’s a coincidence, but you can see an increase in drug approvals in the ’80s, and at the same time, the gap between Switzerland and the U.S. gets smaller then. Then U.S. approvals decreased in the ’90s, and the gap expanded again.
+Possibly a coincidence: U.S. drug approvals increased in the '80s, and the gap with Switzerland got smaller. Then U.S. approvals decreased in the '90s, and the gap expanded again. The correlation is notable.
 
 ![](/wp-content/uploads/2021/03/us-swiss-life-expectancy-drug-approvals-768x338.png)
 
-Here’s a news story from the Non-Existent Times by No One Ever without a picture of all the people that die from lack of access to life-saving treatments that might have been.
+Here's a news story from the Non-Existent Times by No One Ever, featuring all the people who die from lack of access to treatments that might have existed:
 
 ![](/wp-content/uploads/2021/03/news-story-headline-1.png)
 
 ## Explosion in Costs
 
-Since 1962, the cost of bringing a new treatment to market has gone from $74 million to over $1 billion U.S. dollars (2020 inflation-adjusted).
+Since 1962, the cost of bringing a new treatment to market went from $74 million to over $1 billion (2020 inflation-adjusted).
+
+You made it 13 times more expensive to save lives. This is what you're doing with mathematics.
 
 ![](/wp-content/uploads/2021/03/cost-to-develop-a-new-drug-300x180.png)
 
@@ -210,26 +234,39 @@ The fact that co-morbidities are excluded also makes it impossible to discover p
 
 #### New Trials Were Very Small
 
-Due to exclusion criteria and added costs, patient sample sizes are tiny. The number of subjects per trial on average is:
+Due to exclusion criteria and added costs, patient sample sizes are tiny:
 
--   275 patients are sought per cardiovascular trial
+-   275 patients per cardiovascular trial
 -   20 patients per cancer trial
 -   70 patients per depression trial
 -   100 per diabetes trial
 
-#### **Solution: Collect Quantified Self Data on Actual Patients**
+You're testing treatments on 20 cancer patients and calling it science. That's fewer people than are in a classroom. You're making life-or-death decisions for millions of people based on data from a sample size that would be rejected in a high school science fair.
 
-In the real world, no patient can be excluded. Even people with a history of drug or alcohol abuse, people on multiple medications, and people with multiple conditions must be treated. Only through the crowdsourcing of this research would physicians have access to the true effectiveness rates and risks for their real-world patients.
+Before 1962, the AMA collected data from 144,000 physicians on actual patients. Now you test 20 people in a lab. This is what you call "more rigorous" because the 20 people were very carefully selected. Selection is important when you're trying to make sure your results are not representative of actual patients.
 
-The results of crowdsourced studies would exhibit complete and utter external validity since the test subjects are identical to the population of interest.
+#### Solution: Collect Data on Actual Patients
 
-## Current Regulations Appear to Cause More Deaths from Delay Than They Save
+In the real world, no patient can be excluded. People with multiple conditions, people on multiple medications, people with drug and alcohol problems - they all need treatment. They all get treatment. But you have no data on how treatments work for them because they're excluded from trials.
 
-Some studies have estimated that 5,000 to 10,000 lives are saved each decade by preventing dangerous drugs from making it to market. This analysis looked at pre-FDA deaths in the U.S. and deaths in foreign countries without an FDA.
+Here's how to fix this: collect real-world data from actual patients. Let doctors and patients track what works. Crowdsource the research. The test subjects would be identical to the population of interest. External validity would be perfect.
 
-In comparison, studies have shown that the added delays and cost of FDA regulatory hurdles range between 21,000 to 120,000 deaths per decade.
+You had this system before 1962. It worked better. You could try using it again.
 
-So the NET outcome of lives saved minus lives lost is likely between 11,000 and 115,000 additional deaths each decade due to added delays and costs of the regulatory process.
+## The Math: Current Regulations Cause More Deaths Than They Prevent
+
+Studies estimate the FDA prevents 5,000 to 10,000 deaths per decade by keeping dangerous drugs off the market. This is based on pre-FDA deaths in the U.S. and deaths in countries without an FDA. The studies use math to estimate counterfactual scenarios. Counterfactual is what you call something that didn't happen but might have happened if things were different.
+
+Studies also estimate the FDA causes 21,000 to 120,000 deaths per decade through delays in approving life-saving treatments. These are deaths from diseases that could have been treated with drugs that existed but weren't approved yet. The people died waiting for permission.
+
+Here's the math:
+- Lives saved: 5,000-10,000 per decade
+- Lives lost to delays: 21,000-120,000 per decade
+- Net result: 11,000-115,000 additional deaths per decade
+
+The FDA kills 2 to 12 people through delay for every 1 person it saves from a dangerous drug. This is called the "net effect" which is when you add up all the good things and subtract all the bad things and see if you get a positive number or a negative number. In this case, you get a negative number. Negative is bad in the context of human deaths.
+
+This is the net outcome. Lives saved minus lives lost equals more deaths. The math requires third-grade arithmetic. You have third grade, so the confusion is notable. If you're thinking "but surely the experts must know this and have a good reason," the answer is: they do know this, and they do not have a good reason.
 
 ## _Sources_
 

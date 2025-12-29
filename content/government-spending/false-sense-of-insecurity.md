@@ -33,6 +33,8 @@ _Wrong on lightning._
 
 _Wrong for America._
 
+_This message paid for by the Committee to Declare War on Weather Patterns._
+
 ### Putting Terrorism in Perspective
 
 Roughly [3,000 Americans](http://www.state.gov/s/ct/rls/crt/2003/33777.htm) have lost their lives to terrorist attacks in the last decade. This averages out to a loss of 300 people a year, which is a tragic figure and, as a country, it behooves us to do everything we can to reduce or eliminate the threat of terrorism. But there are still a lot of other ways to wind up being the main course at a worm banquet. The gravest dangers we face include heart disease, cancer, and celebrity breakups. Unfortunately, our country doesn’t have infinite resources available to eliminate every threat. So the task falls to our government to allocate what resources we do have in a manner proportional to the magnitude of each threat. If we, as a society, want to effectively counter the dangers we face, we first have to put them in perspective.

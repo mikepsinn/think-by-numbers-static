@@ -13,10 +13,14 @@ metadata:
 tags:
   - health
 ---
-Research has also found that autistic children often experience chronic [gastrointestinal problems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3981895/) a lot more frequently than children without autism.
+Autistic children get [gastrointestinal problems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3981895/) more often than other children. Scientists noticed this and wondered if fixing gut bacteria might help with autism symptoms. It's called the gut-brain axis, which is what scientists call it when your stomach has opinions about your brain.
 
-This has led scientists to [explore](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0225-7) whether microbiota transfer therapy (MTT) — can help solve gastrointestinal issues and affect other autism markers.
+So they tried microbiota transfer therapy. That's the medical term for taking a healthy person's poop, processing it, and putting it into someone else. Orally or rectally. You read that correctly. Someone got a PhD and named poop transplants "microbiota transfer therapy" to make it sound more professional. It didn't work. It's still a poop transplant.
 
-MTT involves collecting, processing, and freezing the fecal material of healthy people, and then administering it — orally or rectally — to the person receiving the treatment. Thus, the healthy bacteria should re-establish a balance in the gut microbiome of the person experiencing gastrointestinal problems.
+The [results](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0225-7): 45% improvement in autism symptoms. Language, social interaction, behavior - all improved by nearly half.
 
-Children involved in this study showed “a slow but steady improvement in core ASD symptoms,” with a 45 percent improvement in measurements related to language, social interaction, and behavior.
+If you're wondering why poop transplants work, here's the science: your gut contains trillions of bacteria that send signals to your brain. Sometimes you have the wrong bacteria, so your brain gets the wrong signals. The solution is to import better bacteria from someone else's digestive system. It's like replacing your coworkers, except inside your intestines.
+
+A fecal transplant reduced autism symptoms by 45%. This is real. You live on a planet where poop transplants work better than most autism treatments, but you spend more time arguing about vaccines on Facebook.
+
+The human body is essentially a tube surrounded by bacteria. Sometimes the bacteria in one tube work better than the bacteria in another tube. The solution is to move bacteria between tubes. Medicine is just logistics for microorganisms.

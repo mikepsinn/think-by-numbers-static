@@ -12,6 +12,20 @@ metadata:
 tags:
   - health
 ---
-> The people who developed dementia spent an average of [17](https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html) percent of their sleep time in [REM sleep](https://www.livescience.com/59300-brain-cells-linked-to-dreaming-found.html), compared with [20](https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html) percent for those who did not develop dementia. The researchers found that for every 1-percent reduction in REM sleep, there was a 9-percent increase in the risk of dementia.
+People who developed dementia spent [17% of their sleep time in REM](https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html), compared to 20% for people who didn't get dementia. That's only a 3% difference, which doesn't sound like much until you do the math.
 
-Do you know how to increase REM sleep? I’m already crazy enough, so please let me know in the comments below!
+The math: every 1% reduction in REM sleep = 9% increase in dementia risk.
+
+REM stands for "Rapid Eye Movement," which is what your eyes do when you're dreaming. Scientists discovered this by watching people sleep and noticing their eyes moving around under their eyelids. Then they woke them up and asked "were you dreaming?" and the people said "yes." This is what you call a breakthrough in neuroscience.
+
+Your brain uses REM sleep to clean itself. Like a dishwasher cycle for your neurons. If you skip the cleaning cycle, things get messy. Eventually, nothing works right, and you forget where you put your keys, then your car, then your kids. The brain has a self-cleaning mode, but only if you use it.
+
+You have a machine that prevents brain deterioration. It's called sleep. The instructions say "use it every night for 7-8 hours." You ignore the instructions and drink coffee instead. Then you wonder why your brain stops working. It's like buying a car, never changing the oil, and being surprised when the engine seizes.
+
+How to increase REM sleep:
+- Sleep more (revolutionary, I know)
+- Stop drinking alcohol before bed (it blocks REM)
+- Keep a consistent sleep schedule (your brain likes routines)
+- Don't take your phone to bed (the photons confuse your brain)
+
+The solution to dementia might be "go to bed at the same time every night." But that's not sexy enough for a drug patent, so we'll spend billions looking for a pill instead. Pills are what you take when you don't want to change your behavior. Behavior change is free. Pills cost money. You prefer the money option.

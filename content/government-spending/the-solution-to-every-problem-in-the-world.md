@@ -18,7 +18,9 @@ tags:
   - government-spending
   - health
 ---
-Guess what holds the solution to every problem in the world? It’s the human brain!
+Guess what holds the solution to every problem in the world? It's the human brain!
+
+The brain is the most important organ in the body, according to the brain. Other organs disagree, but they don't get to write articles.
 
 # Your brain is dying.
 

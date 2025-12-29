@@ -15,6 +15,10 @@ metadata:
 tags:
   - economics
 ---
-Infographics on the distribution of wealth in America, highlighting both the inequality and the difference between our perception of inequality and the actual numbers. The reality is often not what we think it is.
+Americans were asked to estimate wealth distribution. Then they were shown the actual numbers. The gap between perception and reality was larger than the wealth gap itself. Which is saying something, because the wealth gap is roughly the size of the Grand Canyon.
+
+It's like if you thought your neighbor had two cars, but it turns out they have a dealership.
+
+Watch what happens when you show people the math. Spoiler alert: They get sad.
 
 <iframe loading="lazy" title="Wealth Inequality in America" width="580" height="326" src="https://www.youtube.com/embed/QPKKQnijnsM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
