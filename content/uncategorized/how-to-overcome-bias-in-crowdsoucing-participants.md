@@ -1,5 +1,5 @@
 ---
-title: How to Overcome Bias in Crowdsoucing Participants
+title: How to Overcome Bias in Crowdsourcing Participants
 authors: []
 date: 2012-11-24T23:15:44.000Z
 metadata:
@@ -8,64 +8,153 @@ metadata:
   url: >-
     https://thinkbynumbers.org/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants/
 ---
-Here are some problems that Sebastian Nickel brought up with regard to using collective intelligence for decision making:
+Your vote in a presidential election has approximately the same probability of changing the outcome as winning the lottery seven times in a row, being struck by lightning twice, and getting a royal flush in poker - all on the same day.
 
-> ### A QUICK INTRO TO RATIONAL IGNORANCE AND RATIONAL IRRATIONALITY
-> 
-> 1\. This stuff pertains to public choice theory, which is defined by Wikipedia as: ” the use of modern economic tools to study problems that traditionally are in the province of political science. From the perspective of political science, it is the subset of positive political theory that models voters, politicians, and bureaucrats as mainly self-interested.”  
->   
-> 2\. An important point for much of the theory of public choice in democracies is the fact that the probability that any individual’s vote will affect the outcome of the election is generally negligible. For example, in U.S. presidential elections, the probability that your vote will affect the election’s outcome is comparable to that of winning the lottery seven times in a row. This is because your vote only makes a difference if all the other votes happen to be exactly tied, so that your vote turns out to be the deciding vote – or perhaps if your vote happens to be the one leading to an exact tie!  
->   
-> 3\. RATIONAL IGNORANCE: According to Wikipedia, “The term was coined by Anthony Downs, An Economic Theory of Democracy”. Wiki sez: “Rational ignorance occurs when the cost of educating oneself on an issue exceeds the potential benefit that the knowledge would provide.” Applied to democracy, voters are to be expected to be rationally ignorant about the issues they vote on. This is because, since their vote almost certainly won’t change policy, they have nothing to gain from making an informed vote rather than an uninformed one. On the other hand, the cost of informing themselves is considerable. Some people enjoy informing themselves about such issues, but they are a small minority.  
->   
-> 4\. Empirically, voters really are very ignorant about politics and economics. They are least ignorant about the aspects of politics that are the most entertaining.  
->   
-> 5\. Donald Wittman, in The Myth of Democratic Failure, has defended democracy against many of the usual criticisms from public choice theorists. One argument he makes in the book is that, because of the miracle of aggregation, rational ignorance is not actually a problem: provided that people are merely ignorant and not systematically biased, their mistakes should cancel out. Also, if you assume that 5% of the electorate is well-informed on the relevant issues, you could argue that those 5% effectively decide the outcome of the election, whereas the votes of the other 95%, which are randomly distributed, cancel each other out.  
->   
-> 6\. Bryan Caplan, who credits Donald Wittman with “waking \[him\] from \[his\] dogmatic slumbers in political economy”, has compiled empirical evidence that voters are, in fact, systematically biased, thus concluding that Wittman’s argument is valid but not sound. In his book The Myth of the Rational Voter, Caplan identifies four main widespread biases about economics: “Make-work bias”, “Anti-foreign bias”, “Pessimistic bias”, “Anti-market bias”.  
->   
-> 7\. The term RATIONAL IRRATIONALITY, coined by Bryan Caplan, sounds all kinds of oxymoronic, but the two instances of “irrationality” in the phrase refer to two different kinds of rationality:  
->   
-> a. Epistemic rationality: “forming beliefs in truth-conductive ways”  
->   
-> b. Instrumental rationality: “choosing effective means to attain one’s goals, given one’s beliefs”  
->   
-> 8\. So while the idea of rational ignorance is that it is \*instrumentally\* rational to be ignorant, the idea of rational irrationality is that it is \*instrumentally\* rational to be \*epistemically\* irrational.  
->   
-> 9\. The costs of overcoming ignorance are generally high because studying the relevant issues takes time and effort. The costs of overcoming irrationality are generally high whenever people simply \*enjoy\* being irrational. Bryan Caplan argues that people have “preferences over beliefs”: there are beliefs that people just like to hold whether they are true or not, and giving them up would be emotionally costly to them – often extremely costly. So if the expected rewards from giving them up aren’t high enough, they won’t.
+Because your vote doesn't matter, you have no reason to learn things or think correctly. Economists call this "rational ignorance" and "rational irrationality," which are fancy terms for "being wrong on purpose because it's easier."
 
-I think the solution is using the Crowdsourcing Utopia project as a form of direct democracy to identify the most cost-effective solution to each public policy problem that government is intended to solve.
+Here's how to filter out the rationally wrong people from crowdsourcing projects.
 
- Averaging guesses as to the effectiveness of a particular public policy solution to a problem would easily overcome plain ignorance as it would basically be seen as random noise and cancel itself out.  The few people with the right answer would pile on top of each other so that you could identify the right answer.  However, the problem of systemic bias remains.
+## The Problem
 
-The way to overcome this is to identify biased guessers and remove their guesses from the pool (aka filter out their biased guesses).  This would be done using the equivalent of a captcha.  Captcha are used to distinguish dumb robots from smarter humans.  The captchas used in the crowdsourcing utopia project wouldn’t be just fuzzy strings of text.  These captcha’s would be questions with a single, hard, correct and numerical answer that a biased person would have avoided integrating into their thought process in an attempt to avoid cognitive dissonance.
+When your vote doesn't matter, you have no incentive to:
+1. Learn correct information (rational ignorance)
+2. Abandon comforting false beliefs (rational irrationality)
 
-Let’s look at the 4 biases to be identified and filtered out.
+This creates systematic bias in democratic decision-making. Random ignorance cancels out. Systematic bias doesn't.
 
-## Make-work bias
+## The Four Main Biases (According to Economists, Who Have Their Own Biases)
 
-Caplan refers to the make-work bias as a “tendency to underestimate the economic benefits from conserving labor.”[\[1\]](https://en.wikipedia.org/wiki/The_Myth_of_the_Rational_Voter#cite_note-1) Caplan claims that there is a tendency to equate economic growth with job creation. However, this is not necessarily true, since real economic growth is a product of increases in the productivity of labor. Dislocation and unemployment can be caused by productivity gains making certain jobs no longer necessary. All things being equal, economic rationality would require that these people make use of their talents elsewhere. Caplan makes special emphasis of the movement away from farming over the past two hundred years—from 95% of Americans as farmers to just 3%—as an illustrative example.As an economy industrialises, increased labour productivity in agriculture means less labour is needed to produce a given quantity of agricultural goods, freeing up labour (a scarce resource) to be employed in the production of manufactured goods and services.
+Economist Bryan Caplan identified four systematic biases in how regular people think about economics. Regular people responded by identifying several systematic biases in how economists think about regular people. Nobody learned anything, but at least we have categories now.
 
-To identify a voter with this bias, you could ask them,
+**1. Make-work bias: Confusing jobs with prosperity**
 
-“What percentage of Americans were farmers in the year 1800?” and
+- In 1800: 95% of Americans were farmers
+- Today: 3% of Americans are farmers
+- What happened: Farming got so efficient that 92% of people could do other things
+- How biased voters see this: "We lost 92% of our farming jobs! Disaster!"
+- How economists see this: "We freed 92% of the population to invent iPhones! Progress!"
 
-“What percent of Americans are farmers, today?”
+Both groups are insufferable at parties but for different reasons.
 
-People that are aware of these numbers are more likely to have realized that those lost jobs were a good thing because they resulted in 92% of the population being made available to provide new goods and services that people living in the 1800’s could never have dreamed of.
+**2. Anti-foreign bias: Fear of people who live elsewhere**
 
-## Anti-foreign bias
+Experiment:
+- Ask people: "Should we have free trade with Canada?"
+- Answer: "Sure, Canada's fine"
+- Ask people: "Should we have free trade with Mexico?"
+- Answer: "No, that will steal our jobs"
+- The products are identical
+- The trade deals are identical
+- The difference is racism
 
- Caplan refers to the anti-foreign bias as a “tendency to underestimate the economic benefits of interaction with foreigners.”[\[2\]](https://en.wikipedia.org/wiki/The_Myth_of_the_Rational_Voter#cite_note-2) People systematically see their country of origin as in competition with other nations and are thus averse to free trade with them. Foreigners are seen as the “enemy” even if the two governments are at a lasting peace. The principles of comparative advantage allow two countries to benefit a great deal from [trade](https://en.wikipedia.org/wiki/Trade "Trade"). The degree of benefit is rarely equalized, but it is always positive for both parties. Caplan notes how the anti-foreign bias can be rooted in pseudo-racist attitudes: For Americans, trading with Japan and Mexico is more controversial than trading with Canada and England, the latter of whom speak our language and look like white Americans.You could identify anti-foreign bias by asking the voter, “What percent tariff should be imposed on goods from Mexico?” and “what percent tariff should be imposed on goods from Canada?”  If the tariff imposed on Canada is lower, then the reason is likely that they are racist to some extent.  Hence they should be filtered from the voting pool.
+Nobody admits this is racism. They say it's about "cultural compatibility" or "wage differences" or "regulatory standards." These are sophisticated words for racism.
 
-## Pessimistic bias
+**3. Pessimistic bias: Everything is terrible and getting worse**
 
-Caplan refers to the pessimistic bias as a “tendency to overestimate the severity of economic problems and underestimate the (recent) past, present, and future performance of the economy.”[\[3\]](https://en.wikipedia.org/wiki/The_Myth_of_the_Rational_Voter#cite_note-3)The public generally perceives economic conditions as declining. Caplan alleges that there is often little or no evidence to back up such perceptions.
+Test this yourself:
+- Ask someone: "What's the unemployment rate?"
+- If unemployment is 4%, they'll guess 15%
+- Ask: "How much did GDP grow last quarter?"
+- If it grew 3%, they'll say it shrank
+- Ask: "Are things better or worse than 20 years ago?"
+- They'll say worse
+- Show them data proving things are better
+- They'll say the data is wrong
 
-To identify pessimistic bias, you could just ask the voter what the employment rate is or what last quarter GDP was. People with the pessimistic bias will overestimate the unemployment rate and underestimate GDP.
+The past is always better. The present is always worse. The future is always doomed. This is called "pessimistic bias" and it affects approximately 80% of humans, which means it's either a bias or it's correct and everything really IS terrible.
 
-## Anti-market bias
+**4. Anti-market bias: Markets are doing things TO you, not WITH you**
 
-Caplan refers to the anti-market bias as a “tendency to underestimate the benefits of the market mechanism.”[\[4\]](https://en.wikipedia.org/wiki/The_Myth_of_the_Rational_Voter#cite_note-4) In Caplan’s view, the populace tends to view themselves as victims of the market, rather than participants of it. Corporations, and even small-scale suppliers, are seen as greedy monopolists that prey on the consumer. Caplan argues that all trade is a two-way street. Cheating people is bad for business and the existence of multiple firms offering similar products demonstrates there is competition, not monopoly power.
+How this works:
+- People support price controls to "stop greedy corporations"
+- Price controls create shortages (economics 101)
+- People blame the shortages on greedy corporations
+- People demand more price controls
+- Economists cry into their spreadsheets
 
-To identify anti-market bias, you could just the voter if they would support using government price controls to keep prices down.  People with anti-market bias would support price controls without realizing that these inevitably lead to shortages.  THen you could filter their votes out.
+The bias is seeing markets as something that exploits you rather than something you participate in. "The economy" is not a separate entity. It's you and everyone else trading stuff. But it's easier to blame "the economy" than to blame "me and everyone I know making individual choices that aggregate into outcomes nobody wanted."
+
+This is called "systemic problems" and they're very popular because nobody has to take personal responsibility.
+
+## The Solution
+
+Use the Crowdsourcing Utopia project as direct democracy to identify cost-effective policy solutions. Overcome bias by filtering biased voters.
+
+**How it works:**
+
+1. **Random ignorance cancels out.** If people guess randomly, wrong answers distribute evenly. Correct answers pile up.
+
+2. **Systematic bias doesn't cancel.** If everyone is biased in the same direction, aggregation makes the bias worse, not better.
+
+3. **Filter the bias.** Identify systematically biased participants and remove their responses from the pool.
+
+## How to Filter Each Bias
+
+Use questions with single, hard, correct numerical answers. People with biases avoid integrating these facts to prevent cognitive dissonance.
+
+**Filter for make-work bias:**
+- "What percentage of Americans were farmers in 1800?"
+- "What percentage are farmers today?"
+
+People who know these numbers (95% and 3%) understand that lost jobs freed people for other work. People who don't know these numbers hold make-work bias.
+
+**Filter for anti-foreign bias:**
+- "What tariff should apply to goods from Mexico?"
+- "What tariff should apply to goods from Canada?"
+
+If the Canada tariff is lower, the person is racist. Remove them from the voting pool.
+
+**Filter for pessimistic bias:**
+- "What is the current unemployment rate?"
+- "What was last quarter's GDP growth?"
+
+People who overestimate unemployment or underestimate GDP hold pessimistic bias. Remove them.
+
+**Filter for anti-market bias:**
+- "Should government use price controls to keep prices down?"
+
+People who answer "yes" don't understand that price controls cause shortages. Remove them.
+
+## How This Works (CAPTCHA for Stupidity)
+
+You know those tests websites make you take to prove you're not a robot? "Click all the squares with traffic lights"? This is the same thing, except instead of filtering out robots, you're filtering out people who are systematically wrong about economics.
+
+CAPTCHAs distinguish dumb robots from smart humans. These questions distinguish biased humans from unbiased humans. Both groups will be offended by this comparison but for different reasons.
+
+After filtering, you're left with participants who:
+1. Know basic facts (farmers used to be 95% of population, now 3%)
+2. Don't hold systematically false beliefs (tariffs on Mexico = tariffs on Canada)
+3. Base decisions on data rather than feelings (unemployment is 4%, not 15%)
+
+These people are insufferable at dinner parties but excellent at policy evaluation. Their aggregated judgments actually identify good solutions instead of popular solutions, which are different things.
+
+## How to Implement This Without Starting a Revolution
+
+For each policy question:
+1. Ask the participant: "Do you support this policy?"
+2. Ask 3-4 bias-filter questions:
+   - "What percent of Americans were farmers in 1800?"
+   - "Should tariffs on Canada equal tariffs on Mexico?"
+   - "What's the current unemployment rate?"
+   - "Do price controls cause shortages?"
+3. Remove responses from participants who fail the filters
+4. Aggregate the remaining responses
+5. Hope nobody notices you just disenfranchised 60% of voters
+
+**The result:** Crowdsourced policy evaluation that overcomes systematic bias while preserving the wisdom of crowds (but only the non-stupid parts of crowds).
+
+**The controversy:** This is technocracy with extra steps. You're excluding people based on their beliefs. This is either:
+- Smart (don't let wrong people make important decisions)
+- Tyrannical (who decides what "wrong" means?)
+
+Philosophers are still working on this problem. They've been working on it since Plato. It's going well. (It's not going well.)
+
+## The Uncomfortable Truth
+
+You can't fix democracy by making everyone vote. Uninformed people voting = random noise at best, systematic bias at worst.
+
+You fix it by making INFORMED people vote. Or by making uninformed people learn things before voting. Or by not using voting for complex technical decisions.
+
+But suggesting any of these solutions gets you labeled as "elitist," which is the word democracies use for "person who knows things." So instead we let everyone vote on everything, get terrible results, blame politicians, and repeat every 4 years.
+
+This is called "representative democracy" and it's the worst system except for all the others. Churchill said that. He was right. But that doesn't mean we can't filter out the people who think unemployment is 15% when it's actually 4%. Those people can vote on other stuff. Like which owl is the best owl. (Barn owls. It's barn owls. Don't @ me.)

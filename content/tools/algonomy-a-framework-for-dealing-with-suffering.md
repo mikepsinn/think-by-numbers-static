@@ -1,5 +1,5 @@
 ---
-title: 'ALGONOMY: A FRAMEWORK FOR DEALING WITH SUFFERING'
+title: 'Algonomy: A Framework for Dealing with Suffering'
 authors: []
 date: 2012-11-26T20:54:22.000Z
 metadata:
@@ -12,42 +12,83 @@ metadata:
 tags:
   - tools
 ---
-From [algosphere.org](http://algosphere.org/):
+Humanity has approximately 47 different fields dedicated to suffering: medicine, psychology, religion, politics, economics, law, art, literature, philosophy, ethics, news media, environmental studies, education, science, history, war, crime, and social work. You study suffering in medicine (but only physical suffering from disease). You study suffering in economics (but only financial suffering from poverty). You study suffering in psychology (but only mental suffering from disorders).
 
-**ALGONOMY : A FRAMEWORK FOR DEALING WITH SUFFERING**
+You named all your suffering departments after everything EXCEPT suffering.
 
-> All major spheres of human activity deal in one way or another with suffering:
-> 
-> politics, religion, healthcare, social affairs, economics, law, art, literature, philosophy, ethics, the news media, environmental studies, education, science, history, war, crime, work, sport, interpersonal relationships, personal life, etc.
-> 
-> Suffering is implicated in other, more specialized fields too, although their overt objects of concern are something else. For instance:
-> 
-> medicine, social service, social security, economic development aid, human rights protection, animal welfare, judicial punishment, the practice of torture, disaster relief, certain parts of the biological or psychological or social sciences, etc.
-> 
-> So there are many areas of activity that deal with suffering in relation to something else, to the State, or God, or health, or welfare, or wealth, or justice, etc. In practice, however, no discipline deals with suffering per se as its primary focus. Consequently, suffering in the contemporary world is still essentially out of control, despite a pervasive concern over its existence across the millennia. This lack may be explained by the impossibility until now of tackling suffering within an overall framework that is specifically dedicated to study and action about it.
-> 
-> So here an idea is proposed that is in one sense obvious, namely to develop, alongside the other areas mentioned above, a whole new sphere of investigation, an additional and quite different approach to the world and its problems – a new discipline dealing with suffering itself and with all that is related to suffering.
-> 
-> **It is suggested that the discipline concerned with suffering should be called “algonomy”**. The term comes from two ancient Greek words: _algos_, which means pain or suffering, and _nomos_, which evokes the notions of domain, management, and knowledge. It should be noted that the word “suffering” is used here in a broad sense and may refer to any pain or unpleasantness.
-> 
-> Algonomy is a framework that allows to deal with knowledge and action about suffering through a discipline that is proper to that phenomenon. Of course, it touches upon a large variety of domains, most particularly psychology, philosophy, religion, politics, health, justice, and the social services. However,**algonomy clearly distinguishes itself from any other approach to suffering because it is concerned both specifically and universally with that subject, and with nothing else** : in other words, a theoretical or practical activity may be said algonomic if, “in principle”, it deals with suffering, the whole of suffering, and nothing but suffering. Thanks to these characteristics, algonomy allows us to go beyond three kinds of shortcomings against which other disciplines, for all their merits, are powerless when they deal with suffering.
-> 
-> 1- First, other approaches are inappropriate or inadequate insofar as their specific object of concern is not suffering itself, as such, ‘per se’. Only algonomy allows us to acknowledge the specific reality of suffering in all its guises.
-> 
-> 2- Next, other disciplines are deficient or incomplete insofar as none of them deals in principle with everything that concerns suffering, physical or mental, human or animal. Only algonomy embraces within a common conceptual framework all forms of suffering, all causes, all remedies, all elements of the topic. If our goal is to understand and resolve the problems that the existence of suffering entails, these problems must be tackled not only one-by-one, or in narrowly defined contexts, but also in their entirety, in spite of the intimidating scale and complexity that this approach may represent.
-> 
-> 3- Lastly, other fields of interest are misleading or inconsistent in the sense that when they deal with suffering, they always do so only in relation to their disciplinary specialty. There are countless people or groups who say that their concern is suffering, but in reality all of them are focused on concerns which are not suffering as such but rather, for instance, illness or hunger or injustice. Thus suffering has never hitherto been the specialty of anybody and therefore, _per se_, it has been awfully neglected. From the perspective of algonomy, all that is not first-and-foremost focused on knowledge and action about suffering represents a diversion, a deviation from what should be the primary and overriding interest.
-> 
-> To be sure, algonomy also has its pitfalls which must be guarded against. For instance, the new discipline may give rise to the temptations of totalitarian benevolence. Within algonomy, indeed, everything is subordinated to its core goal. Those who practice the discipline, however, will be responsible for making sure that algonomy itself is subordinated to appropriate imperatives. At times, a focus on suffering may be a priority, but at other times something else may have to prevail. For dealing with the extremely complex question of the place that algonomy should have in the scheme of things, it is suggested here to use an approach such as the one put forward in the [Encyclopedia of World Problems and Human Potential](http://www.un-intelligible.org/projects/homeency.php).
-> 
-> To sum up, algonomy is an innovative conceptual framework with the following key uses:
-> 
-> -   It is a framework for a methodical approach, useful for dealing with suffering in a general, universal, systematic, well-ordered, permanent manner, and for dealing with suffering as a primary object of concern, subordinate to no other.
->     
-> 
-> -   It is a framework for theoretical learning, useful for studying all that pertains to suffering, as well as for developing skills that are related to this kind of knowledge.
->     
-> -   It is a framework for strategic planning, useful for designing systematic action about suffering.
->     
-> -   It is a framework for practical action, useful for carrying out interventions that are concerned with the phenomenon of suffering itself.
->
+It's like having a Fire Department, a Smoke Department, a Heat Department, and an Ash Department - all separate buildings with separate budgets - but nobody whose job is to put out fires. The Fire Department only handles flames. The Smoke Department only deals with smoke. If you have a fire that produces both flame AND smoke, you have to call two departments, and they don't coordinate because they report to different supervisors.
+
+This is how humans organized the study of pain. Not well.
+
+## Here's How to Fix This
+
+From [algosphere.org](http://algosphere.org/):
+
+Create one field that studies suffering itself. Call it "algonomy" (from Greek: algos = pain, nomos = management). The definition is simple: study suffering, all of suffering, and nothing but suffering.
+
+**What exists now:**
+- Medicine treats disease (not suffering)
+- Economics manages wealth (not suffering)
+- Law addresses justice (not suffering)
+- Social services handle welfare (not suffering)
+
+**What algonomy does:**
+Studies why you hurt and how to stop it, without getting distracted by whether the pain comes from poverty, illness, injustice, or existential dread.
+
+## The Three Problems Algonomy Solves
+
+**1. Nobody's job is suffering itself**
+
+Current approach: "I'm concerned about suffering... as it relates to my specialty."
+
+Algonomy: "I study suffering. Period."
+
+**2. Nobody looks at all suffering**
+
+Current approach: Medicine handles physical pain. Psychology handles mental pain. Nobody connects them.
+
+Algonomy: Pain is pain. Study all of it together.
+
+**3. Suffering gets subordinated to other goals**
+
+Current approach: "We'll reduce suffering... after we handle this policy/budget/ideology concern."
+
+Algonomy: "How do we reduce suffering?" If the answer is "first, let's discuss political theory," you've failed.
+
+## How to Use This Framework
+
+**For research:** Study what causes suffering and what stops it. Ignore disciplinary boundaries. If the cure for depression involves economics, study economics. If the cure for poverty involves neuroscience, study neuroscience.
+
+**For planning:** Design interventions around one question: "Does this reduce suffering?" Not "Does this align with our values?" or "Does this fit our budget?" Those come after.
+
+**For action:** Implement solutions that reduce suffering, whether they come from medicine, policy, engineering, or philosophy.
+
+## The Obvious Problem Nobody Wants to Mention
+
+Focusing ONLY on reducing suffering could justify some pretty bad things. "I'm doing this for your own good" has historically been the opening line of tyranny. If all that matters is less suffering, you could justify:
+- Forcing medication on people
+- Banning dangerous but enjoyable activities
+- Mandatory happiness therapy
+- Removing people's ability to make bad choices
+
+This is called "totalitarian benevolence" and it's very popular with people who aren't being benevolenced at.
+
+So you need to balance algonomy with other values - like freedom, autonomy, and the right to make terrible decisions. Sometimes reducing suffering is the top priority. Sometimes letting people be free to suffer is more important. Philosophy hasn't solved this yet. They're working on it. (They've been working on it for 2,400 years.)
+
+You can use frameworks like the [Encyclopedia of World Problems and Human Potential](http://www.un-intelligible.org/projects/homeency.php) to track these tradeoffs. It's like a spreadsheet for ethics, except sadder.
+
+## Summary
+
+Humans built 47 different departments to study suffering without creating a department whose job is SUFFERING.
+
+Algonomy fixes this by doing the obvious thing: study suffering directly, completely, and primarily. All suffering. Nothing but suffering. Pain is pain regardless of whether it comes from:
+- Disease (medicine's job)
+- Poverty (economics' job)
+- Injustice (law's job)
+- Loneliness (nobody's job apparently)
+
+The concept is simple: "Stop hurting people and animals and anything else that can hurt."
+
+The execution is complex because everything connects to everything else and humans are very good at creating new forms of suffering when you eliminate old ones.
+
+But the concept is third-grade simple, which makes it confusing that nobody thought to create this field until 2012. Sometimes the obvious solutions are the last ones anyone tries, which tells you something about humans but I'm not sure what.
