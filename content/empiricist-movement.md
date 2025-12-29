@@ -12,26 +12,44 @@ tags:
 
 # The Empiricist Movement
 
-## Overview
+## What This Is
 
-This page serves as a directory of organizations aligned with the Empiricist Movement's core philosophy. The movement advocates for using rational analysis and empirical data to guide societal decisions about resource allocation, rather than relying on ideological or political doctrine.
+A list of organizations that believe in checking whether things actually work before declaring victory. This is apparently a novel concept in the 21st century, which says more about the 21st century than about the concept.
 
-## Featured Organizations
+"Empiricism" means "looking at evidence," which you'd think would be the default setting for decision-making but is actually considered a radical political position by approximately half the planet.
 
-**Less Wrong** - A community blog devoted to refining the art of human rationality.
+These groups use data and reason to figure out how to reduce suffering, instead of using feelings and tradition to feel good about not reducing suffering. The second approach is more popular because it requires less math and makes you feel smart without being smart, which is efficient in a terrible way.
 
-**Center for Applied Rationality** - Focused on employing decision science for personal and global benefit.
+## Organizations That Check Their Math
 
-**Future of Humanity Institute** - A multidisciplinary research unit at Oxford University examining long-term questions regarding humanity's future and prospects.
+**[Less Wrong](https://www.lesswrong.com/)** - People trying to think rationally despite having human brains. This is like trying to run ChatGPT on a 1995 Dell computer. The hardware wasn't designed for the task, but you can try anyway and occasionally get interesting results.
 
-**Library of Economics and Liberty** - Dedicated to advancing economic scholarship, market studies, and libertarian thought through educational resources.
+Their approach: "What if we admitted our brains are terrible and tried to work around that instead of pretending we're already perfect?" Revolutionary stuff, apparently.
 
-**A "Utilitarian Party" Platform** - A political framework exploring policy positions grounded in utilitarian principles rather than traditional party platforms.
+**[Center for Applied Rationality](https://rationality.org/)** - Takes decision science and applies it to personal and global problems. Turns out this works better than applying cave-dweller instincts to nuclear weapons policy, though admittedly that's a low bar.
 
-## Core Mission
+They teach workshops on "how to think good," which sounds patronizing until you realize most humans don't think good and could benefit from instruction.
 
-The Empiricist Movement emphasizes minimizing suffering through rational resource allocation, positioning empiricism and statistical analysis as alternatives to dogmatic political ideology.
+**[Future of Humanity Institute](https://www.fhi.ox.ac.uk/)** - Oxford researchers examining humanity's long-term prospects using math instead of vibes. Current findings: not great, but improvable if you stop doing the stupid things.
 
-## Submission Invitation
+"The stupid things" is a technical term that encompasses roughly 80% of current human activity.
 
-Have an organization to suggest that shares these values? Share it in the comments section.
+**[Library of Economics and Liberty](https://www.econlib.org/)** - Economic scholarship and market research. Explains why trading papers for food is more efficient than hitting each other with rocks. Economics is basically fancy rock-trading all the way up, which is less inspiring than economists pretend.
+
+**[A "Utilitarian Party" Platform](/politics/a-utilitarian-party-platform/)** - Political positions based on reducing suffering instead of making your team win. The fact this counts as revolutionary says everything about current politics and nothing good.
+
+## The Core Idea
+
+Use empirical data to allocate resources instead of using whatever makes the loudest people feel safe. The loudest people are rarely correct, but they are loud, which our brains interpret as "probably knows what they're talking about" even though volume and correctness are unrelated variables.
+
+The process:
+1. Measure suffering (use numbers)
+2. Pick solutions that reduce it (use math)
+3. Check if they work (use more numbers)
+4. Repeat
+
+It's third-grade arithmetic applied to trillion-dollar decisions. The math isn't hard. Getting humans to use math instead of feelings is very hard, like teaching a cat to use a toilet. Technically possible, but the cat would prefer not to.
+
+## Know More Organizations Like This?
+
+Drop them in the comments. Preferably with evidence they actually use evidence.
