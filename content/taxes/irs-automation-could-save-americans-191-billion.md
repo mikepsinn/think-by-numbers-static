@@ -18,85 +18,105 @@ metadata:
 tags:
   - taxes
 ---
-The Internal Revenue Service (IRS) handling over 150 million individual tax returns annually faces significant challenges in efficiency and cost-effectiveness. This article examines the potential economic benefits of the IRS implementing a TurboTax-like website with automated features, including pre-filling forms with available data.
+The IRS already knows how much you owe. Your employer tells them. Your bank tells them. Everyone tells them everything.
 
-## Current Costs of Tax Compliance
+Then they make you spend 13 hours calculating what they already know, threatening you with prison if you get it wrong.
 
-1.  Time Costs:
-    
-    -   Average time spent on tax preparation: 13 hours per taxpayer
-    -   Total time cost: Approximately 1.95 billion hours annually
-    -   Monetary value: $210 billion (based on average hourly earnings)
-2.  Out-of-Pocket Costs:
-    
-    -   Average cost for basic 1040 preparation: $176
-    -   Total out-of-pocket costs: $31 billion annually
-3.  IRS Operational Costs:
-    
-    -   FY 2022 IRS budget: $12.6 billion
-4.  Economic Inefficiency:
-    
-    -   Estimated cost due to tax-induced behavioral changes: $400 billion annually
+It's like making you count your own teeth before a dentist appointment, except the dentist already has your dental records and will arrest you if you miscount.
 
-Total Direct and Indirect Costs: Over $650 billion annually
+## How Much This Costs You
 
-## Potential Benefits of Automated IRS Filing System
+Every year, Americans spend:
+- **1.95 billion hours** preparing tax returns (13 hours per taxpayer average)
+- **$210 billion** in lost time (based on average hourly earnings)
+- **$31 billion** paying tax preparers to do what could be automatic
+- **$400 billion** in economic inefficiency from tax-induced behavioral changes
 
-1.  Time Savings:
-    
-    -   Estimated reduction in preparation time: 50-70%
-    -   Potential time saved: 975 million to 1.37 billion hours annually
-    -   Monetary value of time saved: $105-147 billion
-2.  Out-of-Pocket Savings:
-    
-    -   Potential reduction in tax preparation costs: 80-90%
-    -   Estimated savings: $24.8-27.9 billion annually
-3.  Improved Accuracy:
-    
-    -   Current net tax gap (difference between taxes owed and collected): $380 billion (2013-2015 average)
-    -   Potential reduction in tax gap: 10-20%
-    -   Additional tax revenue: $38-76 billion annually
-4.  IRS Operational Efficiency:
-    
-    -   Potential reduction in IRS processing costs: 30-40%
-    -   Estimated savings: $3.8-5.0 billion annually
-5.  Economic Efficiency Gains:
-    
-    -   Potential reduction in tax-induced economic distortions: 5-10%
-    -   Estimated economic benefit: $20-40 billion annually
+Total annual cost: **Over $650 billion**
 
-## Implementation Costs and Considerations
+The IRS processing all this paperwork costs another **$12.6 billion** per year.
 
-1.  Development Costs:
-    
-    -   Estimated initial development cost: $50-100 million
-    -   Annual maintenance and updates: $10-20 million
-2.  Data Security:
-    
-    -   Enhanced cybersecurity measures: $50-100 million initially, $10-20 million annually
-3.  Public Education and Outreach:
-    
-    -   Initial campaign: $100-200 million
-    -   Ongoing education: $20-50 million annually
-4.  Transition Period:
-    
-    -   Gradual adoption over 3-5 years
-    -   Parallel operation of old and new systems during transition
+You're paying $650 billion annually to manually calculate information the government already has. That's not a typo. $650,000,000,000.
 
-## Net Economic Benefit
+## The Solution: Let The IRS Do Their Own Homework
 
-Conservative Estimate:
+Here's how you fix this:
 
--   Total Annual Benefits: $191.6 billion
--   Total Annual Costs: $40-90 million
--   Net Annual Benefit: Approximately $191.5 billion
+**1. Build a TurboTax-style IRS website**
+- Pre-fill forms with data the IRS already has
+- Let taxpayers review, adjust, and submit
+- Provide simple explanations in human language
 
-Optimistic Estimate:
+**2. Expected savings:**
+- Time saved: 975 million to 1.37 billion hours annually
+- Money saved: **$105-147 billion** (time value)
+- Reduced tax prep costs: **$24.8-27.9 billion** (80-90% reduction)
+- Closed tax gap: **$38-76 billion** (from improved accuracy)
+- IRS operational savings: **$3.8-5.0 billion** (30-40% reduction)
+- Economic efficiency gains: **$20-40 billion**
 
--   Total Annual Benefits: $295.9 billion
--   Total Annual Costs: $40-90 million
--   Net Annual Benefit: Approximately $295.8 billion
+**Total annual benefit: $191-296 billion**
 
-## Conclusion
+**3. Implementation costs:**
+- Initial development: $50-100 million
+- Annual maintenance: $10-20 million
+- Cybersecurity: $50-100 million initial, $10-20 million annually
+- Public education: $100-200 million initial, $20-50 million annually
 
-Implementing an automated, TurboTax-like system by the IRS could potentially yield net economic benefits of $191-296 billion annually. This represents a significant return on investment, with benefits far outweighing implementation and operational costs. However, successful implementation would require careful planning, robust security measures, and a comprehensive public education campaign.
+Total annual operating cost after setup: About $40-90 million.
+
+You'd spend roughly $100-300 million to save $191-296 billion per year. That's a 600:1 to 3,000:1 return on investment. The math requires third-grade arithmetic.
+
+## Why This Hasn't Happened
+
+TurboTax's parent company, Intuit, has spent millions lobbying against this. They make money from the current system being complicated.
+
+It's like hiring someone to mess up your house so you'll pay them to clean it. Except it's legal, and they wrote the laws that made it legal, and everyone pretends this is normal.
+
+## How To Actually Do This
+
+1. **Pass legislation requiring IRS to build free filing software**
+2. **Mandate pre-filling with all available data**
+3. **Set a 3-5 year implementation timeline**
+4. **Fund proper cybersecurity from the start**
+5. **Run parallel systems during transition**
+
+The technology exists. TurboTax already does this, except they charge you for it and lobby to keep alternatives illegal.
+
+## The Tax Gap Problem
+
+The "tax gap" - the difference between taxes owed and taxes collected - is **$380 billion annually** (2013-2015 average).
+
+Automation could close 10-20% of this gap through improved accuracy. That's **$38-76 billion** in additional tax revenue without raising anyone's tax rates.
+
+You could collect more taxes by making the system simpler. The current complexity isn't catching tax cheats. It's just annoying honest people while sophisticated tax avoiders hire expensive accountants.
+
+## The Weird Efficiency Thing
+
+There's also something economists call "tax-induced economic distortions" - basically, people making stupid financial decisions solely because of tax implications rather than actual economic value.
+
+Current cost: **$400 billion annually**
+
+Potential reduction with simpler system: **$20-40 billion**
+
+You're watching people spend money inefficiently because tax law is so complex they can't figure out the best option. It's like watching someone buy 40 umbrellas because the tax code made it seem like a good idea.
+
+## What This Actually Means
+
+The U.S. could save **$191-296 billion per year** by letting the IRS do electronically what it currently makes you do by hand.
+
+Instead, you spend 13 hours per year calculating numbers the government already knows, pay someone else to double-check your math, and hope the IRS agrees with both of you.
+
+The IRS already has your W-2s, 1099s, mortgage interest statements, and investment records. Banks and employers are required to send them copies. They're making you manually transcribe information they already possess, then punishing you if you make a typo.
+
+It's administrative theater. Security theater prevents terrorism. This prevents nothing except free time.
+
+## Sources
+
+- IRS processes 150 million individual tax returns annually
+- Average tax preparation time: 13 hours per taxpayer
+- Average hourly earnings calculation for time cost
+- FY 2022 IRS budget: $12.6 billion
+- Tax gap data: IRS Tax Gap Estimates 2013-2015
+- Tax prep cost averages from National Society of Accountants
+- Economic efficiency estimates from tax policy research

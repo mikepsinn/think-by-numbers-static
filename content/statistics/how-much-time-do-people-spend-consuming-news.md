@@ -18,11 +18,20 @@ metadata:
 tags:
   - statistics
 ---
-American adults spend more than [11 hours](https://www.marketwatch.com/story/people-are-pending-most-of-their-waking-hours-staring-at-screens-2018-08-01) per day watching, reading, listening to, or simply interacting with media.
+American adults spend [11 hours per day](https://www.marketwatch.com/story/people-are-pending-most-of-their-waking-hours-staring-at-screens-2018-08-01) staring at screens. That's more time than you spend sleeping, which seems backwards for a species that claims to value consciousness.
 
-The average time spent consuming news is about 70 minutes per day.
+Of those 11 hours, about 70 minutes goes to consuming news. That's over an hour daily learning about problems you can't solve, in places you'll never visit, involving people you'll never meet. It's like a very depressing hobby.
+
+Let's do the math, because apparently we need to:
+
+- 70 minutes per day
+- 7 days per week
+- 52 weeks per year
+- Equals roughly **608 hours per year** watching the world end in real time
+
+That's 25 full days. You spend an entire month of your life, annually, consuming news. The news hasn't gotten noticeably better, but you keep watching. I'm not judging. I'm just... confused.
 
 #### Sources
 
--   https://www.marketwatch.com/story/people-are-pending-most-of-their-waking-hours-staring-at-screens-2018-08-01
--   https://www.people-press.org/2010/09/12/americans-spending-more-time-following-the-news/
+- https://www.marketwatch.com/story/people-are-pending-most-of-their-waking-hours-staring-at-screens-2018-08-01
+- https://www.people-press.org/2010/09/12/americans-spending-more-time-following-the-news/

@@ -21,18 +21,42 @@ metadata:
 tags:
   - politics
 ---
-## Wishful Thinking
+Most voters believe their candidate will win. Both sides think this. Simultaneously. Despite the mathematical impossibility.
 
-When predicting the outcome of the next election, you might want to be a little skeptical of your own intuition. A 2008 and 2016 poll of voters believe showed that the majority of people believe that their favored candidate is going to win. This excessive optimism can be attributed to the cognitive bias known as wishful thinking.
+This is wishful thinking bias. Your brain is lying to you about election outcomes because it wants to feel good.
 
-#### Voter Predictions of Who Will Be Elected by Their Party
+## The 2008 Data
 
-<table><tbody><tr><td>Presidential Candidate</td><td>Democrat Respondents</td><td>Republican Respondents</td></tr><tr><td>John McCain (R)</td><td>12%</td><td>62%</td></tr><tr><td>Barack Obama (D)</td><td>87%</td><td>38%</td></tr></tbody></table>
+| Presidential Candidate | Democrat Respondents | Republican Respondents |
+|------------------------|---------------------|------------------------|
+| John McCain (R)        | 12%                 | 62%                    |
+| Barack Obama (D)       | 87%                 | 38%                    |
 
 [Source](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1844&context=student_scholarship)
 
-<table><tbody><tr><td>Presidential Candidate</td><td>Democrat Respondents</td><td>Republican Respondents</td></tr><tr><td>Donald Trump (R)</td><td>9%</td><td>66%</td></tr><tr><td>Hillary Clinton (D)</td><td>91%</td><td>33%</td></tr></tbody></table>
+## The 2016 Data
+
+| Presidential Candidate | Democrat Respondents | Republican Respondents |
+|------------------------|---------------------|------------------------|
+| Donald Trump (R)       | 9%                  | 66%                    |
+| Hillary Clinton (D)    | 91%                 | 33%                    |
 
 [Source](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1844&context=student_scholarship)
 
-If this wishful thinking bias did not exist, one would expect the respondents predictions to be much closer to the current polling data which as split very evenly.
+## What This Means
+
+In both elections, polls showed tight races. If voters were rational predictors, both groups would estimate roughly 50/50 odds.
+
+Instead:
+- 87% of Democrats thought Obama would win
+- 62% of Republicans thought McCain would win
+- 91% of Democrats thought Clinton would win
+- 66% of Republicans thought Trump would win
+
+Everyone thinks their team will win, regardless of what polls say. This isn't analysis. It's hope wearing a statistics costume.
+
+Your brain does this to you automatically. When you predict your candidate will win, you're not forecasting an election. You're expressing a preference and calling it a prediction.
+
+The data shows this clearly. You are not immune to wishful thinking bias. Neither is anyone else. We're all walking around convinced our tribe will prevail because our brains are designed to lie to us in ways that feel good.
+
+You can know this and still believe your candidate will win. That's how good your brain is at lying to itself. It's impressive, really. Just not accurate.

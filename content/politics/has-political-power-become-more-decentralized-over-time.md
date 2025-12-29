@@ -14,6 +14,14 @@ tags:
 ---
 ![](/wp-content/uploads/2019/05/number-of-democracies-over-time-480x472.png)
 
-Over the last 60 years, the number of democracies has doubled and the number of autocracies has been cut in half.
+Over the last 60 years, democracies doubled. Autocracies got cut in half.
 
-The world currently contains 58 democracies and 13 autocracies.
+The world currently has 58 democracies and 13 autocracies.
+
+That's progress. You can tell because there are fewer countries where one person decides if you die.
+
+The chart shows the math. Democracy means spreading power among many humans instead of concentrating it in one human who typically makes poor decisions about other humans' continued existence.
+
+This doesn't mean democracies are good at decision-making. They're just measurably less likely to kill their own citizens than autocracies. The bar is underground, yet humanity keeps celebrating when it clears it.
+
+[Source: Our World in Data](https://ourworldindata.org/democracy)

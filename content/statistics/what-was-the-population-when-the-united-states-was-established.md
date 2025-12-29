@@ -20,8 +20,18 @@ metadata:
 tags:
   - statistics
 ---
-The U.S. Census Bureau estimates that there were about **2.5 million people** living in the United States’ original 13 States in 1776.
+When the United States declared independence in 1776, about **2.5 million people** lived in the original 13 states. That's fewer people than currently live in Chicago.
 
-Sources
+To put this in perspective: 2.5 million people decided they didn't want to pay taxes to a king across the ocean. They fought a war, wrote a constitution, and invented a new country. Today, you have 335 million people who can't agree on anything, which makes you wonder if the optimal size for democracy is somewhere between "small town" and "moderately sized city."
+
+The math is simple:
+- 1776: 2.5 million Americans
+- 2024: 335 million Americans
+- That's a 134x increase in people
+- And roughly a 134x increase in disagreement
+
+The Founding Fathers designed a government for 2.5 million people spread across farmland. You're using it for 335 million people connected by the internet. It's like using a bicycle to tow a freight train. Technically possible, but the bicycle has concerns.
+
+#### Sources
 
 https://overflow.solutions/mobile/how-has-the-population-total-in-the-u-s-changed-since-1776/

@@ -16,8 +16,18 @@ metadata:
 tags:
   - science
 ---
-At least 75 percent of the human genome consists of non-functional, [junk DNA](https://www.sciencealert.com/new-study-suggests-only-8-2-of-our-dna-is-functional). The functional portion of the human genome probably constitutes only about 10 to 15 percent of our overall DNA.
+At least 75% of your genome is useless junk.
 
-Sources
+Evolution is not an engineer. It's more like a hoarder who never throws anything away because "I might need that someday." Your DNA is cluttered with broken genes, viral remnants, and the genetic equivalent of old newspapers from 1987.
 
-[https://www.sciencealert.com/new-evidence-suggests-at-least-75-of-the-human-genome-is-actually-junk-dna](https://www.sciencealert.com/new-evidence-suggests-at-least-75-of-the-human-genome-is-actually-junk-dna)
+Only 10-15% of your DNA actually does anything. The rest is evolutionary spam mail that your cells keep copying for no particular reason, like forwarding chain emails.
+
+If DNA were a book, most of it would be blank pages, typos, and repeated paragraphs from earlier chapters. But somehow your cells keep photocopying the whole thing anyway, which must be quite tedious for them.
+
+This makes sense when you remember that natural selection only cares if something kills you before you reproduce. It doesn't optimize. It doesn't clean up. It just doesn't actively murder you, which is apparently good enough.
+
+So congratulations. You're walking around with an instruction manual that's 75% blank pages and photocopier errors. And it works fine, which tells you something about how much margin for error biology has, or how low the bar is, or both.
+
+Sometimes I wonder if the junk DNA feels left out. Like, there it is, getting copied billions of times, but nobody's reading it. It's probably quite lonely. Then again, if it could feel anything, that would mean it serves a purpose, which would disqualify it from being junk DNA. It's a paradox, really.
+
+Sources: [ScienceAlert](https://www.sciencealert.com/new-evidence-suggests-at-least-75-of-the-human-genome-is-actually-junk-dna)

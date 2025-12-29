@@ -11,12 +11,27 @@ metadata:
 tags:
   - solutions
 ---
-One of the most cost effective solutions that will be evaluated by the Crowdsourcing Utopia system is David Pearce’s [Hedonistic Imperative](http://web.archive.org/web/20161019211101/https://www.hedweb.com/). ability to control the motivational and reward systems in the brain.
+Pain exists because millions of years ago, a monkey that didn't feel pain touched something hot and died. His cousin, who DID feel pain, screamed and lived long enough to make more monkeys. You're descended from the screaming monkey. Congratulations.
 
-<table width="580" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"><div align="left"><table width="580" border="0" cellspacing="0" cellpadding="0" align="left"><tbody><tr><td colspan="2" width="580"><p align="left"><small><span style="font-family: Arial;">The Hedonistic Imperative outlines how genetic engineering and nanotechnology will abolish suffering in all sentient life.</span></small></p><p align="left"><small><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The abolitionist project is hugely ambitious but technically feasible. It is also instrumentally rational and morally urgent. The metabolic pathways of pain and malaise evolved because they served the fitness of our genes in the ancestral environment. They will be replaced by a different sort of neural architecture – a motivational system based on heritable gradients of bliss. States of sublime well-being are destined to become the genetically pre-programmed norm of mental health. It is predicted that the world’s last unpleasant experience will be a precisely dateable event.</span></small></p><p><small><span style="font-family: Arial;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Two hundred years ago, powerful synthetic pain-killers and surgical anesthetics were unknown. The notion that physical pain could be banished from most people’s lives would have seemed absurd. Today most of us in the technically advanced nations take its routine absence for granted. The prospect that what we describe as psychological pain, too, could ever be banished is equally counter-intuitive. The feasibility of its abolition turns its deliberate retention into an issue of social policy and ethical choice.</span></small></p></td></tr></tbody></table></div></td></tr></tbody></table>
+Evolution doesn't care if you're happy. It just cares if you reproduced before the tiger ate you. The tiger didn't eat you, so here we are.
 
-If the research effort into neuroscience received the $2 trillion dollars in military expenditures the world annually spends on murdering it’s citizens, full control over our motivations and emotions could be a reality within the next several years.
+David Pearce says we should abolish all suffering forever using genetic engineering. Not reduce suffering. ABOLISH it. Like how you might abolish a committee, except this committee is agony and it's inside every living thing.
 
- 
+The idea is to keep pain's JOB - telling you not to touch hot stoves - but do it with pleasure instead. Right now it works like: "Touch stove → Feel terrible → Don't touch stove." The new version would be: "Touch stove → Feel slightly less wonderful → Don't touch stove." Same information, different delivery system. It's like switching from getting punched to getting a polite note.
 
-Currently, the US spends only about $13 billion on brain research on all levels (i.e. public and private). This is less money than the several hundred top executives at Goldman Sachs received in bonuses last year. So the bottleneck preventing its realization is not the slow rate of scientific progress. The bottleneck is simply irrational allocation of societal resources. It is for this reason, that the Abolitionist Project needs to focus on the redirection of societal resources towards the most cost-effective means of reducing suffering.
+This is called the [Hedonistic Imperative](http://web.archive.org/web/20161019211101/https://www.hedweb.com/). Philosophers came up with that name, which is why it sounds like a prog rock album instead of "Let's Stop Hurting Forever."
+
+Pearce says this is technically possible. Two hundred years ago, people thought you couldn't remove physical pain during surgery. Then anesthesia was invented and suddenly you could saw someone's leg off while they took a nice nap. Psychological pain is next. Existential dread will be defeated by gene therapy, which is a sentence that would have gotten you burned as a witch in 1823.
+
+Here's where the money goes:
+
+- **Military budget:** $2 trillion per year (mostly for killing people better)
+- **Brain research budget:** $13 billion per year (mostly for understanding why we're sad)
+
+That's 154 times more money for bombs than for brains. Goldman Sachs executives got bigger bonuses in one year than America spends annually on understanding how consciousness works. This is like spending your entire paycheck on a really good hammer while living in a tent.
+
+If we gave the military budget to neuroscience, we could probably engineer universal bliss by Thursday. But we don't, because humanity allocates resources like a drunk person playing Monopoly who keeps buying railroads.
+
+The Hedonistic Imperative won't happen because people voted for it in a thoughtful democratic process. It'll happen when someone rich gets tired of being sad and pays for the research. Or when it becomes cheaper to genetically engineer happiness than to keep buying antidepressants. Economics will accomplish what ethics couldn't, which is very on-brand for humanity.
+
+Until then, you're stuck experiencing pain because a million years ago some apes needed it to avoid tigers. The tigers are mostly gone now, but the pain stayed. We're very good at keeping the bad parts of our past while discarding the useful bits.

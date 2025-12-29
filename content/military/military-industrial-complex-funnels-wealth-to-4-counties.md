@@ -18,43 +18,82 @@ metadata:
 tags:
   - military
 ---
-The top 4 richest counties per capita in the US are
 
-1.  Loudoun County, VA
-2.  Falls Church, VA
-3.  Fairfax County, VA
-4.  Howard County, MD
+The four richest counties in America all surround the Pentagon. This is either a remarkable coincidence or weapons are very profitable. I checked the math.
+
+The Pentagon is a building shaped like five sides. This is called a "pentagon." When you have five sides, money flows to the four counties surrounding you. I'm not sure why the fifth side doesn't get a county, but that's geometry for you.
+
+## The Winners
+
+1. Loudoun County, VA
+2. Falls Church, VA
+3. Fairfax County, VA
+4. Howard County, MD
 
 ![](/wp-content/uploads/2023/05/image-1-300x236.png)
 
-The military-industrial complex refers to the relationship between the government, military, and defense contractors, which work together to produce and maintain military technology and weapons.
+All four counties cluster around Washington D.C., specifically around the building where we decide how to spend military money. It's like a watering hole, if water was government contracts and the animals were defense contractors in suits.
 
- All of these counties have a significant number of defense contractors and government employees, which is a result of the proximity to the Pentagon and other government agencies.
+Maybe the reason these counties are so rich is because they're geographically close to money. Like, the money can't travel very far, so it just stays nearby. That would explain why counties in Ohio aren't as rich - they're too far from the Pentagon for the money to reach them.
 
-The military-industrial complex is a term that was coined by President Dwight D. Eisenhower in his farewell address to the nation in 1961. He warned of the growing influence of the defense industry on government policy and its potential to threaten democracy.
+## How The System Works
 
-> “Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed.” 
-> 
-> <cite>President Eisenhower</cite>
+Here's the simple version:
+
+1. Defense contractors give money to politicians
+2. Politicians buy weapons
+3. Defense contractors get more money
+4. Defense contractors give more to politicians
+
+It's a circle. A very profitable circle. For four counties.
+
+Circles are round. This is important because if the system was a square, it would have corners where money could get stuck. But circles have no corners, so the money just keeps flowing forever. That's why we call it a "cycle" and not a "square."
+
+President Eisenhower warned about this in 1961. He ran the military during World War II, so his confusion about peacetime military spending is notable.
+
+> "Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and are not clothed."
+>
+> <cite>President Dwight D. Eisenhower</cite>
 
 <iframe loading="lazy" title="Eisenhower's Warning about the Military-Industrial Complex" width="580" height="435" src="https://www.youtube.com/embed/SEGpTu8sVKI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-Eisenhower’s Warning about the Military-Industrial Complex  
+Eisenhower's Warning about the Military-Industrial Complex
 
-Today, the military-industrial complex is a multi-billion dollar industry that has a significant impact on the economy and politics of the United States.
+## The Lobbying Math
 
-One way in which the military-industrial complex funnels wealth to these four counties is through government contracts. Defense contractors, such as Lockheed Martin, Boeing, and General Dynamics, have a large presence in the Washington D.C. area and receive billions of dollars in government contracts each year. 
-
-## Lobbying
-
-Another way in which the military-industrial complex impacts these counties is through lobbying. Defense contractors and industry groups spend millions of dollars each year lobbying Congress and other government officials to secure favorable policies and contracts. This influence can lead to policies that benefit defense contractors and the military-industrial complex, even if they are not in the best interest of the American people.
+Defense contractors spend millions lobbying Congress. Congress then allocates billions to defense contractors. The return on investment is excellent.
 
 ![Showering Politicians With Campaign Donations](/wp-content/uploads/2023/05/image-1980x2757.png)
 
-The military-industrial complex also benefits from the revolving door between government and industry. Many government officials go on to work for defense contractors or industry groups, and vice versa. This can create conflicts of interest and lead to policies that benefit the military-industrial complex over the public interest.
+## The Revolving Door
 
-The industrial complex has a significant impact on the economy and politics of the United States, particularly in the Washington, D.C. metropolitan area. The close relationship between the government, military, and defense contractors has led to the funneling of wealth and power to a select few counties while potentially compromising democracy and the public interest. It is important for policymakers and citizens alike to be aware of the influence of the military-industrial complex and work towards a more transparent and accountable relationship between government and industry.
+Many government officials leave to work for defense contractors. Many defense contractor executives become government officials. They're not changing jobs. They're changing seats at the same table.
+
+A revolving door is a type of door that spins in a circle. When you walk through it, you end up on the other side, but the door keeps spinning. If you wanted to, you could just keep walking through it over and over again. I think that's what government officials are doing, except instead of just walking, they're collecting millions of dollars each time they go around.
+
+This creates what economists call "conflicts of interest" and what everyone else calls "obviously corrupt."
+
+## What You Can Do
+
+Track defense contractor lobbying:
+- Check [OpenSecrets.org](https://www.opensecrets.org/) for lobbying data
+- Search which contractors donate to your representatives
+- Note the correlation between donations and contract awards
+
+Follow the revolving door:
+- Search "[government official name] + defense contractor" to see career paths
+- Track which officials move to which companies
+- Notice the pattern
+
+Contact your representatives:
+- Ask specific questions about specific contracts
+- Reference actual dollar amounts
+- Request justification for contract awards to companies that employ former officials
+
+The pattern is clear. The solution is simpler: Stop rewarding it.
 
 ## Sources
 
-[https://patch.com/pennsylvania/newhope-lambertville/hunterdon-county-among-10-richest-america-forbes](https://patch.com/pennsylvania/newhope-lambertville/hunterdon-county-among-10-richest-america-forbes)
+- [Forbes: America's Richest Counties](https://patch.com/pennsylvania/newhope-lambertville/hunterdon-county-among-10-richest-america-forbes)
+- [OpenSecrets.org: Defense Contractor Lobbying Data](https://www.opensecrets.org/)
+- President Eisenhower's Farewell Address, 1961

@@ -1,6 +1,6 @@
 ---
 title: >-
-  Voters See ‘Corporate Welfare’ Programs As A Good Place To Cut Government
+  Voters See 'Corporate Welfare' Programs As A Good Place To Cut Government
   Spending
 authors: []
 date: 2011-09-07T03:29:41.000Z
@@ -25,13 +25,59 @@ tags:
 ---
 ![Socialism for the Rich. Capitalism for the Rest.](/wp-content/uploads/2011/09/socialism-rich.jpg)
 
-[15%](http://www.rasmussenreports.com/public_content/politics/general_politics/august_2011/voters_see_these_corporate_welfare_programs_as_a_good_place_to_cut_government_spending) of likely U.S. voters think the federal government should continue to provide [funding for foreign countries](https://www.amazon.com/gp/product/0745642411/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0745642411&linkCode=as2&tag=quant08-20) to buy military weapons from U.S. companies. Seventy percent ([70%](http://www.rasmussenreports.com/public_content/politics/general_politics/august_2011/voters_see_these_corporate_welfare_programs_as_a_good_place_to_cut_government_spending)) oppose this funding to promote U.S. arms sales. Fifteen percent ([15%](http://www.rasmussenreports.com/public_content/politics/general_politics/august_2011/voters_see_these_corporate_welfare_programs_as_a_good_place_to_cut_government_spending)) are undecided about it.  (To see survey question wording, [click here](http://www.rasmussenreports.com/public_content/politics/questions/pt_survey_questions/august_2011/questions_corporate_welfare_august_11_12_2011).)
+## What Voters Actually Want
 
-Voters are more closely divided on the topic of [farm subsidies](https://www.amazon.com/gp/product/B005ZH34ZQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005ZH34ZQ&linkCode=as2&tag=quant08-20). The U.S. government typically provides more than [$20 billion](https://en.wikipedia.org/wiki/Agricultural_subsidy) a year in crop and farm subsidies, and 37% of voters feel those subsidies should continue. But a plurality (46%) thinks those subsidies should be ended, while 17% more are not sure.
+According to Rasmussen Reports, voters have opinions about corporate welfare. Shocking, I know.
 
-Similarly, the federal government’s [Export-Import bank](https://www.amazon.com/gp/product/0521104661/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521104661&linkCode=as2&tag=quant08-20) provides billions of dollars in loans and loan guarantees to companies like Boeing and General Electric. The stated purpose is to sustain American jobs by financing U.S. exports.  But just [29%](https://www.downsizinggovernment.org/search-results?cx=006606822365722333854%3Afgcvw6tf0fw&cof=FORID%3A10&ie=UTF-8&query=voters%20don%20t%20support%20corporate%20welfare&sa=Search) of voters believe the government should continue to provide loans and loan guarantees to help finance export sales for large corporations. Again, a plurality of 46% opposes loans and loan guarantees for this purpose. Twenty-five percent ([25%](https://www.downsizinggovernment.org/search-results?cx=006606822365722333854%3Afgcvw6tf0fw&cof=FORID%3A10&ie=UTF-8&query=voters%20don%20t%20support%20corporate%20welfare&sa=Search)) are undecided.
+In a democracy, what the voters want matters. This is why we ask them what they want, write it down carefully, and then do the opposite.
 
-  – Rasmussen Reports™
+### Foreign Military Sales Subsidies
+
+70% of voters oppose giving foreign countries money to buy weapons from US companies.
+
+15% support it.
+
+15% are still thinking about whether subsidizing weapons sales is a good idea.
+
+To be fair to that 15%, it IS a complex question. Should we pay other countries to buy murder equipment from us? Really makes you think. Ideally for less than 30 seconds, because then you might notice we're doing it anyway.
+
+The government does it anyway.
+
+### Farm Subsidies
+
+The US government gives $20 billion per year to farms.
+
+46% of voters think this should stop.
+
+37% think it should continue.
+
+17% haven't decided if paying farmers not to grow food makes sense.
+
+The 17% undecided voters are probably just trying to understand how "paying someone to NOT grow food" works. It's simple: you give them money, and then food doesn't happen. It's like reverse farming, which is apparently something we do now.
+
+The government continues giving farmers $20 billion per year.
+
+### Export-Import Bank
+
+The Export-Import Bank gives billions in loans and loan guarantees to Boeing and General Electric. The stated purpose is to "sustain American jobs."
+
+29% of voters support this.
+
+46% oppose it.
+
+25% are undecided about whether Boeing needs help from taxpayers.
+
+The government continues providing these loans.
+
+## The Pattern
+
+In each case, voters oppose corporate subsidies by large margins. In each case, the subsidies continue.
+
+This is democracy working exactly as designed. The design just isn't what you were told it was.
+
+It's like ordering a pizza and getting a cinder block. Sure, it's not what you asked for, but the delivery system worked perfectly. The cinder block arrived on time and you still have to pay for it.
+
+Source: [Rasmussen Reports](http://www.rasmussenreports.com/public_content/politics/general_politics/august_2011/voters_see_these_corporate_welfare_programs_as_a_good_place_to_cut_government_spending)
 
 <audio class="wp-audio-shortcode" id="audio-241-9" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn010_cut_corporate_welfare.mp3?_=9"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn010_cut_corporate_welfare.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn010_cut_corporate_welfare.mp3</a></audio>
 

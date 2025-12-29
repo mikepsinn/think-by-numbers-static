@@ -43,49 +43,66 @@ metadata:
 tags:
   - government-spending
 ---
-[  
-](http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg)[![](/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic-480x160.jpg)](http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg)
+[![](/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic-480x160.jpg)](http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg)
 
-## 2013 Budget Plans
+## 2013 Budget Plans: New Look, Same Great Waste
 
-#### New Look! Same Great Waste!
+Obama's 2013 budget: $3.80 trillion.
 
-Obama’s 2013 budget is [$3.80 Trillion](https://en.wikipedia.org/wiki/2013_United_States_federal_budget). Romney’s will be $3.79 trillion.
+Romney's proposed budget: $3.79 trillion.
 
-Budget Changes Specified by Candidate Romney™:
+The difference: $10 billion, or 0.26%.
 
-1.  Eliminate Obamacare (which is ironically very similar to Romneycare aside from the fact that Romneycare also covered abortions) – Estimated Savings = [$122](http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/sites/aroy/2012/07/27/cbo-obamacare-will-spend-more-tax-more-and-reduce-the-deficit-less-than-we-previously-thought/&refURL=http://thinkbynumbers.org&referrer=http://thinkbynumbers.org) billion annually
-2.  Increase Military Spending – Estimated Cost = [$45](https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2011%2F11%2F07%2Fworld%2Fpanetta-weighs-military-cuts-once-thought-out-of-bounds.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR) billion annually
-3.  Increase Medicare Spending – Estimated Cost = [$71](http://www.factcheck.org/2012/08/a-campaign-full-of-mediscare/) billion annually
-4.  “Deep Reductions” in funding for the National Endowment for the Arts – Estimated Savings = [$0.15](https://www.philanthropy.com/article/Arts-Spending-Cut-as-2012/195421) billion annually
-5.  Eliminate Amtrak Subsidies – Estimated Savings = [$1.6](http://reason.com/archives/2011/11/09/absolutely-profligate) billion annually
-6.  Eliminate Title X Family Planning Programs – Estimated Savings = [$0.3](http://khn.org/news/planned-parenthood-title-10/) billion annually
+For context, the national debt is $16.2 trillion. The difference between these budgets would pay down 0.06% of the debt.
 
-Add it up.  Romney’s Total Savings = $0.01 trillion less than Obama’s budget! With a national debt on the order of [$16.2](http://www.treasurydirect.gov/NP/debt/current) trillion, you’ll barely even notice the difference!
+This is like arguing whether to order a large pizza or an extra-large pizza when your house is already buried under 16 trillion pizzas. The choice matters deeply to the pizza companies, though.
+
+## Romney's Specific Cuts
+
+1. Eliminate Obamacare (which resembles Romneycare, except Romneycare covered abortions): **Savings $122 billion**
+2. Increase Military Spending: **Cost $45 billion**
+3. Increase Medicare Spending: **Cost $71 billion**
+4. "Deep Reductions" in National Endowment for the Arts: **Savings $0.15 billion**
+5. Eliminate Amtrak Subsidies: **Savings $1.6 billion**
+6. Eliminate Title X Family Planning: **Savings $0.3 billion**
+
+Add it up: **Romney saves $0.01 trillion less than Obama's budget.**
+
+With a $16.2 trillion national debt, this is the political equivalent of rearranging deck chairs on the Titanic.
+
+Except the Titanic only sank once, whereas the national debt sinks a little bit every day forever. It's actually more impressive when you think about it. How do you sink continuously for decades? That takes real commitment.
 
 ## Past Spending Records
 
-##### Are you tired of all that money cluttering up your home?  Try NEW PRESIDENT™!
+Obama increased government spending 5.5% annually during his term.
 
-Governor Romney™ has been scientifically proven to increase spending faster than the President Obama™! Obama has only increased government spending a disappointing [5.5%](https://www.washingtonpost.com/blogs/fact-checker/post/the-facts-about-the-growth-of-spending-under-obama/2012/05/24/gJQAIJh6nU_blog.html) annually over his term.
+Under Romney as Massachusetts Governor, state spending went from $22.3 billion to $28.1 billion, an annual increase of 6.5%.
 
-Under Governor Romney, Massachusetts state spending went from $22.3 billion to $28.1 billion,  an amazing [6.5%](https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fthecaucus.blogs.nytimes.com%2F2007%2F12%2F31%2Fclarification-on-huckabee-and-romney-spending%2F%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR) per year! That’s faster than most other leading governors (6.2%)! And if we’ve learned anything from the vast disparity between George W. Bush’s fiscal rhetoric and [fiscal record](https://www.mercatus.org/publication/spending-under-president-george-w-bush), it’s that Romney’s gubernatorial record might be a better indicator of what we could expect from a Romney federal budget.
+Romney increased spending faster than Obama. Romney increased spending faster than the average governor (6.2%).
 
-## Campaign Contributors
+If George W. Bush's fiscal rhetoric versus fiscal record taught us anything, it's that Romney's gubernatorial record is probably what you'll get federally.
 
-#### The Wall Street bankers that brought you President Obama™ love NEW PRESIDENT™!
+## Campaign Contributors: The Bankers Are Back
 
-The same [Wall Street recipients of TARP](http://www.opensecrets.org/news/2009/02/tarp-recipients-paid-out-114-m/) bailout money that [were top Obama donors](http://www.opensecrets.org/pres08/contrib.php?cycle=2008&amp;cid=N00009638) in 2008 [are top Romney donors](http://www.opensecrets.org/pres12/contrib.php?cycle=2012&amp;id=N00000286) in 2012. Why?
+The Wall Street banks that received TARP bailouts and were Obama's top donors in 2008 are now Romney's top donors in 2012.
 
-### Just like the Original President, New President
+Why the switch? Because Romney and Obama agree on the important stuff.
 
-1.  [Supported](http://www.youtube.com/watch?feature=player_embedded&amp;v=aX6T--U8Ll8) TARP Wall Street bailout program.
-2.  Opposes immediately [balancing the federal budget](http://theeconomiccollapseblog.com/archives/there-is-not-going-to-be-a-solution-to-our-economic-problems-on-the-national-level).
-3.  Has [a track record](http://endoftheamericandream.com/archives/16-reasons-why-mitt-romney-would-be-a-really-really-bad-president) of being [a big spender](http://endoftheamericandream.com/archives/17-reasons-why-a-vote-for-mitt-romney-is-a-vote-for-the-new-world-order) and a big-government advocate while in office.
-4.  [Opposes](http://www.thepoliticalguide.com/Profiles/Governor/Massachusetts/Mitt_Romney/Views/The_Federal_Reserve/) a full audit of the Federal Reserve.
-5.  Supports [taxpayer-funded bailouts](http://www.dailykos.com/story/2012/02/17/1065790/-Mitt-Romney-s-bailout-problem) of corporations.
-6.  Wants to keep personal [income tax](https://turbotax.intuit.com/) rates [at the exact same levels](http://www.businessinsider.com/mitt-romney-tax-rates-low-2012-7) for the vast majority of Americans.
-7.  Will increase [defense spending](http://www.rawstory.com/2011/02/defense-enjoys-short-term-boost-under-obama-budget/)
-8.  Believes the President can take the country to [war](http://crooksandliars.com/nicole-belle/romney-president-has-power-act-unilat) without approval from Congress.
+The banks switching from Obama to Romney is like switching from Coke to Pepsi. Sure, there are minor differences in flavor, but both are brown liquids that will take your money and give you nothing in return. Wait, that metaphor got away from me. The point is they're basically the same, and the banks know it.
+
+### Both Romney and Obama:
+
+1. Supported TARP Wall Street bailouts
+2. Oppose immediately balancing the federal budget
+3. Have track records of big spending while in office
+4. Oppose a full audit of the Federal Reserve
+5. Support taxpayer-funded corporate bailouts
+6. Want to keep personal income tax rates at current levels for most Americans
+7. Will increase defense spending
+8. Believe the President can take the country to war without Congressional approval
+
+The banks don't care which one wins. They've already won.
+
+Before you criticize the banks for buying both candidates, try buying both candidates yourself. It's expensive. You need at least $43 million just to get started, and then you have to remember which one you bought. It's very complicated.
 
 [![](/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Infographic-Ad-Version-11-1-12-thumbnail.jpg)](http://thinkbynumbers.org/government-spending/from-the-bankers-who-brought-you-president-obama-comes-new-president/attachment/obamney-obama-romney-spending-infographic-ad-version-11-1-12-thumbnail/)

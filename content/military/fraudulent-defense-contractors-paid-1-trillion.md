@@ -19,36 +19,71 @@ metadata:
 tags:
   - military
 ---
-Bernie Sanders – U.S. Senator for Vermont
 
-WASHINGTON, Oct. 20 – Hundreds of defense contractors that defrauded the U.S. military received more than $1.1 trillion in Pentagon contracts during the past decade, according to a Department of Defense report prepared for Sen. Bernie Sanders.
+The Pentagon paid $1.1 trillion over a decade to contractors who defrauded the government. After being convicted of crimes, they got more money. The math requires third-grade arithmetic, so the confusion is notable.
 
-Sanders (I-Vt.) called the report “shocking.” He said aggressive steps must be taken to ensure taxpayer dollars aren’t wasted.
+Maybe to understand government contracting, we have to look at the word 'fraud' itself. Basically, it's made up of letters that spell something we punish in regular society but reward with billions in the military. It's a mystery, and that's why so are defense contracts.
 
-“The ugly truth is that virtually all of the major defense contractors in this country for years have been engaged in systemic fraudulent behavior, while receiving hundreds of billions of dollars of taxpayer money,” said Sanders. “With the country running a nearly $15 trillion national debt, my goal is to provide as much transparency as possible about what is happening with taxpayer money.”
+## How It Works
 
-The report detailed how the Pentagon paid $573.7 billion during the past 10 years to more than 300 contractors involved in civil fraud cases that resulted in judgments of more than $1 million, $398 billion of which was awarded after settlement or judgment for fraud.  When awards to “parent” companies are counted, the Pentagon paid more than $1.1 trillion during the past 10 years just to the 37 top companies engaged in fraud.
+Here's the system:
 
-Another $255 million went to 54 contractors convicted of hard-core criminal fraud in the same period. Of that total, $33 million was paid to companies after they were convicted of crimes.
+1. Defense contractor submits false invoices
+2. Gets caught committing fraud
+3. Pays fine (usually small)
+4. Receives even larger contracts
 
-Some of the nation’s biggest defense contractors were involved.
+It's like a dog chasing its tail, if the tail was made of money and the dog was democracy.
 
-For example, Lockheed Martin in 2008 paid $10.5 million to settle charges that it defrauded the government by submitting false invoices on a multi-billion dollar contract connected to the Titan IV space launch vehicle program.  That didn’t seem to sour the relationship between Lockheed and the Defense Department, which gave Lockheed $30.2 billion in contracts in fiscal year 2009, more than ever before.
+Fraud works by lying about money. When normal people do this, they go to prison. When defense contractors do it, they get promoted to "trusted partner." This makes the contractors very happy, which is why there's an explosion of fraud.
 
-In another case, Northrop Grumman paid $62 million in 2005 to settle charges that it “engaged in a fraud scheme by routinely submitting false contract proposals,” and “concealed basic problems in its handling of inventory, scrap and attrition.”  Despite the serious charges of pervasive and repeated fraud, Northrop Grumman received $12.9 billion in contracts the next year, 16 percent more than the year before.
+## The Numbers
 
-A Sanders provision in a defense spending bill required the report and directed the Department of Defense to recommend ways to punish fraudulent contractors. The Pentagon said sanctions already are in place. “It is not clear, however, that these remedies are sufficient … to deter and punish fraud when it is detected.” That tone was different than what the Pentagon said in a preliminary report last January, which declared that ‘the department believes that existing remedies with respect to contractor wrongdoing are sufficient.”
+The Department of Defense, in a report prepared for Senator Bernie Sanders, detailed the following:
 
-Said Sanders: “It is clear that DOD’s current approach is not working and we need far more vigorous enforcement to protect taxpayers from massive fraud.”
+- **$1.1 trillion** paid to 37 companies engaged in fraud over 10 years
+- **$573.7 billion** paid to 300+ contractors involved in civil fraud cases
+- **$398 billion** of that paid AFTER they were caught
+- **$255 million** to contractors convicted of criminal fraud
+- **$33 million** paid AFTER criminal convictions
 
-Under another Sanders provision in a separate law, a government-wide federal contractor fraud database was opened to the public earlier this year.  Access to the Federal Awardee Performance and Integrity Information System had been limited to federal acquisition officials and certain members of Congress.  The DOD promises to ramp up monitoring of this database to ensure its contractors’ fraudulent actions are accurately and fully disclosed.
+I checked. $1.1 trillion is larger than zero, which is the amount you typically reward criminals.
 
-To read the Pentagon report and the tables, click [here](http://www.sanders.senate.gov/imo/media/doc/102011%20-%20DOD%20Fraud%20Report.pdf?) and [here](http://www.sanders.senate.gov/imo/media/doc/102011%20-%20Combined%20DOD%20Fraud%20Tables.pdf?).
+## Case Studies in Rewarding Bad Behavior
 
- 
+**Lockheed Martin** paid $10.5 million in 2008 to settle fraud charges for submitting false invoices. The Pentagon responded by giving them $30.2 billion in 2009. More than ever before. Because when someone steals from you, you obviously give them a raise.
 
-via [Fraudulent Defense Contractors Paid $1 Trillion – Newsroom: Bernie Sanders – U.S. Senator for Vermont](http://www.senate.gov/general/403.htm).
+I think the reason we reward fraud is because "fraud" and "reward" both have the letter "r" in them. The Pentagon probably got confused by the alphabet.
 
- 
+**Northrop Grumman** paid $62 million in 2005 after "routinely submitting false contract proposals" and concealing inventory problems. The next year, they received $12.9 billion in contracts. That's 16% more than the year before they were caught lying.
 
-Please share your thoughts in the comments section!
+The pattern is clear: Fraud pays well. Specifically, it pays in government contracts.
+
+Maybe if we all just committed fraud against the Pentagon, we'd all be rich. But that would be stealing, which is wrong. Unlike contractor fraud, which is apparently a business model.
+
+## The Pentagon's Position
+
+When asked to recommend ways to punish fraudulent contractors, the Pentagon noted that sanctions "already exist" but admitted "it is not clear, however, that these remedies are sufficient to deter and punish fraud."
+
+You know your deterrent isn't working when the punished behavior increases by 16%.
+
+A deterrent is like a scarecrow for fraud. But instead of scaring the fraud away, we built a scarecrow made entirely of money. Now the fraud lives inside it and has a pension.
+
+## What You Can Do
+
+Senator Sanders created a public database tracking contractor fraud. You can check the [Federal Awardee Performance and Integrity Information System](https://www.cpars.gov/) to see which companies defraud the government and how much we pay them anyway.
+
+Here's how to use this information:
+
+1. Check which contractors have fraud records
+2. Note how much they still receive in contracts
+3. Contact your representatives with specific numbers
+4. Ask why we're rewarding criminals with tax dollars
+
+The full Pentagon report is available [here](http://www.sanders.senate.gov/imo/media/doc/102011%20-%20DOD%20Fraud%20Report.pdf) and the data tables are [here](http://www.sanders.senate.gov/imo/media/doc/102011%20-%20Combined%20DOD%20Fraud%20Tables.pdf).
+
+## Sources
+
+- Department of Defense Report to Senator Bernie Sanders, October 2011
+- [Federal Awardee Performance and Integrity Information System](https://www.cpars.gov/)
+- [Bernie Sanders Senate Press Release](http://www.senate.gov/general/403.htm)

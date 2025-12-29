@@ -14,12 +14,24 @@ metadata:
 tags:
   - monkey-business
 ---
-In response to recent allegations that Anheuser-Busch has been watering down its beer to boost profits, my lab used gas chromatography with flame ion detection to determine if this was indeed the case. Our analyses suggest with greater than 99% certainty that Budweiser is, and shall remain, the king of beers. Beer lovers around the world can continue to drink soundly with the knowledge that their euphoria and elevated levels of self-confidence are in no way psychosomatically induced.  Based on our findings, I am confident in saying that Budweiser will continue to be the cause of (and solution to) all of life’s little problems.
+Anheuser-Busch got caught watering down beer to boost profits. I decided to investigate using science, which is like regular investigation but with more expensive machines that go beep.
+
+Gas chromatography with flame ion detection confirms: Budweiser remains exactly as alcoholic as advertised. This proves that your euphoria is real and not just a placebo effect, which is what happens when you take a pill that's actually just a sugar tablet, except in this case the sugar tablet is beer-flavored and makes you pee a lot. Scientists call this "methodology." I call it "Saturday night."
+
+The accusations were false, which I find suspicious. If you accuse someone of watering down beer and it turns out they WEREN'T, doesn't that mean they missed an opportunity? It's like catching someone NOT stealing from you. What were they thinking?
+
+This is good news for Budweiser, which will continue serving its traditional dual purpose: causing all of life's problems, then solving them approximately four beers later. It's like how the moon controls the tides, except instead of water it's your ability to text your ex.
+
+The king of beers has not been dethroned by tap water. Though historians still debate whether beer is called "the king of beers" because it wears a crown, or because it makes you think you're more important than you are. Probably both. That's what I call "synergy."
+
+Before you drink any beer, you should always ask yourself: "What would a scientist do?" The answer is: drink the beer, but measure it first. That way it's "data collection" instead of "day drinking."
+
+Science has spoken. You may resume drinking. If you're worried about accuracy, just remember: the same equipment that tests beer also tests rocket fuel. So technically, every time you drink a Budweiser, you're participating in the space program. You're basically an astronaut. That's just math.
 
 <object id="flashObj" width="480" height="270" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" bgcolor="#FFFFFF"><param name="flashVars" value="videoId=2194040206001&amp;playerID=1684488549001&amp;playerKey=AQ~~,AAAACC1laJk~,tMO2d6O4mickzCfG8Kpt2wQCZRxpuzpo&amp;domain=embed&amp;dynamicStreaming=true"><param name="base" value="http://admin.brightcove.com"><param name="seamlesstabbing" value="false"><param name="allowFullScreen" value="true"><param name="swLiveConnect" value="true"><param name="allowScriptAccess" value="always"><param name="src" value="http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1"><param name="flashvars" value="videoId=2194040206001&amp;playerID=1684488549001&amp;playerKey=AQ~~,AAAACC1laJk~,tMO2d6O4mickzCfG8Kpt2wQCZRxpuzpo&amp;domain=embed&amp;dynamicStreaming=true"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="swliveconnect" value="true"><param name="pluginspage" value="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>
 
 http://www.ksdk.com/news/article/365781/3/I-Team-tests-Budweiser-Coors-for-alcohol-content-
 
- 
+
 
 [](http://thinkbynumbers.org/wp-content/uploads/2013/02/Duffman2.jpg)

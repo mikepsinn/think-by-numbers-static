@@ -14,13 +14,25 @@ metadata:
 tags:
   - government-spending
 ---
-The entire US Federal Budget alone is [$4.4 trillion](https://www.thebalance.com/u-s-federal-budget-breakdown-3305789) and the US population is [328,316,410](http://www.worldometers.info/world-population/us-population/). Dividing the US budget by the US population produces $13,401 in federal spending per American.
+## The Math
 
-[$1.87 trillion](https://www.usgovernmentspending.com/total) in state spending produces [$5,695](https://docs.google.com/spreadsheets/d/1HAn-f1qpK7r0oJ8iKSOjY85xPk7USC6Ed7Z5A5ej9JE/edit?usp=sharing) per person in state government spending.
+The entire US Federal Budget is $4.4 trillion. The US population is 328,316,410.
 
-[$1.99 trillion](https://www.usgovernmentspending.com/total) in local spending produces [$6,061](https://docs.google.com/spreadsheets/d/1HAn-f1qpK7r0oJ8iKSOjY85xPk7USC6Ed7Z5A5ej9JE/edit?usp=sharing) per person in local government spending.
+Divide $4.4 trillion by 328 million people and you get $13,401 in federal spending per American.
 
-Total government spending per capita is [$25,280](https://docs.google.com/spreadsheets/d/1HAn-f1qpK7r0oJ8iKSOjY85xPk7USC6Ed7Z5A5ej9JE/edit?usp=sharing).
+State governments spend $1.87 trillion, which equals $5,695 per person.
+
+Local governments spend $1.99 trillion, which equals $6,061 per person.
+
+Add it all up: **$25,280 in total government spending per person.**
+
+That's more than most people spend on a used car, which is interesting because the government also can't pass an emissions test and makes weird noises when you try to turn it off.
+
+## The Part Where It Gets Interesting
+
+There are 328 million Americans but only 239 million are voting age. Even fewer actually vote.
+
+Here's what government spending looks like when you divide by people who actually participate in democracy:
 
 <table class="wp-block-table aligncenter is-style-stripes"><tbody><tr><td>Level</td><td>Government<br>Spending<br>Per Voting<br>Age Person</td><td>Spending<br>Per<br>Capita</td><td>Spending<br>Per Actual<br>Turned-Out<br>Voter</td></tr><tr><td>Federal</td><td>$18,704</td><td>$13,402</td><td>$34,636</td></tr><tr><td>State</td><td>$8,077</td><td>$5,787</td><td>$14,957</td></tr><tr><td>Local</td><td>$8,502</td><td>$6,092</td><td>$15,744</td></tr><tr><td>Total</td><td>$35,282</td><td>$25,280</td><td>$65,337</td></tr></tbody></table>
 

@@ -18,8 +18,28 @@ tags:
   - government-spending
   - military
 ---
-The US accounts for about [37 percent](https://en.wikipedia.org/wiki/Expenditures_in_the_United_States_federal_budget#/media/File:2018_Military_Expenditures_by_Country.png) of total global military spending, but only represents [4.4 percent](https://www.statista.com/statistics/237584/distribution-of-the-world-population-by-continent/) of the world’s population.
+## The Numbers
+
+The US spends 37% of all global military spending.
+
+The US represents 4.4% of the world's population.
+
+Some people think these numbers don't match up, but that's because they don't understand how percentages work. When you have 4.4% of something, the mathematically correct amount of military spending is obviously 37%. It's just science.
 
 ![](/wp-content/uploads/2019/03/2018_Military_Expenditures_by_Country-480x393.png)
 
-World military spending totaled more than [$1.6 trillion](https://en.wikipedia.org/wiki/Expenditures_in_the_United_States_federal_budget#/media/File:2018_Military_Expenditures_by_Country.png) in 2015. The U.S. accounted for [37%](https://en.wikipedia.org/wiki/Expenditures_in_the_United_States_federal_budget#/media/File:2018_Military_Expenditures_by_Country.png) of total global military spending.
+## What This Means
+
+You spend more on weapons than the next eight countries combined. Most of those countries are your allies. Some are not even countries that exist anymore on this chart.
+
+This is called "being thorough." If you're going to outspend someone, you might as well outspend them so hard they stop existing as a country. That's just good follow-through.
+
+World military spending totals $1.6 trillion per year. You account for $600 billion of that.
+
+For comparison, the entire GDP of Switzerland is $700 billion. You spend almost as much on the military as Switzerland makes doing everything.
+
+Switzerland makes chocolate, watches, and provides banking services to dictators. You make aircraft carriers. Both are valid economic strategies.
+
+The math is simple. You have 4.4% of the world's people and spend 37% of the world's military budget. Either your military is protecting eight times more than your share of humanity, or your spending is roughly eight times what it needs to be.
+
+There is a third option: you could spend a normal amount and use the savings for literally anything else. But before you criticize military spending, try spending $700 billion yourself. It's harder than it sounds. Where would you even keep that much money? You'd need at least three really big rooms.

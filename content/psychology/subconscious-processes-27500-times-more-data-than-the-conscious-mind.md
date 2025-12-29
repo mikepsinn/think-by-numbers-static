@@ -20,32 +20,46 @@ tags:
   - psychology
   - science
 ---
-The senses take in around 11 million bits per second (11 Mbps). A [bit](https://web.stanford.edu/class/cs101/bits-bytes.html) (short for binary digit) is the smallest unit of data in a computer. A bit has a single binary value, either 0 or 1.
+Your conscious mind is the intern who thinks they're running the company.
+
+Your senses pull in 11 million bits per second. That's the bandwidth of a typical cable internet connection, or the amount needed to stream high-definition video into your skull. Quite impressive, until you realize where most of it goes.
 
 <table><thead><tr><th scope="col">sensory system</th><th scope="col">bits per second</th></tr></thead><tbody><tr><td>eyes</td><td>10,000,000</td></tr><tr><td>skin</td><td>1,000,000</td></tr><tr><td>ears</td><td>100,000</td></tr><tr><td>smell</td><td>100,000</td></tr><tr><td>taste</td><td>1,000</td></tr></tbody></table>
 
 [Source](https://www.britannica.com/science/information-theory/Physiology)
 
-11 Mbps is the bandwidth of the [typical cable internet connection](https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds) and perhaps coincidentally the bandwidth required to convey a [high definition movie](https://www.usatoday.com/story/tech/columnist/2017/12/10/youre-buying-4-k-tv-how-much-internet-bandwidth-do-you-need/933989001/) to the brain.
+Notice that taste is bringing up the rear at a measly 1,000 bits per second. Evolution apparently decided you don't need much bandwidth to distinguish "edible" from "poison." Fair enough.
 
-However, when researchers measured information processing capabilities during “intelligent” or “conscious” activities, such as reading or piano playing, they came up with a maximum capacity of fewer than 50 bits per second (50 bps).
+Now here's the embarrassing part. When researchers measured how much information your conscious mind actually processes during "intelligent" activities like reading or playing piano, they found it maxes out at 50 bits per second.
 
-For example, a typical reading rate of [250 words per minute](https://en.wikipedia.org/wiki/Speed_reading#:~:text=Mental%20readers%20generally%20read%20at,310%20wpm%20without%20compromising%20comprehension.) works out to about 5 words per second.
+Let's check that math. The average person reads 250 words per minute, or about 5 words per second.
 
 ```
-250 words per minute / 60 seconds per minute = 5 words/second
+250 words per minute / 60 seconds = 5 words/second
 ```
 
-The average word has [5 characters](https://medium.com/@wolfgarbe/the-average-word-length-in-english-language-is-4-7-35750344870f#:~:text=The%20average%20word%20length%20in%20English%20language%20is%204.7%20characters.). It requires [16 bits](https://en.wikipedia.org/wiki/Unicode#:~:text=Unicode%20could%20be%20roughly%20described,than%20sufficient%20for%20this%20purpose.) to store a Unicode character on a computer. So the average word is 80 bits.
+The average word has [5 characters](https://medium.com/@wolfgarbe/the-average-word-length-in-english-language-is-4-7-35750344870f#:~:text=The%20average%20word%20length%20in%20English%20language%20is%204.7%20characters.). Each character requires [16 bits](https://en.wikipedia.org/wiki/Unicode#:~:text=Unicode%20could%20be%20roughly%20described,than%20sufficient%20for%20this%20purpose.) of storage in Unicode. So each word is 80 bits.
 
 ```
 5 characters x 16 bits = 80 bits/word
 ```
 
-Multiplying 80 bits/word by 5 words/second yields 400 bits per second (400 bps).
-
-The mind absorbs 11 million bps through the senses. Since conscious processing is so slow the remainder (nearly the entire 11 Mbps) is processed subconsciously. Divide the data intake by the conscious processing speed and you find that the subconscious mind is likely processing 27,500 times the amount of data the conscious mind can handle.
+Multiply that by 5 words per second and you get 400 bits per second of conscious processing.
 
 ```
-11 Mbps / 80 bps = 27,500 times faster
+5 words/second x 80 bits/word = 400 bits/second
 ```
+
+So you're absorbing 11 million bits per second, but only consciously processing 400. The rest is handled by your subconscious, which means:
+
+```
+11,000,000 / 400 = 27,500
+```
+
+Your subconscious is processing 27,500 times more information than your conscious mind.
+
+You're not actually thinking most of your thoughts. You're just the guy who takes credit for them at meetings.
+
+The subconscious is called that because it's not conscious, which is why you don't know what it's doing. Quite sneaky, really. If your subconscious were a person, it would be someone who does all your work while you sleep, then lets you present it to the boss in the morning. Except you can't even say thank you, because you don't know they exist.
+
+It's a bit like finding out you've had a personal assistant for your entire life, but they've been invisible and you never got their name. And they're better at your job than you are. By a factor of 27,500.

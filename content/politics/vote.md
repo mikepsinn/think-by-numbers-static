@@ -14,16 +14,57 @@ metadata:
 tags:
   - politics
 ---
-# Q: Should I vote?
+# Should You Vote?
 
-## Self-Interested Answer: No, you might die.
+## The Selfish Answer: No, You Might Die
 
-There’s less than a [0.00001% chance](https://www.quora.com/What-are-the-odds-that-my-vote-changes-the-outcome-of-an-election) that your vote will be the tiebreaker that decides the outcome of a national election.  You are more likely to be injured in a car accident driving to the polls ([0.002% chance](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/811552)).  Hence, if you are trying to make a practical improvement in your life and those of your loved ones, it is much more rational to just stay home on election day.
+Your vote has less than a [0.00001% chance](https://www.quora.com/What-are-the-odds-that-my-vote-changes-the-outcome-of-an-election) of deciding a national election.
 
-## Civic-Minded Answer: Yes, if you’re more informed on the issues and candidates than the average voter.
+Your drive to the polling place has a [0.002% chance](https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/811552) of injuring you in a car accident.
 
-If you have a relatively informed opinion on the ability of the candidates to reduce suffering in the world, you should exercise your irrational desire to vote. At least then you can say that you’re part of the solution.
+The math is simple. You are 200 times more likely to be injured driving to vote than to actually affect the election outcome. If you care about your personal safety and the safety of your loved ones, stay home.
 
-But if you do this, you should vote based on your civic duty to express your opinion about who would be the best person for the job regardless of party or ballot status. “Pragmatically” voting for the lesser of two evils only serves to validate evil in what is effectively just a public opinion poll.
+This is the rational choice. You're welcome.
+
+## The Civic-Minded Answer: Yes, If You're More Informed Than Average
+
+If you have an informed opinion on which candidate would reduce suffering, vote. At least then you're part of the solution instead of just complaining about the problem.
+
+But if you vote, do it based on who would actually be best for the job. Don't vote "pragmatically" for the lesser of two evils. That's not pragmatic. That's validating evil in what amounts to a public opinion poll.
+
+Elections are effectively polls about which human gets to make decisions. Voting for someone you think is terrible because you think someone else is more terrible doesn't send the message you think it does. It tells politicians that terrible is acceptable as long as it's not the most terrible.
+
+## The Video Explanation
 
 https://www.youtube.com/watch?v=chFaesfO7fQ
+
+## The Actual Instructions
+
+Here's how to vote if you decide to do it:
+
+1. **Research the candidates and ballot measures** before election day. Don't walk into the booth and guess. You can look this up online. Your state has a sample ballot available.
+
+2. **Vote for who you think is best**, not who you think will win. The point of voting is expressing your preference, not predicting outcomes. You're terrible at predicting outcomes anyway (see: wishful thinking bias).
+
+3. **Ignore polls and "electability" arguments**. These are designed to manipulate you into voting for someone you don't actually prefer. Your vote doesn't change the outcome anyway, so you might as well express your actual opinion.
+
+4. **Vote in local elections**. These have higher odds of your vote mattering. A city council race with 5,000 voters gives you much better odds than a presidential election with 150 million voters. The math is straightforward.
+
+5. **Don't guilt-trip others into voting**. The data shows your vote almost certainly doesn't matter. Shaming people for making a rational decision to avoid traffic makes you annoying, not civic-minded.
+
+## The Uncomfortable Truth
+
+Voting is mostly irrational from a self-interest perspective. You do it because you want to feel like you participated, not because it will change anything.
+
+That's fine. Humans do irrational things constantly. Voting is one of the less harmful ones. Just don't pretend you're doing it because the math makes sense. The math does not make sense.
+
+If you want to actually affect political outcomes, there are much better uses of your time:
+- Donate money to effective campaigns
+- Volunteer for campaigns in competitive districts
+- Run for local office yourself
+- Convince others to vote (if you can find people who will listen)
+- Join the 3.5% of people who actively engage in political movements
+
+These all have measurably better returns on your time than casting a single vote in a non-competitive race.
+
+But you'll probably vote anyway because humans aren't rational and that's okay. Just drive carefully.

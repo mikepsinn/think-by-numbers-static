@@ -22,45 +22,77 @@ metadata:
 tags:
   - corporate-welfare
 ---
-The average household in America had to shell out around $2000 to make sure that AIG’s counter-parties wouldn’t have to accept the risks they took.  Would the world really have ended if we let AIG declare Chapter 11 bankruptcy?[![AIG Bailout Infographic: Total Money Spent More Than $170 Billion](/wp-content/uploads/2009/04/aig-bailout-infographic-672x368.jpg)](http://thinkbynumbers.org/wp-content/uploads/2009/04/aig-bailout-infographic.jpg)
+The average American household paid $2,000 to bail out AIG. Your bill arrived without your consent. You paid it anyway.
 
-_Infograpghic Source: [http://nicolasrapp.com/?p=347](http://nicolasrapp.com/)_
+It's like when someone orders bottle service at the club and then splits the bill evenly, except the someone is an insurance company and the club is the global financial system and you weren't even at the club.
 
-To answer this question, we have to understand why was AIGFP (American International Group’s Financial Products) division in financial trouble.  To understand this, we have to know what a credit default swap is.  The answer to that is illustrated here.
+[![AIG Bailout Infographic: Total Money Spent More Than $170 Billion](/wp-content/uploads/2009/04/aig-bailout-infographic-672x368.jpg)](http://thinkbynumbers.org/wp-content/uploads/2009/04/aig-bailout-infographic.jpg)
+
+_Source: [nicolasrapp.com](http://nicolasrapp.com/)_
+
+## What Is A Credit Default Swap?
 
 [![Infographic Describing what a Credit Default Swap is](/wp-content/uploads/2009/04/what_is_a_credit_default_swap_infographic.gif)](http://thinkbynumbers.org/wp-content/uploads/2009/04/what_is_a_credit_default_swap_infographic.gif)
 
-_Image by Scott Pollack: [http://www.scottpollack.com/](http://scottpollack.com/)_
+_Image by [Scott Pollack](http://scottpollack.com/)_
 
-### So what caused AIG to fail?
+A credit default swap is insurance for financial products. AIG sold this insurance. Then the products failed. Then AIG didn't have the money to pay out.
 
-Allegations of accounting irregularities, caused AIG to be downgraded from a AAA to A credit rating. This downgrade triggered provisions in some of AIGFP’s credit default swaps which required AIG to provide [billions of dollars](https://oversight.house.gov/?option=com_content&task=view&id=377&Itemid=29) in collateral to their counterparties. (Counterparties are companies like Goldman Sachs which bought credit default swaps from AIGFP to insure against mortgage defaults within their mortgage backed securities.)
+This is what insurance companies call "a problem." It's also what normal people call "not having insurance," but on Wall Street they use fancier words.
 
-### Government “Loans”
+Think of it like selling flood insurance for every house in Florida and then being surprised when it rains. Except instead of rain it's the entire financial system collapsing, which was definitely impossible to predict if you weren't paying any attention whatsoever.
 
-Since AIG didn’t have the money to put up this collateral, the government loaned them [$170 billion](https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fdealbook.blogs.nytimes.com%2F2009%2F03%2F15%2Faig-discloses-counterparties-who-received-224-billion%2F%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR). This was called a loan but there is almost no chance that the loan will ever be repaid. This is because the AIGFP division has no intrinsic worth and the has no prospects for significant future income since the real estate bubble on which it thrived on has burst. As of 2011, [$11.4 billion](http://web.archive.org/web/20130109115424/http://www.huffingtonpost.com/2011/08/18/aig-bailout_n_930867.html) has been repaid.
+## How AIG Failed
 
-AIG recently released a list of their [counterparties](http://web.archive.org/web/20160328160126/http://www.aig.com/aigweb/internet/en/files/CounterpartyAttachments031809_tcm385-155645.pdf) who received the bailout money. Most of this American taxpayer money went to European banks.
+AIG got downgraded from AAA to A credit rating. This triggered provisions requiring AIG to provide billions in collateral to counterparties like Goldman Sachs.
 
-### Was the Bailout Really Necessary?
+AIG didn't have billions in collateral.
 
-On April 2nd, Hank Greenberg, former CEO of AIG, [testified](https://www.c-span.org/video/?285045-101/aig-collapse-federal-rescue-continuation) before congress that the taxpayer would have been much better off if the government had allowed AIGFP to file Chapter 11 bankruptcy. [(Video of Testimony)](https://www.c-span.org/video/?285045-101/aig-collapse-federal-rescue-continuation)
+## The "Loan"
 
-[Greenberg Congressional Testimony on AIG Bailout Bankruptcy Option](/wp-content/uploads/2009/04/Greenberg-AIG-Bailout-Bankruptcy.mp3)
+The government loaned AIG $170 billion. This was called a loan. Loans typically get repaid. This one won't.
 
-Through this process, AIGFP would be broken up and sold off. The proceeds would go to their creditors. If this were to occur, the counterparties would have only received maybe 20% or 30% of the money that AIG owed them, but Greenberg said it definitely would not have led to systemic failure of the entire financial system. It makes sense. For instance, Goldman Sachs received [$12.9 billion](https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2009%2F03%2F16%2Fbusiness%2F16rescue.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR) in counterparty payments. That’s far less than the [$18 billion](http://web.archive.org/web/20110510012015/http://www.fiercefinance.com/story/more-goldman-sachs-bonus-pool/2007-12-14) that they spent on executive bonuses in 2007. So the receipt of only $3 billion through an AIG bankruptcy settlement would not have broken them, but it would certainly have brought down executive compensation.
+As of 2011, $11.4 billion has been repaid. At this rate, full repayment will occur sometime after the heat death of the universe.
 
-### What Was the Real Motivation?
+The word "loan" is doing a lot of heavy lifting here. It's technically a loan in the same way that setting money on fire is technically "outdoor heating."
 
-Numerous congressmen have requested the Treasury Department’s explicit explanation of how AIGFP division’s bankruptcy would destabilize our county’s entire financial system. Naturally, the Treasury has failed to provide a description of this scenario. This, in conjunction with the fact that Goldman Sachs was President Obama’s number [1 campaign contributor](http://abcnews.go.com/Blotter/Blotter/story?id=5891663), should make anyone suspicious of our government’s motives. In fact, Goldman Sachs has spent over [$43 million](http://abcnews.go.com/Blotter/Blotter/story?id=5891663) on political contributions. This is a paltry sum when compared to the tens of billions they made off of the AIG bailout.
+Most of the money went to European banks. American taxpayers paid European banks because an American insurance company sold insurance it couldn't pay out. Capitalism for the poor, socialism for the rich.
 
-### How Much Did The Bailout Cost You?
+It's a beautiful system. When rich people make bad bets, everyone pays. When poor people make bad bets, they lose their house. This is called "moral hazard," which is Latin for "we can do whatever we want."
 
-The bottom line is that the average household in America had to shell out around $2000 to make sure that AIG’s counterparties (giant financial institutions) wouldn’t have to accept the risk which they made when they allowed a private entity, AIG, to insure on their behalf with a public statement that they were able to evaluate. Losses are socialized and profits are privatized. I can guarantee that each household would not have received $2000 from AIG had these investments turned out to be successful.
+## The Alternative
 
-[![AIG Financial Mess Infographic](/wp-content/uploads/2009/04/AIG-FinancialMessInfographic_4d9624b87ffac-1038x204.jpg)](http://thinkbynumbers.org/wp-content/uploads/2009/04/AIG-FinancialMessInfographic_4d9624b87ffac.jpg)[![Infographic of Timeline of AIG Bailouts](/wp-content/uploads/2009/04/aig-bailout-timeline-672x5350.jpg)](http://thinkbynumbers.org/wp-content/uploads/2009/04/aig-bailout-timeline.jpg)
+Former AIG CEO Hank Greenberg testified to Congress that bankruptcy would have been better for taxpayers.
 
-_Infographic Source: [http://www.insuranceproviders.com/aig-bailout-timeline/](http://www.insuranceproviders.com/aig-bailout-timeline/)_
+In Chapter 11 bankruptcy, AIGFP would be broken up and sold. Creditors would receive 20-30% of what they were owed.
+
+Goldman Sachs received $12.9 billion from the bailout. They spent $18 billion on executive bonuses in 2007. So receiving only $3 billion from bankruptcy would not have destroyed them. It would have merely reduced executive compensation.
+
+## The Real Motivation
+
+Congress asked Treasury to explain how AIG's bankruptcy would destroy the financial system.
+
+Treasury declined to provide this explanation.
+
+Goldman Sachs was Obama's number one campaign contributor. Goldman Sachs spent $43 million on political contributions.
+
+They received tens of billions from the AIG bailout.
+
+$43 million is a bargain.
+
+## Your Bill
+
+$2,000 per household. That's what you paid to protect AIG's counterparties from the consequences of their decisions.
+
+If AIG's bets had paid off, you would not have received $2,000.
+
+Privatized gains. Socialized losses. The system works exactly as designed.
+
+[![AIG Financial Mess Infographic](/wp-content/uploads/2009/04/AIG-FinancialMessInfographic_4d9624b87ffac-1038x204.jpg)](http://thinkbynumbers.org/wp-content/uploads/2009/04/AIG-FinancialMessInfographic_4d9624b87ffac.jpg)
+
+[![Infographic of Timeline of AIG Bailouts](/wp-content/uploads/2009/04/aig-bailout-timeline-672x5350.jpg)](http://thinkbynumbers.org/wp-content/uploads/2009/04/aig-bailout-timeline.jpg)
+
+_Source: [insuranceproviders.com](http://www.insuranceproviders.com/aig-bailout-timeline/)_
 
 <audio class="wp-audio-shortcode" id="audio-13-13" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3?_=13"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn008_what_if_aig_failed.mp3</a></audio>
 

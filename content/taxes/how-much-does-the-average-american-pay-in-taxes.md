@@ -12,16 +12,48 @@ metadata:
 tags:
   - taxes
 ---
-The average American pays [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) in “personal taxes,” representing [14%](https://en.wikipedia.org/wiki/Household_income_in_the_United_States) of the average household’s total income.
+The average American household pays [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) in "personal taxes" each year. This represents [14% of average household income](https://en.wikipedia.org/wiki/Household_income_in_the_United_States).
 
-This [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) includes:
+That covers:
+- Federal income taxes
+- State income taxes
+- Personal property taxes
+- Vehicle taxes
+- Various small taxes you forgot existed
 
--   federal income taxes
--   state income taxes
--   personal property taxes
--   vehicle taxes
--   other small taxes
+## The Math Gets Weird
 
-However, the entire US Federal Budget alone is [$4.4 trillion](https://www.thebalance.com/u-s-federal-budget-breakdown-3305789) and the US population is [328,316,410](http://www.worldometers.info/world-population/us-population/).
+The entire U.S. Federal Budget is [$4.4 trillion](https://www.thebalance.com/u-s-federal-budget-breakdown-3305789).
+
+The U.S. population is [328,316,410 people](http://www.worldometers.info/world-population/us-population/).
+
+If you divide the federal budget by the population, the government spends $13,403 per person per year.
+
+But the average household only pays $10,489 in total taxes.
+
+Someone is covering the difference. Either that, or the government invented a money-printing machine and forgot to mention it. (Spoiler: They mentioned it. It's called the Federal Reserve, and yes, they literally print money.)
+
+## What This Means
+
+If you're wondering where all that federal spending money comes from when individual tax payments don't add up to the total budget, you're asking the right questions.
+
+The government covers the gap through:
+- Corporate taxes
+- Borrowing (national debt)
+- Printing money (inflation)
+- Fees and other revenue sources
+
+You're not imagining it. The government spends more than it collects from you personally. The rest comes from somewhere, and that somewhere usually involves either borrowing from the future or making everyone's existing money worth slightly less.
+
+It's like having a credit card with no limit and paying the minimum by devaluing everyone else's currency. You have third grade, so the confusion about why this continues is understandable.
+
+## Related
 
 [See how much the government spends per person](https://thinkbynumbers.org/government-spending/how-much-does-the-government-spend-per-person/)
+
+## Sources
+
+- [Joint Committee on Taxation - Tax Data](https://www.jct.gov/publications.html?func=startdown&id=4763)
+- [U.S. Federal Budget Breakdown](https://www.thebalance.com/u-s-federal-budget-breakdown-3305789)
+- [U.S. Population Data](http://www.worldometers.info/world-population/us-population/)
+- [Household Income in the United States](https://en.wikipedia.org/wiki/Household_income_in_the_United_States)

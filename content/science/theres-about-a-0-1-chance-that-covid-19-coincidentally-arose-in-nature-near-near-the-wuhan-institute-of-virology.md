@@ -17,40 +17,36 @@ metadata:
 tags:
   - science
 ---
-### Did COVID-19 Spontaneously Arise Near a Virology Lab?
+A novel coronavirus that kills people appeared in Wuhan, China. This city happens to contain the Wuhan Institute of Virology, one of five labs on Earth that studies novel coronaviruses.
 
-The COVID-19 initial outbreak occurred in Wuhan, China, near the Wuhan Institute of Virology, one of the few labs globally known for conducting research on novel coronaviruses. 
+What are the odds that's a coincidence?
 
-#### Estimate Methodology and Percent Likelihood
+Let's do third-grade math. The kind they make you show your work for. The kind where if you don't show your work, Mrs. Henderson takes off points even if you got the right answer.
 
-To evaluate the probability, we apply a simplified Feynman estimate with the following assumptions and calculations:
+**Earth's land surface area:** 149 million square kilometers
 
-**Global Distribution of Virology Labs**: Assume hundreds of high-level virology labs worldwide, with 5 specifically known for novel coronavirus research.
+**Labs studying novel coronaviruses:** 5
 
-**Surface Area Consideration**: The Earth’s land surface area is approximated at 149 million square kilometers.
+**Area within 100 km of each lab:** 31,400 square kilometers
 
-**Proximity Defined**: We consider a “close proximity” to be within a 100 km radius of a lab, equating to an area of 31,400 square kilometers.
+**Combined area near all 5 labs:** 157,000 square kilometers (5 labs x 31,400 km² each)
 
-**Combined Area of Influence**: For 5 labs, the combined area of influence is
-
-```
-(5 \times 31,400 \text{ km}^2)
-```
-
-**Probability Calculation**:
+**Probability of random outbreak near a lab:**
 
 ```
-\text{Probability (\%)} = \left( \frac{\text{Combined Area of Influence}}{\text{Earth's Land Surface Area}} \right) \times 100 = 0.1\%
+(157,000 / 149,000,000) x 100 = 0.1%
 ```
 
-This estimate suggests a 0.1% probability that COVID-19 spontaneously arose within close proximity to one of these labs by chance.
+So there's a 0.1% chance COVID-19 spontaneously appeared near one of the five labs on Earth that study exactly this type of virus.
 
-Additionally, the frequency of novel catastrophic coronaviruses arising in nature is low, with severe outbreaks (e.g., SARS, MERS) being relatively rare in human history.
+That's roughly the same odds as flipping a coin and getting heads ten times in a row. Could happen. Probably won't. But it could.
 
-#### Investigation Challenges
+For context, novel catastrophic coronaviruses arising in nature are rare. SARS and MERS are the only recent examples, and "recent" here means "in human history."
 
-The lack of full transparency and cooperation from China regarding investigations into the virus’s origins further points to a lab leak. If evidence from the Wuhan Institute of Virology could categorically disprove the lab as the origin, why wouldn’t China be more cooperative with the WHO investigation?
+Now, if you had evidence that categorically proved the virus didn't come from the lab, you'd probably share that evidence with the WHO investigators. Unless you're China, apparently, who responded to the investigation with roughly the transparency of a brick wall.
 
-#### Historical Frequency of Virology Lab Leaks
+Historically, viruses do occasionally escape from labs. It's rare, but it happens. About as rare as a 0.1% probability event.
 
-Historically, lab leaks, while rare, have occurred. The estimated rate of viruses escaping from labs, based on known incidents, is low.
+Sometimes people say "absence of evidence isn't evidence of absence," which is true. But when someone refuses to show you evidence, that's not absence of evidence. That's presence of absence of evidence, which is different. It's like if someone said "I definitely didn't eat your sandwich" while chewing.
+
+The math isn't complicated. It's the kind you learn before they let you use a calculator.

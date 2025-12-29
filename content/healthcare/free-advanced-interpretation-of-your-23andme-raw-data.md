@@ -18,44 +18,46 @@ metadata:
 tags:
   - healthcare
 ---
-The interpretation of your genetic data that 23andMe provides is somewhat limited. The FDA has placed various [restrictions](https://en.wikipedia.org/wiki/23andMe#FDA) on the company with regard to linking specific genetic variants to recent research. This is unfortunate because many people are suffering and there is a massive amount of new research released each day. By linking your variations to new discoveries regarding potential deficiencies or root causes of chronic diseases, in some cases, individuals can discover solutions to their suffering years earlier than they would have otherwise.
+You paid 23andMe for your genetic data. The FDA then [restricted](https://en.wikipedia.org/wiki/23andMe#FDA) what 23andMe can tell you about your own DNA. It's like buying a book and having the government black out most of the pages to protect you from dangerous information about yourself.
 
-It takes an average of [17 years](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241518/) for doctors to begin applying new research evidence in clinical practice. That means an unnecessary 17 years of unnecessary suffering for each disease. So to accelerate the process, there are several services that will take your raw data from 23andMe and link your variations to new research regarding potential root causes and effective treatments for your condition.
+Thousands of research papers get published each month linking genetic variants to diseases and treatments. It takes doctors an average of [17 years](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241518/) to start using this research. That's 17 years of unnecessary suffering because someone decided the best way to help sick people is to make them wait nearly two decades.
 
-## Free Interpretation
+Here's how to interpret your own genetic data without waiting for permission.
 
-### 1st Place: codegen.eu
+## Free Interpretation Tools
 
-codegen.eu is the best free genetic health interpretation tool I’ve tried so far.
+### codegen.eu
 
--   Genotype-disease associations to over 2000 diseases grouped in 15 major topics – aging, cancer and others.
--   **Nutrition**, **fitness** and other relevant information
--   Search a drug/disease/trait
--   Machine learned relevance model helping you discover what is important, based on each genotype impact.
+The best free option. Upload your 23andMe data and get:
+
+- Links between your genes and over 2000 diseases
+- Nutrition and fitness information specific to your DNA
+- Drug and disease associations
+- Machine learning that figures out which variants actually matter
 
 ### Genetic Genie
 
-[Genetic Genie](http://geneticgenie.org/) provides free methylation and detox analysis from 23andMe results.
+[Genetic Genie](http://geneticgenie.org/) analyzes methylation and detox pathways. Free, which is good, because paying to understand your own genes is like paying twice for the same sandwich.
 
 ### Enlis Genomics Personal Edition
 
-[Enlis Genomics Personal Edition](https://www.enlis.com/personal_edition.html) describes the impact that changes in your genome have on genes and the function of those genes. It also links to research articles that describe your data.
+[Enlis Genomics Personal Edition](https://www.enlis.com/personal_edition.html) shows how your genetic variants affect gene function and links to relevant research papers. It's like 23andMe but with the pages unblacked-out.
 
 ### Genomelink
 
-[Genomelink](http://genomelink.io) is not too useful for health purposes. It just tells you what your traits are, which you probably already know given that you’ve met yourself before.
+[Genomelink](http://genomelink.io) tells you traits you already know by virtue of existing. "You have brown eyes." Yes, I have mirrors.
 
 ## Not So Free Interpretation
 
 ### Sequencing.com
 
-[Sequencing.com](http://Sequencing.com) is a genetic app store that has many paid apps but also several free ones. However, at the time of this writing, many of the promoted free apps are not available
+[Sequencing.com](http://Sequencing.com) is a genetic app store with paid apps and some free ones. Many of the promoted free apps don't actually exist, which is like advertising a sale on invisible products.
 
 ## Any suggestions?
 
-Know of any great tools I missed? Please leave them in the comments!
+Know of any great tools I missed? Please leave them in the comments.
 
-## _Sources_
+## Sources
 
 -   [https://en.wikipedia.org/wiki/23andMe#FDA](https://en.wikipedia.org/wiki/23andMe#FDA)
 -   [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241518/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3241518/)

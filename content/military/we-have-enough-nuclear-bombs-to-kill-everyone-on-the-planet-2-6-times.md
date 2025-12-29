@@ -19,58 +19,89 @@ metadata:
 tags:
   - military
 ---
-A 10-kiloton nuclear weapon can kill 1.3 million people. However, a more awesome way to put it would be to say it can cause 1.3 megadeaths.
 
-There are 15,000 nuclear weapons in the world. The US and Russia account for nearly 90 percent of that total.
+A 10-kiloton nuclear weapon kills 1.3 million people. There are 15,000 nuclear weapons in the world. The math is third-grade level. The reasoning behind it is not.
 
-So, theoretically, 19,500 megadeaths (or 19.5 gigadeaths) could be produced by our current arsenal.  There are 7.5 billion people in the world.  Hence, it should be possible to kill everyone on the planet 2.6 times.
+Nuclear weapons work by splitting atoms. This makes the atoms very angry, which is why there's an explosion. If we had just left the atoms alone, they would have stayed happy and nobody would have died. But we didn't, and now we have 15,000 angry atom machines.
 
-As of 2017, the US has an estimated 4,018 nuclear weapons in either deployment or storage. So, the US would be capable of killing 5.2 billion people.  That leaves 2.3 billion people that we’d still need to kill.  However, if we killed everyone in Russia first, we could steal their bombs and kill everyone on the planet 2.6 times.
+## The Simple Math
 
-Between 1940 and 1996, the U.S. spent [$8.63 trillion](http://en.wikipedia.org/wiki/Nuclear_weapons_and_the_United_States#cite_note-inflation-US-5) on nuclear weapons development.
+**15,000 nuclear weapons** exist globally. The U.S. and Russia own 90% of them.
 
-### Nuclear Winter
+**19.5 billion potential deaths** from our current arsenal. That's 19.5 gigadeaths, if you prefer.
 
-Even worse, the world’s nuclear weapons could theoretically trigger between 13 and 130 extinction-level events after considering the catastrophic effects of nuclear winter.
+**7.5 billion people** currently live on Earth.
 
-#### Theoretical Kill Capability
+**Everyone can die 2.6 times.** After the first time, you're just showing off.
 
-A simplified calculation suggests that the global nuclear arsenal has the “theoretical kill capability” to exterminate the world’s population, roughly 8 billion people, approximately 1.625 times based solely on direct impacts. This calculation, however, does not account for the complex dynamics of nuclear detonations, including blast radius, population density, and the varying yields of nuclear warheads.
+Maybe to understand overkill, we have to look at the word itself. It's made up of "over" and "kill." "Over" means too much, and "kill" means making someone dead. So "overkill" means making someone too much dead. But you can't be more dead than dead. Unless you have 15,000 nuclear weapons. Then apparently you can be 2.6 times dead.
 
-#### The Specter of Nuclear Winter
+## What America Can Do Alone
 
-Scientific studies suggest that even a limited exchange of 100 to 1,000 nuclear warheads could inject enough soot and particulates into the stratosphere to significantly block sunlight, disrupt global climate systems, and precipitate a nuclear winter. The resulting global cooling and reduction in precipitation could devastate agricultural production, leading to widespread famine and societal collapse.
+**4,018 U.S. nuclear weapons** as of 2017.
 
-#### Assumptions for Estimation
+**5.2 billion people** the U.S. could kill. That's 69% of Earth's population.
 
--   **Direct Impact Assumption**: An average of 1 million fatalities per detonation, for an initial 100 to 1,000 detonations, yields 100 million to 1 billion immediate fatalities.
--   **Nuclear Winter Scenario**: The subsequent global agricultural collapse could affect billions, far exceeding the immediate fatalities from the detonations themselves.
+**Problem:** This leaves 2.3 billion people alive.
 
-#### Calculating Extinction-Level Events
+**Solution:** Kill everyone in Russia first, steal their bombs, then kill everyone 2.6 times. This is called "strategic planning."
 
--   **Lower Bound (100 warheads/event)**: Given the arsenal’s size, 130 scenarios could each theoretically trigger conditions leading to a global catastrophe.
--   **Upper Bound (1,000 warheads/event)**: Conversely, 13 larger-scale scenarios could have a similar potential for triggering a catastrophic nuclear winter.
+I think "strategic" means you have a strategy. Our strategy is to build enough bombs to kill everyone on Earth multiple times, even though you only need to kill them once. It's like making 2.6 sandwiches when you're only hungry for one sandwich, except instead of sandwiches it's the complete annihilation of human civilization.
 
-#### Conclusion
+Between 1940 and 1996, the U.S. spent $8.63 trillion on nuclear weapons development. That's a lot of money to build death machines we can't use without also dying.
 
-So the global nuclear arsenal holds not just the capacity for immediate destruction but also the potential to trigger long-term ecological and societal collapse on a scale hitherto unimagined. While the direct impact of nuclear detonations presents an immediate threat, nuclear winter could lead to conditions causing widespread famine and collapse.
+## Nuclear Winter: The Bonus Round
 
-The potential for multiple extinction-level events posed by the current global nuclear arsenal should serve as a catalyst for urgent action. Reducing the number of nuclear warheads and committing to non-proliferation are critical steps toward mitigating the risk of a nuclear winter and safeguarding the future of humanity. In the quest for global security and survival, the path forward must prioritize diplomacy, international cooperation, and a collective commitment to eliminating the specter of nuclear annihilation.
+The direct kills are just the beginning. Nuclear winter is where things get mathematically interesting.
 
-## Questions For YOU!
+**100-1,000 nuclear warheads** detonated would block enough sunlight to collapse global agriculture. Everyone starves. This is more efficient than shooting them individually.
 
--   How many nuclear bombs should we have? 
--   How likely are we to be killed by a foreign power than by a disease like cancer or Alzheimers? 
--   How much should we be spending on research to cure diseases relative to building more nuclear weapons? 
+Nuclear winter is when nuclear bombs make it winter, but all year round. Not the fun kind of winter with snow and hot chocolate. The kind where the sun doesn't work anymore and all the plants die. People need plants to make food, so when the plants die, people die too. It's like a chain reaction, except instead of atoms splitting, it's people starving.
 
-Please let me know in the comments!
+**13-130 extinction-level events** are theoretically possible with our current arsenal, depending on how many bombs you use per event.
+
+The global nuclear stockpile can kill everyone directly, then trigger conditions that kill everyone again through starvation and societal collapse. We built redundancy into our apocalypse.
+
+Redundancy means having backup systems in case the first one fails. Our backup system for ending the world is nuclear winter, which activates after the nuclear bombs end the world. This way, if anyone survives the bombs, the winter kills them. It's very thorough.
+
+## The Math Breakdown
+
+**Direct impact:** 1 million deaths per detonation × 100-1,000 detonations = 100 million to 1 billion immediate deaths.
+
+**Nuclear winter scenario:** Global agricultural collapse affects billions. Far more than the bombs kill directly.
+
+**Lower bound:** 130 scenarios using 100 warheads each could trigger global catastrophe.
+
+**Upper bound:** 13 scenarios using 1,000 warheads each achieve the same result.
+
+We have enough bombs to end the world in 13 different ways. Or 130 smaller ways. Options are important.
+
+## Questions For You
+
+These are actual questions. You should have answers:
+
+- **How many nuclear bombs should we have?** Pick a number. Defend it with math.
+- **What's more likely to kill you:** A foreign power or cancer? Check the statistics.
+- **How much should we spend on disease research versus more nuclear weapons?** Show your work.
+
+Between 1940 and 1996, we spent $8.63 trillion making sure we could kill everyone multiple times. We could have spent that on making sure people don't die from diseases. We chose the killing option.
+
+## What You Can Do
+
+Here's how to reduce the number of nuclear weapons:
+
+1. **Learn the numbers** - Know how many nuclear weapons exist and where they are
+2. **Support non-proliferation treaties** - Contact representatives about arms reduction
+3. **Track nuclear spending** - Check [Federation of American Scientists](https://fas.org/) for current data
+4. **Ask the math question** - How many times do we need to be able to kill everyone?
+5. **Compare spending** - Research how much we spend on nuclear weapons versus disease research
+
+The current arsenal can trigger 13 to 130 extinction-level events. The correct number is zero. The path from 130 to zero requires action, not hope.
 
 ## Sources
 
-1.  _[http://www.askamathematician.com/2010/01/q-would-it-be-possible-to-kill-all-of-earths-life-with-nuclear-bombs/](http://www.askamathematician.com/2010/01/q-would-it-be-possible-to-kill-all-of-earths-life-with-nuclear-bombs/)_
-2.  _[http://answers.yahoo.com/question/index?qid=20081102114242AA71te2](http://answers.yahoo.com/question/index?qid=20081102114242AA71te2)_
-3.  _[http://www.democraticunderground.com/discuss/duboard.php?az=view\_all&address=389×183859](http://www.democraticunderground.com/discuss/duboard.php?az=view_all&address=389x183859)_
-4.  _[https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1#hl=en&safe=off&sclient=psy-ab&q=how+many+warheads+would+it+take+to+kill+everyone&oq=how+many+warheads+would+it+take+to+kill+everyone&gs\_l=hp.3…1354.36694.1.37105.41.25.9.4.4.1.184.2567.17j8.25.0.les%3B..0.0…1c.1.SrxWj2Sm\_PU&pbx=1&bav=on.2,or.r\_gc.r\_pw.r\_cp.r\_qf.&fp=9ab7bdb26321ca5d&ion=1&biw=1179&bih=891](https://www.google.com/webhp?sourceid=chrome-instant&ie=UTF-8&ion=1#hl=en&safe=off&sclient=psy-ab&q=how+many+warheads+would+it+take+to+kill+everyone&oq=how+many+warheads+would+it+take+to+kill+everyone&gs_l=hp.3...1354.36694.1.37105.41.25.9.4.4.1.184.2567.17j8.25.0.les%3B..0.0...1c.1.SrxWj2Sm_PU&pbx=1&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&fp=9ab7bdb26321ca5d&ion=1&biw=1179&bih=891)_
-5.  _[http://en.wikipedia.org/wiki/Nuclear\_weapons\_and\_the\_United\_States#United\_States\_strategic\_nuclear\_weapons\_arsenal](http://en.wikipedia.org/wiki/Nuclear_weapons_and_the_United_States#United_States_strategic_nuclear_weapons_arsenal)_
-6.  [_https://www.worldometers.info/world-population/_](https://www.worldometers.info/world-population/)
-7.  [_https://en.wikipedia.org/wiki/List\_of\_projected\_death\_tolls\_from\_nuclear\_attacks\_on\_cities_](https://en.wikipedia.org/wiki/List_of_projected_death_tolls_from_nuclear_attacks_on_cities)
+1. [Ask A Mathematician: Could we kill all of Earth's life with nuclear bombs?](http://www.askamathematician.com/2010/01/q-would-it-be-possible-to-kill-all-of-earths-life-with-nuclear-bombs/)
+2. [Wikipedia: Nuclear weapons and the United States](http://en.wikipedia.org/wiki/Nuclear_weapons_and_the_United_States#United_States_strategic_nuclear_weapons_arsenal)
+3. [Worldometers: World Population](https://www.worldometers.info/world-population/)
+4. [Wikipedia: Projected death tolls from nuclear attacks on cities](https://en.wikipedia.org/wiki/List_of_projected_death_tolls_from_nuclear_attacks_on_cities)
+5. Federation of American Scientists - Nuclear Weapons Data

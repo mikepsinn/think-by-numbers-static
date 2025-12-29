@@ -21,58 +21,68 @@ tags:
   - corporate-welfare
   - government-spending
 ---
-#### Toxic Assets
+## Toxic Assets
 
-In 2008, it just so happened that many large Wall Street financial institutions had given a lot of loans to people and companies who weren’t able to pay them back. So they were going to lose a lot of money. However, they did not want to lose a lot of money.
+In 2008, Wall Street financial institutions gave loans to people who couldn't pay them back. This is called "bad business." The institutions were going to lose money.
 
-#### Privatizing Gains and Socializing Losses
+They did not want to lose money.
 
-The solution was to have their friends at the Fed run their money counterfeiting machine. The Fed could then buy all the bad loans from the financial institutions for way more than they were actually worth. This process is known as quantitative easing (QE).
+Losing money is what happens to regular people when they make bad decisions. For banks, there's a different system. It's called "getting billions of dollars from the government." The two systems are very different, but both are perfectly fair depending on whether you're a bank or not.
+
+## Privatizing Gains, Socializing Losses
+
+The solution: have the Federal Reserve print new money and buy the bad loans for way more than they were worth. This process is called quantitative easing (QE).
 
 ![](/wp-content/uploads/2020/07/quantitative-easing-300x174.png)
 
-Source: https://www.visualcapitalist.com/the-feds-balance-sheet-the-other-exponential-curve/
+Source: [Visual Capitalist](https://www.visualcapitalist.com/the-feds-balance-sheet-the-other-exponential-curve/)
 
-#### Heads CEO’s Win, Tails You Lose
+## Heads CEOs Win, Tails You Lose
 
-Then they used their free money to reward all the executives for their bad decisions. Goldman Sachs Group Inc., Morgan Stanley, and JPMorgan Chase & Co. paid out a total of [$18 billion](https://abcnews.go.com/Business/story?id=8214818&page=1) in bonuses in 2008 while receiving a combined total of [$45 billion](https://abcnews.go.com/Business/story?id=8214818&page=1) in taxpayer dollars through the Troubled Asset Relief Program (TARP).
+Then the banks used taxpayer money to reward executives for their bad decisions.
+
+Goldman Sachs, Morgan Stanley, and JPMorgan Chase paid $18 billion in bonuses in 2008. They received $45 billion in taxpayer bailout funds through TARP.
+
+They turned $45 billion of your money into $18 billion of executive bonuses. The remaining $27 billion covered the losses from the bad bets they made.
+
+This is called "accountability." The executives were held accountable by receiving millions of dollars in bonuses. It's a tough lesson, but someone had to learn it. That someone was you, and the lesson was "you're paying for this."
 
 ![](/wp-content/uploads/2020/07/Largest-Recipients-of-Federal-Reserve-Bailout-Funds-2007-to-2011-300x243.png)
 
-Largest Recipients of Federal Reserve Bailout Funds, 2007 to 2011  
-[](https://wallstreetonparade.com/#facebook)
+Source: [Wall Street on Parade](https://wallstreetonparade.com/)
 
-#### Moral Hazard and Malinvestment
+## Moral Hazard
 
-**The moral of the story for bankers:**
+The moral of the story for bankers:
 
-Whenever you make a good investment:
+When you make good investments, you keep all the profits.
 
--   you get to keep all the profits.
+When you make bad investments, the Fed gives you free money and losses get spread over the entire population.
 
-When you made a bad investment:
+This is called "moral hazard." It means rewarding failure creates more failure.
 
--   the Fed will give you a bunch of free money
--   the losses get spread over the entire population.
+## There's No Inflation, So What's the Harm?
 
-#### There’s No Inflation, So What’s the Harm?
+There are two types of inflation:
 
-There are two types of inflation.
+1. **Monetary Inflation** - increase in total money supply
+2. **Price Inflation** - increase in cost of goods and services
 
-1.  **Monetary Inflation** – This is an increase in the total money supply in the economy.
-2.  **Price Inflation** – This is an increase in the cost to purchase a particular good or service.
-
-People tend to conflate these two types and mush them into the single term _Inflation_. However, it’s very important to always distinguish between the two.
-
-The reason counterfeiting is bad is that it causes price inflation and makes everyone’s money worth less. The Fed has created enormous _monetary inflation_. They created about [$6 trillion](https://www.federalreserve.gov/monetarypolicy/bst_recenttrends.htm) in new money in the last 12 years.
+The Fed created $6 trillion in new money over 12 years. That's monetary inflation.
 
 ![](/wp-content/uploads/2020/07/federal-reserve-balance-sheet.png)
 
-Source: https://www.visualcapitalist.com/the-feds-balance-sheet-the-other-exponential-curve/
+Source: [Visual Capitalist](https://www.visualcapitalist.com/the-feds-balance-sheet-the-other-exponential-curve/)
 
-However, annual _price inflation_ has only been about [1.5% over the period](https://fred.stlouisfed.org/series/PCEPI).
+Annual price inflation has only been about 1.5% over the period. So where did the money go?
 
 ![](/wp-content/uploads/2020/07/Annual-Inflation-Rate-2010-Jun-2020-768x523.png)
+
+It went to asset prices. Stock prices. Real estate prices. The things rich people own went up. The things poor people buy stayed relatively flat.
+
+This is how you transfer $6 trillion from everyone to the already wealthy without most people noticing.
+
+It's the perfect crime. You print $6 trillion, give it to rich people, their assets go up in value, and poor people can't afford houses anymore. Then you say "inflation is only 1.5%" because bread prices didn't change. Everyone claps. The end.
 
 <audio class="wp-audio-shortcode" id="audio-9-14" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3?_=14"><a href="http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3">http://media.blubrry.com/thinkbynumbers/thinkbynumbers.org/wp-content/uploads/2016/10/tbn006_us_pays_16000_per_worker.mp3</a></audio>
 

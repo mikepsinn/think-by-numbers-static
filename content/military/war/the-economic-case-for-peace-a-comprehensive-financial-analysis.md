@@ -21,137 +21,149 @@ metadata:
 tags:
   - war
 ---
-# The Annual Cost of War
 
-## Direct Costs:
+War costs you $74,259 over your lifetime. That's not a metaphor. That's actual money taken from things you could use. Here's the math.
 
-1.  **Military Expenditure: $1,981 billion.** This reflects the total global spending on armed forces, including salaries, operations, maintenance, and procurement of weapons and equipment.
-2.  **Economic Impact of Conflict: $521 billion.** Costs incurred due to the immediate effects of war, such as destruction of property, loss of life, and the displacement of people.
-3.  **Infrastructure Destruction: $1,875 billion.** Represents the cost to repair or replace infrastructure damaged or destroyed during conflicts, including roads, bridges, and utilities.
-4.  **Trade and Investment Disruption: $616 billion.** Estimated losses from interruptions in trade flows and deterred investments in conflict zones or areas under threat.
+War is when countries fight each other with weapons. This costs money because weapons are expensive and also because destroying things is expensive. When you add up all the expensive things, it equals $74,259 per person. That's more than a car. We could have bought everyone a car, but instead we bought bombs.
 
-## Indirect Costs:
+## What War Costs Annually
 
-1.  **Human Costs: $1,000 billion (using statistical value of life).** Calculated by applying a monetary value to the loss of life, this figure represents the cost of human casualties of war.
-2.  **Opportunity Costs: Lost economic benefits from military spending.** Resources spent on military endeavors could have been used for other societal needs, such as education or healthcare.
-3.  **Multiplier Effect: Additional economic activity from productive investment.** Reflects the lost economic growth that could have been generated if resources were invested in productive sectors rather than military spending.
-4.  **Long-term Healthcare for Veterans: $200 billion.** Costs associated with providing ongoing medical care, rehabilitation, and support services to veterans injured during military service.
-5.  **Psychological Impacts on Populations: $100 billion.** Expenses related to treating mental health issues like PTSD, depression, and anxiety stemming from the trauma of war.
-6.  **Loss of Human Capital: $300 billion.** Economic impact of losing skilled and productive individuals to conflict, affecting the workforce and future earning potentials.
-7.  **Environmental Degradation: $100 billion.** Costs to address environmental damage caused by warfare, including land degradation, pollution, and loss of biodiversity.
-8.  **Refugee Support: $150 billion.** Expenses for providing assistance to refugees, including shelter, food, healthcare, and integration services.
+**Direct costs: $4,993 billion per year**
 
-## Calculations and Equations:
+- **$1,981 billion** - Military spending (salaries, weapons, operations)
+- **$521 billion** - Economic impact of conflict (destroyed property, displaced people)
+- **$1,875 billion** - Infrastructure destruction (roads, bridges, utilities destroyed during war)
+- **$616 billion** - Trade and investment disruption (wars interrupt business)
 
--   **Human Cost of War:** `Annual Deaths × Statistical Value of Life`
--   **Total Direct Costs:** `Military Expenditure + Economic Impact of Conflict + Infrastructure Destruction + Trade and Investment Disruption`
--   **Total Indirect Costs:** `Human Costs + Long-term Healthcare for Veterans + Psychological Impacts on Populations + Loss of Human Capital + Environmental Degradation + Refugee Support`
--   **Updated Total Annual Cost of War:** `Total Direct Costs + Total Indirect Costs`
+**Indirect costs: $2,245 billion per year**
 
-### Total Annual Cost of War:
+- **$1,000 billion** - Human deaths (using statistical value of life)
+- **$200 billion** - Veteran healthcare (ongoing medical care and rehabilitation)
+- **$100 billion** - Psychological impacts (PTSD, depression, anxiety treatment)
+- **$300 billion** - Lost human capital (dead people can't work)
+- **$100 billion** - Environmental degradation (cleanup and restoration)
+- **$150 billion** - Refugee support (shelter, food, healthcare for displaced people)
 
--   **Direct Costs Total:** $4,993 billion.
--   **Indirect Costs Total:** $2,245.25 billion.
--   **Updated Total Annual Cost:** $7,238.25 billion.
+**Total annual cost: $7,238 billion**
 
-### Total Cost to the Average Person Over Their Lifetime
+That's $7.2 trillion. Every year. Forever.
 
-Assuming a global population of 7.8 billion and an average lifespan of 80 years:
+Maybe to understand war spending, we have to look at the word "forever" itself. It's made up of "for" and "ever." "For" means in exchange for something, and "ever" means always. So "forever" means always exchanging something. What we're exchanging is $7.2 trillion for wars. We do this every year. That's why it's forever.
 
-1.  **Annual Per Capita Cost:** $7,238.25 billion / 7.8 billion = $928.24
-2.  **Lifetime Cost Per Person:** $928.24 × 80 years = $74,259.2
+## What This Costs You
 
-### Insights
+**Global population:** 7.8 billion people
+**Average lifespan:** 80 years
 
-The comprehensive annual cost of war, factoring in both direct and updated indirect costs, is approximately $7,238.25 billion. This equates to a staggering cost of about $74,259.2 per person over an 80-year lifespan, underscoring the profound economic and human impacts of global conflicts.
+**Annual cost per person:** $7,238 billion ÷ 7.8 billion = $928.24
 
-## Cumulative Savings from Decreased Annual Cost of War
+**Lifetime cost per person:** $928.24 × 80 years = **$74,259**
 
-Given the initial annual cost of war is approximately $7,238.25 billion, we explore the scenario where this cost decreases by 1% every year for 80 years. This decrease reflects potential efficiencies, peacekeeping successes, and the reallocation of resources towards more productive and peaceful endeavors. Here’s how the calculations unfold:
+You pay $74,259 over your lifetime for wars. You don't get a vote. You don't get a refund. You just pay.
 
-## Initial Assumptions:
+Division is when you take a big number and split it into smaller numbers. We divided $7.2 trillion by 7.8 billion people and discovered that each person pays $928 per year. Then we multiplied by 80 years because that's how long people live, unless they die in a war, which costs extra.
 
--   **Initial Annual Cost of War:** $7,238.25 billion.
--   **Annual Decrease Rate:** 1% per year.
--   **Duration:** 80 years.
--   **Global Population:** 7.8 billion.
+## If We Reduced War By 1% Per Year
 
-## Calculations:
+Imagine war costs decreased by 1% annually for 80 years. Small, achievable reductions through better peacekeeping and resource allocation.
 
-1.  **Total Cost with Decrease:** We calculate the total cost over 80 years, taking into account the 1% annual decrease. This involves summing up the cost for each year, where each subsequent year’s cost is 1% less than the previous year’s.
-    
-2.  **Total Cost without Decrease:** For comparison, we calculate what the total cost would have been if it remained constant at $7,238.25 billion per year over 80 years.
-    
-3.  **Cumulative Savings:** The difference between the total cost without the decrease and the total cost with the decrease gives us the cumulative savings over 80 years.
-    
-4.  **Per Capita Savings:** To determine the impact on an individual level, we divide the cumulative savings by the global population of 7.8 billion.
-    
+**Cumulative savings over 80 years:** $179 trillion
 
-## Results:
+**Per capita savings:** $22,970 per person
 
--   **Cumulative Savings:** Approximately $179 trillion over 80 years.
--   **Per Capita Savings:** Approximately $22,969.68 per person over 80 years.
+By making tiny improvements each year, you save $23,000. That's a car. That's a down payment on a house. That's four years of groceries. Currently, it's bombs.
 
-By reducing the annual cost of war by a modest 1% annually over the course of 80 years, the global community could save nearly $179.16 trillion, translating to almost $23,000 in savings per person.
+A 1% reduction means doing 1% less war. I think we could achieve this by having 1% fewer explosions per year. Or by making bombs that are 1% smaller. Or by invading 1% fewer countries. There are many ways to do 1% less war, but currently we're doing 100% war, which is the maximum amount.
 
-# Transformative Impact of Redirecting War Savings to Healthcare Innovation
+## If We Spent War Money On Healthcare Instead
 
-The global cost of conflict is staggering, not just in human lives but also in economic terms. By imagining the redirection of $179,163.49 billion, initially earmarked for warfare over 80 years, towards healthcare innovation, we explore the potential to save lives, reduce disability, and significantly impact the global economy.
+Take the $179 trillion we'd save over 80 years. Spend it on healthcare research and AI-powered clinical trials.
 
-### Assumptions
+**Assumptions:**
+- 50% increase in R&D efficiency (AI makes research faster and cheaper)
+- 50 million lives saved (breakthrough treatments for major diseases)
+- 500 million disability years reduced (people live healthier, longer)
+- 5% productivity increase (healthy people work better)
 
--   **Efficiency and Cost Reduction in R&D:** 50% increase
--   **Lives Saved:** 50 million, through breakthrough treatments for major diseases.
--   **Reduced Disability Years:** 500 million, significantly improving global health.
--   **Productivity Increase:** 5% increase in global productivity from vastly improved health outcomes.
+**Economic benefits:**
 
-### Economic Benefits
+- **$268,745 billion** - Effective healthcare innovation value
+- **$500,000 billion** - Value of lives saved
+- **$25,000 billion** - Value of reduced disability
+- **$320,000 billion** - Increased productivity
 
--   **Direct Investment Impact:** $268,745 billion in effective healthcare innovation value.
--   **Lives Saved Economic Benefit:** $500,000 billion.
--   **Reduced Disability Years Economic Benefit:** $25,000 billion.
--   **Productivity Increase Economic Benefit:** $320,000 billion.
+**Total benefit: $1,113,745 billion**
 
-### Total Economic Benefit
+**Per capita benefit: $142,788 per person**
 
-The total economic benefit is approximately $1,113,745 billion. This figure reflects the unparalleled impact of fully harnessing AI and healthcare innovation to cure disease.
+You currently pay $74,259 for war. You could instead receive $142,788 in healthcare benefits. That's a $217,047 swing. Per person.
 
-# Per Capita Economic Benefit of Automated Clinical Research
+Healthcare is when you give people medicine so they don't die from diseases. War is when you give people bombs so they do die from explosions. Currently we spend more money on the dying part than the not-dying part. This seems backwards, but I'm not an economist.
 
-The transformative potential of redirecting funds from warfare to healthcare innovation can be further understood by examining the per capita economic benefits. This scenario optimistically assumes a 50% increase in R&D efficiency through AI, saving 50 million lives, reducing 500 million disability years, and boosting global productivity by 5%.
+## How To Do This In 5 Hours
 
-## Calculation
+Historical data shows petitions with 1% population support have high adoption rates. Here's how to get there:
 
-Given the total economic benefit of approximately $1,113,745 billion from redirecting war savings towards healthcare innovation, and considering the global population of 7.8 billion, we can calculate the per capita benefit as follows:
+**Average meaningful relationships:** 150 people (Dunbar's number)
+**Time per message:** 2 minutes (personal email or message)
+**Total time:** 150 × 2 minutes = 300 minutes = 5 hours
 
-Per Capita Total Economic Benefit = Total Economic Benefit / Global Population = **$142,787.82** per person
+**Cost-benefit analysis:**
+- Time invested: 5 hours
+- Return: $142,788
+- Hourly rate: $28,558
 
-This figure represents the economic value that could be realized on an individual level if the substantial funds currently allocated to warfare were instead invested in maximizing the potential of healthcare innovation.
+That's $28,558 per hour to write emails to friends explaining why we should stop spending money on killing people and start spending it on not dying from diseases.
 
-The redirection of funds from warfare to healthcare innovation presents an opportunity to significantly improve global health outcomes and economic prosperity. From saving millions of lives to enhancing productivity and reducing disabilities, the potential benefits are immense.
+An hourly rate is how much money you make per hour. Most people make between $10 and $50 per hour. But if you send emails about reducing war, you make $28,558 per hour. This is the best job in the world, except it's not technically a job, it's just math about money you're already losing to bombs.
 
-By automating clinical research we can unlock unprecedented levels of health, well-being, and economic growth, creating a lasting legacy of peace and prosperity.
+## What You Actually Do
 
-# $142k for 5 Hours of Your Time
+Here's the instruction manual:
 
-Historical examples show that petitions with support from over 1% of the population have a high likelihood of being adopted. So all you have to do is
+1. **Calculate your personal war cost**
+   - Annual cost: $928
+   - Lifetime cost: $74,259
+   - Money you could save: $22,970
+   - Healthcare benefit you could gain: $142,788
 
-## Factors Influencing Time Investment
+2. **Draft your message**
+   - Include specific numbers from this article
+   - Explain the personal financial impact
+   - Link to treaty or petition supporting military reduction
+   - Make it 2 minutes to read
 
-1.  **Number of Friends:** The average number of significant relationships one might actively maintain, often cited as Dunbar’s number, is around 150.
-    
-2.  **Method of Communication:** Personal messages or emails are considered for this estimation, assuming they strike a balance between personal touch and efficiency.
-    
-3.  **Time Per Friend:** It’s estimated that drafting and sending a personal message or email would take approximately 2 minutes per friend. This includes the time to write the message and possibly tailor it slightly for each friend.
-    
+3. **Send to your 150 contacts**
+   - Personal email works better than social media
+   - Customize slightly for each person
+   - Track who responds
+   - Follow up once
 
-## Calculation
+4. **Track the result**
+   - If 1% of population supports this, policy typically changes
+   - Monitor petition signatures
+   - Contact representatives with numbers
+   - Reference specific budget line items
 
-Given the average number of friends (150) and the estimated time per friend (2 minutes), the total time investment can be calculated as follows:
+## The Math Is Simple
 
--   **Total Friends:** 150
--   **Time per Friend:** 2 minutes
+**Current system:**
+- You pay: $74,259
+- You get: Wars
 
-Total Time = Number of Friends × Time per Friend = 150 friends × 2 minutes/friend = 300 minutes = 5 hours
+**Alternative system:**
+- You pay: $51,289 (after 1% annual reduction)
+- You save: $22,970
+- Healthcare investment return: $142,788
+- Net benefit to you: $217,047
 
-Based on this estimation, an average person would need to invest approximately 5 hours to individually reach out to all 150 of their friends via personal messages or emails about the treaty. This calculation assumes a brief but personalized communication method, emphasizing the importance of each conversation in promoting global initiatives.
+The math requires third-grade arithmetic. The choice requires action.
+
+## Sources
+
+- Stockholm International Peace Research Institute (SIPRI) - Military Expenditure Database
+- Institute for Economics and Peace - Global Peace Index
+- World Bank - Economic Impact of Conflict Studies
+- Congressional Research Service - Veteran Healthcare Costs
+- WHO - Global Health Expenditure Database
+- National Priorities Project - Military Spending Analysis

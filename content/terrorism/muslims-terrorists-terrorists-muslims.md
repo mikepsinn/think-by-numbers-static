@@ -11,18 +11,22 @@ metadata:
 tags:
   - terrorism
 ---
-## FACT: Suicide terrorism is **NOT** primarily a product of Islamic fundamentalism.
+## Suicide terrorism is not primarily Islamic fundamentalism
 
-This is evidenced by the fact that **[42%](https://docs.google.com/spreadsheet/ccc?key=0AteZ14sZB7x_dGc5akM1WjVmaEIzeVJBSHBUQ0hrVlE)** of suicide terrorist attacks from 1981 to 2000 were perpetrated by non-Muslims.  Before the Iraq and Afghanistan invasions, the world’s leading practitioners of suicide terrorism are the [Tamil Tigers](http://www.time.com/time/world/article/0,8599,1869501,00.html) in Sri Lanka.  The Liberation Tigers of Tamil Eelam ([LTTE](http://www.adl.org/terrorism/symbols/liberation_tigers_te2.asp)) is a **SECULAR** Marxist-Leninist group primarily drawn from Hindu families.  The LTTE seeks to seize control of Sri Lanka from the Sinhalese majority and create an independent Tamil state in the island’s north and east.
+The data are clear: [42% of suicide terrorist attacks](https://docs.google.com/spreadsheet/ccc?key=0AteZ14sZB7x_dGc5akM1WjVmaEIzeVJBSHBUQ0hrVlE) from 1981 to 2000 were perpetrated by non-Muslims.
 
-From 1981 to 2000, the **non-Islamic** Tamil Tigers committed almost **four times as many** suicide attacks as any other terrorist group. The LTTE is responsible for 71 suicide terrorist attacks out of the 167 committed during this period.   The runner up, Hamas, comes in a distant 2nd with 18 attacks.
+Before the Iraq and Afghanistan invasions, the world's leading practitioners of suicide terrorism were the [Tamil Tigers](http://www.time.com/time/world/article/0,8599,1869501,00.html) in Sri Lanka. The Liberation Tigers of Tamil Eelam ([LTTE](http://www.adl.org/terrorism/symbols/liberation_tigers_te2.asp)) is a secular Marxist-Leninist group primarily drawn from Hindu families. The LTTE seeks to seize control of Sri Lanka from the Sinhalese majority and create an independent Tamil state.
+
+From 1981 to 2000, the non-Islamic Tamil Tigers committed almost four times as many suicide attacks as any other terrorist group. The LTTE is responsible for 71 suicide terrorist attacks out of 167 committed during this period. The runner up, Hamas, comes in second with 18 attacks.
+
+You have a terrorist problem. You believe it's caused by religion. The leading terrorist organization during this period is secular Marxists. The math requires third-grade arithmetic. You have third grade, so the confusion is notable.
 
 [http://www.fbi.gov/stats-services/publications/terrorism-2002-2005/terror02\_05](http://www.fbi.gov/stats-services/publications/terrorism-2002-2005/terror02_05)
 
 [![Suicide Terrorist Group Pie Chart of Attacks from 1981 to 2000](/wp-content/uploads/2011/12/Terrorist-Group-Pie-Chart-1981-2000.jpg)](http://thinkbynumbers.org/wp-content/uploads/2011/12/Terrorist-Group-Pie-Chart-1981-2000.jpg)
 
-<dd>Share of Suicide Terrorist Attacks by Group from 1981 to 2000</dd>
+Share of Suicide Terrorist Attacks by Group from 1981 to 2000
 
 [![bar graph of number of terrorist attacks by group from 1981 to 2001](/wp-content/uploads/2011/12/number-of-terrorist-attacks-by-group-1981-20012.jpg)](http://thinkbynumbers.org/wp-content/uploads/2011/12/number-of-terrorist-attacks-by-group-1981-20012.jpg)
 
-<dd>Number of Suicide Terrorist Attacks by Group from 1981 to 2000</dd>
+Number of Suicide Terrorist Attacks by Group from 1981 to 2000
