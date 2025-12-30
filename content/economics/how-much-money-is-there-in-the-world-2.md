@@ -2,6 +2,7 @@
 title: How much money is there in the world?
 authors: []
 date: 2019-05-18T02:03:18.000Z
+description: World GDP is $127.8 trillion divided by 7.3 billion people equals $17,500 per person. Money is collective hallucination. Before money we traded chickens for cows. Much more efficient now.
 metadata:
   categories:
     - Economics

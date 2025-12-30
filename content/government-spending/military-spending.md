@@ -2,6 +2,7 @@
 title: >-
   Governments Spend $1.8 Trillion Murdering Us and Destroying Our Property
   Annually
+description: $1.8 trillion global military spending vs $100 million brain research. Chart required 17,000 pixels high to show military spending properly.
 authors: []
 date: 2013-04-06T03:53:44.000Z
 metadata:

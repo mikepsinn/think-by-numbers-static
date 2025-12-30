@@ -2,6 +2,7 @@
 title: 'Bottled Water Costs 40x More: Why Don''t Poor Areas Have Water Plants?'
 authors: []
 date: 2024-07-21T09:02:53.000Z
+description: Roatan residents spend $740/year on bottled water. Building a water plant costs 40x less over 25 years. The math is third-grade arithmetic. Like using a helicopter to commute one block.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2024/07/bottled-water-infrastructure.webp

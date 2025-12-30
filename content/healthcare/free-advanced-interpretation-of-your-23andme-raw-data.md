@@ -1,5 +1,6 @@
 ---
 title: Free Advanced Interpretation of Your 23andMe Raw Data
+description: FDA restricted what 23andMe tells you about your DNA. Takes doctors 17 years to use new genetic research. Free tools interpret your data now.
 authors: []
 date: 2019-07-07T23:58:16.000Z
 metadata:

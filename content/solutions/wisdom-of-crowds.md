@@ -1,5 +1,6 @@
 ---
 title: The Wisdom of Crowds
+description: "Random farmers guessed an ox's weight within 1 pound. Experts were wrong. Crowds beat geniuses when math says they shouldn't."
 authors: []
 date: 2012-11-24T07:40:17.000Z
 metadata:

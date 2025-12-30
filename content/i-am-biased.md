@@ -1,5 +1,6 @@
 ---
 title: "I Am Biased"
+description: "Humans invented both antibiotics and weapons to prevent antibiotics from working. Using statistics to decide who dies is radical."
 date: 2013-06-25
 type: page
 metadata:

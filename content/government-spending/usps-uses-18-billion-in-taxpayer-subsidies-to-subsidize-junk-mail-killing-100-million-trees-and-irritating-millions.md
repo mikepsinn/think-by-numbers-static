@@ -2,6 +2,7 @@
 title: >-
   USPS Has Received Over $45 Billion from Taxpayers to Reduce the Cost of Junk
   Mail, Killing Billions of Trees
+description: USPS junk mail 65% discount kills 100 million trees annually. You pay $126/year so credit card offers arrive faster. Beautiful circle of life.
 authors: []
 date: 2020-04-02T00:14:11.000Z
 metadata:

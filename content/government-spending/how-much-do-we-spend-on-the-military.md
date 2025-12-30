@@ -1,5 +1,6 @@
 ---
 title: How much do we spend on the military?
+description: US military spending 1914-2007. Countries spend trillions preparing to kill each other, then kill each other, then prepare again. Beautiful cycle.
 authors: []
 date: 2019-05-08T03:17:34.000Z
 metadata:

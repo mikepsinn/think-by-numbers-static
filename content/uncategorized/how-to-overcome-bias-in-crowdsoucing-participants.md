@@ -1,5 +1,6 @@
 ---
 title: How to Overcome Bias in Crowdsourcing Participants
+description: Your vote has same odds as winning lottery 7 times. CAPTCHA for stupidity filters crowdsourcing bias by removing people who guess wrong.
 authors: []
 date: 2012-11-24T23:15:44.000Z
 metadata:

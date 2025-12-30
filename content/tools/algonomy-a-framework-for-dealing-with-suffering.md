@@ -1,5 +1,6 @@
 ---
 title: 'Algonomy: A Framework for Dealing with Suffering'
+description: 47 fields study suffering but none study suffering itself. It's like having Flame, Smoke, and Heat departments but nobody puts out fires.
 authors: []
 date: 2012-11-26T20:54:22.000Z
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: "Crowdsourcing Utopia: Solve All the World's Problems in 3 Easy Steps"
+description: "Governments spend $1 trillion on terrorism (kills fewer than lightning) while children starve. Third-grade math could fix this."
 date: 2013-06-25
 type: page
 metadata:

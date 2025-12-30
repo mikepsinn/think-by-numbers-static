@@ -1,5 +1,6 @@
 ---
 title: Anti-Terrorism Spending 50,000 Times More Than on Any Other Cause of Death
+description: $500 million per terrorism death vs $2,000 per stroke death. You're 3x more likely to be struck by lightning than killed by terrorists.
 authors: []
 date: 2016-10-04T14:40:00.000Z
 metadata:

@@ -2,6 +2,7 @@
 title: >-
   Americans Spend More on Weight Loss Products Than It Would Take to End World
   Hunger
+description: Americans spend $60 billion on weight loss while ending world hunger costs $30 billion. One group pays to subtract calories, the other needs calories.
 authors: []
 date: 2019-04-08T08:18:49.000Z
 metadata:

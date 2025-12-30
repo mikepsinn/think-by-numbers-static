@@ -2,6 +2,7 @@
 title: GDP and You!
 authors: []
 date: 2013-03-12T23:43:36.000Z
+description: World GDP is $127.8 trillion divided by 7.3 billion people equals $17,500 each. Happiness maxes out at $75k income. Above that you're just buying stuff, not joy. Economics with spreadsheets.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2013/03/government-spending-usa-factory-gdp.jpg

@@ -1,5 +1,6 @@
 ---
 title: "Vote!"
+description: "You're 200x more likely to get injured driving to vote than to affect the election outcome. Democracy is irrational but do it anyway."
 date: 2013-06-25
 type: page
 metadata:

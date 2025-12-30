@@ -1,5 +1,6 @@
 ---
 title: Fun Facts About Iraq
+description: Iraq War cost $3 trillion, enough to end world hunger for 100 years. We chose to make 4 million Iraqis homeless instead.
 authors: []
 date: 2011-08-14T04:50:15.000Z
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: You're 14 Times More Likely To Die of Cancer Than From an Opioid Overdose
+description: Cancer kills 14 times more people than opioids (1 in 7 vs 1 in 96). Media covers opioids wall-to-wall. Cancer gets a 5K run with matching shirts.
 authors: []
 date: 2019-03-22T08:38:38.000Z
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: $2.3 Trillion Missing from Pentagon
+description: Pentagon lost $2.3 trillion announced Sept 10, 2001. Next day planes hit towers. Perfect timing for forgetting about military waste.
 authors: []
 date: 2013-01-26T00:51:04.000Z
 metadata:

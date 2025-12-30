@@ -1,5 +1,6 @@
 ---
 title: From the Bankers Who Brought You President Obama Comes NEW PRESIDENT™!
+description: Obama budget $3.80 trillion vs Romney $3.79 trillion. 0.26% difference. Same banks fund both. Democracy is working perfectly wrong.
 authors: []
 date: 2012-11-01T18:50:15.000Z
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: The Encyclopedia of World Problems and Human Potential
+description: 50,000 organizations solve poverty using different definitions. Database maps how fixing one problem creates three new ones. It's free.
 authors: []
 date: 2012-11-26T20:57:01.000Z
 metadata:

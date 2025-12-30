@@ -1,5 +1,6 @@
 ---
 title: Military-Industrial Complex Funnels Wealth to 4 Counties
+description: America's 4 richest counties all surround the Pentagon. Defense contractors discovered money can't travel far from where it's printed.
 authors: []
 date: 2021-03-20T23:24:06.000Z
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: How much does the government spend per person?
+description: Government spends $65,337 per voter annually. You could buy a car or pay student loans. Instead government bought fighter jets for you.
 authors: []
 date: 2019-03-02T23:11:06.000Z
 metadata:

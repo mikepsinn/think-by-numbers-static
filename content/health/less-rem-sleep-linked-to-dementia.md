@@ -1,5 +1,6 @@
 ---
 title: Less REM Sleep Linked to Dementia
+description: Every 1% reduction in REM sleep increases dementia risk 9%. Brain has self-cleaning mode that requires sleep. You ignore it and drink coffee instead.
 authors: []
 date: 2019-03-07T20:53:38.000Z
 metadata:

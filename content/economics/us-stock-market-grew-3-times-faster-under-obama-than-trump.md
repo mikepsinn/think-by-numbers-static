@@ -2,6 +2,7 @@
 title: US Stock Market Grew 3 Times Faster Under Obama Than Trump
 authors: []
 date: 2019-06-01T07:40:52.000Z
+description: First two years Trump stocks up 21%. First two years Obama stocks up 71.2%. That's 3.4x faster. Trump's gain is just 50-year average. Like getting a participation trophy for existing.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2019/06/us-stock-market-returns-under-trump-obama.png

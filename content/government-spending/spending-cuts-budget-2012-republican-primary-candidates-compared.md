@@ -1,5 +1,6 @@
 ---
 title: GOP Presidential Candidates' Budget Plans EXPOSED!!!
+description: Ron Paul proposed $1 trillion cuts. Romney, Gingrich, Cain only $20 billion each. Real inflation 10% not 3.5%. Hidden tax hits hardest.
 authors: []
 date: 2011-11-07T00:52:13.000Z
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: Fecal Transplant Reduces Autism Symptoms 45%
+description: Poop transplants reduced autism symptoms 45% by fixing gut bacteria. Turns out moving microbes between intestines works better than most treatments.
 authors: []
 date: 2019-04-12T02:51:26.000Z
 metadata:

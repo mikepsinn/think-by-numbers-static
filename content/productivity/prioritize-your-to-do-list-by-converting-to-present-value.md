@@ -1,5 +1,6 @@
 ---
 title: "Prioritize Your To-Do List By Converting To Present Value"
+description: Convert time savings to present value using 10% discount rate. Your commute is worth $8k today, which helps decide if moving beats Netflix.
 authors: []
 date: 2019-04-13T00:02:11.000Z
 metadata:

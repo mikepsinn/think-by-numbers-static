@@ -2,6 +2,7 @@
 title: What percent of economists support protectionist tariffs?
 authors: []
 date: 2019-05-09T00:16:32.000Z
+description: Reuters polled 60 economists about steel tariffs. 0% supported them. Zero as in number before one. Like asking 60 doctors if you should eat broken glass and getting zero yes votes.
 metadata:
   categories:
     - Economics

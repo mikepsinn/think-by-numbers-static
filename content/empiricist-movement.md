@@ -1,5 +1,6 @@
 ---
 title: "The Empiricist Movement"
+description: "Looking at evidence is considered a radical political position by half the planet. Organizations trying rational thinking anyway."
 date: 2013-06-25
 type: page
 metadata:

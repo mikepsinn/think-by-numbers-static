@@ -2,6 +2,7 @@
 title: >-
   Government Spends More on Corporate Welfare Subsidies than Social Welfare
   Programs
+description: US spends $92 billion on corporate welfare vs $59 billion on food stamps. CEOs need help buying medium-sized yachts apparently.
 authors: []
 date: 2011-03-07T03:03:00.000Z
 metadata:

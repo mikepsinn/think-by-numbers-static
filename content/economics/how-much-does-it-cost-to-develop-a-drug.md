@@ -2,6 +2,7 @@
 title: How much does it cost to develop a drug?
 authors: []
 date: 2020-08-06T09:08:23.000Z
+description: Median drug development cost is $985 million including failed trials (2009-2018). In 1893 doctors just tested drugs and reported results. Now we have a Valley of Death instead.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/08/2-Crossing-over-the-Valley-of-Death-The-distinct-stages-of-drug-development-from.png

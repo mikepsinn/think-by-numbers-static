@@ -2,6 +2,7 @@
 title: Keynsian Creationism and Intelligently Design Economies
 authors: []
 date: 2013-03-16T09:03:20.000Z
+description: Keynesians believe Federal Reserve designs economic order from chaos like creationists believe in intelligent design. Both can't grasp complex adaptive systems. Evolution and markets don't need planners.
 metadata:
   categories:
     - Economics

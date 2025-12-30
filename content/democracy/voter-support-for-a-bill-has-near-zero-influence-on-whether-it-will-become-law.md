@@ -2,6 +2,7 @@
 title: Voter Support for a Bill Has Near Zero Influence on Whether It Will Become Law
 authors: []
 date: 2024-11-26T10:42:47.000Z
+description: Princeton study shows 90% of Americans have zero impact on legislation. 0% or 100% support both equal 30% passage chance. Democracy is flat line.
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2024/11/image.png
   media:

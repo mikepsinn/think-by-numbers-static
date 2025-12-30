@@ -1,5 +1,6 @@
 ---
 title: The Hedonistic Imperative
+description: "Military gets $2 trillion, brain research gets $13 billion. We spend 154x more on bombs than abolishing all suffering forever."
 authors: []
 date: 2012-11-26T00:41:10.000Z
 metadata:

@@ -2,6 +2,7 @@
 title: 'Get Society Rich Quick: The Ideal Level of Government Spending'
 authors: []
 date: 2012-04-17T19:56:00.000Z
+description: Government spending above 25% of GDP slows economic growth. OECD countries prove it. Every dollar above 25% is basically lighting money on fire and calling it policy.
 metadata:
   featuredImage: https://thinkbynumbers.org/wp-content/uploads/2012/11/Armey.gif
   media:

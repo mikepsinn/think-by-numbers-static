@@ -2,6 +2,7 @@
 title: How The Federal Reserve Steals from the Poor and Gives to the Rich
 authors: []
 date: 2022-02-16T12:40:13.000Z
+description: Before 1971 productivity and wages grew together. After 1971 they suddenly split. Productivity kept rising, wages flatlined. Federal Reserve counterfeiting is Robin Hood in reverse.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/productivity-pay-gap.png

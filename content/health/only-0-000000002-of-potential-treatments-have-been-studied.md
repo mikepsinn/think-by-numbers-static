@@ -1,5 +1,6 @@
 ---
 title: Only 0.000000002% of Potential Treatments Have Been Studied
+description: Only 21,000 of 1.162 quadrillion possible drug combinations tested. Would take 3.2 billion years at current pace. Earth is 4.5 billion years old.
 authors: []
 date: 2022-03-24T05:55:19.000Z
 metadata:

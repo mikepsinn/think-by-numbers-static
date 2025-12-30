@@ -2,6 +2,7 @@
 title: A World Run By Economists
 authors: []
 date: 2020-07-31T05:36:20.000Z
+description: Every Econ 101 textbook teaches incentives, costs, and second-order effects. Most government policies ignore all three. Like someone passing driver's ed then driving into a lake on purpose.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/07/world-run-by-economists.jpeg

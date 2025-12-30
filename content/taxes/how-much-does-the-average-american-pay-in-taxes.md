@@ -2,6 +2,7 @@
 title: How much does the average American pay in Taxes?
 authors: []
 date: 2019-03-02T23:08:13.000Z
+description: Average American household pays $10,489 in personal taxes yearly (14% of income). Federal budget is $4.4 trillion divided by 328 million people equals $13,403 spent per person. Math gets weird.
 metadata:
   categories:
     - Taxes

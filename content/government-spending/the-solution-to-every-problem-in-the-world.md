@@ -1,5 +1,6 @@
 ---
 title: The Solution to Every Problem in the World
+description: 1 in 20 million terrorism death chance. 1 in 10 Alzheimer's chance. We spend 162x more on military than brain research. Math is wrong.
 authors: []
 date: 2022-11-13T05:40:11.000Z
 metadata:

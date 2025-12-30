@@ -4,6 +4,7 @@ title: >-
   Downturns
 authors: []
 date: 2009-03-01T02:31:00.000Z
+description: Chile recovered from 1982 crisis in 2.5 years without bailouts. Mexico took 7 years with intervention. Government stimulus is like using a flamethrower to put out a fire.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2009/02/featured-image-Keynes-Time2.jpg

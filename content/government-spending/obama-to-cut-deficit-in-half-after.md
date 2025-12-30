@@ -1,5 +1,6 @@
 ---
 title: Obama to cut deficit in half... After quadrupling it.
+description: Obama quadrupled deficit to $2 trillion, then cut to $533 billion. Media called it fiscal responsibility. Like setting house on fire then putting out half.
 authors: []
 date: 2009-03-08T04:27:00.000Z
 metadata:

@@ -1,5 +1,6 @@
 ---
 title: How many NET lives are saved by efficacy trials?
+description: FDA regulations killed medical progress by 70% in 1962. Lifespan growth immediately cut in half. Drug development now costs 13 times more.
 authors: []
 date: 2022-03-24T06:09:34.000Z
 metadata:

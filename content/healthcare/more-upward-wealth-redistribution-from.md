@@ -1,5 +1,6 @@
 ---
 title: Government Pays Doctors $44,000 to Use an iPad
+description: Government gave doctors earning $200k up to $44k for iPads costing $500. Took taxes from staff making $25/hour who then lost jobs to the technology.
 authors: []
 date: 2011-08-06T04:57:00.000Z
 metadata:

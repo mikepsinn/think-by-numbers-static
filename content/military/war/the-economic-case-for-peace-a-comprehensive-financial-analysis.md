@@ -1,5 +1,6 @@
 ---
 title: War Costs the Average Person $74,259 Over Their Lifetime
+description: War costs you $74,259 in lifetime taxes. That's a car's worth of money spent on bombs instead of things that don't explode people.
 authors: []
 date: 2024-03-14T05:23:52.000Z
 metadata:

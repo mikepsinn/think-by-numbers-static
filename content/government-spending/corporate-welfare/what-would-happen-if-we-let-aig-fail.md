@@ -1,5 +1,6 @@
 ---
 title: What Would Have Happened If We Let AIG Fail?
+description: AIG bailout cost $2,000 per household. Goldman gave Obama $43 million, got billions back. Like ordering bottle service except you weren't at club.
 authors: []
 date: 2009-04-13T22:29:00.000Z
 metadata:

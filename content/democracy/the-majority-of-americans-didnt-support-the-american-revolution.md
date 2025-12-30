@@ -2,6 +2,7 @@
 title: The Majority of Americans Didn't Support the American Revolution
 authors: []
 date: 2020-09-20T22:11:48.000Z
+description: Only 33-45% supported American Revolution. 16% backed the king. Half tried avoiding it. America founded by minority opinion that made everyone 52X richer.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/09/public-support-for-american-revolution-pie-chart.png

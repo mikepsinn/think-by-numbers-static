@@ -1,5 +1,6 @@
 ---
 title: 'Meet the Backers: Bankers Flip-Flop to Romney'
+description: Banks needed $125 billion TARP bailout. Same banks gave $1 million each to Obama 2008 and Romney 2012. Both candidates support bailouts.
 authors: []
 date: 2012-01-03T00:31:56.000Z
 metadata:

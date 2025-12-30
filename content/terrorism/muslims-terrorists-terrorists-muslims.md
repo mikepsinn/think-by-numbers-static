@@ -1,5 +1,6 @@
 ---
 title: Are most Muslims terrorists? Are most terrorists Muslim?
+description: 42% of suicide attacks (1981-2000) by non-Muslims. Top terrorist group was Hindu Marxists, so the confusion requires third-grade math.
 authors: []
 date: 2011-12-18T20:02:16.000Z
 metadata:

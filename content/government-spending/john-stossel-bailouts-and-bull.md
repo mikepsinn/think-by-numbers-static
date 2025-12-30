@@ -1,5 +1,6 @@
 ---
 title: Bailout Costs $16,000 per Worker
+description: Fed printed $6 trillion for bank bailouts. Stock prices soared, rich got richer, poor can't afford houses. Inflation only 1.5% though.
 authors: []
 date: 2009-03-19T05:31:00.000Z
 metadata:

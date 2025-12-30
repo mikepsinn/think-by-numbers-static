@@ -1,5 +1,6 @@
 ---
 title: How much does the US spend on the military compared to the rest of the world?
+description: US spends 37% of global military budget with 4.4% of world population. $600 billion on weapons. Switzerland makes chocolate instead.
 authors: []
 date: 2019-03-02T23:55:13.000Z
 metadata:
