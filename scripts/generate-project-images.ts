@@ -83,18 +83,11 @@ async function generateImagesForPost(
   // Generate OG image (optimized for social media thumbnails)
   if (!hasOgImage || forceRegenerate) {
     console.log(`  Generating OG image (social media optimized)...`);
-    const ogPrompt = `Create a professional, elegant social media thumbnail image for an article titled "${frontmatter.title}".
-
-Style: Classic black and white design with serif fonts (like Crimson Text or Baskerville), minimal and academic aesthetic, similar to Benjamin Franklin era publications.
+    const ogPrompt = `Create fun retro scientific black and white image illustrating the following content "${frontmatter.title}".
 
 Article summary: ${excerpt}
 
-Important:
-- Use a clean, timeless design with high contrast
-- Include the title prominently
-- No photos of people
-- Simple, elegant typography
-- Black text on white or light gray background`;
+`;
 
     try {
       const ogFiles = await generateAndSaveImages({

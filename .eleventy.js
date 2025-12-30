@@ -1,6 +1,10 @@
 const { DateTime } = require("luxon");
+const metadataValidator = require("./scripts/validate-metadata.js");
 
 module.exports = function(eleventyConfig) {
+  // Load metadata validation plugin
+  eleventyConfig.addPlugin(metadataValidator);
+
   // Copy assets to output (strip /content/ prefix)
   eleventyConfig.addPassthroughCopy({ "content/assets": "assets" });
   eleventyConfig.addPassthroughCopy("content/**/assets");
