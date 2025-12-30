@@ -14,6 +14,15 @@ layout: false
   </url>
   {%- endfor %}
 
+  {%- for page in collections.pages %}
+  <url>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    <lastmod>{{ page.date | dateToISO }}</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  {%- endfor %}
+
   {%- for category in categories.list %}
   <url>
     <loc>{{ site.url }}/category/{{ category.slug }}/</loc>
