@@ -22,6 +22,15 @@ layout: base.njk
       </p>
       {%- endif %}
 
+      {# Infographic #}
+      {%- if metadata.media.infographic %}
+      <div class="infographic-section" style="margin: 40px 0; text-align: center;">
+        <img src="{{ metadata.media.infographic }}"
+             alt="Infographic for {{ title | decodeHtml }}"
+             style="max-width: 100%; height: auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      </div>
+      {%- endif %}
+
       <div class="post-content" style="margin-top: 30px;">
         {{ content | safe }}
       </div>
@@ -34,9 +43,9 @@ layout: base.njk
           {%- set postTitle = title | decodeHtml %}
           {%- set encodedUrl = postUrl | urlencode %}
           {%- set encodedTitle = postTitle | urlencode %}
-          
-          <a href="https://twitter.com/intent/tweet?url={{ encodedUrl }}&text={{ encodedTitle }}" 
-             target="_blank" 
+
+          <a href="https://twitter.com/intent/tweet?url={{ encodedUrl }}&text={{ encodedTitle }}"
+             target="_blank"
              rel="noopener noreferrer"
              class="share-button twitter"
              aria-label="Share on Twitter">
@@ -44,8 +53,8 @@ layout: base.njk
             <span>Twitter</span>
           </a>
 
-          <a href="https://www.facebook.com/sharer/sharer.php?u={{ encodedUrl }}" 
-             target="_blank" 
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ encodedUrl }}"
+             target="_blank"
              rel="noopener noreferrer"
              class="share-button facebook"
              aria-label="Share on Facebook">
@@ -53,8 +62,8 @@ layout: base.njk
             <span>Facebook</span>
           </a>
 
-          <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ encodedUrl }}" 
-             target="_blank" 
+          <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ encodedUrl }}"
+             target="_blank"
              rel="noopener noreferrer"
              class="share-button linkedin"
              aria-label="Share on LinkedIn">
@@ -62,8 +71,8 @@ layout: base.njk
             <span>LinkedIn</span>
           </a>
 
-          <a href="https://reddit.com/submit?url={{ encodedUrl }}&title={{ encodedTitle }}" 
-             target="_blank" 
+          <a href="https://reddit.com/submit?url={{ encodedUrl }}&title={{ encodedTitle }}"
+             target="_blank"
              rel="noopener noreferrer"
              class="share-button reddit"
              aria-label="Share on Reddit">
@@ -71,7 +80,7 @@ layout: base.njk
             <span>Reddit</span>
           </a>
 
-          <a href="mailto:?subject={{ encodedTitle }}&body={{ encodedUrl }}" 
+          <a href="mailto:?subject={{ encodedTitle }}&body={{ encodedUrl }}"
              class="share-button email"
              aria-label="Share via Email">
             <span class="icon">✉️</span>
@@ -79,6 +88,8 @@ layout: base.njk
           </a>
         </div>
       </div>
+
+
 
       {# Disqus Comments #}
       <div class="comments-section">
