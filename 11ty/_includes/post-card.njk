@@ -4,10 +4,11 @@
   Expects: post variable in context
 #}
 <article class="post-card">
-  {%- if post.data.metadata.media.ogImage %}
+  {%- set imageUrl = post.data.metadata.media.ogImage or post.data.metadata.media.infographic or post.data.metadata.media.featuredImage %}
+  {%- if imageUrl %}
   <div class="post-image">
     <a href="{{ post.url }}">
-      <img src="{{ post.data.metadata.media.ogImage }}" alt="{{ post.data.title | decodeHtml }}">
+      <img src="{{ imageUrl }}" alt="{{ post.data.title | decodeHtml }}">
     </a>
   </div>
   {%- endif %}

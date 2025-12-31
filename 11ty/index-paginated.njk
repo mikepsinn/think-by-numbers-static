@@ -122,7 +122,7 @@ eleventyComputed:
       url: "{{ post.url }}",
       title: {{ post.data.title | decodeHtml | dump | safe }},
       description: {{ (post.data.description or post.data.metadata.summary or '') | dump | safe }},
-      ogImage: "{{ post.data.metadata.media.ogImage or '' }}",
+      ogImage: "{{ post.data.metadata.media.ogImage or post.data.metadata.media.infographic or post.data.metadata.media.featuredImage or '' }}",
       date: "{{ post.date | dateToISO }}",
       timestamp: {{ post.date.getTime() }},
       aiScores: {
