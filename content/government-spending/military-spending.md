@@ -14,6 +14,7 @@ metadata:
     featuredImage: >-
       /wp-content/uploads/2013/04/Cropped-Priorities-Money-Spent-on-War-Sports-Neuroscience-Cancer-Research-Graph-Think-by-Numbers.png
     infographic: /assets/infographics/government-spending/military-spending.png
+    ogImage: /assets/og-images/government-spending/military-spending.png
   categories:
     - Government Spending
     - Military
