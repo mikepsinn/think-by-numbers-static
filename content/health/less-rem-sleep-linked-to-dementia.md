@@ -19,6 +19,17 @@ metadata:
     infographic: /assets/infographics/health/less-rem-sleep-linked-to-dementia.png
 tags:
   - health
+aiScores:
+  quality: 7
+  value: 9
+  reasoning: >-
+    The post uses clear analogies and punchy writing to make complex data
+    accessible, though it slightly conflates the 'cleaning' mechanism (usually
+    associated with deep sleep) with REM sleep. The information is highly
+    valuable and actionable, addressing a critical health issue with practical
+    behavioral solutions.
+  scoredAt: '2025-12-31T05:36:48.525Z'
+  model: gemini-3-flash-preview
 ---
 People who developed dementia spent [17% of their sleep time in REM](https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html), compared to 20% for people who didn't get dementia. That's only a 3% difference, which doesn't sound like much until you do the math.
 

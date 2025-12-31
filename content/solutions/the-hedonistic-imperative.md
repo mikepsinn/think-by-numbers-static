@@ -17,6 +17,17 @@ metadata:
     infographic: /assets/infographics/solutions/the-hedonistic-imperative.png
 tags:
   - solutions
+aiScores:
+  quality: 8
+  value: 7
+  reasoning: >-
+    The writing is exceptionally engaging and uses clever analogies to simplify
+    complex ethical and biological concepts, though it is slightly marred by an
+    incomplete final sentence. While highly thought-provoking and addressing a
+    fundamental human concern, the content is more speculative philosophy than
+    actionable information.
+  scoredAt: '2025-12-31T05:39:06.907Z'
+  model: gemini-3-flash-preview
 ---
 Pain exists because millions of years ago, a monkey that didn't feel pain touched something hot and died. His cousin, who DID feel pain, screamed and lived long enough to make more monkeys. You're descended from the screaming monkey. Congratulations.
 

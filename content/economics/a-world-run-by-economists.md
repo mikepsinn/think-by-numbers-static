@@ -25,6 +25,15 @@ metadata:
 tags:
   - economics
   - utilitarianism
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The writing is punchy, engaging, and accurately cites a notable economic
+    experiment to illustrate the friction between policy and politics, though
+    the text cuts off mid-sentence at the end.
+  scoredAt: '2025-12-31T05:32:35.499Z'
+  model: gemini-3-flash-preview
 ---
 
 Every Econ 101 textbook teaches three things:

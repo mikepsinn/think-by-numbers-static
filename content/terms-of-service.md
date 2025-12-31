@@ -5,13 +5,29 @@ description: >-
   The math on privacy is technically depressing.
 date: 2024-12-25T00:00:00.000Z
 type: page
-tags: [privacy, legal, cookies, data-protection, terms, tracking]
-categories: [legal]
+tags:
+  - privacy
+  - legal
+  - cookies
+  - data-protection
+  - terms
+  - tracking
+categories:
+  - legal
 metadata:
   url: 'https://thinkbynumbers.org/terms-of-service/'
   media:
     ogImage: /assets/og-images/terms-of-service.png
     infographic: /assets/infographics/terms-of-service.png
+aiScores:
+  quality: 4
+  value: 2
+  reasoning: >-
+    While the text is clear and functional, it is a standard, generic privacy
+    policy template rather than an actual blog post, providing no original
+    analysis or the educational 'math' promised in the description.
+  scoredAt: '2025-12-31T05:39:48.303Z'
+  model: gemini-3-flash-preview
 ---
 
 # Terms of Service – Think by Numbers

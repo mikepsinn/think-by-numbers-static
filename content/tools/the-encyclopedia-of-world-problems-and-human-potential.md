@@ -21,6 +21,17 @@ metadata:
       /assets/infographics/tools/the-encyclopedia-of-world-problems-and-human-potential.png
 tags:
   - tools
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The writing uses punchy, engaging metaphors to translate a complex academic
+    resource into accessible insights, though the text ends abruptly. The
+    information is highly valuable for teaching systems thinking and
+    highlighting the unintended consequences of uncoordinated global
+    problem-solving.
+  scoredAt: '2025-12-31T05:40:21.694Z'
+  model: gemini-3-flash-preview
 ---
 Someone made a list of every problem humanity has. ALL of them. Every single thing that's wrong with the world. Then they cross-referenced how the problems connect, conflict, and make each other worse.
 

@@ -21,6 +21,17 @@ metadata:
       /assets/infographics/tools/algonomy-a-framework-for-dealing-with-suffering.png
 tags:
   - tools
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The post uses a powerful 'fire department' analogy to clearly illustrate the
+    systemic silos in human knowledge, making a complex philosophical argument
+    highly accessible. It provides significant value by proposing a unified
+    framework for addressing the universal experience of suffering across
+    disparate disciplines.
+  scoredAt: '2025-12-31T05:40:16.133Z'
+  model: gemini-3-flash-preview
 ---
 Humanity has approximately 47 different fields dedicated to suffering: medicine, psychology, religion, politics, economics, law, art, literature, philosophy, ethics, news media, environmental studies, education, science, history, war, crime, and social work. You study suffering in medicine (but only physical suffering from disease). You study suffering in economics (but only financial suffering from poverty). You study suffering in psychology (but only mental suffering from disorders).
 

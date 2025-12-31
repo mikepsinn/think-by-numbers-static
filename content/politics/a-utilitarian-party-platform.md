@@ -17,6 +17,16 @@ metadata:
     infographic: /assets/infographics/politics/a-utilitarian-party-platform.png
 tags:
   - politics
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post effectively distills complex utilitarian principles into a clear,
+    punchy format with high readability, though it is slightly truncated at the
+    end. It provides significant value by challenging tribal political thinking
+    with a data-driven, cost-benefit framework.
+  scoredAt: '2025-12-31T05:38:14.501Z'
+  model: gemini-3-flash-preview
 ---
 Penn psychologist [Jonathan Baron](http://www.sas.upenn.edu/~baron/) wrote a political platform based on a simple question: What if you tried to help people instead of signaling tribal affiliation?
 

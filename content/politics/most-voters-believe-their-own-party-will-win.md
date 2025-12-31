@@ -25,6 +25,15 @@ metadata:
     https://thinkbynumbers.org/politics/most-voters-believe-their-own-party-will-win/
 tags:
   - politics
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post uses clear data to provide a punchy, effective explanation of
+    wishful thinking bias, though it is penalized for ending abruptly
+    mid-sentence.
+  scoredAt: '2025-12-31T05:38:28.164Z'
+  model: gemini-3-flash-preview
 ---
 Most voters believe their candidate will win. Both sides think this. Simultaneously. Despite the mathematical impossibility.
 

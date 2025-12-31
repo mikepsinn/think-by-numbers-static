@@ -22,6 +22,15 @@ metadata:
     https://thinkbynumbers.org/health/youre-14-times-more-likely-to-die-of-cancer-than-from-an-opioid-overdose/
 tags:
   - health
+aiScores:
+  quality: 5
+  value: 4
+  reasoning: >-
+    The post uses accurate historical statistics to highlight media bias, but it
+    employs a reductive, overly sarcastic tone that oversimplifies the
+    complexities of addiction and public health policy.
+  scoredAt: '2025-12-31T05:36:59.070Z'
+  model: gemini-3-flash-preview
 ---
 Your odds of dying:
 - From an opioid overdose: [1 in 96](https://www.npr.org/2019/01/14/684695273/report-americans-are-now-more-likely-to-die-of-an-opioid-overdose-than-on-the-ro)

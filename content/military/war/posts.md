@@ -27,6 +27,16 @@ metadata:
   url: 'https://thinkbynumbers.org/military/war/posts/'
 tags:
   - war
+aiScores:
+  quality: 5
+  value: 7
+  reasoning: >-
+    The post effectively uses irony and stark statistics to communicate the
+    human and financial scale of the Iraq War, but it is technically
+    incomplete—ending mid-sentence—and adopts a highly polemical tone that
+    simplifies complex geopolitical issues.
+  scoredAt: '2025-12-31T05:37:47.200Z'
+  model: gemini-3-flash-preview
 ---
 
 The Iraq War cost $3 trillion. That's enough to end world hunger for 100 years. We chose differently. Here are the numbers.

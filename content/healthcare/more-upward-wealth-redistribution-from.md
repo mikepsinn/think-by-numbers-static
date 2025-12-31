@@ -31,6 +31,17 @@ tags:
   - corporate-welfare
   - healthcare
   - podcast
+aiScores:
+  quality: 3
+  value: 3
+  reasoning: >-
+    The post relies on a highly reductionist and misleading premise, equating
+    complex Electronic Health Record (EHR) implementation incentives with the
+    price of a consumer iPad. While the writing is clear, it misrepresents the
+    HITECH Act's scope and costs to create a provocative but factually flawed
+    narrative.
+  scoredAt: '2025-12-31T05:37:19.325Z'
+  model: gemini-3-flash-preview
 ---
 [![Graph Illustrating Average US Doctor's Salary vs Median Citizen Income](/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320-672x224.jpg)](http://thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg)
 

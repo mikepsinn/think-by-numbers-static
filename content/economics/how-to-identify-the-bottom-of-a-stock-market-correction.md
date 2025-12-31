@@ -26,6 +26,15 @@ metadata:
     https://thinkbynumbers.org/economics/how-to-identify-the-bottom-of-a-stock-market-correction/
 tags:
   - economics
+aiScores:
+  quality: 4
+  value: 5
+  reasoning: >-
+    The post explains basic market fundamentals clearly but suffers from
+    repetitive phrasing, grammatical errors, and a superficial analysis that
+    lacks the technical depth promised by the title.
+  scoredAt: '2025-12-31T05:33:18.588Z'
+  model: gemini-3-flash-preview
 ---
 ## Why isn’t a share of stock just a worthless piece of paper?
 

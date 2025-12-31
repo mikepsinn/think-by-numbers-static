@@ -34,6 +34,15 @@ metadata:
     https://thinkbynumbers.org/government-spending/meet-the-backers-bankers-flip-flop-to-romney/
 tags:
   - government-spending
+aiScores:
+  quality: 6
+  value: 5
+  reasoning: >-
+    The post presents factual historical data regarding TARP and campaign
+    finance in a clear, readable format, but uses a highly editorialized, snarky
+    tone and the content is significantly outdated.
+  scoredAt: '2025-12-31T05:35:49.851Z'
+  model: gemini-3-flash-preview
 ---
 The Wall Street banks that funded Obama in 2008 switched to Romney in 2012.
 

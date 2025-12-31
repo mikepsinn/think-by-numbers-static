@@ -1,6 +1,8 @@
 ---
 title: How To Calculate Morality Using The Utilitarian Calculator
-description: Bentham's felicific calculus quantifies pleasure and pain on a 1-10 scale. Yes, you can mathematically calculate whether you should kill your cat.
+description: >-
+  Bentham's felicific calculus quantifies pleasure and pain on a 1-10 scale.
+  Yes, you can mathematically calculate whether you should kill your cat.
 authors: []
 date: 2012-11-26T03:50:41.000Z
 metadata:
@@ -22,6 +24,15 @@ metadata:
 tags:
   - empiricism
   - utilitarianism
+aiScores:
+  quality: 8
+  value: 7
+  reasoning: >-
+    The post provides a clear, accurate, and structured explanation of Bentham's
+    felicific calculus, successfully translating a complex philosophical
+    framework into an accessible and practical educational guide.
+  scoredAt: '2025-12-31T05:34:11.720Z'
+  model: gemini-3-flash-preview
 ---
 The **felicific calculus** is an algorithm for calculating the degree or amount of [pleasure](https://en.wikipedia.org/wiki/Pleasure) that a specific action is likely to cause. The algorithm is also known as the utility calculus, the hedonistic calculus, and the hedonic calculus.
 

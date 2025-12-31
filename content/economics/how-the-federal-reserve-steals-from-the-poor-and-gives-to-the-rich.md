@@ -31,6 +31,16 @@ tags:
   - economics
   - federal-reserve
   - financial-sector
+aiScores:
+  quality: 4
+  value: 5
+  reasoning: >-
+    The post uses provocative, non-neutral language and memes to present a
+    complex economic decoupling through a single ideological lens, failing to
+    account for other significant factors like globalization, automation, and
+    labor policy.
+  scoredAt: '2025-12-31T05:33:13.195Z'
+  model: gemini-3-flash-preview
 ---
 Prior to 1971, productivity growth was very closely tied to wage growth. However, around 1971, there was a stark and sudden decoupling between productivity and wages.
 

@@ -1,6 +1,8 @@
 ---
 title: Are You Reading this of Your Own Free Will?
-description: Your brain decided 10 seconds before you did. Brain scans prove you're not actually making choices.
+description: >-
+  Your brain decided 10 seconds before you did. Brain scans prove you're not
+  actually making choices.
 authors: []
 date: 2011-10-26T16:11:50.000Z
 metadata:
@@ -27,6 +29,15 @@ metadata:
   url: 'https://thinkbynumbers.org/psychology/myth-free-will/'
 tags:
   - psychology
+aiScores:
+  quality: 5
+  value: 7
+  reasoning: >-
+    The post explains a complex neuroscientific concept using engaging analogies
+    and clear language, but it is incomplete, ending abruptly mid-sentence,
+    which significantly detracts from its overall quality.
+  scoredAt: '2025-12-31T05:38:43.848Z'
+  model: gemini-3-flash-preview
 ---
 Your brain decided you would read this sentence 10 seconds before "you" did.
 

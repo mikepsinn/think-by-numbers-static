@@ -38,6 +38,15 @@ tags:
   - economics
   - financial-sector
   - gdp
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post provides a clear, concise comparison backed by a credible source,
+    though it relies heavily on simplified metaphors and lacks a nuanced
+    exploration of the complex variables involved.
+  scoredAt: '2025-12-31T05:32:54.652Z'
+  model: gemini-3-flash-preview
 ---
 This [study](https://www.minneapolisfed.org/research/SR/SR421.pdf) by the Federal Reserve examines the effects of government intervention and the absence thereof in two similar financial crises which occurred simultaneously in Chile and Mexico. Chile liquidated the insolvent banks and instituted a new regulatory system to prevent future abuses. Mexico nationalized the entire banking system keeping the insolvent banks on life support at the expense of the taxpayer.
 

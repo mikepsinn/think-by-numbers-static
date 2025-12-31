@@ -2,7 +2,10 @@
 title: Wealth Inequality in America
 authors: []
 date: 2013-03-03T11:23:35.000Z
-description: Americans underestimate wealth inequality so badly the perception gap exceeds the actual wealth gap—like thinking your neighbor has 2 cars when they own a dealership.
+description: >-
+  Americans underestimate wealth inequality so badly the perception gap exceeds
+  the actual wealth gap—like thinking your neighbor has 2 cars when they own a
+  dealership.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2013/03/wealth-inequality-featured-image.png
@@ -17,6 +20,17 @@ metadata:
   url: 'https://thinkbynumbers.org/economics/wealth-inequality-in-america/'
 tags:
   - economics
+aiScores:
+  quality: 6
+  value: 8
+  reasoning: >-
+    The writing uses punchy analogies to effectively communicate complex data,
+    but the post lacks original depth as it serves primarily as a brief
+    introduction to an embedded video. The topic is highly significant for
+    social awareness, though the specific data presented in the referenced study
+    is now over a decade old.
+  scoredAt: '2025-12-31T05:33:56.382Z'
+  model: gemini-3-flash-preview
 ---
 Americans were asked to estimate wealth distribution. Then they were shown the actual numbers. The gap between perception and reality was larger than the wealth gap itself. Which is saying something, because the wealth gap is roughly the size of the Grand Canyon.
 

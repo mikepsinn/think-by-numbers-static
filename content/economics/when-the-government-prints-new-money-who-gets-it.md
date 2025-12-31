@@ -27,6 +27,15 @@ tags:
   - economics
   - federal-reserve
   - government-spending
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post provides a clear and accessible explanation of how the Federal
+    Reserve injects liquidity into the economy, though its informal tone and
+    incomplete ending reduce its overall professional quality.
+  scoredAt: '2025-12-31T05:34:06.802Z'
+  model: gemini-3-flash-preview
 ---
 When the government creates new money, how is it possible to distribute it without someone just getting a bunch of free money for nothing? The answer is that it’s not.
 

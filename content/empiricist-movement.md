@@ -14,6 +14,16 @@ tags:
   - empiricism
   - rationality
   - organizations
+aiScores:
+  quality: 8
+  value: 7
+  reasoning: >-
+    The writing is punchy and uses clever metaphors to explain complex
+    intellectual subcultures, though its heavy reliance on a cynical tone may
+    affect its perceived professionalism. It provides high-value pointers to
+    important rationalist resources, even if the descriptions are brief.
+  scoredAt: '2025-12-31T05:34:24.662Z'
+  model: gemini-3-flash-preview
 ---
 
 # The Empiricist Movement

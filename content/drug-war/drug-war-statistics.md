@@ -20,6 +20,15 @@ metadata:
 tags:
   - drug-war
   - government-spending
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post addresses a significant socio-economic issue with specific
+    statistics and citations, though its tone is highly biased and the content
+    provided is incomplete.
+  scoredAt: '2025-12-31T05:32:18.577Z'
+  model: gemini-3-flash-preview
 ---
 [![](/wp-content/uploads/2013/04/image_gallery.gif)](http://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif)
 

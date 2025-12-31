@@ -26,6 +26,15 @@ metadata:
 tags:
   - corporate-welfare
   - government-spending
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post uses effective satire to make complex economic concepts like moral
+    hazard and quantitative easing accessible, though it sacrifices some
+    technical precision and nuance for rhetorical impact.
+  scoredAt: '2025-12-31T05:35:44.529Z'
+  model: gemini-3-flash-preview
 ---
 ## Toxic Assets
 

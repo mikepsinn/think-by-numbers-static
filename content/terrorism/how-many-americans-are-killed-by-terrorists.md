@@ -1,6 +1,8 @@
 ---
 title: How many Americans are killed by terrorists?
-description: "3,222 Americans killed by terrorists vs $1.1 trillion spent—$1.1 billion per victim. Yet we call this counterterrorism."
+description: >-
+  3,222 Americans killed by terrorists vs $1.1 trillion spent—$1.1 billion per
+  victim. Yet we call this counterterrorism.
 authors: []
 date: 2019-05-08T05:44:51.000Z
 metadata:
@@ -20,6 +22,17 @@ metadata:
     https://thinkbynumbers.org/terrorism/how-many-americans-are-killed-by-terrorists/
 tags:
   - terrorism
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The post effectively utilizes reputable data from START and Our World in
+    Data to present a clear, punchy, and data-driven critique of national
+    spending. It provides high value by reframing public policy through a
+    'cost-per-life' lens, encouraging critical thinking about resource
+    allocation.
+  scoredAt: '2025-12-31T05:39:53.794Z'
+  model: gemini-3-flash-preview
 ---
 Between September 11, 2001 and December 31, 2016, [3,222 Americans](https://www.start.umd.edu/pubs/START_AmericanTerrorismDeaths_FactSheet_Nov2017.pdf) died in terrorist attacks. This includes the attackers themselves and excludes deaths in Afghanistan and Iraq.
 

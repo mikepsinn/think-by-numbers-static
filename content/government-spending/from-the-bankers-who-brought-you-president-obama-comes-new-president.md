@@ -49,6 +49,15 @@ metadata:
     https://thinkbynumbers.org/government-spending/from-the-bankers-who-brought-you-president-obama-comes-new-president/
 tags:
   - government-spending
+aiScores:
+  quality: 6
+  value: 5
+  reasoning: >-
+    The post provides clear, data-driven comparisons that cut through political
+    rhetoric using effective analogies, though the analysis is somewhat
+    reductive and the content is now historically dated.
+  scoredAt: '2025-12-31T05:35:21.917Z'
+  model: gemini-3-flash-preview
 ---
 [![](/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic-480x160.jpg)](http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg)
 

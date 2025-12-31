@@ -20,6 +20,17 @@ metadata:
       /assets/infographics/health/fecal-transplant-reduces-autism-symptoms-45.png
 tags:
   - health
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The post translates complex clinical research into highly accessible,
+    engaging prose with credible citations, though it adopts a simplified and
+    provocative tone. The information is high-value as it highlights a
+    significant, evidence-based breakthrough in autism treatment that remains
+    under-discussed in mainstream circles.
+  scoredAt: '2025-12-31T05:36:31.254Z'
+  model: gemini-3-flash-preview
 ---
 Autistic children get [gastrointestinal problems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3981895/) more often than other children. Scientists noticed this and wondered if fixing gut bacteria might help with autism symptoms. It's called the gut-brain axis, which is what scientists call it when your stomach has opinions about your brain.
 

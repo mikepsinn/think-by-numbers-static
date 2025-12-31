@@ -21,6 +21,14 @@ metadata:
       /assets/infographics/politics/has-political-power-become-more-decentralized-over-time.png
 tags:
   - politics
+aiScores:
+  quality: 7
+  value: 6
+  reasoning: >-
+    The post is clear, factual, and uses reputable data to make a punchy point,
+    though its extreme brevity limits its depth and educational nuance.
+  scoredAt: '2025-12-31T05:38:19.011Z'
+  model: gemini-3-flash-preview
 ---
 ![](/wp-content/uploads/2019/05/number-of-democracies-over-time-480x472.png)
 

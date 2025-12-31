@@ -20,6 +20,15 @@ metadata:
   url: 'https://thinkbynumbers.org/economics/long-run-trends-in-human-well-being/'
 tags:
   - economics
+aiScores:
+  quality: 4
+  value: 7
+  reasoning: >-
+    The post introduces a vital historical concept using an engaging analogy,
+    but the presentation is severely marred by the inclusion of raw
+    CSS/JavaScript and a lack of depth beyond the initial hook.
+  scoredAt: '2025-12-31T05:33:45.296Z'
+  model: gemini-3-flash-preview
 ---
 For 10,000 years, life expectancy was 28. GDP per capita was $100. Then around 1800, both numbers suddenly decided to go vertical. It's like humanity spent 10,000 years in the tutorial level and then someone finally pressed start.
 

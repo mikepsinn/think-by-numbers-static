@@ -1,6 +1,8 @@
 ---
 title: Every World Statistic You Could Ever Dream Of (In Real Time)!
-description: Watch humanity's vital signs live. See military spending outpace disease research in real time.
+description: >-
+  Watch humanity's vital signs live. See military spending outpace disease
+  research in real time.
 authors: []
 date: 2012-12-10T22:08:48.000Z
 metadata:
@@ -19,6 +21,15 @@ metadata:
   url: 'https://thinkbynumbers.org/statistics/world-clock-statistics/'
 tags:
   - statistics
+aiScores:
+  quality: 5
+  value: 3
+  reasoning: >-
+    The writing style is engaging and punchy, but the post centers on a defunct
+    Flash widget that no longer works, rendering the primary content and data
+    inaccessible to the reader.
+  scoredAt: '2025-12-31T05:39:29.248Z'
+  model: gemini-3-flash-preview
 ---
 Humanity's vital signs, updating in real time. Think of it as a heart rate monitor for the species, except the patient keeps making questionable decisions.
 

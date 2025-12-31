@@ -2,7 +2,10 @@
 title: Housing Bubble Wastes $2 Trillion on 14 Million Empty Houses
 authors: []
 date: 2011-09-26T11:14:32.000Z
-description: Americans built 14 million empty houses costing $2 trillion because the Fed made borrowing artificially cheap. The government's success destroyed wealth on a massive scale.
+description: >-
+  Americans built 14 million empty houses costing $2 trillion because the Fed
+  made borrowing artificially cheap. The government's success destroyed wealth
+  on a massive scale.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/09/featured-image-House-Bubble.jpg
@@ -38,6 +41,15 @@ tags:
   - economics
   - federal-reserve
   - financial-sector
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post provides a clear, structured explanation of economic
+    cause-and-effect regarding market bubbles, though the quality is hampered by
+    truncated text and dated references.
+  scoredAt: '2025-12-31T05:31:53.703Z'
+  model: gemini-3-flash-preview
 ---
 ![Housing Bubble](/wp-content/uploads/2011/09/House-Bubble-672x783.jpg)
 

@@ -12,6 +12,15 @@ metadata:
     infographic: /assets/infographics/manage-subscriptions.png
 tags:
   - subscription
+aiScores:
+  quality: 3
+  value: 1
+  reasoning: >-
+    This is a functional utility page for managing subscriptions rather than an
+    educational blog post, offering no actual data analysis or informative
+    content to the reader.
+  scoredAt: '2025-12-31T05:37:28.643Z'
+  model: gemini-3-flash-preview
 ---
 
 # Manage Subscriptions

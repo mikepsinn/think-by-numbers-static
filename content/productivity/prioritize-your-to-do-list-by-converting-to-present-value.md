@@ -21,6 +21,12 @@ metadata:
       /assets/infographics/productivity/prioritize-your-to-do-list-by-converting-to-present-value.png
 tags:
   - productivity
+aiScores:
+  quality: 5
+  value: 5
+  reasoning: 'Error occurred during scoring, using default values'
+  scoredAt: '2025-12-31T05:38:37.993Z'
+  model: gemini-3-flash-preview
 ---
 There are infinite ways to spend your most valuable resource: time. How do you decide the most cost-effective way to spend it? Convert the returns of each activity to its present value and pick the activity with the highest present value.
 

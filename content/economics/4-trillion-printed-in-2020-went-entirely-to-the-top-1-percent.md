@@ -30,6 +30,18 @@ metadata:
 tags:
   - economics
   - federal-reserve
+aiScores:
+  quality: 3
+  value: 3
+  reasoning: >-
+    The post conflates two different economic metrics—M2 money supply and
+    household net worth—to claim a direct 1:1 transfer that does not exist,
+    representing a classic 'correlation vs. causation' fallacy. While it
+    addresses the significant issue of wealth inequality, the analysis is
+    factually misleading and oversimplifies complex monetary policy into a
+    sensationalist narrative.
+  scoredAt: '2025-12-31T05:32:30.736Z'
+  model: gemini-3-flash-preview
 ---
 In 2020, the Federal Reserve created $4 trillion in new money. Where did it go? The [St. Louis Fed's data](https://fred.stlouisfed.org/graph/?g=AQ8u) shows the top 1% gained exactly $4 trillion that same year. I checked the math. They match.
 

@@ -21,6 +21,15 @@ metadata:
     https://thinkbynumbers.org/politics/it-takes-3-5-of-the-population-to-change-the-world/
 tags:
   - politics
+aiScores:
+  quality: 6
+  value: 9
+  reasoning: >-
+    The post provides excellent historical context and cites credible academic
+    research, but the quality score is lowered because the text ends abruptly in
+    a mid-sentence cliffhanger.
+  scoredAt: '2025-12-31T05:38:23.640Z'
+  model: gemini-3-flash-preview
 ---
 You need 3.5% of people actively engaged to change society. That's it.
 

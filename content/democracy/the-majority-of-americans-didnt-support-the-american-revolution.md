@@ -24,6 +24,17 @@ metadata:
     https://thinkbynumbers.org/democracy/the-majority-of-americans-didnt-support-the-american-revolution/
 tags:
   - democracy
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post effectively uses historical data and citations to debunk a common
+    myth about the American Revolution with an engaging, modern voice. While it
+    relies on a historically debated John Adams quote, it provides high
+    educational value by illustrating how significant social change often stems
+    from a dedicated minority.
+  scoredAt: '2025-12-31T05:32:04.374Z'
+  model: gemini-3-flash-preview
 ---
 ## The Math on Revolution
 

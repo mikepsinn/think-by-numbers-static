@@ -23,6 +23,15 @@ metadata:
       /assets/infographics/economics/what-percent-of-economists-support-protectionist-tariffs-2.png
 tags:
   - economics
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post uses a strong, data-backed example to communicate a significant
+    economic consensus with clarity and punchy analogies, though it is quite
+    brief and leans heavily on repetition for effect.
+  scoredAt: '2025-12-31T05:34:01.095Z'
+  model: gemini-3-flash-preview
 ---
 Reuters polled 60 economists in March 2018 about steel and aluminum tariffs. The percent who supported them: 0%. That's zero as in the number that comes before one. Zero as in the amount of unicorns in your garage.
 

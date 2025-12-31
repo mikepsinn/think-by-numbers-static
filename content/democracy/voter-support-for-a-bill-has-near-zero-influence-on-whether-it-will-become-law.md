@@ -23,6 +23,16 @@ metadata:
     https://thinkbynumbers.org/democracy/voter-support-for-a-bill-has-near-zero-influence-on-whether-it-will-become-law/
 tags:
   - democracy
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The post effectively translates complex academic research into accessible,
+    high-impact prose using strong analogies. It provides direct links to
+    peer-reviewed sources, though the content cuts off mid-sentence in the
+    preview.
+  scoredAt: '2025-12-31T05:32:13.465Z'
+  model: gemini-3-flash-preview
 ---
 ## The Question
 

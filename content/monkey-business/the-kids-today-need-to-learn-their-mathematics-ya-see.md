@@ -22,6 +22,15 @@ metadata:
     https://thinkbynumbers.org/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see/
 tags:
   - monkey-business
+aiScores:
+  quality: 5
+  value: 2
+  reasoning: >-
+    The post is a humorous work of wordplay and satire that uses mathematical
+    terms for comedic effect, but it lacks factual educational substance and
+    provides no practical information for readers.
+  scoredAt: '2025-12-31T05:38:09.998Z'
+  model: gemini-3-flash-preview
 ---
 Bill Cosby claimed to be "hip." Mathematics, however, tells a different story. A story involving trigonometric functions and the fundamental impossibility of being both a cosine and a square simultaneously.
 

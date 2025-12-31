@@ -17,6 +17,15 @@ metadata:
     infographic: /assets/infographics/terrorism/muslims-terrorists-terrorists-muslims.png
 tags:
   - terrorism
+aiScores:
+  quality: 6
+  value: 6
+  reasoning: >-
+    The post provides useful historical data and reputable sources to challenge
+    common stereotypes, but the information is significantly outdated (ending in
+    2000) and the tone is unnecessarily condescending.
+  scoredAt: '2025-12-31T05:40:06.836Z'
+  model: gemini-3-flash-preview
 ---
 ## Suicide terrorism is not primarily Islamic fundamentalism
 

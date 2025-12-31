@@ -28,6 +28,16 @@ metadata:
     https://thinkbynumbers.org/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail/
 tags:
   - corporate-welfare
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post uses effective metaphors to simplify complex financial instruments
+    for a lay audience, though its cynical tone and dated predictions regarding
+    repayment—which was eventually completed with a profit to the Treasury—limit
+    its objective accuracy.
+  scoredAt: '2025-12-31T05:35:09.439Z'
+  model: gemini-3-flash-preview
 ---
 The average American household paid $2,000 to bail out AIG. Your bill arrived without your consent. You paid it anyway.
 

@@ -27,6 +27,17 @@ metadata:
     https://thinkbynumbers.org/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis/
 tags:
   - war
+aiScores:
+  quality: 3
+  value: 4
+  reasoning: >-
+    The post uses simplistic, juvenile language and includes a nonsensical
+    etymological breakdown of the word 'forever,' while failing to provide
+    citations for its specific financial figures or account for the vast
+    disparity in how these costs are actually distributed across the global
+    population.
+  scoredAt: '2025-12-31T05:37:52.878Z'
+  model: gemini-3-flash-preview
 ---
 
 War costs you $74,259 over your lifetime. That's not a metaphor. That's actual money taken from things you could use. Here's the math.

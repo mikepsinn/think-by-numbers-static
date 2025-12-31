@@ -24,6 +24,15 @@ metadata:
     https://thinkbynumbers.org/health/only-0-000000002-of-potential-treatments-have-been-studied/
 tags:
   - health
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post uses compelling analogies and cited data to illustrate the vastness
+    of unexplored medicine, though it ends mid-sentence and adopts a somewhat
+    cynical tone.
+  scoredAt: '2025-12-31T05:36:53.374Z'
+  model: gemini-3-flash-preview
 ---
 # What We Don't Know
 

@@ -2,7 +2,10 @@
 title: The Future of US Government Debt
 authors: []
 date: 2009-03-01T02:20:00.000Z
-description: "Debt projected to reach 350% of GDP by 2080 if policies continue unchanged. It's not a prediction; it's a math problem with one solution: something breaks."
+description: >-
+  Debt projected to reach 350% of GDP by 2080 if policies continue unchanged.
+  It's not a prediction; it's a math problem with one solution: something
+  breaks.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2009/02/Debt-to-GDP-Forecast-Chart.png
@@ -29,6 +32,15 @@ tags:
   - debt
   - gdp
   - government-spending
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post is well-written and engaging but relies on outdated 2008 GAO data
+    and ends abruptly mid-sentence, significantly hampering its completeness and
+    current accuracy.
+  scoredAt: '2025-12-31T05:31:49.498Z'
+  model: gemini-3-flash-preview
 ---
 "These are extraordinary times. We can't worry about the national debt now. We'll deal with that later."
 

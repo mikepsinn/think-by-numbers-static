@@ -20,6 +20,17 @@ metadata:
   url: 'https://thinkbynumbers.org/economics/gdp-and-you/'
 tags:
   - economics
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The writing is highly engaging and simplifies complex macroeconomic concepts
+    into digestible, relatable insights using humor and clear analogies. While
+    the data is slightly dated, it provides significant value by connecting
+    abstract economic growth to tangible improvements in human welfare and
+    personal happiness.
+  scoredAt: '2025-12-31T05:32:48.753Z'
+  model: gemini-3-flash-preview
 ---
 GDP stands for Gross Domestic Product, which sounds medical but isn't. It's the [value](https://en.wikipedia.org/wiki/Market_value "Market value") of all final goods and services produced within a country. The "gross" part means it hasn't been cleaned yet.
 

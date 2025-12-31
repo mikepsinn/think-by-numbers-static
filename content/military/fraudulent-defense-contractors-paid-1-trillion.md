@@ -25,6 +25,15 @@ metadata:
     https://thinkbynumbers.org/military/fraudulent-defense-contractors-paid-1-trillion/
 tags:
   - military
+aiScores:
+  quality: 6
+  value: 8
+  reasoning: >-
+    The post highlights a critical issue regarding government accountability
+    using verified data from official reports, but its overly sarcastic tone and
+    simplistic logic reduce its professional credibility.
+  scoredAt: '2025-12-31T05:37:34.869Z'
+  model: gemini-3-flash-preview
 ---
 
 The Pentagon paid $1.1 trillion over a decade to contractors who defrauded the government. After being convicted of crimes, they got more money. The math requires third-grade arithmetic, so the confusion is notable.

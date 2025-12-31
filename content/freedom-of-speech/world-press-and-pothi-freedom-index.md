@@ -1,6 +1,8 @@
 ---
 title: World Press (and Pothi) Freedom Index
-description: "Only 1 of 180 countries has press freedom like 1st Amendment. North Korea, Eritrea, Turkmenistan are information black holes."
+description: >-
+  Only 1 of 180 countries has press freedom like 1st Amendment. North Korea,
+  Eritrea, Turkmenistan are information black holes.
 authors: []
 date: 2012-08-06T09:28:41.000Z
 metadata:
@@ -20,6 +22,16 @@ metadata:
     https://thinkbynumbers.org/freedom-of-speech/world-press-and-pothi-freedom-index/
 tags:
   - freedom-of-speech
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post effectively humanizes the abstract concept of press freedom through
+    a compelling personal narrative and clear call to action, though the content
+    focuses more on a specific legal case than the 'Index' suggested by the
+    title.
+  scoredAt: '2025-12-31T05:34:46.313Z'
+  model: gemini-3-flash-preview
 ---
 > [![Press freedom speech propaganda poster](/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster-230x300-1407292210.jpg)](http://thinkbynumbers.org/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg)"All censorships exist to prevent anyone from challenging current conceptions and existing institutions. All progress is initiated by challenging current conceptions, and executed by supplanting existing institutions. Consequently, the first condition of progress is the removal of censorship." — [George Bernard Shaw](https://www.goodreads.com/author/show/5217.George_Bernard_Shaw)
 

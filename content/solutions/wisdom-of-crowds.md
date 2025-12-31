@@ -17,6 +17,15 @@ metadata:
     infographic: /assets/infographics/solutions/wisdom-of-crowds.png
 tags:
   - solutions
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The writing is highly engaging and effectively simplifies complex
+    sociological concepts into digestible categories, though the content is
+    truncated mid-table.
+  scoredAt: '2025-12-31T05:39:13.138Z'
+  model: gemini-3-flash-preview
 ---
 In 1906, Francis Galton went to a county fair and watched people guess the weight of an ox. The average guess was 1,197 pounds. The ox weighed 1,198 pounds. The crowd - a mob of random farmers who'd probably never weighed an ox in their lives - was off by one pound. The cattle experts were wrong by more.
 

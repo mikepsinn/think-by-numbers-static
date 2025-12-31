@@ -1,6 +1,8 @@
 ---
 title: What was the population when the United States was established?
-description: 2.5 million people created a democracy. You have 335 million who can't agree on anything.
+description: >-
+  2.5 million people created a democracy. You have 335 million who can't agree
+  on anything.
 authors: []
 date: 2019-05-22T22:16:29.000Z
 metadata:
@@ -24,6 +26,15 @@ metadata:
     https://thinkbynumbers.org/statistics/what-was-the-population-when-the-united-states-was-established/
 tags:
   - statistics
+aiScores:
+  quality: 7
+  value: 6
+  reasoning: >-
+    The post is well-written and uses a compelling analogy to frame historical
+    data, though it offers a relatively brief and simplified perspective on the
+    complexities of political scaling.
+  scoredAt: '2025-12-31T05:39:22.775Z'
+  model: gemini-3-flash-preview
 ---
 When the United States declared independence in 1776, about **2.5 million people** lived in the original 13 states. That's fewer people than currently live in Chicago.
 

@@ -23,6 +23,15 @@ metadata:
     https://thinkbynumbers.org/economics/bottled-water-costs-40x-more-why-dont-poor-areas-have-water-plants/
 tags:
   - economics
+aiScores:
+  quality: 5
+  value: 7
+  reasoning: >-
+    The post highlights an important economic paradox regarding the 'poverty
+    premium,' but it oversimplifies complex infrastructure challenges and the
+    provided text ends abruptly mid-calculation.
+  scoredAt: '2025-12-31T05:32:41.276Z'
+  model: gemini-3-flash-preview
 ---
 On Roatan (and many developing regions), people spend 40 times more buying bottled water than it would cost to just build a water plant. Why don't they build the plant? The math requires third-grade arithmetic, so the confusion is notable. It's like watching someone use a helicopter to commute one block because they haven't discovered walking yet.
 

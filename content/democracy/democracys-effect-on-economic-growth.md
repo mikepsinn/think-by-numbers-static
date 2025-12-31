@@ -23,6 +23,15 @@ metadata:
   url: 'https://thinkbynumbers.org/democracy/democracys-effect-on-economic-growth/'
 tags:
   - democracy
+aiScores:
+  quality: 5
+  value: 7
+  reasoning: >-
+    The post translates complex economic research into accessible language with
+    accurate citations, but the unprofessional tone and incomplete ending
+    significantly limit its quality.
+  scoredAt: '2025-12-31T05:31:59.644Z'
+  model: gemini-3-flash-preview
 ---
 ## Democracy: The Only Get-Rich-Quick Scheme That Actually Works
 

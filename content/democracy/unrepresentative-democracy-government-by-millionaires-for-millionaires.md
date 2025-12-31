@@ -31,6 +31,16 @@ metadata:
     https://thinkbynumbers.org/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires/
 tags:
   - democracy
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The post effectively synthesizes complex academic research into an
+    accessible, engaging format with clear analogies and factual citations. It
+    addresses a critical systemic issue regarding political representation that
+    is highly relevant to civic literacy.
+  scoredAt: '2025-12-31T05:32:09.098Z'
+  model: gemini-3-flash-preview
 ---
 ## How Democracy Is Supposed to Work
 

@@ -23,6 +23,15 @@ metadata:
     https://thinkbynumbers.org/economics/us-stock-market-grew-3-times-faster-under-obama-than-trump/
 tags:
   - economics
+aiScores:
+  quality: 4
+  value: 3
+  reasoning: >-
+    While the post presents factual data and correctly identifies the context of
+    the 2008 market crash, its brevity and highly informal tone limit its depth
+    and professional utility.
+  scoredAt: '2025-12-31T05:33:50.865Z'
+  model: gemini-3-flash-preview
 ---
 ![US Stock Market Grew 3 Times Faster Under Obama Than Trump](/wp-content/uploads/2019/06/us-stock-market-returns-under-trump-obama-480x325.png)
 

@@ -23,6 +23,16 @@ metadata:
     https://thinkbynumbers.org/government-spending/usps-uses-18-billion-in-taxpayer-subsidies-to-subsidize-junk-mail-killing-100-million-trees-and-irritating-millions/
 tags:
   - government-spending
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post effectively uses data and primary source citations to highlight an
+    important fiscal and environmental issue, though it utilizes a
+    sensationalist tone and oversimplifies the complex relationship between
+    marketing mail revenue and postal infrastructure costs.
+  scoredAt: '2025-12-31T05:36:21.043Z'
+  model: gemini-3-flash-preview
 ---
 As of 2020, the cost to you for a stamp is [$0.55](https://www.stamps.com/usps/current-postage-rates/). Junk mailers enjoy a 65% discount as the USPS bulk mail rate given to them is only [$0.19](https://www.themailshark.com/resources/blog/bulk-mail-postage-rates/).
 

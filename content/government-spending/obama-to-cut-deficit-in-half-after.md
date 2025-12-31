@@ -23,6 +23,16 @@ metadata:
     https://thinkbynumbers.org/government-spending/obama-to-cut-deficit-in-half-after/
 tags:
   - government-spending
+aiScores:
+  quality: 4
+  value: 4
+  reasoning: >-
+    While the post uses punchy analogies to effectively illustrate the concept
+    of statistical spin, it suffers from factual inaccuracies regarding
+    historical deficit numbers and lacks the necessary economic context of the
+    2008 financial crisis.
+  scoredAt: '2025-12-31T05:36:04.090Z'
+  model: gemini-3-flash-preview
 ---
 The Associated Press ran a story titled "Obama plans to slash deficit in half." This is technically true. It's also technically misleading.
 

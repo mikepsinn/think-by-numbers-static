@@ -24,6 +24,15 @@ metadata:
 tags:
   - government-spending
   - military
+aiScores:
+  quality: 6
+  value: 5
+  reasoning: >-
+    The post uses satire and clear comparisons to make complex budget data
+    accessible, though the snarky tone and lack of deep policy analysis limit
+    its overall educational value.
+  scoredAt: '2025-12-31T05:35:38.790Z'
+  model: gemini-3-flash-preview
 ---
 ## The Numbers
 

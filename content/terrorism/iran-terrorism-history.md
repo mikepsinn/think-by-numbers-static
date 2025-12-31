@@ -1,6 +1,8 @@
 ---
 title: 'Iran US Foreign Relations: A History of Violence'
-description: "0 Americans killed by Iran vs 290+ shot down in civilian airliner. US overthrew Iran's democracy in 1953 for oil."
+description: >-
+  0 Americans killed by Iran vs 290+ shot down in civilian airliner. US
+  overthrew Iran's democracy in 1953 for oil.
 authors: []
 date: 2016-08-01T17:30:49.000Z
 metadata:
@@ -34,6 +36,16 @@ metadata:
 tags:
   - terrorism
   - war
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post provides clear historical context and specific data points often
+    omitted from mainstream discourse, though its quality is lowered by a highly
+    polemical tone and the omission of significant counter-arguments regarding
+    state-sponsored proxy violence.
+  scoredAt: '2025-12-31T05:40:00.458Z'
+  model: gemini-3-flash-preview
 ---
 Many Americans believe Iran is a suicidal, psychopathic nation eager to kill as many Americans as possible.
 

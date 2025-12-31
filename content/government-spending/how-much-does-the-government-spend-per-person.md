@@ -23,6 +23,15 @@ metadata:
       /assets/infographics/government-spending/how-much-does-the-government-spend-per-person.png
 tags:
   - government-spending
+aiScores:
+  quality: 7
+  value: 6
+  reasoning: >-
+    The post is well-structured and uses engaging analogies to make fiscal data
+    accessible, though its 'per voter' metric is more of a provocative
+    rhetorical device than a standard economic measurement.
+  scoredAt: '2025-12-31T05:35:33.330Z'
+  model: gemini-3-flash-preview
 ---
 ## The Math
 

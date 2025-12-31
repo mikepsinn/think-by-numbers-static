@@ -27,6 +27,15 @@ metadata:
 tags:
   - economics
   - healthcare
+aiScores:
+  quality: 3
+  value: 5
+  reasoning: >-
+    The post contains a significant factual error regarding life expectancy
+    growth rates, repeats an entire section of text, and ends abruptly
+    mid-sentence, though the core topic of R&D costs is highly relevant.
+  scoredAt: '2025-12-31T05:33:01.386Z'
+  model: gemini-3-flash-preview
 ---
 Between 2009 and 2018, the estimated median capitalized research and development cost per product was $985 million, counting expenditures on failed trials.
 

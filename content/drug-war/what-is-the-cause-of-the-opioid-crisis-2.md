@@ -23,6 +23,16 @@ metadata:
     https://thinkbynumbers.org/drug-war/what-is-the-cause-of-the-opioid-crisis-2/
 tags:
   - drug-war
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The content provides a high-quality, data-driven analysis using reputable
+    sources (CDC, NIDA) to challenge the narrow framing of the opioid crisis,
+    offering significant public health value by highlighting broader patterns of
+    substance abuse and mental health.
+  scoredAt: '2025-12-31T05:32:23.949Z'
+  model: gemini-3-flash-preview
 ---
 
 The opioid crisis is called a "crisis" because calling it "a predictable consequence of untreated mental illness combined with prohibition-driven contaminated drug supply" doesn't fit in headlines.

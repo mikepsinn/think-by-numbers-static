@@ -14,6 +14,15 @@ tags:
   - solutions
   - empiricism
   - crowdsourcing
+aiScores:
+  quality: 6
+  value: 5
+  reasoning: >-
+    The writing is engaging and uses sharp analogies to highlight systemic
+    inefficiencies, but it suffers from extreme oversimplification and an
+    incomplete structure that stops mid-sentence.
+  scoredAt: '2025-12-31T05:31:39.334Z'
+  model: gemini-3-flash-preview
 ---
 
 # Crowdsourcing Utopia

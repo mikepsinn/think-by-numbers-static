@@ -29,6 +29,15 @@ metadata:
     https://thinkbynumbers.org/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/
 tags:
   - corporate-welfare
+aiScores:
+  quality: 6
+  value: 5
+  reasoning: >-
+    The post is clear and engaging with specific data points, but its heavy
+    reliance on sarcasm and lack of nuanced analysis regarding why these
+    policies exist limits its overall depth and educational authority.
+  scoredAt: '2025-12-31T05:35:04.326Z'
+  model: gemini-3-flash-preview
 ---
 ![Socialism for the Rich. Capitalism for the Rest.](/wp-content/uploads/2011/09/socialism-rich.jpg)
 

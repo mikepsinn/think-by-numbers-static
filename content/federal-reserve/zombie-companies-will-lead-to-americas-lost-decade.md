@@ -2,7 +2,10 @@
 title: Zombie Companies Will Lead to America's Lost Decade
 authors: []
 date: 2021-09-21T06:42:10.000Z
-description: Fed loans 0% interest to zombie companies that don't produce value. Japan's approach gave them 3 decades to recover. Volcker's alternative (1979) crashed then boomed.
+description: >-
+  Fed loans 0% interest to zombie companies that don't produce value. Japan's
+  approach gave them 3 decades to recover. Volcker's alternative (1979) crashed
+  then boomed.
 metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2021/09/ScreenClip.png'
   media:
@@ -24,6 +27,15 @@ metadata:
     https://thinkbynumbers.org/federal-reserve/zombie-companies-will-lead-to-americas-lost-decade/
 tags:
   - federal-reserve
+aiScores:
+  quality: 3
+  value: 4
+  reasoning: >-
+    The post is incomplete, ending abruptly mid-sentence, and uses highly
+    hyperbolic, biased language that undermines its credibility and educational
+    utility despite addressing relevant economic concepts.
+  scoredAt: '2025-12-31T05:34:35.012Z'
+  model: gemini-3-flash-preview
 ---
 The Fed is printing money and giving it to Zombie Companies. These are firms that don't survive by producing value for customers. They survive by borrowing at near 0% interest from the Federal Reserve, which creates this money from nothing.
 

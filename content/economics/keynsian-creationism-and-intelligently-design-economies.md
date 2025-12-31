@@ -22,6 +22,15 @@ metadata:
       /assets/infographics/economics/keynsian-creationism-and-intelligently-design-economies.png
 tags:
   - economics
+aiScores:
+  quality: 5
+  value: 5
+  reasoning: >-
+    While the post clearly explains complex adaptive systems, it is hindered by
+    grammatical errors in the title and a reductionist ideological argument that
+    mischaracterizes Keynesian economics.
+  scoredAt: '2025-12-31T05:33:37.774Z'
+  model: gemini-3-flash-preview
 ---
 The mythology of effective [Keynesian](https://en.wikipedia.org/wiki/Keynsianism) centralized economic planning is born of the same mother as the mythology of [creationist](https://en.wikipedia.org/wiki/Creationism) intelligent design.  Both of these fantasies arise as a result of the human mind’s inability to deal with complex systems.
 

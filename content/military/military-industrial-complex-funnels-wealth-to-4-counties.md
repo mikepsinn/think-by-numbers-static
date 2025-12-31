@@ -24,6 +24,15 @@ metadata:
     https://thinkbynumbers.org/military/military-industrial-complex-funnels-wealth-to-4-counties/
 tags:
   - military
+aiScores:
+  quality: 3
+  value: 4
+  reasoning: >-
+    While the post correctly identifies a real-world wealth concentration near
+    the Pentagon, the writing relies on absurdist logic and nonsensical
+    geometric analogies that diminish its credibility and educational depth.
+  scoredAt: '2025-12-31T05:37:40.271Z'
+  model: gemini-3-flash-preview
 ---
 
 The four richest counties in America all surround the Pentagon. This is either a remarkable coincidence or weapons are very profitable. I checked the math.

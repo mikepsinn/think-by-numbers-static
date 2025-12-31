@@ -27,6 +27,15 @@ tags:
   - health
   - healthcare
   - utilitarianism
+aiScores:
+  quality: 6
+  value: 8
+  reasoning: >-
+    The post effectively uses analogies to explain the trade-offs of
+    institutional incentives, though the tone is overly sarcastic and it makes
+    several bold, reductive historical claims without sufficient nuance.
+  scoredAt: '2025-12-31T05:36:38.429Z'
+  model: gemini-3-flash-preview
 ---
 ## The FDA's Mandate is Not to Maximize Lives Saved
 

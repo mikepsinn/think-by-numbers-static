@@ -2,7 +2,9 @@
 title: >-
   There's about a 0.1% Chance that COVID-19 Coincidentally Arose in Nature near
   the Wuhan Institute of Virology
-description: 0.1% chance novel coronavirus appeared near the only 5 labs studying this exact virus. Basic math meets uncomfortable facts.
+description: >-
+  0.1% chance novel coronavirus appeared near the only 5 labs studying this
+  exact virus. Basic math meets uncomfortable facts.
 authors: []
 date: 2024-03-09T12:51:44.000Z
 metadata:
@@ -21,6 +23,17 @@ metadata:
     https://thinkbynumbers.org/science/theres-about-a-0-1-chance-that-covid-19-coincidentally-arose-in-nature-near-near-the-wuhan-institute-of-virology/
 tags:
   - science
+aiScores:
+  quality: 3
+  value: 2
+  reasoning: >-
+    The post relies on a significant logical fallacy by assuming zoonotic
+    spillover is equally likely to occur on any square kilometer of Earth's
+    land, ignoring factors like population density and biodiversity. This
+    oversimplification results in a mathematically misleading conclusion that
+    lacks scientific and geographic rigor.
+  scoredAt: '2025-12-31T05:39:01.548Z'
+  model: gemini-3-flash-preview
 ---
 A novel coronavirus that kills people appeared in Wuhan, China. This city happens to contain the Wuhan Institute of Virology, one of five labs on Earth that studies novel coronaviruses.
 

@@ -23,6 +23,15 @@ metadata:
     https://thinkbynumbers.org/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar/
 tags:
   - economics
+aiScores:
+  quality: 6
+  value: 7
+  reasoning: >-
+    The post provides clear definitions of economic terms and important
+    historical context, but the text is incomplete (ending mid-sentence) and
+    adopts a highly ideological tone that may affect perceived objectivity.
+  scoredAt: '2025-12-31T05:33:24.102Z'
+  model: gemini-3-flash-preview
 ---
 ## Two Types of Inflation
 

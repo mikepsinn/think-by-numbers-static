@@ -27,6 +27,17 @@ metadata:
 tags:
   - government-spending
   - health
+aiScores:
+  quality: 5
+  value: 6
+  reasoning: >-
+    The writing is engaging and uses humor to draw interest, but it relies on
+    hyperbolic claims and questionable logic (extrapolating global brain cell
+    loss) to make its point. While the underlying message of prioritizing brain
+    research is valuable, the presentation is more clickbait-oriented than
+    scientifically rigorous.
+  scoredAt: '2025-12-31T05:36:14.874Z'
+  model: gemini-3-flash-preview
 ---
 Guess what holds the solution to every problem in the world? It's the human brain!
 

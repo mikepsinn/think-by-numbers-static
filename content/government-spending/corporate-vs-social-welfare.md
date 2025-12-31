@@ -24,6 +24,15 @@ metadata:
   url: 'https://thinkbynumbers.org/government-spending/corporate-vs-social-welfare/'
 tags:
   - government-spending
+aiScores:
+  quality: 3
+  value: 4
+  reasoning: >-
+    The post is incomplete, uses inconsistent and outdated data from 2006 and
+    2014, and relies on heavy satire rather than providing substantive
+    educational depth.
+  scoredAt: '2025-12-31T05:34:58.549Z'
+  model: gemini-3-flash-preview
 ---
 ![Corporate Welfare Piggy Bank](/wp-content/uploads/2012/11/corporate-welfare-piggy-bank.jpg)
 

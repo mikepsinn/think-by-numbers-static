@@ -19,6 +19,15 @@ metadata:
     infographic: /assets/infographics/economics/how-much-money-is-there-in-the-world-2.png
 tags:
   - economics
+aiScores:
+  quality: 6
+  value: 5
+  reasoning: >-
+    The writing is engaging and conversational, but the content conflates annual
+    economic production (GDP) with total money supply and relies on outdated
+    2017 statistics.
+  scoredAt: '2025-12-31T05:33:06.565Z'
+  model: gemini-3-flash-preview
 ---
 In 2017, humans produced [$127.8 trillion](https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html) worth of stuff (GDP). That's a lot of stuff. Where do we keep it all?
 

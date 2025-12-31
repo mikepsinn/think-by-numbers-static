@@ -13,6 +13,16 @@ metadata:
 tags:
   - empiricism
   - philosophy
+aiScores:
+  quality: 8
+  value: 8
+  reasoning: >-
+    The writing is sharp, punchy, and uses effective analogies to dismantle
+    political tribalism in favor of data-driven decision-making. It provides
+    significant intellectual value by challenging the reader to prioritize
+    empirical outcomes over emotional or ideological comfort.
+  scoredAt: '2025-12-31T05:37:24.003Z'
+  model: gemini-3-flash-preview
 ---
 
 # I Am Biased

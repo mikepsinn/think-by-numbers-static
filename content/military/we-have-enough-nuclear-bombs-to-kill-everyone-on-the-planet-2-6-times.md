@@ -25,6 +25,16 @@ metadata:
     https://thinkbynumbers.org/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times/
 tags:
   - military
+aiScores:
+  quality: 3
+  value: 4
+  reasoning: >-
+    The post contains a glaring contradiction between the title (130 times) and
+    the content (2.6 times), uses overly simplistic analogies, and presents a
+    flawed mathematical model that ignores geographical realities of nuclear
+    deployment.
+  scoredAt: '2025-12-31T05:37:58.242Z'
+  model: gemini-3-flash-preview
 ---
 
 A 10-kiloton nuclear weapon kills 1.3 million people. There are 15,000 nuclear weapons in the world. The math is third-grade level. The reasoning behind it is not.

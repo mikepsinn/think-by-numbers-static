@@ -19,6 +19,16 @@ metadata:
   url: 'https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/'
 tags:
   - government-spending
+aiScores:
+  quality: 5
+  value: 7
+  reasoning: >-
+    The post uses creative satire and engaging writing to explain complex
+    risk-assessment concepts, but it is penalized for being an incomplete
+    snippet that cuts off mid-sentence and relies on potentially dated
+    statistics.
+  scoredAt: '2025-12-31T05:35:15.669Z'
+  model: gemini-3-flash-preview
 ---
 _[![Old Man Struck by Lightning ](/wp-content/uploads/2008/03/lightning.jpg)](http://thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg)_
 

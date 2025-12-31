@@ -23,6 +23,14 @@ metadata:
 tags:
   - government-spending
   - military
+aiScores:
+  quality: 3
+  value: 4
+  reasoning: >-
+    The post is incomplete, ending abruptly mid-sentence, and relies on a mix of
+    factual claims and satirical nonsense that undermines its educational value.
+  scoredAt: '2025-12-31T05:34:52.764Z'
+  model: gemini-3-flash-preview
 ---
 http://youtu.be/XXm2yaoWyN8
 

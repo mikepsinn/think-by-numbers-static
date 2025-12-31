@@ -17,6 +17,16 @@ metadata:
   url: 'https://thinkbynumbers.org/politics/vote/'
 tags:
   - politics
+aiScores:
+  quality: 7
+  value: 6
+  reasoning: >-
+    The post uses a provocative, data-driven hook to engage readers and provides
+    clear, actionable advice on informed voting, though its initial premise
+    relies on a somewhat reductive comparison between civic duty and physical
+    risk.
+  scoredAt: '2025-12-31T05:38:33.401Z'
+  model: gemini-3-flash-preview
 ---
 # Should You Vote?
 

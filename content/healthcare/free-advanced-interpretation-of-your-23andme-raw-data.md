@@ -24,6 +24,17 @@ metadata:
     https://thinkbynumbers.org/healthcare/free-advanced-interpretation-of-your-23andme-raw-data/
 tags:
   - healthcare
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The post is well-structured, clear, and provides credible citations to
+    support its arguments while offering highly actionable resources. It
+    empowers readers with specific, free tools to access and interpret their own
+    health data, effectively bypassing complex regulatory and institutional
+    delays.
+  scoredAt: '2025-12-31T05:37:12.793Z'
+  model: gemini-3-flash-preview
 ---
 You paid 23andMe for your genetic data. The FDA then [restricted](https://en.wikipedia.org/wiki/23andMe#FDA) what 23andMe can tell you about your own DNA. It's like buying a book and having the government black out most of the pages to protect you from dangerous information about yourself.
 

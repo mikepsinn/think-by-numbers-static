@@ -23,6 +23,15 @@ metadata:
 tags:
   - government-spending
   - military
+aiScores:
+  quality: 4
+  value: 3
+  reasoning: >-
+    While the post effectively uses data visualization to highlight budget
+    disparities, the writing is highly inflammatory and hyperbolic, offering a
+    simplistic '3-step plan' for complex geopolitical issues.
+  scoredAt: '2025-12-31T05:35:55.635Z'
+  model: gemini-3-flash-preview
 ---
 Dear Decent American Citizen,
 

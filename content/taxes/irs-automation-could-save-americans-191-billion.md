@@ -2,7 +2,10 @@
 title: IRS Automation Could Save Americans $191 Billion
 authors: []
 date: 2024-08-31T08:00:15.000Z
-description: IRS already has your data; automating returns could save $191 billion. Instead, they make you spend 13 hours transcribing what they know and threaten prison if you miscalculate.
+description: >-
+  IRS already has your data; automating returns could save $191 billion.
+  Instead, they make you spend 13 hours transcribing what they know and threaten
+  prison if you miscalculate.
 metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2024/08/irs.png'
   media:
@@ -22,6 +25,15 @@ metadata:
     https://thinkbynumbers.org/taxes/irs-automation-could-save-americans-191-billion/
 tags:
   - taxes
+aiScores:
+  quality: 8
+  value: 9
+  reasoning: >-
+    The post effectively uses punchy analogies and data-driven arguments to
+    simplify a complex economic issue, making a highly relevant topic accessible
+    to a general audience.
+  scoredAt: '2025-12-31T05:39:43.136Z'
+  model: gemini-3-flash-preview
 ---
 The IRS already knows how much you owe. Your employer tells them. Your bank tells them. Everyone tells them everything.
 

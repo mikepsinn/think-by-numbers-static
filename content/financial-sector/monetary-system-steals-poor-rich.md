@@ -2,7 +2,10 @@
 title: How the US Monetary System Steals from the Poor and Gives to the Rich
 authors: []
 date: 2011-10-05T22:28:48.000Z
-description: Banking system mechanism transfers wealth from those at bottom to those at top through inflation and fiat money creation. Watch how the con works in this explainer.
+description: >-
+  Banking system mechanism transfers wealth from those at bottom to those at top
+  through inflation and fiat money creation. Watch how the con works in this
+  explainer.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/10/featured-image-monetary-system-steals-from-poor.jpg
@@ -25,6 +28,16 @@ metadata:
     https://thinkbynumbers.org/financial-sector/monetary-system-steals-poor-rich/
 tags:
   - financial-sector
+aiScores:
+  quality: 3
+  value: 7
+  reasoning: >-
+    The post lacks original written depth or analysis, serving merely as a brief
+    introduction to a video embed, though the subject of how monetary policy
+    influences wealth inequality is a highly valuable topic for public
+    understanding.
+  scoredAt: '2025-12-31T05:34:40.949Z'
+  model: gemini-3-flash-preview
 ---
 Required viewing for anyone who does not yet understand the complicated mechanism by which the banking system transfers wealth from those at the bottom to those at the top.
 

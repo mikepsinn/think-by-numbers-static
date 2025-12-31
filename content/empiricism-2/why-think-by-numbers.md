@@ -1,6 +1,8 @@
 ---
 title: Why Think by Numbers?
-description: 70% of voters don't know how much government spends on anything. Your lizard brain beats your rational cortex 206 times per day.
+description: >-
+  70% of voters don't know how much government spends on anything. Your lizard
+  brain beats your rational cortex 206 times per day.
 authors: []
 date: 2013-06-25T23:34:02.000Z
 metadata:
@@ -17,6 +19,16 @@ metadata:
   url: 'https://thinkbynumbers.org/empiricism-2/why-think-by-numbers/'
 tags:
   - empiricism
+aiScores:
+  quality: 5
+  value: 6
+  reasoning: >-
+    While the post effectively promotes the importance of numeracy and rational
+    decision-making, it relies on the scientifically outdated Triune Brain model
+    and uses hyperbolic, reductive rhetoric that oversimplifies human
+    psychology.
+  scoredAt: '2025-12-31T05:34:18.741Z'
+  model: gemini-3-flash-preview
 ---
 ### Numbers cannot lie.
 

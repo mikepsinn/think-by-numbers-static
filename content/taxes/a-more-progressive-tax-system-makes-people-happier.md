@@ -2,7 +2,10 @@
 title: A More Progressive Tax System Makes People Happier
 authors: []
 date: 2011-09-09T03:49:26.000Z
-description: Study of 59,634 people in 54 countries proves progressive taxes make people happier—they report better life satisfaction and respect than flat-tax countries.
+description: >-
+  Study of 59,634 people in 54 countries proves progressive taxes make people
+  happier—they report better life satisfaction and respect than flat-tax
+  countries.
 metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg'
   media:
@@ -24,6 +27,17 @@ metadata:
     https://thinkbynumbers.org/taxes/a-more-progressive-tax-system-makes-people-happier/
 tags:
   - taxes
+aiScores:
+  quality: 6
+  value: 8
+  reasoning: >-
+    The post effectively communicates complex psychological research in an
+    accessible way, though it loses points for an abrupt, incomplete ending and
+    a somewhat dismissive tone toward opposing views. The information is highly
+    valuable for understanding the societal impacts of fiscal policy beyond
+    simple economics.
+  scoredAt: '2025-12-31T05:39:33.491Z'
+  model: gemini-3-flash-preview
 ---
 ![Smiley Money Face](/wp-content/uploads/2011/09/SmileyMoneyFace-44x44.jpg)
 

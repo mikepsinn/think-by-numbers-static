@@ -46,6 +46,16 @@ metadata:
 tags:
   - government-spending
   - podcast
+aiScores:
+  quality: 4
+  value: 3
+  reasoning: >-
+    The post is significantly outdated as it discusses the 2012 GOP primary, and
+    the use of sensationalist titles like 'EXPOSED!!!' detracts from its
+    credibility, though it provides a basic overview of inflation-related
+    economic theory.
+  scoredAt: '2025-12-31T05:36:09.815Z'
+  model: gemini-3-flash-preview
 ---
 GOP Candidate Ron Paul has produced a detailed budget containing over [$1 trillion](http://www.campaignforliberty.org/the-issues/ron-paul-plan-to-restore-america/) in first-year reductions. Mitt Romney, Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of [$20 billion](https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effect_on_national_spending) a year.
 

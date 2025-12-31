@@ -22,6 +22,16 @@ metadata:
       /assets/infographics/taxes/how-much-does-the-average-american-pay-in-taxes.png
 tags:
   - taxes
+aiScores:
+  quality: 7
+  value: 8
+  reasoning: >-
+    The post excels at simplifying complex macroeconomic concepts and making
+    them accessible, though its data points are several years out of date. It
+    provides significant value by explaining the gap between personal tax
+    contributions and total government spending.
+  scoredAt: '2025-12-31T05:39:38.455Z'
+  model: gemini-3-flash-preview
 ---
 The average American household pays [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) in "personal taxes" each year. This represents [14% of average household income](https://en.wikipedia.org/wiki/Household_income_in_the_United_States).
 

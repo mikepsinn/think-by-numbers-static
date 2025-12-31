@@ -26,6 +26,15 @@ metadata:
     https://thinkbynumbers.org/healthcare/depression-rates-correlate-highly-with-changes-in-diet-and-autoimmune-disease/
 tags:
   - healthcare
+aiScores:
+  quality: 4
+  value: 5
+  reasoning: >-
+    While the post addresses an important emerging topic in nutritional
+    psychiatry, it relies on oversimplified correlations and hyperbolic
+    language, and the provided text is incomplete.
+  scoredAt: '2025-12-31T05:37:07.259Z'
+  model: gemini-3-flash-preview
 ---
 The US suicide rate jumped 40% over the last 20 years. Turns out when you replace vegetables with fried oil and your immune system with constant inflammation, your brain stops making the chemicals that prevent you from wanting to die. The math is third-grade level. The confusion is notable.
 
