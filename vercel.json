@@ -146,11 +146,6 @@
       "source": "/2012/01",
       "destination": "/",
       "permanent": true
-    },
-    {
-      "source": "/:year/:month",
-      "destination": "/",
-      "permanent": true
     }
   ],
   "headers": [
