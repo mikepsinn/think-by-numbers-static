@@ -20,14 +20,18 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 5
-  value: 7
+  quality: 8
+  value: 9
   reasoning: >-
-    The post uses creative satire and engaging writing to explain complex
-    risk-assessment concepts, but it is penalized for being an incomplete
-    snippet that cuts off mid-sentence and relies on potentially dated
-    statistics.
-  scoredAt: '2025-12-31T05:35:15.669Z'
+    This post utilizes a classic public choice critique to expose a massive
+    misallocation of resources. By highlighting the astronomical disparity
+    between anti-terrorism spending ($500M per death) and medical research ($10k
+    per death), it identifies a 'Security-Industrial Complex' failure where
+    political incentives prioritize low-probability, high-emotion threats over
+    actual median health outcomes. Shifting these resources toward high-ROI
+    health interventions or returning wealth to the private sector would
+    significantly increase global median wellbeing.
+  scoredAt: '2025-12-31T05:44:56.185Z'
   model: gemini-3-flash-preview
 ---
 _[![Old Man Struck by Lightning ](/wp-content/uploads/2008/03/lightning.jpg)](http://thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg)_

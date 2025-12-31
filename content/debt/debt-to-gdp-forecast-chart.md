@@ -33,14 +33,20 @@ tags:
   - gdp
   - government-spending
 aiScores:
-  quality: 6
-  value: 7
+  quality: 4
+  value: 3
   reasoning: >-
-    The post is well-written and engaging but relies on outdated 2008 GAO data
-    and ends abruptly mid-sentence, significantly hampering its completeness and
-    current accuracy.
-  scoredAt: '2025-12-31T05:31:49.498Z'
+    The analysis is based on a 2008 GAO report, which triggers the 'dated stats'
+    penalty (max 5/10). While the underlying logic of the debt spiral is sound,
+    the data is nearly 16 years old; current US debt-to-GDP has already
+    surpassed many of these older projections, making the content feel like a
+    historical artifact rather than a modern exposé. It lacks actionable steps
+    for the reader to mitigate personal risk from this wealth-extraction
+    mechanism.
+  scoredAt: '2025-12-31T05:48:03.881Z'
   model: gemini-3-flash-preview
+  length: 4363
+  imageCount: 1
 ---
 "These are extraordinary times. We can't worry about the national debt now. We'll deal with that later."
 

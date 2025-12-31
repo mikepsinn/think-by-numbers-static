@@ -23,13 +23,18 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 5
-  value: 5
+  quality: 8
+  value: 9
   reasoning: >-
-    While the post clearly explains complex adaptive systems, it is hindered by
-    grammatical errors in the title and a reductionist ideological argument that
-    mischaracterizes Keynesian economics.
-  scoredAt: '2025-12-31T05:33:37.774Z'
+    This piece utilizes a powerful, counter-intuitive analogy to expose the
+    fundamental flaw in central planning: the 'pretense of knowledge.' By
+    framing Keynesian intervention as a form of 'Creationism,' it highlights how
+    top-down manipulation of interest rates and 'zombie company' bailouts
+    prevents the healthy, bottom-up evolution of the economy. It is highly
+    relevant today as the Federal Reserve's attempts to 'design' a soft landing
+    often result in the wealth extraction of the many to subsidize the
+    inefficiency of the few.
+  scoredAt: '2025-12-31T05:48:37.049Z'
   model: gemini-3-flash-preview
 ---
 The mythology of effective [Keynesian](https://en.wikipedia.org/wiki/Keynsianism) centralized economic planning is born of the same mother as the mythology of [creationist](https://en.wikipedia.org/wiki/Creationism) intelligent design.  Both of these fantasies arise as a result of the human mind’s inability to deal with complex systems.

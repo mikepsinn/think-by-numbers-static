@@ -20,14 +20,17 @@ metadata:
 tags:
   - empiricism
 aiScores:
-  quality: 5
-  value: 6
+  quality: 4
+  value: 3
   reasoning: >-
-    While the post effectively promotes the importance of numeracy and rational
-    decision-making, it relies on the scientifically outdated Triune Brain model
-    and uses hyperbolic, reductive rhetoric that oversimplifies human
-    psychology.
-  scoredAt: '2025-12-31T05:34:18.741Z'
+    While the premise of data-driven decision-making is essential for optimal
+    policy, the content relies on the 'Triune Brain' theory, which is
+    scientifically dated and largely considered a myth in modern neuroscience.
+    The text identifies human irrationality but fails to expose a specific
+    harmful policy or mechanism of wealth extraction. It lacks actionable data
+    or contemporary examples to drive the mission of increasing median
+    wealth/health.
+  scoredAt: '2025-12-31T05:49:27.256Z'
   model: gemini-3-flash-preview
 ---
 ### Numbers cannot lie.

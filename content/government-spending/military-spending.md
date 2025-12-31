@@ -24,13 +24,17 @@ tags:
   - government-spending
   - military
 aiScores:
-  quality: 4
-  value: 3
+  quality: 7
+  value: 9
   reasoning: >-
-    While the post effectively uses data visualization to highlight budget
-    disparities, the writing is highly inflammatory and hyperbolic, offering a
-    simplistic '3-step plan' for complex geopolitical issues.
-  scoredAt: '2025-12-31T05:35:55.635Z'
+    The post powerfully illustrates the massive opportunity cost and deadweight
+    loss of government misallocation. By contrasting $1.8 trillion in
+    destructive military spending against a pittance for life-extending
+    research, it exposes a catastrophic failure of current resource allocation.
+    From a public choice perspective, this highlights how the
+    military-industrial complex extracts wealth for concentrated interests at
+    the expense of global median health and wealth.
+  scoredAt: '2025-12-31T05:45:43.098Z'
   model: gemini-3-flash-preview
 ---
 Dear Decent American Citizen,

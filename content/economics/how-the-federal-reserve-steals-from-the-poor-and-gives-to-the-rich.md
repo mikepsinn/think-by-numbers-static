@@ -32,14 +32,19 @@ tags:
   - federal-reserve
   - financial-sector
 aiScores:
-  quality: 4
-  value: 5
+  quality: 8
+  value: 9
   reasoning: >-
-    The post uses provocative, non-neutral language and memes to present a
-    complex economic decoupling through a single ideological lens, failing to
-    account for other significant factors like globalization, automation, and
-    labor policy.
-  scoredAt: '2025-12-31T05:33:13.195Z'
+    The content effectively illustrates the 'Cantillon Effect'—the systemic
+    mechanism where those closest to the point of money creation (large
+    financial institutions) extract wealth from the general population through
+    currency debasement. By highlighting the 1971 decoupling of productivity and
+    wages, it provides a clear historical anchor for the stagnation of the
+    middle class. This is critically relevant today as high inflation and
+    interest rate cycles continue to disproportionately affect median wealth,
+    making the exposure of monetary policy as a tool for wealth redistribution
+    highly actionable for public awareness.
+  scoredAt: '2025-12-31T05:48:07.425Z'
   model: gemini-3-flash-preview
 ---
 Prior to 1971, productivity growth was very closely tied to wage growth. However, around 1971, there was a stark and sudden decoupling between productivity and wages.

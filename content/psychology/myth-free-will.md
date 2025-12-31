@@ -30,13 +30,17 @@ metadata:
 tags:
   - psychology
 aiScores:
-  quality: 5
-  value: 7
+  quality: 4
+  value: 2
   reasoning: >-
-    The post explains a complex neuroscientific concept using engaging analogies
-    and clear language, but it is incomplete, ending abruptly mid-sentence,
-    which significantly detracts from its overall quality.
-  scoredAt: '2025-12-31T05:38:43.848Z'
+    While the post challenges the status quo of human agency, it fails to
+    provide any actionable insights for public policy or resource allocation.
+    From a public choice perspective, it ignores how deterministic views might
+    influence incentive structures or legal frameworks. Furthermore, the text is
+    incomplete and lacks a connection to wealth creation, health optimization,
+    or the exposure of government failure, potentially promoting a fatalism that
+    undermines individual economic initiative.
+  scoredAt: '2025-12-31T05:49:15.235Z'
   model: gemini-3-flash-preview
 ---
 Your brain decided you would read this sentence 10 seconds before "you" did.

@@ -21,16 +21,21 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 7
-  value: 8
+  quality: 4
+  value: 3
   reasoning: >-
-    The writing is highly engaging and simplifies complex macroeconomic concepts
-    into digestible, relatable insights using humor and clear analogies. While
-    the data is slightly dated, it provides significant value by connecting
-    abstract economic growth to tangible improvements in human welfare and
-    personal happiness.
-  scoredAt: '2025-12-31T05:32:48.753Z'
+    The content relies on significantly outdated statistics (World population
+    passed 8 billion, not 7.3 billion) and dated studies. The $75,000 happiness
+    plateau mentioned (Kahneman & Deaton, 2010) has been largely superseded by
+    more recent research (Killingsworth, 2021) showing happiness continues to
+    rise with income. Critically, it focuses on 'Average GDP' which masks the
+    wealth extraction/inequality issues the mission seeks to expose; it fails to
+    address the 'median' experience or specific harmful policies, functioning
+    more as a 2010-era blog post than a contemporary exposé.
+  scoredAt: '2025-12-31T05:49:25.150Z'
   model: gemini-3-flash-preview
+  length: 10032
+  imageCount: 1
 ---
 GDP stands for Gross Domestic Product, which sounds medical but isn't. It's the [value](https://en.wikipedia.org/wiki/Market_value "Market value") of all final goods and services produced within a country. The "gross" part means it hasn't been cleaned yet.
 

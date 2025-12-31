@@ -24,13 +24,18 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 7
-  value: 6
+  quality: 8
+  value: 9
   reasoning: >-
-    The post is well-structured and uses engaging analogies to make fiscal data
-    accessible, though its 'per voter' metric is more of a provocative
-    rhetorical device than a standard economic measurement.
-  scoredAt: '2025-12-31T05:35:33.330Z'
+    The post effectively applies the principle of opportunity cost to expose the
+    massive scale of resource misallocation within the status quo. By
+    translating abstract trillions into a tangible 'per voter' cost, it
+    highlights the state's extraction of individual capital that could otherwise
+    be used to maximize median wealth and retirement security. This framing
+    shifts the narrative from 'public service' to 'capital drain,' providing a
+    clear public choice critique of centralized spending versus individual
+    agency.
+  scoredAt: '2025-12-31T05:45:16.512Z'
   model: gemini-3-flash-preview
 ---
 ## The Math

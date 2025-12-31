@@ -28,14 +28,18 @@ metadata:
 tags:
   - war
 aiScores:
-  quality: 5
-  value: 7
+  quality: 8
+  value: 9
   reasoning: >-
-    The post effectively uses irony and stark statistics to communicate the
-    human and financial scale of the Iraq War, but it is technically
-    incomplete—ending mid-sentence—and adopts a highly polemical tone that
-    simplifies complex geopolitical issues.
-  scoredAt: '2025-12-31T05:37:47.200Z'
+    The post highlights a massive misallocation of resources and the extreme
+    opportunity costs of state-sponsored violence. By contrasting the $3
+    trillion cost with the potential to end world hunger, it exposes the
+    catastrophic inefficiency of government 'investment' in destruction over
+    human capital. The mention of $9 billion in 'disappeared' funds perfectly
+    illustrates public choice theory concerns regarding lack of accountability
+    and bureaucratic waste, directly challenging the status quo of the
+    military-industrial complex.
+  scoredAt: '2025-12-31T05:47:52.957Z'
   model: gemini-3-flash-preview
 ---
 

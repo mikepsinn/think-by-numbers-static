@@ -25,13 +25,18 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 3
-  value: 4
+  quality: 6
+  value: 8
   reasoning: >-
-    The post is incomplete, uses inconsistent and outdated data from 2006 and
-    2014, and relies on heavy satire rather than providing substantive
-    educational depth.
-  scoredAt: '2025-12-31T05:34:58.549Z'
+    The post effectively identifies a massive misallocation of resources and a
+    classic public choice failure: rent-seeking via corporate welfare. By
+    highlighting that taxpayer-funded subsidies to corporations (concentrated
+    benefits) exceed certain social safety nets (diffuse costs), it exposes how
+    regulatory capture extracts wealth from the median citizen to benefit
+    politically connected elites. While the satirical tone is high-impact for
+    shifting public opinion, the data is outdated (citing 2006 and 2012
+    figures), which slightly diminishes its utility for current policy advocacy.
+  scoredAt: '2025-12-31T05:44:37.078Z'
   model: gemini-3-flash-preview
 ---
 ![Corporate Welfare Piggy Bank](/wp-content/uploads/2012/11/corporate-welfare-piggy-bank.jpg)

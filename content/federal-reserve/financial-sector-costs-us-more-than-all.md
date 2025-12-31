@@ -49,13 +49,18 @@ tags:
   - financial-sector
   - gdp
 aiScores:
-  quality: 5
-  value: 6
+  quality: 4
+  value: 5
   reasoning: >-
-    The post provides clear data-driven comparisons regarding the growth of the
-    financial sector, but the text is severely dated, ends mid-sentence, and
-    oversimplifies complex financial functions as mere 'paper shuffling'.
-  scoredAt: '2025-12-31T05:34:29.955Z'
+    The core thesis—financialization as a form of rent-seeking that extracts
+    wealth from the productive economy—is essential for understanding median
+    wealth stagnation. However, the data is severely dated (2007/2009),
+    triggering the 'dated stats' penalty. While the mechanism of
+    'money-shuffling' is a timeless critique of resource misallocation, using
+    15-year-old figures weakens the current actionable impact and ignores
+    post-2008 regulatory shifts and the more recent 2020-2024 inflationary
+    environment.
+  scoredAt: '2025-12-31T05:49:23.866Z'
   model: gemini-3-flash-preview
 ---
 The financial sector receives more of the average paycheck than any other sector of the economy.  Its share of the economy totals $2 trillion dollars.

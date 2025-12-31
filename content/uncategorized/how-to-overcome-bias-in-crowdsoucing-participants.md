@@ -5,8 +5,18 @@ description: >-
   filters crowdsourcing bias by removing people who guess wrong.
 authors: []
 date: 2012-11-24T23:15:44.000Z
-tags: [crowdsourcing, bias, economics, democracy, decision-making, voting, methodology, research]
-categories: [research, methodology]
+tags:
+  - crowdsourcing
+  - bias
+  - economics
+  - democracy
+  - decision-making
+  - voting
+  - methodology
+  - research
+categories:
+  - research
+  - methodology
 metadata:
   categories:
     - research
@@ -22,6 +32,15 @@ metadata:
       /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
     infographic: >-
       /assets/infographics/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
+aiScores:
+  quality: 8
+  value: 8
+  reasoning: >-
+    The writing is highly engaging and effectively simplifies complex economic
+    theories like rational ignorance and systematic bias, though the text is
+    truncated mid-sentence.
+  scoredAt: '2025-12-31T05:40:32.895Z'
+  model: gemini-3-flash-preview
 ---
 Your vote in a presidential election has approximately the same probability of changing the outcome as winning the lottery seven times in a row, being struck by lightning twice, and getting a royal flush in poker - all on the same day.
 

@@ -29,14 +29,18 @@ metadata:
 tags:
   - corporate-welfare
 aiScores:
-  quality: 6
-  value: 7
+  quality: 7
+  value: 8
   reasoning: >-
-    The post uses effective metaphors to simplify complex financial instruments
-    for a lay audience, though its cynical tone and dated predictions regarding
-    repayment—which was eventually completed with a profit to the Treasury—limit
-    its objective accuracy.
-  scoredAt: '2025-12-31T05:35:09.439Z'
+    The post effectively utilizes the 'diffuse costs, concentrated benefits'
+    framework of public choice theory by translating a massive headline figure
+    into a relatable $2,000-per-household cost. It exposes the moral hazard and
+    wealth extraction inherent in 'too big to fail' policies, though it loses
+    slight points for using dated 2011 figures regarding repayment. By framing
+    the bailout as a forced socialization of private losses, it challenges the
+    status quo of regulatory capture and advocates for market discipline, which
+    is essential for long-term median wealth preservation.
+  scoredAt: '2025-12-31T05:44:49.522Z'
   model: gemini-3-flash-preview
 ---
 The average American household paid $2,000 to bail out AIG. Your bill arrived without your consent. You paid it anyway.

@@ -35,13 +35,16 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 6
-  value: 5
+  quality: 7
+  value: 8
   reasoning: >-
-    The post presents factual historical data regarding TARP and campaign
-    finance in a clear, readable format, but uses a highly editorialized, snarky
-    tone and the content is significantly outdated.
-  scoredAt: '2025-12-31T05:35:49.851Z'
+    This post effectively illustrates regulatory capture and the 'moral hazard'
+    inherent in the 'too big to fail' doctrine. By highlighting how both major
+    party candidates received significant funding from the very institutions
+    they bailed out, it exposes the mechanism of wealth extraction from
+    taxpayers to the financial elite, which directly erodes median wealth and
+    market discipline.
+  scoredAt: '2025-12-31T05:45:35.101Z'
   model: gemini-3-flash-preview
 ---
 The Wall Street banks that funded Obama in 2008 switched to Romney in 2012.

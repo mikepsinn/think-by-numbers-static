@@ -25,15 +25,17 @@ metadata:
 tags:
   - healthcare
 aiScores:
-  quality: 8
-  value: 9
+  quality: 9
+  value: 8
   reasoning: >-
-    The post is well-structured, clear, and provides credible citations to
-    support its arguments while offering highly actionable resources. It
-    empowers readers with specific, free tools to access and interpret their own
-    health data, effectively bypassing complex regulatory and institutional
-    delays.
-  scoredAt: '2025-12-31T05:37:12.793Z'
+    This post identifies a textbook case of regulatory capture and paternalism
+    where the FDA restricts individual access to private information. By
+    highlighting the 17-year institutional lag in medical research adoption, it
+    exposes a massive systemic inefficiency. Providing decentralized, free tools
+    to bypass these state-enforced bottlenecks empowers individuals to optimize
+    their own human capital (health) and reduces the deadweight loss caused by
+    information asymmetry and rent-seeking intermediaries.
+  scoredAt: '2025-12-31T05:47:15.021Z'
   model: gemini-3-flash-preview
 ---
 You paid 23andMe for your genetic data. The FDA then [restricted](https://en.wikipedia.org/wiki/23andMe#FDA) what 23andMe can tell you about your own DNA. It's like buying a book and having the government black out most of the pages to protect you from dangerous information about yourself.

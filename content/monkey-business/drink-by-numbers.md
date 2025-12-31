@@ -19,13 +19,15 @@ metadata:
 tags:
   - monkey-business
 aiScores:
-  quality: 5
-  value: 3
+  quality: 2
+  value: 1
   reasoning: >-
-    The writing is clear and humorously engaging, but the post lacks actual data
-    to support its scientific claims and includes broken legacy HTML code, which
-    detracts from its professional presentation and educational utility.
-  scoredAt: '2025-12-31T05:38:04.110Z'
+    This content is purely entertainment and fails to address systemic issues
+    such as regulatory capture, wealth extraction, or market inefficiencies. It
+    offers no actionable policy insights and does not contribute to the
+    optimization of public resources or the improvement of median global health,
+    wealth, or happiness.
+  scoredAt: '2025-12-31T05:48:15.502Z'
   model: gemini-3-flash-preview
 ---
 Anheuser-Busch got caught watering down beer to boost profits. I decided to investigate using science, which is like regular investigation but with more expensive machines that go beep.

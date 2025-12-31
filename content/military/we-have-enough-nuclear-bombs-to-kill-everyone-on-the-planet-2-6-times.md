@@ -26,14 +26,17 @@ metadata:
 tags:
   - military
 aiScores:
-  quality: 3
-  value: 4
+  quality: 5
+  value: 8
   reasoning: >-
-    The post contains a glaring contradiction between the title (130 times) and
-    the content (2.6 times), uses overly simplistic analogies, and presents a
-    flawed mathematical model that ignores geographical realities of nuclear
-    deployment.
-  scoredAt: '2025-12-31T05:37:58.242Z'
+    The post effectively exposes a massive government resource misallocation
+    ($8.63 trillion opportunity cost) and highlights the irrationality of
+    'overkill'—a textbook public choice failure where concentrated defense
+    interests override global median wealth and safety. However, the significant
+    mathematical inconsistency between the title (130x) and the text (2.6x),
+    combined with an overly juvenile explanation of the mechanics, diminishes
+    its credibility for serious policy advocacy.
+  scoredAt: '2025-12-31T05:48:08.962Z'
   model: gemini-3-flash-preview
 ---
 

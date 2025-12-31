@@ -28,15 +28,19 @@ tags:
   - government-spending
   - health
 aiScores:
-  quality: 5
-  value: 6
+  quality: 7
+  value: 8
   reasoning: >-
-    The writing is engaging and uses humor to draw interest, but it relies on
-    hyperbolic claims and questionable logic (extrapolating global brain cell
-    loss) to make its point. While the underlying message of prioritizing brain
-    research is valuable, the presentation is more clickbait-oriented than
-    scientifically rigorous.
-  scoredAt: '2025-12-31T05:36:14.874Z'
+    The post effectively identifies a massive government failure in resource
+    allocation, highlighting that spending priorities are decoupled from actual
+    risk profiles (162x military vs. brain research). From a public choice
+    perspective, this exposes how the military-industrial complex captures
+    resources that could otherwise be used to preserve human capital—the
+    ultimate source of wealth and innovation. By framing brain health as the
+    'solution to every problem,' it provides a compelling, if slightly
+    hyperbolic, case for shifting public policy away from low-ROI security
+    theater toward high-ROI cognitive preservation.
+  scoredAt: '2025-12-31T05:46:00.856Z'
   model: gemini-3-flash-preview
 ---
 Guess what holds the solution to every problem in the world? It's the human brain!

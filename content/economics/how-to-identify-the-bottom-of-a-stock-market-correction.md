@@ -27,13 +27,18 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 4
-  value: 5
+  quality: 5
+  value: 6
   reasoning: >-
-    The post explains basic market fundamentals clearly but suffers from
-    repetitive phrasing, grammatical errors, and a superficial analysis that
-    lacks the technical depth promised by the title.
-  scoredAt: '2025-12-31T05:33:18.588Z'
+    The mechanism described—comparing the S&P 500 index to actual corporate
+    profits after tax—is a classic and highly effective way to identify
+    speculative bubbles and wealth extraction. However, the provided content is
+    based on stats from April 2020 (as seen in the image path). Per the
+    instructions, dated stats cap the quality score at 5/10. While the logic is
+    sound for helping the 'median' person avoid buying at the peak of a
+    herd-driven cycle, the analysis requires current 2024 data to be fully
+    actionable for maximizing wealth in the present market.
+  scoredAt: '2025-12-31T05:48:14.770Z'
   model: gemini-3-flash-preview
 ---
 ## Why isn’t a share of stock just a worthless piece of paper?

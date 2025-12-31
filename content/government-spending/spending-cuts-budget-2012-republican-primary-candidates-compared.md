@@ -47,14 +47,16 @@ tags:
   - government-spending
   - podcast
 aiScores:
-  quality: 4
-  value: 3
+  quality: 7
+  value: 8
   reasoning: >-
-    The post is significantly outdated as it discusses the 2012 GOP primary, and
-    the use of sensationalist titles like 'EXPOSED!!!' detracts from its
-    credibility, though it provides a basic overview of inflation-related
-    economic theory.
-  scoredAt: '2025-12-31T05:36:09.815Z'
+    The post effectively exposes the 'inflation tax' as a form of hidden wealth
+    extraction that disproportionately harms the median individual's purchasing
+    power. By correctly identifying that spending—not just explicit
+    taxation—represents the true burden of government, it challenges the status
+    quo of 'sneaky' fiscal policy and provides a clear public choice framework
+    for evaluating political budget claims.
+  scoredAt: '2025-12-31T05:45:54.898Z'
   model: gemini-3-flash-preview
 ---
 GOP Candidate Ron Paul has produced a detailed budget containing over [$1 trillion](http://www.campaignforliberty.org/the-issues/ron-paul-plan-to-restore-america/) in first-year reductions. Mitt Romney, Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of [$20 billion](https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effect_on_national_spending) a year.

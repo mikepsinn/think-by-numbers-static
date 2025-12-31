@@ -33,15 +33,20 @@ tags:
   - debt
   - taxes
 aiScores:
-  quality: 7
-  value: 6
+  quality: 3
+  value: 2
   reasoning: >-
-    The post effectively translates complex fiscal data from reputable sources
-    into accessible analogies, though its tone is highly editorialized and the
-    information is now primarily of historical interest rather than current
-    utility.
-  scoredAt: '2025-12-31T05:31:44.715Z'
+    The content is over 12 years old, focusing on the 2012 Republican primary
+    candidates and their specific tax plans. Per the strict timeliness
+    constraints, topics involving politicians or elections older than 5 years
+    are capped at a maximum of 4/10. While the mechanism of exposing the gap
+    between 'fiscal conservative' rhetoric and debt-increasing policy is useful,
+    the data is entirely obsolete and lacks current actionable value for voters
+    or citizens today.
+  scoredAt: '2025-12-31T05:47:56.571Z'
   model: gemini-3-flash-preview
+  length: 4258
+  imageCount: 1
 ---
 Here's a fun game called "Spot the Fiscal Conservative."
 

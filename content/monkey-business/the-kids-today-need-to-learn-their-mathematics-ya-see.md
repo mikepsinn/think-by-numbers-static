@@ -23,13 +23,15 @@ metadata:
 tags:
   - monkey-business
 aiScores:
-  quality: 5
-  value: 2
+  quality: 2
+  value: 1
   reasoning: >-
-    The post is a humorous work of wordplay and satire that uses mathematical
-    terms for comedic effect, but it lacks factual educational substance and
-    provides no practical information for readers.
-  scoredAt: '2025-12-31T05:38:09.998Z'
+    This content is a humorous linguistic diversion that fails to address wealth
+    extraction, regulatory capture, or public policy. From a public choice
+    perspective, it represents a misallocation of cognitive resources, providing
+    zero actionable insights for improving median global wellbeing or correcting
+    market failures.
+  scoredAt: '2025-12-31T05:48:21.488Z'
   model: gemini-3-flash-preview
 ---
 Bill Cosby claimed to be "hip." Mathematics, however, tells a different story. A story involving trigonometric functions and the fundamental impossibility of being both a cosine and a square simultaneously.

@@ -1,6 +1,8 @@
 ---
 title: How Much Direct Suffering Is Caused by Various Animal Foods?
-description: Farmed catfish causes 20,000 times more suffering than milk per kg. The math is third grade, but your dinner choices remain catastrophic.
+description: >-
+  Farmed catfish causes 20,000 times more suffering than milk per kg. The math
+  is third grade, but your dinner choices remain catastrophic.
 authors: []
 date: 2013-09-13T05:56:05.000Z
 metadata:
@@ -19,6 +21,15 @@ metadata:
     https://thinkbynumbers.org/utilitarianism/direct-suffering-caused-animal-foods/
 tags:
   - utilitarianism
+aiScores:
+  quality: 7
+  value: 9
+  reasoning: >-
+    The post provides a clear, data-driven framework for ethical decision-making
+    that allows readers to prioritize impact, though the tone is somewhat
+    provocative and the underlying data relies on subjective intensity weights.
+  scoredAt: '2025-12-31T05:40:38.172Z'
+  model: gemini-3-flash-preview
 ---
 Eating one kilogram of farmed catfish causes 20,000 times more suffering than drinking one kilogram of milk.
 

@@ -24,15 +24,20 @@ metadata:
 tags:
   - drug-war
 aiScores:
-  quality: 8
+  quality: 9
   value: 9
   reasoning: >-
-    The content provides a high-quality, data-driven analysis using reputable
-    sources (CDC, NIDA) to challenge the narrow framing of the opioid crisis,
-    offering significant public health value by highlighting broader patterns of
-    substance abuse and mental health.
-  scoredAt: '2025-12-31T05:32:23.949Z'
+    The content effectively utilizes comparative data to dismantle the
+    'opioid-specific' narrative, exposing a broader systemic failure in mental
+    health and drug policy. By highlighting the 5,105% increase in meth deaths
+    alongside opioids, it proves the issue is a demand-side crisis of despair
+    and a supply-side crisis of contamination (Iron Law of Prohibition), rather
+    than just 'addictive pills.' This shifts the focus from ineffective
+    supply-side crackdowns to necessary structural health reforms.
+  scoredAt: '2025-12-31T05:48:51.412Z'
   model: gemini-3-flash-preview
+  length: 10415
+  imageCount: 0
 ---
 
 The opioid crisis is called a "crisis" because calling it "a predictable consequence of untreated mental illness combined with prohibition-driven contaminated drug supply" doesn't fit in headlines.

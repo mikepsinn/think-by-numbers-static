@@ -24,12 +24,16 @@ aiScores:
   quality: 8
   value: 9
   reasoning: >-
-    The post translates complex clinical research into highly accessible,
-    engaging prose with credible citations, though it adopts a simplified and
-    provocative tone. The information is high-value as it highlights a
-    significant, evidence-based breakthrough in autism treatment that remains
-    under-discussed in mainstream circles.
-  scoredAt: '2025-12-31T05:36:31.254Z'
+    This post challenges the medical status quo by highlighting a high-leverage,
+    low-cost biological intervention that outperforms traditional pharmaceutical
+    approaches. From a public choice perspective, it exposes how
+    'professionalized' gatekeeping and regulatory naming conventions (MTT vs.
+    poop transplant) create barriers to entry for simple, effective treatments.
+    Shifting the paradigm from expensive symptom management to microbial
+    logistics represents a massive potential for resource reallocation and an
+    increase in median wellbeing by bypassing the bloated medical-industrial
+    complex.
+  scoredAt: '2025-12-31T05:46:26.421Z'
   model: gemini-3-flash-preview
 ---
 Autistic children get [gastrointestinal problems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3981895/) more often than other children. Scientists noticed this and wondered if fixing gut bacteria might help with autism symptoms. It's called the gut-brain axis, which is what scientists call it when your stomach has opinions about your brain.

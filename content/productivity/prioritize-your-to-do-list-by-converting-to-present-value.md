@@ -22,10 +22,17 @@ metadata:
 tags:
   - productivity
 aiScores:
-  quality: 5
-  value: 5
-  reasoning: 'Error occurred during scoring, using default values'
-  scoredAt: '2025-12-31T05:38:37.993Z'
+  quality: 9
+  value: 6
+  reasoning: >-
+    The post provides a highly clear, actionable application of the Present
+    Value formula, a core tool for rational resource allocation. While it
+    empowers individual wealth and happiness by exposing the high opportunity
+    cost of commuting (a major source of 'misallocated human capital'), it
+    misses a higher score by failing to critique the public policies—such as
+    restrictive zoning and transportation subsidies—that create the inefficient
+    status quo of suburban sprawl and forced long commutes.
+  scoredAt: '2025-12-31T05:49:02.588Z'
   model: gemini-3-flash-preview
 ---
 There are infinite ways to spend your most valuable resource: time. How do you decide the most cost-effective way to spend it? Convert the returns of each activity to its present value and pick the activity with the highest present value.

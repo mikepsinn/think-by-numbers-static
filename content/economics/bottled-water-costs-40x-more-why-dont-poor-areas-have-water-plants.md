@@ -24,14 +24,20 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 5
-  value: 7
+  quality: 8
+  value: 9
   reasoning: >-
-    The post highlights an important economic paradox regarding the 'poverty
-    premium,' but it oversimplifies complex infrastructure challenges and the
-    provided text ends abruptly mid-calculation.
-  scoredAt: '2025-12-31T05:32:41.276Z'
+    This exposes a massive 'poverty tax' and a classic failure of capital
+    allocation. It highlights how the lack of upfront infrastructure financing
+    leads to a 40x wealth drain on individuals. The math demonstrates that the
+    issue isn't a lack of money within the community—since they are already
+    spending billions—but a failure to convert micro-expenditures into
+    collective assets, a mechanism applicable to many developing regions
+    globally.
+  scoredAt: '2025-12-31T05:49:17.358Z'
   model: gemini-3-flash-preview
+  length: 4588
+  imageCount: 0
 ---
 On Roatan (and many developing regions), people spend 40 times more buying bottled water than it would cost to just build a water plant. Why don't they build the plant? The math requires third-grade arithmetic, so the confusion is notable. It's like watching someone use a helicopter to commute one block because they haven't discovered walking yet.
 

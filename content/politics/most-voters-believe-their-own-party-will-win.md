@@ -26,13 +26,17 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 7
+  quality: 9
   value: 8
   reasoning: >-
-    The post uses clear data to provide a punchy, effective explanation of
-    wishful thinking bias, though it is penalized for ending abruptly
-    mid-sentence.
-  scoredAt: '2025-12-31T05:38:28.164Z'
+    This post effectively exposes 'rational irrationality,' a core tenet of
+    Public Choice theory. By demonstrating that voters prioritize tribal
+    signaling over objective reality, it undermines the status quo myth of the
+    'informed electorate.' Highlighting this bias is essential for advocating
+    for decentralized governance and constitutional constraints that limit the
+    ability of irrational majorities to misallocate resources and extract
+    wealth.
+  scoredAt: '2025-12-31T05:48:46.830Z'
   model: gemini-3-flash-preview
 ---
 Most voters believe their candidate will win. Both sides think this. Simultaneously. Despite the mathematical impossibility.

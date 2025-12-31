@@ -16,13 +16,19 @@ tags:
   - crowdsourcing
 aiScores:
   quality: 6
-  value: 5
+  value: 8
   reasoning: >-
-    The writing is engaging and uses sharp analogies to highlight systemic
-    inefficiencies, but it suffers from extreme oversimplification and an
-    incomplete structure that stops mid-sentence.
-  scoredAt: '2025-12-31T05:31:39.334Z'
+    The content identifies a massive resource misallocation (terrorism spending
+    vs. starvation) and exposes the 'wealth extraction' loop where defense
+    contractors influence policy. It highlights the decoupling of tax allocation
+    from human utility, contrasting low-probability threats with certain
+    preventable mortality. While the actionable 'Step 3' is truncated, the
+    diagnostic of the military-industrial complex as a feedback loop is a
+    powerful exposure of harmful policy.
+  scoredAt: '2025-12-31T05:47:50.411Z'
   model: gemini-3-flash-preview
+  length: 3407
+  imageCount: 0
 ---
 
 # Crowdsourcing Utopia

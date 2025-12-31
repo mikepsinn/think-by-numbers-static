@@ -24,14 +24,20 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 5
-  value: 7
+  quality: 6
+  value: 8
   reasoning: >-
-    The post translates complex economic research into accessible language with
-    accurate citations, but the unprofessional tone and incomplete ending
-    significantly limit its quality.
-  scoredAt: '2025-12-31T05:31:59.644Z'
+    The content addresses a critical modern delusion: the 'authoritarian growth'
+    myth. While the statistics are ~10 years old, the underlying mechanism is
+    timeless and vital for protecting median wealth against current global
+    trends of democratic backsliding. Exposing that autocracy acts as a 20%
+    long-term tax on personal prosperity directly impacts the mission of
+    maximizing wealth by reframing voting as an economic asset rather than just
+    a civic duty.
+  scoredAt: '2025-12-31T05:48:16.221Z'
   model: gemini-3-flash-preview
+  length: 3225
+  imageCount: 3
 ---
 ## Democracy: The Only Get-Rich-Quick Scheme That Actually Works
 

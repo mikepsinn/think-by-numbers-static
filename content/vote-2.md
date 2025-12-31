@@ -13,6 +13,15 @@ metadata:
 tags:
   - politics
   - democracy
+aiScores:
+  quality: 5
+  value: 4
+  reasoning: >-
+    The writing is witty and clear with helpful guidance on online discourse,
+    but the post is incomplete and cuts off mid-sentence, failing to deliver its
+    full argument.
+  scoredAt: '2025-12-31T05:40:50.791Z'
+  model: gemini-3-flash-preview
 ---
 
 # Vote!

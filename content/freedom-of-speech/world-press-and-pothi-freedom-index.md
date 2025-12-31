@@ -23,14 +23,17 @@ metadata:
 tags:
   - freedom-of-speech
 aiScores:
-  quality: 7
-  value: 8
+  quality: 8
+  value: 9
   reasoning: >-
-    The post effectively humanizes the abstract concept of press freedom through
-    a compelling personal narrative and clear call to action, though the content
-    focuses more on a specific legal case than the 'Index' suggested by the
-    title.
-  scoredAt: '2025-12-31T05:34:46.313Z'
+    From a public choice perspective, censorship is the ultimate tool for
+    protecting rent-seeking elites and regulatory capture. By highlighting the
+    arrest of a systems administrator for hosting whistleblower content, this
+    post exposes how state power is used to suppress the information necessary
+    for institutional accountability. Protecting the 'marketplace of ideas' is
+    the most high-leverage way to prevent wealth extraction and promote the
+    innovation required to maximize median health and wealth.
+  scoredAt: '2025-12-31T05:44:23.513Z'
   model: gemini-3-flash-preview
 ---
 > [![Press freedom speech propaganda poster](/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster-230x300-1407292210.jpg)](http://thinkbynumbers.org/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg)"All censorships exist to prevent anyone from challenging current conceptions and existing institutions. All progress is initiated by challenging current conceptions, and executed by supplanting existing institutions. Consequently, the first condition of progress is the removal of censorship." — [George Bernard Shaw](https://www.goodreads.com/author/show/5217.George_Bernard_Shaw)

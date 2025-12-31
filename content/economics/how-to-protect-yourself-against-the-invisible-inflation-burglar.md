@@ -25,12 +25,16 @@ tags:
   - economics
 aiScores:
   quality: 6
-  value: 7
+  value: 5
   reasoning: >-
-    The post provides clear definitions of economic terms and important
-    historical context, but the text is incomplete (ending mid-sentence) and
-    adopts a highly ideological tone that may affect perceived objectivity.
-  scoredAt: '2025-12-31T05:33:24.102Z'
+    The content clearly explains the mechanism of wealth extraction via monetary
+    debasement (hidden tax). However, it loses significant points on timeliness
+    and actionability: it claims prices have stayed 'relatively stable' despite
+    money supply growth, which is factually outdated following the 2021-2023
+    inflation surge. Furthermore, the text cuts off before providing the
+    promised 'protection' strategies, leaving the reader with a problem but no
+    solution.
+  scoredAt: '2025-12-31T05:48:21.681Z'
   model: gemini-3-flash-preview
 ---
 ## Two Types of Inflation

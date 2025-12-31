@@ -26,12 +26,16 @@ tags:
   - health
 aiScores:
   quality: 7
-  value: 8
+  value: 9
   reasoning: >-
-    The post uses compelling analogies and cited data to illustrate the vastness
-    of unexplored medicine, though it ends mid-sentence and adopts a somewhat
-    cynical tone.
-  scoredAt: '2025-12-31T05:36:53.374Z'
+    The post brilliantly quantifies the 'unseen' opportunity cost of current
+    medical research. By highlighting that we have explored virtually 0% of
+    potential treatments, it exposes the catastrophic inefficiency of the status
+    quo. From a public choice perspective, this suggests that regulatory
+    bottlenecks and high entry costs are preventing a Cambrian explosion of
+    health-wealth, causing millions of preventable deaths due to the slow pace
+    of institutional 'science'.
+  scoredAt: '2025-12-31T05:46:54.355Z'
   model: gemini-3-flash-preview
 ---
 # What We Don't Know

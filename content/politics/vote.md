@@ -18,14 +18,17 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 7
-  value: 6
+  quality: 8
+  value: 7
   reasoning: >-
-    The post uses a provocative, data-driven hook to engage readers and provides
-    clear, actionable advice on informed voting, though its initial premise
-    relies on a somewhat reductive comparison between civic duty and physical
-    risk.
-  scoredAt: '2025-12-31T05:38:33.401Z'
+    The post applies Public Choice Theory—specifically the concepts of Rational
+    Ignorance and Rational Abstention—to challenge the 'civic duty' status quo.
+    By highlighting the statistical insignificance of individual votes and the
+    'lesser of two evils' trap, it exposes how current democratic rituals often
+    validate subpar political actors and regulatory capture. It encourages
+    higher-information participation and warns against the misallocation of
+    individual resources (time/safety) toward ineffective political theater.
+  scoredAt: '2025-12-31T05:48:53.876Z'
   model: gemini-3-flash-preview
 ---
 # Should You Vote?

@@ -28,15 +28,17 @@ metadata:
 tags:
   - war
 aiScores:
-  quality: 3
-  value: 4
+  quality: 7
+  value: 9
   reasoning: >-
-    The post uses simplistic, juvenile language and includes a nonsensical
-    etymological breakdown of the word 'forever,' while failing to provide
-    citations for its specific financial figures or account for the vast
-    disparity in how these costs are actually distributed across the global
-    population.
-  scoredAt: '2025-12-31T05:37:52.878Z'
+    The post effectively utilizes the concept of opportunity cost to frame war
+    not as a necessity of statecraft, but as a massive wealth extraction
+    mechanism that robs the median individual of $74,259. By translating
+    abstract trillions into a 'car-sized' lifetime cost, it challenges the
+    status quo of the military-industrial complex and highlights the
+    catastrophic misallocation of resources away from productive human capital
+    and toward destruction.
+  scoredAt: '2025-12-31T05:48:00.021Z'
   model: gemini-3-flash-preview
 ---
 

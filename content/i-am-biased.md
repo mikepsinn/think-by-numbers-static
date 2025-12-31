@@ -14,14 +14,16 @@ tags:
   - empiricism
   - philosophy
 aiScores:
-  quality: 8
-  value: 8
+  quality: 7
+  value: 6
   reasoning: >-
-    The writing is sharp, punchy, and uses effective analogies to dismantle
-    political tribalism in favor of data-driven decision-making. It provides
-    significant intellectual value by challenging the reader to prioritize
-    empirical outcomes over emotional or ideological comfort.
-  scoredAt: '2025-12-31T05:37:24.003Z'
+    The post correctly identifies a fundamental public choice failure: the
+    misallocation of resources based on emotional salience rather than
+    statistical impact (e.g., lightning vs. pandemics). It challenges the status
+    quo of tribal signaling over empirical outcomes—a necessary prerequisite for
+    optimizing median wellbeing—though it remains slightly too abstract to
+    trigger immediate policy shifts.
+  scoredAt: '2025-12-31T05:47:28.955Z'
   model: gemini-3-flash-preview
 ---
 

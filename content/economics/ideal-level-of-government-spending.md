@@ -44,13 +44,17 @@ tags:
   - gdp
   - government-spending
 aiScores:
-  quality: 6
-  value: 5
+  quality: 4
+  value: 6
   reasoning: >-
-    The post presents a clear economic thesis using the Armey Curve framework
-    and provides external citations, but it uses highly polemical language and
-    the content preview is incomplete.
-  scoredAt: '2025-12-31T05:33:29.651Z'
+    The content identifies a specific, actionable threshold (25% of GDP) for
+    government spending that purportedly triggers wealth extraction via
+    inefficiency. This aligns with the mission of exposing harmful policies to
+    maximize wealth. However, the score is penalized because the text is
+    incomplete (cuts off mid-sentence) and the supporting data/links are over 10
+    years old, which significantly weakens its impact for current policy
+    discourse according to the provided instructions.
+  scoredAt: '2025-12-31T05:48:29.290Z'
   model: gemini-3-flash-preview
 ---
 It is commonly claimed that government spending [is good for the economy](http://youtu.be/Sq3C2ySmPMI "Government Spending Stimulates The Economy, Unlike Tax Cuts"), but the statistics show the opposite.  Most [recent studies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1734206&download=yes) find a negative correlation between total government size and economic growth. Why is economic growth important?  Because wealthier societies are generally [happier](http://content.time.com/time/business/article/0,8599,2016291,00.html) societies.

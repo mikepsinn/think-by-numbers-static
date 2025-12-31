@@ -25,13 +25,18 @@ tags:
   - government-spending
   - military
 aiScores:
-  quality: 6
-  value: 5
+  quality: 7
+  value: 8
   reasoning: >-
-    The post uses satire and clear comparisons to make complex budget data
-    accessible, though the snarky tone and lack of deep policy analysis limit
-    its overall educational value.
-  scoredAt: '2025-12-31T05:35:38.790Z'
+    The post effectively utilizes public choice theory concepts by highlighting
+    a massive misallocation of resources (opportunity cost). It exposes the
+    absurdity of US military spending relative to population and global peers,
+    suggesting a high level of government waste and interest-group capture. By
+    framing the $600 billion as equivalent to the entire economic output of a
+    productive nation like Switzerland, it makes the 'unseen' costs of the
+    military-industrial complex tangible to the reader, thereby challenging the
+    status quo and advocating for more productive resource allocation.
+  scoredAt: '2025-12-31T05:45:22.405Z'
   model: gemini-3-flash-preview
 ---
 ## The Numbers

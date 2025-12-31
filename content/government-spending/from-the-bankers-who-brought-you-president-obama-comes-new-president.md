@@ -50,13 +50,19 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 6
-  value: 5
+  quality: 9
+  value: 9
   reasoning: >-
-    The post provides clear, data-driven comparisons that cut through political
-    rhetoric using effective analogies, though the analysis is somewhat
-    reductive and the content is now historically dated.
-  scoredAt: '2025-12-31T05:35:21.917Z'
+    This post masterfully applies public choice theory by exposing the 'illusion
+    of choice' in the political marketplace. It uses specific budget data to
+    demonstrate that despite partisan rhetoric, the fiscal trajectory remains
+    virtually identical under both major parties—a clear indicator of regulatory
+    capture by financial elites. By highlighting that the 'difference' is only
+    0.26% while the systemic debt grows, it provides the necessary cognitive
+    shift for readers to stop focusing on minor partisan theater and start
+    questioning the underlying mechanisms of wealth extraction and state
+    expansion that reduce median long-term prosperity.
+  scoredAt: '2025-12-31T05:45:02.732Z'
   model: gemini-3-flash-preview
 ---
 [![](/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic-480x160.jpg)](http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg)

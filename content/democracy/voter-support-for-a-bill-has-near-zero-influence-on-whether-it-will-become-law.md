@@ -24,15 +24,19 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 8
-  value: 9
+  quality: 5
+  value: 8
   reasoning: >-
-    The post effectively translates complex academic research into accessible,
-    high-impact prose using strong analogies. It provides direct links to
-    peer-reviewed sources, though the content cuts off mid-sentence in the
-    preview.
-  scoredAt: '2025-12-31T05:32:13.465Z'
+    The content identifies the root cause of systemic health and wealth
+    stagnation: the total decoupling of public interest from policy outcomes
+    (plutocracy). While the mechanism is a 'timeless' insight into wealth
+    extraction, the specific Gilens & Page study relies on data that is now over
+    a decade old, which triggers the penalty for dated statistics per the
+    mission parameters.
+  scoredAt: '2025-12-31T05:48:39.772Z'
   model: gemini-3-flash-preview
+  length: 6237
+  imageCount: 2
 ---
 ## The Question
 

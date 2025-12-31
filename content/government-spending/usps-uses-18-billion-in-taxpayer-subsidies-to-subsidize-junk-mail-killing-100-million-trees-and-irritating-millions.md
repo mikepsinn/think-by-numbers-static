@@ -24,14 +24,17 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 7
+  quality: 9
   value: 8
   reasoning: >-
-    The post effectively uses data and primary source citations to highlight an
-    important fiscal and environmental issue, though it utilizes a
-    sensationalist tone and oversimplifies the complex relationship between
-    marketing mail revenue and postal infrastructure costs.
-  scoredAt: '2025-12-31T05:36:21.043Z'
+    This post effectively exposes a textbook public choice failure: concentrated
+    benefits for advertisers and junk mailers at the expense of diffuse costs to
+    taxpayers and the environment. By highlighting the $143B in unfunded
+    liabilities and the 65% price distortion, it identifies a massive
+    misallocation of resources and a government-sanctioned negative externality.
+    Correcting this policy would directly increase median wealth by reducing
+    taxpayer-funded debt and improve happiness by eliminating unwanted waste.
+  scoredAt: '2025-12-31T05:46:07.488Z'
   model: gemini-3-flash-preview
 ---
 As of 2020, the cost to you for a stamp is [$0.55](https://www.stamps.com/usps/current-postage-rates/). Junk mailers enjoy a 65% discount as the USPS bulk mail rate given to them is only [$0.19](https://www.themailshark.com/resources/blog/bulk-mail-postage-rates/).

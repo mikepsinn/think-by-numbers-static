@@ -26,13 +26,16 @@ metadata:
 tags:
   - military
 aiScores:
-  quality: 6
-  value: 8
+  quality: 8
+  value: 9
   reasoning: >-
-    The post highlights a critical issue regarding government accountability
-    using verified data from official reports, but its overly sarcastic tone and
-    simplistic logic reduce its professional credibility.
-  scoredAt: '2025-12-31T05:37:34.869Z'
+    The post effectively exposes a massive systemic wealth transfer from the
+    median taxpayer to politically connected firms via regulatory capture. By
+    highlighting that contractors receive larger contracts after fraud, it
+    illustrates the 'concentrated benefits, diffuse costs' failure of government
+    procurement and the total lack of market-like accountability, which directly
+    reduces global aggregate wealth.
+  scoredAt: '2025-12-31T05:47:40.142Z'
   model: gemini-3-flash-preview
 ---
 

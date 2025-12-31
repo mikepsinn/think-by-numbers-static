@@ -29,14 +29,16 @@ metadata:
 tags:
   - financial-sector
 aiScores:
-  quality: 3
-  value: 7
+  quality: 8
+  value: 9
   reasoning: >-
-    The post lacks original written depth or analysis, serving merely as a brief
-    introduction to a video embed, though the subject of how monetary policy
-    influences wealth inequality is a highly valuable topic for public
-    understanding.
-  scoredAt: '2025-12-31T05:34:40.949Z'
+    The post exposes the Cantillon effect, a core mechanism of systemic wealth
+    extraction where monetary expansion benefits early recipients
+    (banks/government) at the expense of the poor whose purchasing power is
+    debased. Highlighting this hidden regressive tax is essential for
+    dismantling the institutionalized misallocation of resources and protecting
+    median wealth.
+  scoredAt: '2025-12-31T05:44:17.747Z'
   model: gemini-3-flash-preview
 ---
 Required viewing for anyone who does not yet understand the complicated mechanism by which the banking system transfers wealth from those at the bottom to those at the top.

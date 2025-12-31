@@ -24,14 +24,16 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 4
-  value: 4
+  quality: 9
+  value: 8
   reasoning: >-
-    While the post uses punchy analogies to effectively illustrate the concept
-    of statistical spin, it suffers from factual inaccuracies regarding
-    historical deficit numbers and lacks the necessary economic context of the
-    2008 financial crisis.
-  scoredAt: '2025-12-31T05:36:04.090Z'
+    This post effectively exposes 'fiscal illusion' and the political 'ratchet
+    effect,' where temporary emergency spending becomes the new baseline for
+    future growth. By debunking the media-supported narrative of fiscal
+    responsibility, it helps the public recognize how government expansion is
+    obfuscated, which is vital for preventing long-term wealth erosion through
+    inflation and debt-driven misallocation of resources.
+  scoredAt: '2025-12-31T05:45:48.706Z'
   model: gemini-3-flash-preview
 ---
 The Associated Press ran a story titled "Obama plans to slash deficit in half." This is technically true. It's also technically misleading.

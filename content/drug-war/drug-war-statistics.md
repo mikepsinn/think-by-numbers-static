@@ -21,14 +21,20 @@ tags:
   - drug-war
   - government-spending
 aiScores:
-  quality: 6
-  value: 7
+  quality: 4
+  value: 3
   reasoning: >-
-    The post addresses a significant socio-economic issue with specific
-    statistics and citations, though its tone is highly biased and the content
-    provided is incomplete.
-  scoredAt: '2025-12-31T05:32:18.577Z'
+    The core thesis regarding wealth misallocation is clear, but the data is
+    over 12 years old (2011-2012). Per the mission criteria, dated stats and old
+    political contexts receive significant penalties. Since 2012, many U.S.
+    states have legalized marijuana, making the specific $10B arrest figure and
+    the legal context obsolete for a modern audience. To maximize impact, the
+    argument needs current figures on the fentanyl crisis or modern carceral
+    costs.
+  scoredAt: '2025-12-31T05:48:46.114Z'
   model: gemini-3-flash-preview
+  length: 11468
+  imageCount: 5
 ---
 [![](/wp-content/uploads/2013/04/image_gallery.gif)](http://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif)
 

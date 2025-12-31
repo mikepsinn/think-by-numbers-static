@@ -26,14 +26,20 @@ tags:
   - economics
   - utilitarianism
 aiScores:
-  quality: 8
-  value: 9
+  quality: 5
+  value: 6
   reasoning: >-
-    The writing is punchy, engaging, and accurately cites a notable economic
-    experiment to illustrate the friction between policy and politics, though
-    the text cuts off mid-sentence at the end.
-  scoredAt: '2025-12-31T05:32:35.499Z'
+    The content identifies a timeless mechanism—the 'Political-Economic
+    Gap'—whereby economically efficient policies (like removing the Mortgage
+    Interest Deduction) are politically radioactive because they target
+    entrenched subsidies for the wealthy and middle class. While the primary
+    data source is an NPR experiment from 2012/2016 (triggering the >5yr
+    timeliness penalty), the mechanism remains the primary reason for current
+    wealth misallocation in housing and healthcare markets.
+  scoredAt: '2025-12-31T05:49:11.357Z'
   model: gemini-3-flash-preview
+  length: 14013
+  imageCount: 0
 ---
 
 Every Econ 101 textbook teaches three things:

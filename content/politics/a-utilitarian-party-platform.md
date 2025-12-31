@@ -18,14 +18,18 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 7
-  value: 8
+  quality: 8
+  value: 9
   reasoning: >-
-    The post effectively distills complex utilitarian principles into a clear,
-    punchy format with high readability, though it is slightly truncated at the
-    end. It provides significant value by challenging tribal political thinking
-    with a data-driven, cost-benefit framework.
-  scoredAt: '2025-12-31T05:38:14.501Z'
+    The post directly attacks the status quo of nationalistic protectionism and
+    tribal signaling, which are primary drivers of global resource
+    misallocation. By advocating for free trade and labor mobility
+    (immigration), it addresses the two most significant levers for increasing
+    global median wealth. While the public choice economist remains wary of
+    government-led 'population control' due to the risk of bureaucratic
+    overreach, the emphasis on cost-benefit analysis and evidence-based aid
+    challenges the inefficient 'signaling' currently dominating public policy.
+  scoredAt: '2025-12-31T05:48:27.354Z'
   model: gemini-3-flash-preview
 ---
 Penn psychologist [Jonathan Baron](http://www.sas.upenn.edu/~baron/) wrote a political platform based on a simple question: What if you tried to help people instead of signaling tribal affiliation?

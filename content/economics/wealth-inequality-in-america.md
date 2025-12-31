@@ -21,15 +21,16 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 6
-  value: 8
+  quality: 4
+  value: 3
   reasoning: >-
-    The writing uses punchy analogies to effectively communicate complex data,
-    but the post lacks original depth as it serves primarily as a brief
-    introduction to an embedded video. The topic is highly significant for
-    social awareness, though the specific data presented in the referenced study
-    is now over a decade old.
-  scoredAt: '2025-12-31T05:33:56.382Z'
+    While the 'perception gap' is a powerful psychological concept, this
+    specific content relies on a viral video from 2012 and data from a 2011
+    study. Under the provided constraints, dated statistics are capped at 5/10.
+    Furthermore, it identifies a symptom (inequality) rather than exposing a
+    specific, actionable policy mechanism currently extracting wealth, making it
+    more descriptive than investigative for a modern context.
+  scoredAt: '2025-12-31T05:48:57.927Z'
   model: gemini-3-flash-preview
 ---
 Americans were asked to estimate wealth distribution. Then they were shown the actual numbers. The gap between perception and reality was larger than the wealth gap itself. Which is saying something, because the wealth gap is roughly the size of the Grand Canyon.

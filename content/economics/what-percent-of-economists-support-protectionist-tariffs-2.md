@@ -24,13 +24,18 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 7
-  value: 8
+  quality: 4
+  value: 5
   reasoning: >-
-    The post uses a strong, data-backed example to communicate a significant
-    economic consensus with clarity and punchy analogies, though it is quite
-    brief and leans heavily on repetition for effect.
-  scoredAt: '2025-12-31T05:34:01.095Z'
+    The content is based on a poll from March 2018. Per the instructions, stats
+    older than 5 years are capped at 5/10, and policies/politicians older than 5
+    years are capped at 4/10. However, the value remains relevant because
+    protectionist tariffs are currently a central pillar of 2024 campaign
+    platforms. The 0% consensus effectively exposes a mechanism of wealth
+    extraction where median consumers pay higher prices to subsidize specific
+    industries, making it a powerful rhetorical tool for current electoral
+    cycles.
+  scoredAt: '2025-12-31T05:49:06.204Z'
   model: gemini-3-flash-preview
 ---
 Reuters polled 60 economists in March 2018 about steel and aluminum tariffs. The percent who supported them: 0%. That's zero as in the number that comes before one. Zero as in the amount of unicorns in your garage.

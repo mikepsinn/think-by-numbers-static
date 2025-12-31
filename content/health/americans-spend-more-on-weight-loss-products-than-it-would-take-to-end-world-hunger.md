@@ -27,13 +27,18 @@ tags:
   - health
   - utilitarianism
 aiScores:
-  quality: 6
-  value: 7
+  quality: 4
+  value: 3
   reasoning: >-
-    The writing is clear and rhetorically powerful, but the analysis relies on
-    significantly outdated statistics from 2008 and 2013 while oversimplifying
-    the complex logistical and political realities of global hunger.
-  scoredAt: '2025-12-31T05:36:26.953Z'
+    The post identifies a stark misallocation of resources but fails to provide
+    a viable policy mechanism or recognize public choice realities. It ignores
+    'The Knowledge Problem' and the institutional failures (corruption, lack of
+    property rights, and trade barriers) that actually cause hunger, mistakenly
+    suggesting that simple capital redirection is a solution. Furthermore, it
+    attacks private consumer choices rather than the systemic government
+    failures, such as agricultural subsidies and regulatory capture, that
+    contribute to both food waste and the obesity epidemic.
+  scoredAt: '2025-12-31T05:46:18.656Z'
   model: gemini-3-flash-preview
 ---
 Americans spend [$60 billion](https://money.usnews.com/money/personal-finance/articles/2013/01/02/the-heavy-price-of-losing-weight) annually trying to have less food on their bodies. Gym memberships, weight-loss programs, diet soda. It's like reverse shopping, except you pay more.

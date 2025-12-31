@@ -21,11 +21,13 @@ aiScores:
   quality: 7
   value: 6
   reasoning: >-
-    The post effectively uses data and a provocative tone to highlight a major
-    health crisis, though it relies on a somewhat reductionist comparison
-    between consumer alcohol spending and federal research funding to make its
-    point.
-  scoredAt: '2025-12-31T05:36:43.265Z'
+    The post effectively highlights a massive misallocation of resources toward
+    a disease that catastrophically impacts median health and wealth. While it
+    uses punchy, accessible math to expose the discrepancy between public
+    research funding and private consumption, it lacks a specific public choice
+    analysis of the regulatory barriers (like FDA friction) or the incentive
+    structures within the NIH that prevent more effective resource allocation.
+  scoredAt: '2025-12-31T05:46:40.651Z'
   model: gemini-3-flash-preview
 ---
 [44 million](https://www.alzheimers.net/resources/alzheimers-statistics/) people worldwide have Alzheimer's or related dementia. That's roughly the population of Spain, except they're all slowly forgetting who and where they are. And probably whether they're Spanish.

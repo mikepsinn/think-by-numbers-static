@@ -20,13 +20,16 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 6
-  value: 5
+  quality: 3
+  value: 2
   reasoning: >-
-    The writing is engaging and conversational, but the content conflates annual
-    economic production (GDP) with total money supply and relies on outdated
-    2017 statistics.
-  scoredAt: '2025-12-31T05:33:06.565Z'
+    The content uses significantly outdated data from 2017 and 2019, which
+    triggers the 'dated stats' penalty (max 5/10). Beyond the age of the data,
+    the piece fails the mission of exposing harmful policies or wealth
+    extraction; it merely provides a surface-level explanation of money as a
+    social construct without offering actionable insights or novel critiques of
+    how that 'stuff' is distributed.
+  scoredAt: '2025-12-31T05:48:00.772Z'
   model: gemini-3-flash-preview
 ---
 In 2017, humans produced [$127.8 trillion](https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html) worth of stuff (GDP). That's a lot of stuff. Where do we keep it all?

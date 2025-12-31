@@ -25,13 +25,16 @@ tags:
   - empiricism
   - utilitarianism
 aiScores:
-  quality: 8
-  value: 7
+  quality: 4
+  value: 2
   reasoning: >-
-    The post provides a clear, accurate, and structured explanation of Bentham's
-    felicific calculus, successfully translating a complex philosophical
-    framework into an accessible and practical educational guide.
-  scoredAt: '2025-12-31T05:34:11.720Z'
+    The content describes an 18th-century philosophical framework (Bentham's
+    Felicific Calculus) rather than exposing a modern policy or wealth
+    extraction mechanism. While the tool itself is a clear mechanism for
+    analysis, the post lacks novel insights, modern data, or specific targets.
+    It functions as a theoretical manual rather than an actionable exposure of
+    current systemic harm.
+  scoredAt: '2025-12-31T05:49:20.910Z'
   model: gemini-3-flash-preview
 ---
 The **felicific calculus** is an algorithm for calculating the degree or amount of [pleasure](https://en.wikipedia.org/wiki/Pleasure) that a specific action is likely to cause. The algorithm is also known as the utility calculus, the hedonistic calculus, and the hedonic calculus.

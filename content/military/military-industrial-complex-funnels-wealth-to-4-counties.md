@@ -25,13 +25,19 @@ metadata:
 tags:
   - military
 aiScores:
-  quality: 3
-  value: 4
+  quality: 5
+  value: 8
   reasoning: >-
-    While the post correctly identifies a real-world wealth concentration near
-    the Pentagon, the writing relies on absurdist logic and nonsensical
-    geometric analogies that diminish its credibility and educational depth.
-  scoredAt: '2025-12-31T05:37:40.271Z'
+    The post correctly identifies a massive public choice failure: the
+    concentration of wealth in administrative hubs through rent-seeking rather
+    than market value creation. By highlighting that the richest US counties are
+    those extracting tax dollars via the Military-Industrial Complex, it exposes
+    how government spending redistributes wealth from the productive median
+    population to a concentrated political elite. However, the satirical tone
+    and simplistic 'geometry' metaphors, while accessible, lack the rigorous
+    data and specific policy prescriptions needed to maximize its utility for
+    systemic change.
+  scoredAt: '2025-12-31T05:47:46.350Z'
   model: gemini-3-flash-preview
 ---
 

@@ -23,13 +23,16 @@ metadata:
 tags:
   - health
 aiScores:
-  quality: 5
-  value: 4
+  quality: 7
+  value: 8
   reasoning: >-
-    The post uses accurate historical statistics to highlight media bias, but it
-    employs a reductive, overly sarcastic tone that oversimplifies the
-    complexities of addiction and public health policy.
-  scoredAt: '2025-12-31T05:36:59.070Z'
+    The post effectively applies public choice theory to explain why policy
+    attention is misallocated: politicians and media prioritize 'villain-driven'
+    narratives (opioids/Big Pharma) over more lethal but less politically
+    exploitable threats (cancer). By exposing this availability heuristic, it
+    challenges the status quo of narrative-based resource allocation which
+    prioritizes optics over the maximization of median lifespan.
+  scoredAt: '2025-12-31T05:47:00.507Z'
   model: gemini-3-flash-preview
 ---
 Your odds of dying:

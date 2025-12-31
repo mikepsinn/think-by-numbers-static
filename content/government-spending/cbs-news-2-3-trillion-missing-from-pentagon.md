@@ -24,12 +24,18 @@ tags:
   - government-spending
   - military
 aiScores:
-  quality: 3
-  value: 4
+  quality: 6
+  value: 8
   reasoning: >-
-    The post is incomplete, ending abruptly mid-sentence, and relies on a mix of
-    factual claims and satirical nonsense that undermines its educational value.
-  scoredAt: '2025-12-31T05:34:52.764Z'
+    The post effectively highlights a massive government failure and the lack of
+    accountability in military spending, which is a primary driver of wealth
+    extraction and resource misallocation. While it simplifies the accounting
+    nature of the $2.3 trillion discrepancy (which were transactional mismatches
+    rather than 'missing' cash), the public choice theory argument remains
+    strong: a bureaucracy that cannot track its transactions is inherently
+    shielded from efficiency incentives, reducing median wellbeing by
+    squandering taxpayer resources.
+  scoredAt: '2025-12-31T05:44:30.557Z'
   model: gemini-3-flash-preview
 ---
 http://youtu.be/XXm2yaoWyN8

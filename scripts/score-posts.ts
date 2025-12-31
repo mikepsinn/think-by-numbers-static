@@ -35,21 +35,23 @@ async function scorePost(filePath: string): Promise<PostScore> {
   // Limit content to first 2000 chars to keep token count reasonable
   const truncatedContent = bodyContent.substring(0, 2000);
 
-  const prompt = `You are an expert content evaluator analyzing blog posts for quality and educational value.
+  const prompt = `Mission: Maximize median health/wealth/happiness by exposing harmful policies.
 
-Analyze this blog post and provide scores from 1-10 for:
-1. **Quality Score** (1-10): Assess writing quality, clarity, factual accuracy, and presentation
-2. **Value Score** (1-10): Assess how valuable and important this information is for people to learn
+Score 1-10:
+- Clarity: Clear mechanism? Strong data? Actionable?
+- Impact: Novel/counter-intuitive insights? Hidden facts few know? Exposes wealth extraction/misallocation?
+
+Timeliness: Elections/politicians >5yr old max 4/10. Dated stats max 5/10. Timeless mechanisms full potential.
 
 Title: ${title}
 Description: ${description}
-Content Preview: ${truncatedContent}
+Content: ${truncatedContent}
 
-Respond with ONLY a JSON object in this exact format:
+JSON only:
 {
-  "qualityScore": <number 1-10>,
-  "valueScore": <number 1-10>,
-  "reasoning": "<brief 1-2 sentence explanation>"
+  "qualityScore": <1-10>,
+  "valueScore": <1-10>,
+  "reasoning": "<why this matters NOW>"
 }`;
 
   try {
@@ -78,13 +80,20 @@ async function updatePostFrontmatter(filePath: string, scores: PostScore): Promi
   const content = await fs.readFile(filePath, 'utf-8');
   const { data, content: bodyContent } = matter(content);
 
-  // Update frontmatter with scores
+  // Count images (markdown ![...](...) and HTML <img>)
+  const markdownImages = (bodyContent.match(/!\[.*?\]\(.*?\)/g) || []).length;
+  const htmlImages = (bodyContent.match(/<img[^>]*>/g) || []).length;
+  const imageCount = markdownImages + htmlImages;
+
+  // Update frontmatter with scores and metadata
   data.aiScores = {
     quality: scores.qualityScore,
     value: scores.valueScore,
     reasoning: scores.reasoning,
     scoredAt: new Date().toISOString(),
-    model: 'gemini-3-flash-preview'
+    model: 'gemini-3-flash-preview',
+    length: bodyContent.length,
+    imageCount: imageCount
   };
 
   // Rebuild the file with updated frontmatter
@@ -106,7 +115,6 @@ async function main() {
 
   console.log(`📊 Found ${posts.length} posts to score\n`);
 
-  let totalCost = 0;
   let processedCount = 0;
 
   for (const postPath of posts) {

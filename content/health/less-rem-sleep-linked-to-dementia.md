@@ -20,15 +20,16 @@ metadata:
 tags:
   - health
 aiScores:
-  quality: 7
-  value: 9
+  quality: 9
+  value: 8
   reasoning: >-
-    The post uses clear analogies and punchy writing to make complex data
-    accessible, though it slightly conflates the 'cleaning' mechanism (usually
-    associated with deep sleep) with REM sleep. The information is highly
-    valuable and actionable, addressing a critical health issue with practical
-    behavioral solutions.
-  scoredAt: '2025-12-31T05:36:48.525Z'
+    The post effectively exposes the misallocation of societal resources by
+    contrasting free, high-impact behavioral interventions with the rent-seeking
+    pursuit of patentable pharmaceuticals. It highlights a systemic failure
+    where incentives favor expensive late-stage treatments over zero-cost
+    prevention, directly addressing a primary drain on global median wealth and
+    health.
+  scoredAt: '2025-12-31T05:46:46.476Z'
   model: gemini-3-flash-preview
 ---
 People who developed dementia spent [17% of their sleep time in REM](https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html), compared to 20% for people who didn't get dementia. That's only a 3% difference, which doesn't sound like much until you do the math.

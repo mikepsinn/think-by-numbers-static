@@ -27,13 +27,17 @@ tags:
   - psychology
   - science
 aiScores:
-  quality: 7
-  value: 8
+  quality: 3
+  value: 2
   reasoning: >-
-    The post uses engaging analogies and credible citations to explain complex
-    neurological concepts, though the math slightly conflates computer storage
-    bits (Unicode) with information theory bits (entropy).
-  scoredAt: '2025-12-31T05:38:50.629Z'
+    The data provides a biological foundation for the 'Knowledge Problem,'
+    demonstrating that conscious processing is a low-bandwidth bottleneck. This
+    suggests that top-down, centralized 'conscious' planning of an economy is
+    mathematically inferior to the distributed 'subconscious' processing of a
+    free market. However, the post is truncated mid-sentence and fails to
+    explicitly link these neuro-physiological facts to the destruction of
+    harmful public policies or the exposure of regulatory capture.
+  scoredAt: '2025-12-31T05:49:25.595Z'
   model: gemini-3-flash-preview
 ---
 Your conscious mind is the intern who thinks they're running the company.

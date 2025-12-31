@@ -42,14 +42,20 @@ tags:
   - federal-reserve
   - financial-sector
 aiScores:
-  quality: 6
-  value: 7
+  quality: 4
+  value: 4
   reasoning: >-
-    The post provides a clear, structured explanation of economic
-    cause-and-effect regarding market bubbles, though the quality is hampered by
-    truncated text and dated references.
-  scoredAt: '2025-12-31T05:31:53.703Z'
+    While the underlying mechanism—central bank interest rate manipulation and
+    government subsidies distorting market demand—is a 'timeless mechanism,' the
+    specific data points are severely dated (2009-2011). The prompt explicitly
+    caps dated statistics at 5/10. In the current economic cycle, the housing
+    crisis is characterized by inventory shortages rather than the 14 million
+    empty units described, making this post an autopsy of a past event rather
+    than an actionable exposure of current wealth extraction.
+  scoredAt: '2025-12-31T05:48:10.321Z'
   model: gemini-3-flash-preview
+  length: 5812
+  imageCount: 1
 ---
 ![Housing Bubble](/wp-content/uploads/2011/09/House-Bubble-672x783.jpg)
 

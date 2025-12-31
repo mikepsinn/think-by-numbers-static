@@ -28,13 +28,16 @@ tags:
   - economics
   - healthcare
 aiScores:
-  quality: 3
-  value: 5
+  quality: 5
+  value: 7
   reasoning: >-
-    The post contains a significant factual error regarding life expectancy
-    growth rates, repeats an entire section of text, and ends abruptly
-    mid-sentence, though the core topic of R&D costs is highly relevant.
-  scoredAt: '2025-12-31T05:33:01.386Z'
+    The content identifies a critical mechanism of wealth extraction: high
+    regulatory barriers that create a 'Valley of Death' for new drugs, favoring
+    monopolies. However, the text contains a significant factual error—stating
+    life expectancy increased by '4 years every single year' (which would mean a
+    400-year increase per century)—and the copy is repetitive and truncated,
+    reducing its professional utility.
+  scoredAt: '2025-12-31T05:47:54.007Z'
   model: gemini-3-flash-preview
 ---
 Between 2009 and 2018, the estimated median capitalized research and development cost per product was $985 million, counting expenditures on failed trials.

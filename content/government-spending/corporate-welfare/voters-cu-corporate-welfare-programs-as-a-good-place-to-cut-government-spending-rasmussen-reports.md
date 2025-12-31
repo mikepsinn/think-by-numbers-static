@@ -30,13 +30,16 @@ metadata:
 tags:
   - corporate-welfare
 aiScores:
-  quality: 6
-  value: 5
+  quality: 7
+  value: 9
   reasoning: >-
-    The post is clear and engaging with specific data points, but its heavy
-    reliance on sarcasm and lack of nuanced analysis regarding why these
-    policies exist limits its overall depth and educational authority.
-  scoredAt: '2025-12-31T05:35:04.326Z'
+    The post effectively utilizes Public Choice Theory to expose the 'Special
+    Interest Effect,' where concentrated benefits for defense contractors and
+    corporate farms override the diffused interests of the voting majority. By
+    highlighting the disconnect between public opinion and policy outcomes, it
+    identifies $20B+ in annual wealth extraction and market distortions that
+    suppress median wealth and misallocate global resources.
+  scoredAt: '2025-12-31T05:44:43.707Z'
   model: gemini-3-flash-preview
 ---
 ![Socialism for the Rich. Capitalism for the Rest.](/wp-content/uploads/2011/09/socialism-rich.jpg)

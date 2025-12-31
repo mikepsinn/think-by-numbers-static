@@ -27,13 +27,16 @@ tags:
   - corporate-welfare
   - government-spending
 aiScores:
-  quality: 6
-  value: 7
+  quality: 7
+  value: 8
   reasoning: >-
-    The post uses effective satire to make complex economic concepts like moral
-    hazard and quantitative easing accessible, though it sacrifices some
-    technical precision and nuance for rhetorical impact.
-  scoredAt: '2025-12-31T05:35:44.529Z'
+    The post effectively exposes regulatory capture and the moral hazard created
+    by central bank interventions. By highlighting the upward redistribution of
+    wealth through 'privatized gains and socialized losses,' it challenges a
+    status quo that reduces median wealth and market efficiency. The $16,000 per
+    worker figure provides a tangible metric for the cost of government failure
+    and resource misallocation.
+  scoredAt: '2025-12-31T05:45:29.205Z'
   model: gemini-3-flash-preview
 ---
 ## Toxic Assets

@@ -22,12 +22,17 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 7
-  value: 6
+  quality: 9
+  value: 7
   reasoning: >-
-    The post is clear, factual, and uses reputable data to make a punchy point,
-    though its extreme brevity limits its depth and educational nuance.
-  scoredAt: '2025-12-31T05:38:19.011Z'
+    The post effectively uses public choice logic to demonstrate that
+    decentralizing power reduces the most extreme form of human capital
+    destruction: democide. While it correctly identifies that moving from
+    autocracy to democracy is a net gain for median survival, it acknowledges
+    that democracy remains a low bar for societal optimization, failing to
+    address the subtler forms of wealth extraction and regulatory capture
+    prevalent in modern representative systems.
+  scoredAt: '2025-12-31T05:48:34.489Z'
   model: gemini-3-flash-preview
 ---
 ![](/wp-content/uploads/2019/05/number-of-democracies-over-time-480x472.png)

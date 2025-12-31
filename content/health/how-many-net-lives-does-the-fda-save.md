@@ -28,13 +28,17 @@ tags:
   - healthcare
   - utilitarianism
 aiScores:
-  quality: 6
-  value: 8
+  quality: 8
+  value: 9
   reasoning: >-
-    The post effectively uses analogies to explain the trade-offs of
-    institutional incentives, though the tone is overly sarcastic and it makes
-    several bold, reductive historical claims without sufficient nuance.
-  scoredAt: '2025-12-31T05:36:38.429Z'
+    The post effectively utilizes public choice theory to expose the asymmetric
+    incentive structure (Type II error bias) of the FDA. By highlighting how a
+    narrow mandate on safety/efficacy creates an 'invisible graveyard' of
+    delayed innovations, it challenges a foundational regulatory bottleneck that
+    suppresses median health and inflates drug costs. It clearly illustrates how
+    bureaucratic risk-aversion leads to net negative outcomes for global
+    wellbeing.
+  scoredAt: '2025-12-31T05:46:32.733Z'
   model: gemini-3-flash-preview
 ---
 ## The FDA's Mandate is Not to Maximize Lives Saved

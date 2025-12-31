@@ -32,15 +32,19 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 8
-  value: 9
+  quality: 5
+  value: 6
   reasoning: >-
-    The post effectively synthesizes complex academic research into an
-    accessible, engaging format with clear analogies and factual citations. It
-    addresses a critical systemic issue regarding political representation that
-    is highly relevant to civic literacy.
-  scoredAt: '2025-12-31T05:32:09.098Z'
+    While the core mechanism—the disconnect between public will and legislative
+    outcome—is the primary bottleneck to improving median wealth and health, the
+    submission relies heavily on the Gilens & Page study from 2014 and older
+    graphics. Per the instructions, dated stats and references older than 5
+    years cap the score, despite the 'timeless' nature of the wealth-extraction
+    mechanism being exposed.
+  scoredAt: '2025-12-31T05:48:30.795Z'
   model: gemini-3-flash-preview
+  length: 3579
+  imageCount: 3
 ---
 ## How Democracy Is Supposed to Work
 

@@ -28,13 +28,19 @@ metadata:
 tags:
   - federal-reserve
 aiScores:
-  quality: 3
-  value: 4
+  quality: 7
+  value: 8
   reasoning: >-
-    The post is incomplete, ending abruptly mid-sentence, and uses highly
-    hyperbolic, biased language that undermines its credibility and educational
-    utility despite addressing relevant economic concepts.
-  scoredAt: '2025-12-31T05:34:35.012Z'
+    The post effectively utilizes Public Choice theory to highlight how central
+    bank intervention and 'easy money' policies facilitate wealth extraction by
+    politically connected 'zombie' firms. By explaining the Cantillon
+    Effect—where new money benefits the first recipients
+    (corporations/lobbyists) at the expense of median purchasing power—it
+    identifies a primary driver of modern inequality and economic stagnation.
+    While the text is slightly truncated, its focus on creative destruction
+    versus state-sponsored stagnation directly addresses the root causes of
+    misallocated resources.
+  scoredAt: '2025-12-31T05:44:11.455Z'
   model: gemini-3-flash-preview
 ---
 The Fed is printing money and giving it to Zombie Companies. These are firms that don't survive by producing value for customers. They survive by borrowing at near 0% interest from the Federal Reserve, which creates this money from nothing.

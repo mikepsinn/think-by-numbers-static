@@ -15,14 +15,18 @@ tags:
   - rationality
   - organizations
 aiScores:
-  quality: 8
-  value: 7
+  quality: 7
+  value: 5
   reasoning: >-
-    The writing is punchy and uses clever metaphors to explain complex
-    intellectual subcultures, though its heavy reliance on a cynical tone may
-    affect its perceived professionalism. It provides high-value pointers to
-    important rationalist resources, even if the descriptions are brief.
-  scoredAt: '2025-12-31T05:34:24.662Z'
+    The content identifies a critical 'meta-problem'—the lack of evidence-based
+    decision-making in governance. While rationalist frameworks are essential
+    for identifying optimal resource allocation, this specific piece lacks an
+    direct 'exposé' of a specific policy (like land use, tax codes, or monetary
+    policy) that would result in immediate median wealth gains. It provides the
+    tools for the fight but does not point them at a specific target. Note: The
+    Future of Humanity Institute recently closed, which slightly affects the
+    'now' factor.
+  scoredAt: '2025-12-31T05:49:17.110Z'
   model: gemini-3-flash-preview
 ---
 

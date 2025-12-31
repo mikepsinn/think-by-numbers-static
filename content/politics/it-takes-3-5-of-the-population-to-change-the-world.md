@@ -22,13 +22,17 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 6
-  value: 9
+  quality: 7
+  value: 8
   reasoning: >-
-    The post provides excellent historical context and cites credible academic
-    research, but the quality score is lowered because the text ends abruptly in
-    a mid-sentence cliffhanger.
-  scoredAt: '2025-12-31T05:38:23.640Z'
+    By quantifying the threshold for social change (3.5%), this post mitigates
+    the 'rational ignorance' and 'learned helplessness' hurdles identified in
+    public choice theory. It provides a strategic roadmap for overcoming
+    concentrated interest groups and regulatory capture through active
+    participation, directly empowering the median citizen to challenge
+    wealth-extracting status quo policies through mechanisms like ballot
+    initiatives.
+  scoredAt: '2025-12-31T05:48:40.891Z'
   model: gemini-3-flash-preview
 ---
 You need 3.5% of people actively engaged to change society. That's it.

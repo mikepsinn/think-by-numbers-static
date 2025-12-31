@@ -25,16 +25,18 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 7
-  value: 8
+  quality: 5
+  value: 4
   reasoning: >-
-    The post effectively uses historical data and citations to debunk a common
-    myth about the American Revolution with an engaging, modern voice. While it
-    relies on a historically debated John Adams quote, it provides high
-    educational value by illustrating how significant social change often stems
-    from a dedicated minority.
-  scoredAt: '2025-12-31T05:32:04.374Z'
+    While the historical data is well-cited, the content is incomplete (cutting
+    off mid-sentence) and violates the timeliness constraint regarding dated
+    events/politicians. It functions more as historical trivia than a direct
+    exposure of a modern harmful policy, though it offers a timeless insight
+    into the 'vanguard' mechanism of systemic change.
+  scoredAt: '2025-12-31T05:48:23.732Z'
   model: gemini-3-flash-preview
+  length: 5757
+  imageCount: 1
 ---
 ## The Math on Revolution
 

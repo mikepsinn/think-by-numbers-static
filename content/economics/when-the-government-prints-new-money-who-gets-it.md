@@ -28,13 +28,16 @@ tags:
   - federal-reserve
   - government-spending
 aiScores:
-  quality: 6
-  value: 7
+  quality: 4
+  value: 6
   reasoning: >-
-    The post provides a clear and accessible explanation of how the Federal
-    Reserve injects liquidity into the economy, though its informal tone and
-    incomplete ending reduce its overall professional quality.
-  scoredAt: '2025-12-31T05:34:06.802Z'
+    While the explanation of the Cantillon Effect (the advantage of being first
+    to receive new money) is fundamentally sound and vital for understanding
+    wealth extraction, the data is severely dated. Referencing 2008 bailouts in
+    a current context violates the timeliness constraint (max 5/10 for dated
+    stats). Additionally, the text cuts off mid-sentence at the end, reducing
+    professional clarity.
+  scoredAt: '2025-12-31T05:49:11.903Z'
   model: gemini-3-flash-preview
 ---
 When the government creates new money, how is it possible to distribute it without someone just getting a bunch of free money for nothing? The answer is that it’s not.

@@ -32,15 +32,18 @@ tags:
   - healthcare
   - podcast
 aiScores:
-  quality: 3
-  value: 3
+  quality: 8
+  value: 9
   reasoning: >-
-    The post relies on a highly reductionist and misleading premise, equating
-    complex Electronic Health Record (EHR) implementation incentives with the
-    price of a consumer iPad. While the writing is clear, it misrepresents the
-    HITECH Act's scope and costs to create a provocative but factually flawed
-    narrative.
-  scoredAt: '2025-12-31T05:37:19.325Z'
+    The post effectively exposes a textbook case of regressive wealth transfer
+    and regulatory capture. By highlighting how the HITECH Act used taxes from
+    lower-income administrative staff to subsidize high-earning physicians, it
+    demonstrates a failure in public policy that reduces median wealth and
+    increases inequality. It correctly identifies that while efficiency is a
+    market good, using coercive taxation to fund capital investments for the
+    wealthy—which then displace the very workers who paid the tax—is a net
+    negative for median wellbeing and a distortion of market incentives.
+  scoredAt: '2025-12-31T05:47:21.982Z'
   model: gemini-3-flash-preview
 ---
 [![Graph Illustrating Average US Doctor's Salary vs Median Citizen Income](/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320-672x224.jpg)](http://thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg)

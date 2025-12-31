@@ -26,13 +26,16 @@ tags:
   - government-spending
   - military
 aiScores:
-  quality: 4
-  value: 3
+  quality: 7
+  value: 9
   reasoning: >-
-    While the writing is stylistically clear and utilizes reputable external
-    data, the post lacks depth, original analysis, and contemporary relevance,
-    as the data provided ends in 2007.
-  scoredAt: '2025-12-31T05:35:27.369Z'
+    From a public choice perspective, this post exposes the ultimate
+    misallocation of resources: the 'broken window' fallacy on a global scale.
+    By highlighting the trillions diverted from productive private investment
+    into state-sponsored destruction, it identifies a primary barrier to
+    maximizing median wealth and health. While high on cynicism, it effectively
+    frames military spending as a systemic failure of government priorities.
+  scoredAt: '2025-12-31T05:45:09.399Z'
   model: gemini-3-flash-preview
 ---
 ## How Much Do You Spend on Weapons?

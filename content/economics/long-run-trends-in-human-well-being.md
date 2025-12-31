@@ -22,12 +22,17 @@ tags:
   - economics
 aiScores:
   quality: 4
-  value: 7
+  value: 3
   reasoning: >-
-    The post introduces a vital historical concept using an engaging analogy,
-    but the presentation is severely marred by the inclusion of raw
-    CSS/JavaScript and a lack of depth beyond the initial hook.
-  scoredAt: '2025-12-31T05:33:45.296Z'
+    While the 'Hockey Stick' of human progress is a powerful concept for
+    historical context, this submission is incomplete (containing broken code
+    snippets) and lacks a specific, actionable target. It identifies the
+    historical 'loudest guy' (monarchs/clergy) but fails to expose modern-day
+    'kings and priests' or specific current policies that are stifling progress
+    today. To maximize median well-being, the focus must shift from celebrating
+    1800s progress to attacking current regulatory capture or wealth extraction
+    mechanisms.
+  scoredAt: '2025-12-31T05:48:43.537Z'
   model: gemini-3-flash-preview
 ---
 For 10,000 years, life expectancy was 28. GDP per capita was $100. Then around 1800, both numbers suddenly decided to go vertical. It's like humanity spent 10,000 years in the tutorial level and then someone finally pressed start.

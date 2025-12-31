@@ -27,13 +27,17 @@ metadata:
 tags:
   - healthcare
 aiScores:
-  quality: 4
-  value: 5
+  quality: 7
+  value: 8
   reasoning: >-
-    While the post addresses an important emerging topic in nutritional
-    psychiatry, it relies on oversimplified correlations and hyperbolic
-    language, and the provided text is incomplete.
-  scoredAt: '2025-12-31T05:37:07.259Z'
+    The post identifies a significant correlation between industrial food policy
+    and the mental health crisis, effectively challenging the status quo of
+    psychiatric medicalization. From a public choice perspective, it exposes how
+    the agricultural-industrial complex and deceptive labeling (regulatory
+    failure) drive inflammatory diets that destroy median health and happiness,
+    providing a clear path for policy advocates to target harmful food subsidies
+    and labeling laws.
+  scoredAt: '2025-12-31T05:47:07.257Z'
   model: gemini-3-flash-preview
 ---
 The US suicide rate jumped 40% over the last 20 years. Turns out when you replace vegetables with fried oil and your immune system with constant inflammation, your brain stops making the chemicals that prevent you from wanting to die. The math is third-grade level. The confusion is notable.

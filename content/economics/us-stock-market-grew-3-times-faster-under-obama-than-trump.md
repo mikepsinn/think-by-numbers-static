@@ -24,13 +24,15 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 4
-  value: 3
+  quality: 3
+  value: 2
   reasoning: >-
-    While the post presents factual data and correctly identifies the context of
-    the 2008 market crash, its brevity and highly informal tone limit its depth
-    and professional utility.
-  scoredAt: '2025-12-31T05:33:50.865Z'
+    The data is over five years old (published in 2019) and focuses on
+    historical presidential windows, triggering the strict 'Timeliness' penalty.
+    While it challenges partisan narratives regarding market performance, it
+    fails to expose current wealth extraction mechanisms or provide actionable
+    insights for median wealth/health in the present economic climate.
+  scoredAt: '2025-12-31T05:48:50.167Z'
   model: gemini-3-flash-preview
 ---
 ![US Stock Market Grew 3 Times Faster Under Obama Than Trump](/wp-content/uploads/2019/06/us-stock-market-returns-under-trump-obama-480x325.png)

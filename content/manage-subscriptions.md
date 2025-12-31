@@ -13,13 +13,13 @@ metadata:
 tags:
   - subscription
 aiScores:
-  quality: 3
+  quality: 2
   value: 1
   reasoning: >-
-    This is a functional utility page for managing subscriptions rather than an
-    educational blog post, offering no actual data analysis or informative
-    content to the reader.
-  scoredAt: '2025-12-31T05:37:28.643Z'
+    This is an administrative meta-page for subscription management; it contains
+    no substantive economic analysis, data on government failure, or actionable
+    insights to improve median wellbeing.
+  scoredAt: '2025-12-31T05:47:34.113Z'
   model: gemini-3-flash-preview
 ---
 
