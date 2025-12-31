@@ -1,5 +1,6 @@
 ---
 title: 'Iran US Foreign Relations: A History of Violence'
+description: "0 Americans killed by Iran vs 290+ shot down in civilian airliner. US overthrew Iran's democracy in 1953 for oil."
 authors: []
 date: 2016-08-01T17:30:49.000Z
 metadata:

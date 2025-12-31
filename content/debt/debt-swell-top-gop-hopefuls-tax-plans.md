@@ -2,6 +2,7 @@
 title: Debt Will Swell Under Top GOP Hopefuls' Tax Plans
 authors: []
 date: 2011-02-25T00:47:51.000Z
+description: Gingrich's plan adds $7 trillion to debt while calling himself fiscal conservative—like buying a Ferrari on credit card and negotiating the interest rate.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/02/featured-image-debt-by-GOP-presidential-candidate-2012.jpg

@@ -1,5 +1,6 @@
 ---
 title: Are You Reading this of Your Own Free Will?
+description: Your brain decided 10 seconds before you did. Brain scans prove you're not actually making choices.
 authors: []
 date: 2011-10-26T16:11:50.000Z
 metadata:

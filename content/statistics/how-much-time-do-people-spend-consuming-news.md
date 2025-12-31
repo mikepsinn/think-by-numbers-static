@@ -1,5 +1,6 @@
 ---
 title: How much time do people spend consuming news?
+description: Americans spend 70 minutes daily consuming news about problems in places they'll never visit.
 authors: []
 date: 2019-05-10T09:45:36.000Z
 metadata:

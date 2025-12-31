@@ -1,5 +1,6 @@
 ---
 title: What was the population when the United States was established?
+description: 2.5 million people created a democracy. You have 335 million who can't agree on anything.
 authors: []
 date: 2019-05-22T22:16:29.000Z
 metadata:

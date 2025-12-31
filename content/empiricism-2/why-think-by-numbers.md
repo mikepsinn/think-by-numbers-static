@@ -1,5 +1,6 @@
 ---
 title: Why Think by Numbers?
+description: 70% of voters don't know how much government spends on anything. Your lizard brain beats your rational cortex 206 times per day.
 authors: []
 date: 2013-06-25T23:34:02.000Z
 metadata:

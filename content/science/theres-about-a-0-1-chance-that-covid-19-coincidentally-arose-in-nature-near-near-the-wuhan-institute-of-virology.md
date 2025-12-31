@@ -2,6 +2,7 @@
 title: >-
   There's about a 0.1% Chance that COVID-19 Coincidentally Arose in Nature near
   the Wuhan Institute of Virology
+description: 0.1% chance novel coronavirus appeared near the only 5 labs studying this exact virus. Basic math meets uncomfortable facts.
 authors: []
 date: 2024-03-09T12:51:44.000Z
 metadata:

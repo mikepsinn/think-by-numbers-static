@@ -1,5 +1,6 @@
 ---
 title: How much of our DNA is useless junk?
+description: 75% of your DNA is junk that cells photocopy billions of times for absolutely no reason.
 authors: []
 date: 2019-06-23T00:03:46.000Z
 metadata:

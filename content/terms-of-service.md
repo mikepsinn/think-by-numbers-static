@@ -5,6 +5,8 @@ description: >-
   The math on privacy is technically depressing.
 date: 2024-12-25T00:00:00.000Z
 type: page
+tags: [privacy, legal, cookies, data-protection, terms, tracking]
+categories: [legal]
 metadata:
   url: 'https://thinkbynumbers.org/terms-of-service/'
   media:

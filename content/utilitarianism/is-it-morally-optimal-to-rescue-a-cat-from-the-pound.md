@@ -1,5 +1,6 @@
 ---
 title: Is it morally optimal to rescue a cat from the pound?
+description: Saving one cat kills 600 chickens over 15 years. Utilitarianism proves petting your cat is morally worse than euthanizing it.
 authors: []
 date: 2020-05-23T14:40:10.000Z
 metadata:

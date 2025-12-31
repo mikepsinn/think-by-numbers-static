@@ -1,5 +1,6 @@
 ---
 title: 'Subconscious Processes 27,500 Times More Data than the Conscious Mind'
+description: Your subconscious processes 27,500x more information than you're aware of. You're just the guy who takes credit.
 authors: []
 date: 2020-12-06T01:51:09.000Z
 metadata:

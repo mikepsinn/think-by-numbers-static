@@ -1,5 +1,6 @@
 ---
 title: How To Calculate Morality Using The Utilitarian Calculator
+description: Bentham's felicific calculus quantifies pleasure and pain on a 1-10 scale. Yes, you can mathematically calculate whether you should kill your cat.
 authors: []
 date: 2012-11-26T03:50:41.000Z
 metadata:

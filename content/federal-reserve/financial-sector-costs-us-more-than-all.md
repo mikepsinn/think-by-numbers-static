@@ -2,6 +2,7 @@
 title: Financial Sector Costs Us More than Any Other Sector In Economy
 authors: []
 date: 2016-04-12T03:24:00.000Z
+description: Finance jumped from 4% of GDP (1960s) to 8% (2007), costing $2 trillion annually—more than healthcare, construction, food combined. It's computer money-shuffling.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2012/04/featured-image-GDP-by-Indusrty-Graph.jpg

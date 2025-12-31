@@ -2,6 +2,7 @@
 title: Zombie Companies Will Lead to America's Lost Decade
 authors: []
 date: 2021-09-21T06:42:10.000Z
+description: Fed loans 0% interest to zombie companies that don't produce value. Japan's approach gave them 3 decades to recover. Volcker's alternative (1979) crashed then boomed.
 metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2021/09/ScreenClip.png'
   media:

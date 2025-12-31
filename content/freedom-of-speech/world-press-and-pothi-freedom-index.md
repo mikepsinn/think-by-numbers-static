@@ -1,5 +1,6 @@
 ---
 title: World Press (and Pothi) Freedom Index
+description: "Only 1 of 180 countries has press freedom like 1st Amendment. North Korea, Eritrea, Turkmenistan are information black holes."
 authors: []
 date: 2012-08-06T09:28:41.000Z
 metadata:

@@ -2,6 +2,7 @@
 title: IRS Automation Could Save Americans $191 Billion
 authors: []
 date: 2024-08-31T08:00:15.000Z
+description: IRS already has your data; automating returns could save $191 billion. Instead, they make you spend 13 hours transcribing what they know and threaten prison if you miscalculate.
 metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2024/08/irs.png'
   media:

@@ -2,6 +2,7 @@
 title: >-
   FDA Fails to Apply Basic Rational Cost-Benefit Analysis to Regulatory
   Decisions
+description: FDA banned monoclonal antibodies despite 30% efficacy. They ignored $3.7T Long COVID cost, risked $600M in preventable hospitalizations.
 authors: []
 date: 2025-01-16T04:51:31.000Z
 metadata:

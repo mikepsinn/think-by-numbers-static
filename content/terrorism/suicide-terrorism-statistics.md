@@ -1,5 +1,6 @@
 ---
 title: Foreign Military Occupation is the Primary Cause of Terrorism
+description: "95% of suicide terrorism targets occupying militaries. We invaded to stop terrorism, making terrorism increase 89% instead."
 authors: []
 date: 2012-01-17T11:56:07.000Z
 metadata:
