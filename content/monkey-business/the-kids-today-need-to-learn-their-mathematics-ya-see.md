@@ -1,6 +1,8 @@
 ---
 title: 'cos(b) says, "The kids today need to learn their mathematics, ya see!"'
-description: cos(b) can't be both square and a trigonometric function. Cosby's geometry fails in three dimensions, possibly four.
+description: >-
+  cos(b) can't be both square and a trigonometric function. Cosby's geometry
+  fails in three dimensions, possibly four.
 authors: []
 date: 2011-09-02T09:01:19.000Z
 metadata:

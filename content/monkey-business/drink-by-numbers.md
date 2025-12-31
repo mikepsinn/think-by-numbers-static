@@ -1,6 +1,8 @@
 ---
 title: Drink by Numbers!
-description: Gas chromatography proves Budweiser isn't watered down. Day drinking becomes "data collection" with scientific equipment involved.
+description: >-
+  Gas chromatography proves Budweiser isn't watered down. Day drinking becomes
+  "data collection" with scientific equipment involved.
 authors: []
 date: 2013-02-28T22:36:49.000Z
 metadata:

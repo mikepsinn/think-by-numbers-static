@@ -65,6 +65,28 @@ module.exports = function(eleventyConfig) {
         warnings.push(`No categories specified`);
       }
 
+      // Validate image files exist on disk
+      if (data.metadata?.media?.featuredImage) {
+        const imagePath = path.join(process.cwd(), 'content', data.metadata.media.featuredImage.replace(/^\//, ''));
+        if (!fs.existsSync(imagePath)) {
+          warnings.push(`Featured image file not found: ${data.metadata.media.featuredImage}`);
+        }
+      }
+
+      if (data.metadata?.media?.ogImage) {
+        const imagePath = path.join(process.cwd(), 'content', data.metadata.media.ogImage.replace(/^\//, ''));
+        if (!fs.existsSync(imagePath)) {
+          warnings.push(`OG image file not found: ${data.metadata.media.ogImage}`);
+        }
+      }
+
+      if (data.metadata?.media?.infographic) {
+        const imagePath = path.join(process.cwd(), 'content', data.metadata.media.infographic.replace(/^\//, ''));
+        if (!fs.existsSync(imagePath)) {
+          warnings.push(`Infographic file not found: ${data.metadata.media.infographic}`);
+        }
+      }
+
       // Combine errors and warnings - all fail the build
       const allIssues = [...errors, ...warnings];
 
