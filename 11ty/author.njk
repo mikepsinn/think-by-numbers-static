@@ -1,12 +1,12 @@
 ---
 layout: base.njk
-title: "Posts by Admin"
-permalink: "/author/admin/"
+title: "Posts by {{ site.author.name }}"
+permalink: "/author/mikepsinn/"
 ---
 
-<div class="container">
+<div class="container" data-pagefind-ignore>
   <div class="main-content">
-    <h1>Posts by Admin</h1>
+    <h1>Posts by {{ site.author.name }}</h1>
 
     {%- set authorPosts = collections.all | reverse %}
     {%- set mdPosts = [] %}
