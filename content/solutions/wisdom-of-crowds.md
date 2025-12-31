@@ -12,6 +12,7 @@ metadata:
   type: wordpress
   url: 'https://thinkbynumbers.org/solutions/wisdom-of-crowds/'
   media:
+    featuredImage: /assets/og-images/solutions/wisdom-of-crowds.png
     ogImage: /assets/og-images/solutions/wisdom-of-crowds.png
     infographic: /assets/infographics/solutions/wisdom-of-crowds.png
 tags:

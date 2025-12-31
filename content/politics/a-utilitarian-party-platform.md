@@ -12,6 +12,7 @@ metadata:
   type: wordpress
   url: 'https://thinkbynumbers.org/politics/a-utilitarian-party-platform/'
   media:
+    featuredImage: /assets/og-images/politics/a-utilitarian-party-platform.png
     ogImage: /assets/og-images/politics/a-utilitarian-party-platform.png
     infographic: /assets/infographics/politics/a-utilitarian-party-platform.png
 tags:

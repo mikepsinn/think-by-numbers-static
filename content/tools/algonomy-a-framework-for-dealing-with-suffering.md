@@ -13,6 +13,8 @@ metadata:
   url: >-
     https://thinkbynumbers.org/tools/algonomy-a-framework-for-dealing-with-suffering/
   media:
+    featuredImage: >-
+      /assets/og-images/tools/algonomy-a-framework-for-dealing-with-suffering.png
     ogImage: >-
       /assets/og-images/tools/algonomy-a-framework-for-dealing-with-suffering.png
     infographic: >-

@@ -8,11 +8,16 @@ date: 2012-11-24T23:15:44.000Z
 tags: [crowdsourcing, bias, economics, democracy, decision-making, voting, methodology, research]
 categories: [research, methodology]
 metadata:
+  categories:
+    - research
+    - methodology
   uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/?p=12'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants/
   media:
+    featuredImage: >-
+      /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
     ogImage: >-
       /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
     infographic: >-

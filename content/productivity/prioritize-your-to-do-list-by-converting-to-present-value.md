@@ -13,6 +13,8 @@ metadata:
   url: >-
     https://thinkbynumbers.org/productivity/prioritize-your-to-do-list-by-converting-to-present-value/
   media:
+    featuredImage: >-
+      /assets/og-images/productivity/prioritize-your-to-do-list-by-converting-to-present-value.png
     ogImage: >-
       /assets/og-images/productivity/prioritize-your-to-do-list-by-converting-to-present-value.png
     infographic: >-

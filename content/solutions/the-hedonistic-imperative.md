@@ -12,6 +12,7 @@ metadata:
   type: wordpress
   url: 'https://thinkbynumbers.org/solutions/the-hedonistic-imperative/'
   media:
+    featuredImage: /assets/og-images/solutions/the-hedonistic-imperative.png
     ogImage: /assets/og-images/solutions/the-hedonistic-imperative.png
     infographic: /assets/infographics/solutions/the-hedonistic-imperative.png
 tags:

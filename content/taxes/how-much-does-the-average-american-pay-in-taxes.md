@@ -14,6 +14,8 @@ metadata:
   url: >-
     https://thinkbynumbers.org/taxes/how-much-does-the-average-american-pay-in-taxes/
   media:
+    featuredImage: >-
+      /assets/og-images/taxes/how-much-does-the-average-american-pay-in-taxes.png
     ogImage: >-
       /assets/og-images/taxes/how-much-does-the-average-american-pay-in-taxes.png
     infographic: >-

@@ -13,6 +13,8 @@ metadata:
   url: >-
     https://thinkbynumbers.org/tools/the-encyclopedia-of-world-problems-and-human-potential/
   media:
+    featuredImage: >-
+      /assets/og-images/tools/the-encyclopedia-of-world-problems-and-human-potential.png
     ogImage: >-
       /assets/og-images/tools/the-encyclopedia-of-world-problems-and-human-potential.png
     infographic: >-

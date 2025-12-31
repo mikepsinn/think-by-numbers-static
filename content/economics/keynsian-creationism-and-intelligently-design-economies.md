@@ -14,6 +14,8 @@ metadata:
   url: >-
     https://thinkbynumbers.org/economics/keynsian-creationism-and-intelligently-design-economies/
   media:
+    featuredImage: >-
+      /assets/og-images/economics/keynsian-creationism-and-intelligently-design-economies.png
     ogImage: >-
       /assets/og-images/economics/keynsian-creationism-and-intelligently-design-economies.png
     infographic: >-

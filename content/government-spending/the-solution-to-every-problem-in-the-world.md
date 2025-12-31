@@ -18,6 +18,8 @@ metadata:
   url: >-
     https://thinkbynumbers.org/government-spending/the-solution-to-every-problem-in-the-world/
   media:
+    featuredImage: >-
+      /assets/og-images/government-spending/the-solution-to-every-problem-in-the-world.png
     ogImage: >-
       /assets/og-images/government-spending/the-solution-to-every-problem-in-the-world.png
     infographic: >-

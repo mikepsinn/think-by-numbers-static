@@ -14,6 +14,7 @@ metadata:
   type: wordpress
   url: 'https://thinkbynumbers.org/health/less-rem-sleep-linked-to-dementia/'
   media:
+    featuredImage: /assets/og-images/health/less-rem-sleep-linked-to-dementia.png
     ogImage: /assets/og-images/health/less-rem-sleep-linked-to-dementia.png
     infographic: /assets/infographics/health/less-rem-sleep-linked-to-dementia.png
 tags:
