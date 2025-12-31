@@ -79,6 +79,15 @@ async function generateImagesForPost(
     .replace(/\s+/g, ' ') // Normalize whitespace
     .trim();
 
+  // Prepare image metadata
+  const imageMetadata = {
+    title: frontmatter.title || 'ThinkByNumbers Article',
+    description: frontmatter.description || frontmatter.title || '',
+    author: 'ThinkByNumbers',
+    copyright: `© ${new Date().getFullYear()} ThinkByNumbers.org`,
+    keywords: frontmatter.tags || [],
+  };
+
   // Generate OG image (optimized for social media thumbnails)
   if (!hasOgImage || forceRegenerate) {
     console.log(`  Generating OG image (social media optimized)...`);
@@ -94,6 +103,7 @@ Full article content: ${cleanedContent}
         aspectRatio: '16:9',
         outputDir: ogOutputDir,
         filePrefix: fileName,
+        metadata: imageMetadata,
       });
 
       if (ogFiles && ogFiles.length > 0) {
@@ -107,7 +117,7 @@ Full article content: ${cleanedContent}
     }
   }
 
-  // Generate infographic (detailed, vertical)
+  // Generate infographic (detailed, vertical page-like format)
   if (!hasInfographic || forceRegenerate) {
     console.log(`  Generating infographic (detailed)...`);
     const infographicPrompt = `Create a detailed infographic for an article titled "${frontmatter.title}".
@@ -121,9 +131,10 @@ Full article content: ${cleanedContent}
     try {
       const infographicFiles = await generateAndSaveImages({
         prompt: infographicPrompt,
-        aspectRatio: '9:16',
+        aspectRatio: '3:4',
         outputDir: infographicOutputDir,
         filePrefix: fileName,
+        metadata: imageMetadata,
       });
 
       if (infographicFiles && infographicFiles.length > 0) {

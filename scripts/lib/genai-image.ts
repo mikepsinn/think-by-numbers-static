@@ -174,17 +174,111 @@ export async function generateImages(
 }
 
 /**
+ * Image metadata for embedding in files
+ */
+export interface ImageMetadata {
+  title?: string
+  description?: string
+  author?: string
+  copyright?: string
+  keywords?: string[]
+}
+
+/**
+ * Add text watermark and metadata to an image buffer
+ *
+ * @param imageBuffer - The image buffer to watermark
+ * @param metadata - Image metadata to embed
+ * @returns Buffer with watermark and metadata applied
+ */
+export async function addWatermark(
+  imageBuffer: Buffer,
+  metadata?: ImageMetadata
+): Promise<Buffer> {
+  const sharp = (await import('sharp')).default
+
+  const image = sharp(imageBuffer)
+  const imgMetadata = await image.metadata()
+  const imageWidth = imgMetadata.width || 1200
+  const imageHeight = imgMetadata.height || 630
+
+  // Calculate font size based on image width (2% of width)
+  const fontSize = Math.floor(imageWidth * 0.02)
+  const padding = 10
+
+  // Create text SVG with transparent background
+  // Using semi-transparent white text for visibility on dark images
+  const text = 'ThinkByNumbers.org'
+  const textWidth = text.length * fontSize * 0.6 // Approximate width
+  const textHeight = fontSize * 1.2
+
+  const svgText = `
+    <svg width="${textWidth}" height="${textHeight}">
+      <style>
+        .watermark {
+          fill: rgba(255, 255, 255, 0.7);
+          font-size: ${fontSize}px;
+          font-family: 'Courier New', monospace;
+          font-weight: normal;
+        }
+      </style>
+      <text x="0" y="${fontSize}" class="watermark">${text}</text>
+    </svg>
+  `
+
+  const textBuffer = Buffer.from(svgText)
+
+  // Position text in lower right corner
+  const left = imageWidth - textWidth - padding
+  const top = imageHeight - textHeight - padding
+
+  // Prepare EXIF metadata
+  const exif: Record<string, any> = {}
+  if (metadata?.title) exif.Title = metadata.title
+  if (metadata?.description) exif.Description = metadata.description
+  if (metadata?.author) exif.Artist = metadata.author
+  if (metadata?.copyright) exif.Copyright = metadata.copyright
+  if (metadata?.keywords) exif.Keywords = metadata.keywords.join(', ')
+
+  // Composite text onto image and add metadata
+  const result = await image
+    .composite([
+      {
+        input: textBuffer,
+        left: Math.floor(left),
+        top: Math.floor(top),
+      },
+    ])
+    .withMetadata({
+      exif: Object.keys(exif).length > 0 ? exif : undefined,
+    })
+    .toBuffer()
+
+  log.info('Watermark and metadata applied', {
+    text,
+    imageWidth,
+    imageHeight,
+    fontSize,
+    metadataFields: Object.keys(exif)
+  })
+  return result
+}
+
+/**
  * Save a generated image to a file
  *
  * @example
  * ```typescript
  * const result = await generateImages({ prompt: 'A cat' })
- * await saveImage(result.images[0], 'output/cat.png')
+ * await saveImage(result.images[0], 'output/cat.png', {
+ *   metadata: { title: 'Cat Photo', author: 'AI Generator' }
+ * })
  * ```
  */
 export async function saveImage(
   image: GeneratedImage,
-  filePath: string
+  filePath: string,
+  options?: { addWatermark?: boolean; metadata?: ImageMetadata }
 ): Promise<void> {
   const fs = await import('fs/promises')
   const path = await import('path')
@@ -202,8 +296,15 @@ export async function saveImage(
   const dir = path.dirname(filePath)
   await fs.mkdir(dir, { recursive: true })
 
-  // Decode base64 and write to file
-  const buffer = Buffer.from(image.imageBytes, 'base64')
+  // Decode base64
+  let buffer = Buffer.from(image.imageBytes, 'base64')
+
+  // Add watermark if enabled (default: true)
+  if (options?.addWatermark !== false) {
+    buffer = await addWatermark(buffer, options?.metadata)
+  }
+
+  // Write to file
   await fs.writeFile(filePath, buffer)
 
   log.info('Image saved', { filePath, size: buffer.length })
@@ -218,9 +319,14 @@ export async function saveImage(
  *   prompt: 'Neobrutalist medical research poster',
  *   count: 3,
  *   outputDir: 'public/assets/generated',
- *   filePrefix: 'poster'
+ *   filePrefix: 'poster',
+ *   metadata: {
+ *     title: 'Medical Research Poster',
+ *     author: 'ThinkByNumbers',
+ *     copyright: '© 2025 ThinkByNumbers.org'
+ *   }
  * })
- * // Creates: poster-1.png, poster-2.png, poster-3.png
+ * // Creates: poster-1.png, poster-2.png, poster-3.png (with watermark and metadata)
  * ```
  */
 export async function generateAndSaveImages(options: {
@@ -230,6 +336,8 @@ export async function generateAndSaveImages(options: {
   outputDir: string
   filePrefix: string
   format?: 'png' | 'jpg'
+  addWatermark?: boolean
+  metadata?: ImageMetadata
 }): Promise<string[]> {
   const {
     prompt,
@@ -238,6 +346,8 @@ export async function generateAndSaveImages(options: {
     outputDir,
     filePrefix,
     format = 'png',
+    addWatermark = true,
+    metadata,
   } = options
 
   const result = await generateImages({
@@ -254,7 +364,7 @@ export async function generateAndSaveImages(options: {
       : `${filePrefix}-${i + 1}.${format}`
 
     const filePath = `${outputDir}/${fileName}`
-    await saveImage(result.images[i], filePath)
+    await saveImage(result.images[i], filePath, { addWatermark, metadata })
     filePaths.push(filePath)
   }
 
