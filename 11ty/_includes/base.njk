@@ -711,13 +711,7 @@
     {# Social Media Header #}
     <div class="social-header">
       <div class="social-icons">
-        <a href="{{ site.social.twitter }}" target="_blank" title="Twitter">Twitter</a>
-        <a href="{{ site.social.facebook }}" target="_blank" title="Facebook">Facebook</a>
-        <a href="{{ site.social.linkedin }}" target="_blank" title="LinkedIn">LinkedIn</a>
-        <a href="{{ site.social.youtube }}" target="_blank" title="YouTube">YouTube</a>
-        <a href="https://soundcloud.com/plutonium-kidz" target="_blank" title="SoundCloud">SoundCloud</a>
-        <a href="{{ site.social.github }}" target="_blank" title="GitHub">GitHub</a>
-        <a href="https://mikesinn.com" target="_blank" title="Mike Sinn">Mike Sinn</a>
+        <a href="#footer" title="Menu">MENU</a>
       </div>
     </div>
 
@@ -729,16 +723,6 @@
         </a>
       </div>
       <p>{{ site.description }}</p>
-      <nav>
-        <a href="/">Home</a>
-        <a href="/empiricism-2/why-think-by-numbers/">Why Think by Numbers?</a>
-        <a href="/subscribe/">Subscribe</a>
-        <a href="https://warondisease.org" target="_blank" class="cta-link">How to End War and Disease</a>
-        <a href="https://dih.earth" target="_blank" class="cta-link">The Decentralized Institutes of Health</a>
-        <a href="https://dfda.earth" target="_blank" class="cta-link">The Decentralized FDA</a>
-        <a href="https://wishonia.love" target="_blank">Wishonia</a>
-        <a href="/search/" class="search-link">Search</a>
-      </nav>
     </div>
   </header>
 
@@ -746,12 +730,39 @@
     {{ content | safe }}
   </main>
 
-  <footer>
+  <footer id="footer">
+    <div style="margin-bottom: 20px;">
+      <nav style="margin: 0; display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
+        <a href="/" style="color: var(--color-bg); border-color: var(--color-bg);">Home</a>
+        <span style="color: var(--color-bg); opacity: 0.5;">|</span>
+        <a href="/empiricism-2/why-think-by-numbers/" style="color: var(--color-bg); border-color: var(--color-bg);">Why Think by Numbers?</a>
+        <span style="color: var(--color-bg); opacity: 0.5;">|</span>
+        <a href="/subscribe/" style="color: var(--color-bg); border-color: var(--color-bg);">Subscribe</a>
+        <span style="color: var(--color-bg); opacity: 0.5;">|</span>
+        <a href="https://warondisease.org" target="_blank" style="color: var(--color-bg); border-color: var(--color-bg);">How to End War and Disease</a>
+        <span style="color: var(--color-bg); opacity: 0.5;">|</span>
+        <a href="https://dih.earth" target="_blank" style="color: var(--color-bg); border-color: var(--color-bg);">Decentralized Institutes of Health</a>
+        <span style="color: var(--color-bg); opacity: 0.5;">|</span>
+        <a href="https://dfda.earth" target="_blank" style="color: var(--color-bg); border-color: var(--color-bg);">Decentralized FDA</a>
+        <span style="color: var(--color-bg); opacity: 0.5;">|</span>
+        <a href="https://wishonia.love" target="_blank" style="color: var(--color-bg); border-color: var(--color-bg);">Wishonia</a>
+        <span style="color: var(--color-bg); opacity: 0.5;">|</span>
+        <a href="/search/" style="color: var(--color-bg); border-color: var(--color-bg);">Search</a>
+      </nav>
+    </div>
+    <div style="margin-bottom: 20px;">
+      <a href="{{ site.social.twitter }}" target="_blank" style="margin: 0 8px;">Twitter</a>
+      <a href="{{ site.social.facebook }}" target="_blank" style="margin: 0 8px;">Facebook</a>
+      <a href="{{ site.social.linkedin }}" target="_blank" style="margin: 0 8px;">LinkedIn</a>
+      <a href="{{ site.social.youtube }}" target="_blank" style="margin: 0 8px;">YouTube</a>
+      <a href="https://soundcloud.com/plutonium-kidz" target="_blank" style="margin: 0 8px;">SoundCloud</a>
+      <a href="{{ site.social.github }}" target="_blank" style="margin: 0 8px;">GitHub</a>
+      <a href="https://mikesinn.com" target="_blank" style="margin: 0 8px;">Mike Sinn</a>
+    </div>
     <p>&copy; 2025 <a href="https://mikesinn.com">Mike P. Sinn</a> | <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></p>
     <p>
       <a href="{{ site.feedPath }}">RSS Feed</a> |
       <a href="{{ site.podcastFeedPath }}">Podcast Feed</a> |
-      <a href="/search/">Search</a> |
       <a href="https://mikesinn.com/privacy-policy" target="_blank">Privacy Policy</a>
     </p>
   </footer>

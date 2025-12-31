@@ -29,8 +29,68 @@ permalink: /search/
   </aside>
 </div>
 
+<style>
+  /* Custom search layout with icon on the left */
+  #search-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: white;
+    border: 4px solid black;
+    box-shadow: 8px 8px 0 black;
+    padding: 20px;
+  }
+
+  #search-icon {
+    font-size: 24px;
+    flex-shrink: 0;
+  }
+
+  #search {
+    flex: 1;
+  }
+
+  /* Remove extra padding/margin from Pagefind input */
+  .pagefind-ui__search-input {
+    padding-left: 10px !important;
+  }
+
+  /* Hide any default Pagefind icons */
+  .pagefind-ui__form svg,
+  .pagefind-ui__search-clear {
+    display: none !important;
+  }
+
+  /* Hide ::before pseudo-element icons */
+  .pagefind-ui__search-input::before,
+  .pagefind-ui__form::before {
+    display: none !important;
+    content: none !important;
+  }
+</style>
+
 <script>
   window.addEventListener('DOMContentLoaded', () => {
+    // Get the search div and its parent container
+    const searchDiv = document.querySelector('#search');
+    const oldContainer = searchDiv.parentElement;
+    const mainContent = oldContainer.parentElement;
+
+    // Create new wrapper with icon
+    const wrapper = document.createElement('div');
+    wrapper.id = 'search-wrapper';
+
+    const icon = document.createElement('div');
+    icon.id = 'search-icon';
+    icon.textContent = '🔍';
+
+    // Build new structure
+    wrapper.appendChild(icon);
+    wrapper.appendChild(searchDiv);
+
+    // Replace old container with new wrapper
+    mainContent.replaceChild(wrapper, oldContainer);
+
     // Initialize Pagefind UI
     const pagefind = new PagefindUI({
       element: "#search",
