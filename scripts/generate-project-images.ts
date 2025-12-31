@@ -91,7 +91,14 @@ async function generateImagesForPost(
   // Generate OG image (optimized for social media thumbnails)
   if (!hasOgImage || forceRegenerate) {
     console.log(`  Generating OG image (social media optimized)...`);
-    const ogPrompt = `Create fun retro scientific black and white image illustrating the following content "${frontmatter.title}".
+    const ogPrompt = `Create image illustrating the content below.
+    Style: Use a fun retro scientific black and white style.
+
+    Here is the content to illustrate:
+
+--------------------------------
+    
+Title:    "${frontmatter.title}".
 
 Full article content: ${cleanedContent}
 

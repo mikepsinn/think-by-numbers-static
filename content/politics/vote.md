@@ -10,6 +10,7 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2014/11/vote-button-495.jpg
     infographic: /assets/infographics/politics/vote.png
+    ogImage: /assets/og-images/politics/vote.png
   categories:
     - Politics
   uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8707'

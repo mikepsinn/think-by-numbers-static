@@ -13,6 +13,8 @@ metadata:
       /wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg
     infographic: >-
       /assets/infographics/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared.png
+    ogImage: >-
+      /assets/og-images/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared.png
   categories:
     - Government Spending
     - Podcast
