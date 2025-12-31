@@ -28,17 +28,21 @@ tags:
   - federal-reserve
   - government-spending
 aiScores:
-  quality: 4
-  value: 6
+  quality: 7
+  value: 9
+  timeliness: 10
   reasoning: >-
-    While the explanation of the Cantillon Effect (the advantage of being first
-    to receive new money) is fundamentally sound and vital for understanding
-    wealth extraction, the data is severely dated. Referencing 2008 bailouts in
-    a current context violates the timeliness constraint (max 5/10 for dated
-    stats). Additionally, the text cuts off mid-sentence at the end, reducing
-    professional clarity.
-  scoredAt: '2025-12-31T05:49:11.903Z'
+    This content explains the 'Cantillon Effect'—the phenomenon where those
+    closest to the money source benefit from new capital before it devalues the
+    currency. While the specific data points in the text (2007-2011) are a bit
+    dated, the mechanism is the primary driver of the massive wealth gap
+    observed post-2020. Exposing how 'electronic' money creation acts as a
+    regressive tax on the working class is a high-impact way to explain why
+    wages never seem to keep up with the cost of living.
+  scoredAt: '2025-12-31T06:00:33.527Z'
   model: gemini-3-flash-preview
+  length: 5056
+  imageCount: 4
 ---
 When the government creates new money, how is it possible to distribute it without someone just getting a bunch of free money for nothing? The answer is that it’s not.
 

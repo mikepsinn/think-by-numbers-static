@@ -21,17 +21,19 @@ tags:
   - drug-war
   - government-spending
 aiScores:
-  quality: 4
-  value: 3
+  quality: 7
+  value: 9
+  timeliness: 6
   reasoning: >-
-    The core thesis regarding wealth misallocation is clear, but the data is
-    over 12 years old (2011-2012). Per the mission criteria, dated stats and old
-    political contexts receive significant penalties. Since 2012, many U.S.
-    states have legalized marijuana, making the specific $10B arrest figure and
-    the legal context obsolete for a modern audience. To maximize impact, the
-    argument needs current figures on the fentanyl crisis or modern carceral
-    costs.
-  scoredAt: '2025-12-31T05:48:46.114Z'
+    The content exposes a massive, systemic extraction of wealth ($1.5T) for a
+    policy that fails its own metrics, directly impacting median wealth and
+    happiness through taxation and incarceration. While the logic and
+    'evergreen' principle of government inefficiency are strong (9/10), the
+    specific data points are from 2011-2012. In a post-legalization era for many
+    states, using decade-old stats weakens the immediate 'punch' for current
+    policy debates, though the core argument regarding the federal 'failing
+    upward' mechanism remains highly relevant.
+  scoredAt: '2025-12-31T05:58:17.389Z'
   model: gemini-3-flash-preview
   length: 11468
   imageCount: 5

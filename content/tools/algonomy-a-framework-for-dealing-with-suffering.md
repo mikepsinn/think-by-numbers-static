@@ -24,14 +24,22 @@ tags:
 aiScores:
   quality: 8
   value: 9
+  timeliness: 9
   reasoning: >-
-    The post uses a powerful 'fire department' analogy to clearly illustrate the
-    systemic silos in human knowledge, making a complex philosophical argument
-    highly accessible. It provides significant value by proposing a unified
-    framework for addressing the universal experience of suffering across
-    disparate disciplines.
-  scoredAt: '2025-12-31T05:40:16.133Z'
+    The core insight—that suffering is treated as a secondary byproduct of
+    various disciplines rather than a primary object of study—exposes a massive
+    structural inefficiency in how humanity allocates resources. The 'Fire
+    Department' analogy effectively highlights how bureaucratic siloing prevents
+    holistic problem-solving. This matters now because as global crises
+    (climate, economic, mental health) become increasingly interconnected, our
+    specialized institutions are failing to address the common denominator: the
+    actual experience of human misery. This framework offers a path toward
+    'Negative Utilitarianism' in policy, which is often more effective at
+    raising the floor of median happiness than traditional growth-based metrics.
+  scoredAt: '2025-12-31T06:08:30.462Z'
   model: gemini-3-flash-preview
+  length: 5035
+  imageCount: 0
 ---
 Humanity has approximately 47 different fields dedicated to suffering: medicine, psychology, religion, politics, economics, law, art, literature, philosophy, ethics, news media, environmental studies, education, science, history, war, crime, and social work. You study suffering in medicine (but only physical suffering from disease). You study suffering in economics (but only financial suffering from poverty). You study suffering in psychology (but only mental suffering from disorders).
 

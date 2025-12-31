@@ -24,17 +24,17 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 8
-  value: 9
+  quality: 9
+  value: 10
+  timeliness: 9
   reasoning: >-
-    This exposes a massive 'poverty tax' and a classic failure of capital
-    allocation. It highlights how the lack of upfront infrastructure financing
-    leads to a 40x wealth drain on individuals. The math demonstrates that the
-    issue isn't a lack of money within the community—since they are already
-    spending billions—but a failure to convert micro-expenditures into
-    collective assets, a mechanism applicable to many developing regions
-    globally.
-  scoredAt: '2025-12-31T05:49:17.358Z'
+    This content exposes a massive 'poverty trap' where the lack of upfront
+    capital/governance results in a 40x markup on a basic human necessity. It
+    highlights a clear mechanism of wealth extraction: the poor pay a 'liquidity
+    tax' to private water distributors because the public infrastructure isn't
+    financed. The math is an undeniable indictment of current policy priorities
+    in developing regions.
+  scoredAt: '2025-12-31T05:58:50.708Z'
   model: gemini-3-flash-preview
   length: 4588
   imageCount: 0

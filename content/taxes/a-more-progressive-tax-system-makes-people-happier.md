@@ -28,16 +28,23 @@ metadata:
 tags:
   - taxes
 aiScores:
-  quality: 6
-  value: 8
+  quality: 8
+  value: 9
+  timeliness: 8
   reasoning: >-
-    The post effectively communicates complex psychological research in an
-    accessible way, though it loses points for an abrupt, incomplete ending and
-    a somewhat dismissive tone toward opposing views. The information is highly
-    valuable for understanding the societal impacts of fiscal policy beyond
-    simple economics.
-  scoredAt: '2025-12-31T05:39:33.491Z'
+    This content directly serves the mission by identifying a clear
+    macro-economic lever—progressive taxation—that correlates with the happiness
+    and well-being of the 'median' person. It exposes the fallacy that flat
+    taxes are 'fairer' by demonstrating that the resulting degradation of public
+    services (schools, transit, housing) has a measurable negative impact on the
+    daily emotional state of citizens. While the specific study cited is from
+    2011, the principle is an evergreen economic mechanism that remains at the
+    center of current global debates regarding wealth inequality and social
+    stability.
+  scoredAt: '2025-12-31T06:07:35.042Z'
   model: gemini-3-flash-preview
+  length: 4056
+  imageCount: 1
 ---
 ![Smiley Money Face](/wp-content/uploads/2011/09/SmileyMoneyFace-44x44.jpg)
 

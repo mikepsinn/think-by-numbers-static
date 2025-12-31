@@ -25,18 +25,21 @@ metadata:
 tags:
   - health
 aiScores:
-  quality: 7
+  quality: 8
   value: 9
+  timeliness: 10
   reasoning: >-
-    The post brilliantly quantifies the 'unseen' opportunity cost of current
-    medical research. By highlighting that we have explored virtually 0% of
-    potential treatments, it exposes the catastrophic inefficiency of the status
-    quo. From a public choice perspective, this suggests that regulatory
-    bottlenecks and high entry costs are preventing a Cambrian explosion of
-    health-wealth, causing millions of preventable deaths due to the slow pace
-    of institutional 'science'.
-  scoredAt: '2025-12-31T05:46:54.355Z'
+    This content exposes the 'Great Stagnation' in medical R&D. By quantifying
+    our ignorance (0.000000002%), it reframes the current pharmaceutical
+    model—characterized by billion-dollar, decade-long linear trials—as
+    mathematically incapable of solving human health. It implicitly argues for a
+    radical shift toward AI-driven discovery and high-throughput testing,
+    highlighting that our current 'wealth' in health is actually a state of
+    profound, policy-enforced scarcity.
+  scoredAt: '2025-12-31T06:04:06.731Z'
   model: gemini-3-flash-preview
+  length: 3831
+  imageCount: 3
 ---
 # What We Don't Know
 

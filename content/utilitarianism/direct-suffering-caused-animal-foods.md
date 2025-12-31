@@ -22,14 +22,21 @@ metadata:
 tags:
   - utilitarianism
 aiScores:
-  quality: 7
+  quality: 8
   value: 9
+  timeliness: 8
   reasoning: >-
-    The post provides a clear, data-driven framework for ethical decision-making
-    that allows readers to prioritize impact, though the tone is somewhat
-    provocative and the underlying data relies on subjective intensity weights.
-  scoredAt: '2025-12-31T05:40:38.172Z'
+    This content exposes a massive 'suffering-arbitrage' opportunity. By
+    quantifying suffering per kilogram, it reveals that moral harm is not
+    distributed linearly across animal products. It provides a high-leverage
+    framework for individuals to reduce their negative footprint by orders of
+    magnitude through simple substitutions (e.g., avoiding small-bodied animals
+    like fish/chicken) rather than total lifestyle overhauls, making it highly
+    actionable and impactful for median global happiness.
+  scoredAt: '2025-12-31T06:08:59.350Z'
   model: gemini-3-flash-preview
+  length: 6973
+  imageCount: 1
 ---
 Eating one kilogram of farmed catfish causes 20,000 times more suffering than drinking one kilogram of milk.
 

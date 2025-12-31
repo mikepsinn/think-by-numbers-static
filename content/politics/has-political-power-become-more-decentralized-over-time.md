@@ -22,18 +22,21 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 9
-  value: 7
+  quality: 8
+  value: 8
+  timeliness: 9
   reasoning: >-
-    The post effectively uses public choice logic to demonstrate that
-    decentralizing power reduces the most extreme form of human capital
-    destruction: democide. While it correctly identifies that moving from
-    autocracy to democracy is a net gain for median survival, it acknowledges
-    that democracy remains a low bar for societal optimization, failing to
-    address the subtler forms of wealth extraction and regulatory capture
-    prevalent in modern representative systems.
-  scoredAt: '2025-12-31T05:48:34.489Z'
+    This content reframes democracy not as an idealistic pursuit of 'perfect'
+    governance, but as a pragmatic risk-mitigation strategy for human survival.
+    By highlighting that the primary 'feature' of decentralized power is a lower
+    probability of state-sponsored death, it exposes the inherent danger of
+    power concentration. In an era of global democratic backsliding and rising
+    'strongman' rhetoric, reminding the public that the alternative to 'messy'
+    democracy is often lethal centralization is a critical, high-impact insight.
+  scoredAt: '2025-12-31T06:05:55.977Z'
   model: gemini-3-flash-preview
+  length: 790
+  imageCount: 1
 ---
 ![](/wp-content/uploads/2019/05/number-of-democracies-over-time-480x472.png)
 

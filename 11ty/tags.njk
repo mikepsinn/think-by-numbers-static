@@ -13,13 +13,14 @@ eleventyComputed:
   title: "Posts tagged '{{ tag }}'"
 ---
 
-<div class="container">
+<div class="container" data-pagefind-ignore>
   <div class="main-content">
     <h1>{{ title }}</h1>
     <p>{{ collections[tag].length }} post{% if collections[tag].length != 1 %}s{% endif %} tagged with "{{ tag }}"</p>
 
     <div class="post-grid">
-      {%- for post in collections[tag] | reverse %}
+      {%- set sortedPosts = collections[tag] | sort(false, false, 'data.aiScores.composite') | reverse %}
+      {%- for post in sortedPosts %}
       {%- if post.data.title %}
       {% include "post-card.njk" %}
       {%- endif %}

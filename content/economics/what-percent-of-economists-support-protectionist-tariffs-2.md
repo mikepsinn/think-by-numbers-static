@@ -24,19 +24,21 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 4
-  value: 5
+  quality: 7
+  value: 8
+  timeliness: 9
   reasoning: >-
-    The content is based on a poll from March 2018. Per the instructions, stats
-    older than 5 years are capped at 5/10, and policies/politicians older than 5
-    years are capped at 4/10. However, the value remains relevant because
-    protectionist tariffs are currently a central pillar of 2024 campaign
-    platforms. The 0% consensus effectively exposes a mechanism of wealth
-    extraction where median consumers pay higher prices to subsidize specific
-    industries, making it a powerful rhetorical tool for current electoral
-    cycles.
-  scoredAt: '2025-12-31T05:49:06.204Z'
+    This content exposes a massive 'Expert-Policy Gap.' Protectionist tariffs
+    are a textbook example of concentrated benefits (helping a few visible
+    industries) vs. dispersed costs (quietly extracting wealth from the median
+    consumer via higher prices). While the specific poll is from 2018, the topic
+    is extremely relevant today as global trade policy shifts toward increased
+    protectionism, which functions as a hidden tax on the general population's
+    purchasing power.
+  scoredAt: '2025-12-31T06:00:26.785Z'
   model: gemini-3-flash-preview
+  length: 768
+  imageCount: 0
 ---
 Reuters polled 60 economists in March 2018 about steel and aluminum tariffs. The percent who supported them: 0%. That's zero as in the number that comes before one. Zero as in the amount of unicorns in your garage.
 

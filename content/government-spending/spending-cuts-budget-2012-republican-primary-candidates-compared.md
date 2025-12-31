@@ -47,17 +47,21 @@ tags:
   - government-spending
   - podcast
 aiScores:
-  quality: 7
-  value: 8
+  quality: 5
+  value: 4
+  timeliness: 3
   reasoning: >-
-    The post effectively exposes the 'inflation tax' as a form of hidden wealth
-    extraction that disproportionately harms the median individual's purchasing
-    power. By correctly identifying that spending—not just explicit
-    taxation—represents the true burden of government, it challenges the status
-    quo of 'sneaky' fiscal policy and provides a clear public choice framework
-    for evaluating political budget claims.
-  scoredAt: '2025-12-31T05:45:54.898Z'
+    While the article correctly identifies the 'evergreen' economic principle of
+    the inflation tax (the mechanism where deficit spending leads to currency
+    devaluation), the specific data and political figures are from the 2012 GOP
+    primary. To maximize median wealth TODAY, the analysis must be applied to
+    current trillion-dollar deficits and modern candidates. The logic is a 9/10,
+    but the relevance to a 2024 audience is low due to the 'dated politics'
+    penalty.
+  scoredAt: '2025-12-31T06:03:08.430Z'
   model: gemini-3-flash-preview
+  length: 17872
+  imageCount: 6
 ---
 GOP Candidate Ron Paul has produced a detailed budget containing over [$1 trillion](http://www.campaignforliberty.org/the-issues/ron-paul-plan-to-restore-america/) in first-year reductions. Mitt Romney, Rick Santorum, and Newt Gingrich have only indicated that they would attempt to repeal Obamacare saving an average of [$20 billion](https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act#Effect_on_national_spending) a year.
 

@@ -15,19 +15,20 @@ tags:
   - rationality
   - organizations
 aiScores:
-  quality: 7
-  value: 5
+  quality: 8
+  value: 9
+  timeliness: 10
   reasoning: >-
-    The content identifies a critical 'meta-problem'—the lack of evidence-based
-    decision-making in governance. While rationalist frameworks are essential
-    for identifying optimal resource allocation, this specific piece lacks an
-    direct 'exposé' of a specific policy (like land use, tax codes, or monetary
-    policy) that would result in immediate median wealth gains. It provides the
-    tools for the fight but does not point them at a specific target. Note: The
-    Future of Humanity Institute recently closed, which slightly affects the
-    'now' factor.
-  scoredAt: '2025-12-31T05:49:17.110Z'
+    This addresses the 'meta-problem' of all harmful policies: the human
+    cognitive architecture's inability to process complex data objectively. By
+    promoting the 'Empiricist Movement,' you target the root cause of wealth
+    extraction and systemic inefficiency—irrationality—rather than just the
+    symptoms. It is highly timely as society faces an epistemological crisis
+    where evidence is increasingly discarded for tribal signaling.
+  scoredAt: '2025-12-31T06:00:53.587Z'
   model: gemini-3-flash-preview
+  length: 3443
+  imageCount: 0
 ---
 
 # The Empiricist Movement

@@ -20,19 +20,23 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 8
+  quality: 7
   value: 9
+  timeliness: 5
   reasoning: >-
-    This post utilizes a classic public choice critique to expose a massive
-    misallocation of resources. By highlighting the astronomical disparity
-    between anti-terrorism spending ($500M per death) and medical research ($10k
-    per death), it identifies a 'Security-Industrial Complex' failure where
-    political incentives prioritize low-probability, high-emotion threats over
-    actual median health outcomes. Shifting these resources toward high-ROI
-    health interventions or returning wealth to the private sector would
-    significantly increase global median wellbeing.
-  scoredAt: '2025-12-31T05:44:56.185Z'
+    This highlights a fundamental 'misallocation of resources' policy failure.
+    The core argument—that humans are evolutionarily wired to over-react to
+    spectacular, violent threats while ignoring statistical, slow-moving
+    killers—is a timeless 'Evergreen Principle.' While the specific data
+    (2008-era) and political satire (Obama/NRCC) are dated, the underlying
+    mechanism explains current wealth extraction in the form of the
+    'Security-Industrial Complex' at the expense of public health. Exposing this
+    irrationality is key to shifting trillions of dollars toward life-extending
+    research (cancer, heart disease) and median wealth preservation.
+  scoredAt: '2025-12-31T06:01:58.940Z'
   model: gemini-3-flash-preview
+  length: 14243
+  imageCount: 5
 ---
 _[![Old Man Struck by Lightning ](/wp-content/uploads/2008/03/lightning.jpg)](http://thinkbynumbers.org/wp-content/uploads/2008/03/lightning.jpg)_
 

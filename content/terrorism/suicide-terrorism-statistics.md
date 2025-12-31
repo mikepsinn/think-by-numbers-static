@@ -33,14 +33,22 @@ metadata:
 tags:
   - terrorism
 aiScores:
-  quality: 8
-  value: 9
+  quality: 9
+  value: 10
+  timeliness: 9
   reasoning: >-
-    The post provides a clear, data-driven argument based on reputable academic
-    research that challenges conventional wisdom on global conflict, though it
-    focuses exclusively on a single researcher's findings.
-  scoredAt: '2025-12-31T05:40:11.632Z'
+    This content exposes a 'self-licking ice cream cone' policy: military
+    intervention intended to stop terrorism often acts as its primary catalyst.
+    By citing Robert Pape’s DoD-funded research, it moves the conversation from
+    emotional/ideological ground to empirical ground. It directly addresses
+    wealth extraction (the trillions spent on the military-industrial complex)
+    and health/happiness (lives lost in conflict). It is highly actionable
+    because it suggests a clear change in foreign policy (non-interventionism)
+    as a solution to a global security threat.
+  scoredAt: '2025-12-31T06:08:22.625Z'
   model: gemini-3-flash-preview
+  length: 7878
+  imageCount: 6
 ---
 ## Two Facts About Suicide Terrorism
 

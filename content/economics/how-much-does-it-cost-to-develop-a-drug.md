@@ -28,17 +28,22 @@ tags:
   - economics
   - healthcare
 aiScores:
-  quality: 5
-  value: 7
+  quality: 7
+  value: 9
+  timeliness: 9
   reasoning: >-
-    The content identifies a critical mechanism of wealth extraction: high
-    regulatory barriers that create a 'Valley of Death' for new drugs, favoring
-    monopolies. However, the text contains a significant factual error—stating
-    life expectancy increased by '4 years every single year' (which would mean a
-    400-year increase per century)—and the copy is repetitive and truncated,
-    reducing its professional utility.
-  scoredAt: '2025-12-31T05:47:54.007Z'
+    This content exposes 'Eroom's Law'—the observation that drug development is
+    becoming slower and more expensive despite technological gains. By
+    contrasting the modern $1B+ regulatory 'Valley of Death' with the 1893
+    decentralized JAMA model, it identifies a specific policy pivot point where
+    innovation was traded for gatekeeping. It challenges the assumption that
+    high regulatory barriers are the sole driver of safety, suggesting instead
+    that they may be a primary driver of wealth extraction and stagnating life
+    expectancy.
+  scoredAt: '2025-12-31T05:59:14.154Z'
   model: gemini-3-flash-preview
+  length: 8435
+  imageCount: 3
 ---
 Between 2009 and 2018, the estimated median capitalized research and development cost per product was $985 million, counting expenditures on failed trials.
 

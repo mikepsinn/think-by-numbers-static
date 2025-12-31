@@ -26,17 +26,19 @@ tags:
   - economics
   - utilitarianism
 aiScores:
-  quality: 5
-  value: 6
+  quality: 8
+  value: 9
+  timeliness: 10
   reasoning: >-
-    The content identifies a timeless mechanism—the 'Political-Economic
-    Gap'—whereby economically efficient policies (like removing the Mortgage
-    Interest Deduction) are politically radioactive because they target
-    entrenched subsidies for the wealthy and middle class. While the primary
-    data source is an NPR experiment from 2012/2016 (triggering the >5yr
-    timeliness penalty), the mechanism remains the primary reason for current
-    wealth misallocation in housing and healthcare markets.
-  scoredAt: '2025-12-31T05:49:11.357Z'
+    This content exposes a major mechanism of wealth extraction: regressive tax
+    subsidies like the Mortgage Interest Deduction (MID). By highlighting the
+    $70B/year drain that primarily benefits the wealthy while inflating housing
+    costs for everyone else, it identifies a clear target for policy reform. The
+    'Economist vs. Voter' paradox explains why median wealth remains suppressed
+    despite known solutions: politicians prioritize short-term popularity over
+    long-term prosperity. This is highly relevant as housing affordability is
+    currently a top-tier global crisis.
+  scoredAt: '2025-12-31T05:58:41.220Z'
   model: gemini-3-flash-preview
   length: 14013
   imageCount: 0

@@ -22,14 +22,21 @@ metadata:
 tags:
   - statistics
 aiScores:
-  quality: 5
-  value: 3
+  quality: 4
+  value: 5
+  timeliness: 3
   reasoning: >-
-    The writing style is engaging and punchy, but the post centers on a defunct
-    Flash widget that no longer works, rendering the primary content and data
-    inaccessible to the reader.
-  scoredAt: '2025-12-31T05:39:29.248Z'
+    While the writing is witty and effectively highlights the gross disparity
+    between military spending and human welfare (a key 'wealth extraction' and
+    'misallocated resource' theme), the core delivery mechanism is a defunct
+    Flash widget. This renders the 'real-time' data promise unfulfilled. The
+    insight—that budgets reveal true priorities—is high-value and timeless, but
+    the execution relies on a 'lesson in obsolescence' rather than providing
+    actionable, current data for policy change.
+  scoredAt: '2025-12-31T06:07:28.219Z'
   model: gemini-3-flash-preview
+  length: 1601
+  imageCount: 0
 ---
 Humanity's vital signs, updating in real time. Think of it as a heart rate monitor for the species, except the patient keeps making questionable decisions.
 

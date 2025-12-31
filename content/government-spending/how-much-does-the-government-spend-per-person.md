@@ -24,19 +24,21 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 8
+  quality: 7
   value: 9
+  timeliness: 8
   reasoning: >-
-    The post effectively applies the principle of opportunity cost to expose the
-    massive scale of resource misallocation within the status quo. By
-    translating abstract trillions into a tangible 'per voter' cost, it
-    highlights the state's extraction of individual capital that could otherwise
-    be used to maximize median wealth and retirement security. This framing
-    shifts the narrative from 'public service' to 'capital drain,' providing a
-    clear public choice critique of centralized spending versus individual
-    agency.
-  scoredAt: '2025-12-31T05:45:16.512Z'
+    This content effectively reframes abstract trillions into a tangible
+    'opportunity cost' for the individual. By calculating spending per voter
+    ($65,337), it exposes a massive extraction of potential personal wealth.
+    While the specific data points are from ~2019 (current federal spending is
+    actually much higher, near $6.1 trillion), the principle is evergreen. It
+    empowers the reader to view government programs not as 'free services' but
+    as expensive purchases made with their potential life savings.
+  scoredAt: '2025-12-31T06:02:23.239Z'
   model: gemini-3-flash-preview
+  length: 2149
+  imageCount: 0
 ---
 ## The Math
 

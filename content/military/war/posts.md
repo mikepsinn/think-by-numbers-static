@@ -28,19 +28,22 @@ metadata:
 tags:
   - war
 aiScores:
-  quality: 8
-  value: 9
+  quality: 6
+  value: 8
+  timeliness: 7
   reasoning: >-
-    The post highlights a massive misallocation of resources and the extreme
-    opportunity costs of state-sponsored violence. By contrasting the $3
-    trillion cost with the potential to end world hunger, it exposes the
-    catastrophic inefficiency of government 'investment' in destruction over
-    human capital. The mention of $9 billion in 'disappeared' funds perfectly
-    illustrates public choice theory concerns regarding lack of accountability
-    and bureaucratic waste, directly challenging the status quo of the
-    military-industrial complex.
-  scoredAt: '2025-12-31T05:47:52.957Z'
+    This content exposes the staggering opportunity cost of military
+    interventionism, directly addressing how trillions in potential 'median
+    wealth' are diverted from human needs (like hunger) to destruction. While
+    the specific data points are from the 2010-2011 era and the text cuts off
+    mid-sentence, the 'Evergreen Principle' of exposing the military-industrial
+    complex's wealth extraction remains highly relevant to current defense
+    budget debates. It effectively uses dark satire to highlight the disconnect
+    between 'supporting troops' and the reality of their exploitation.
+  scoredAt: '2025-12-31T06:05:16.449Z'
   model: gemini-3-flash-preview
+  length: 12173
+  imageCount: 3
 ---
 
 The Iraq War cost $3 trillion. That's enough to end world hunger for 100 years. We chose differently. Here are the numbers.

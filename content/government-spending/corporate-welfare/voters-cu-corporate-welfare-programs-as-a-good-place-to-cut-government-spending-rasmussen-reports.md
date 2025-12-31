@@ -30,17 +30,23 @@ metadata:
 tags:
   - corporate-welfare
 aiScores:
-  quality: 7
+  quality: 8
   value: 9
+  timeliness: 9
   reasoning: >-
-    The post effectively utilizes Public Choice Theory to expose the 'Special
-    Interest Effect,' where concentrated benefits for defense contractors and
-    corporate farms override the diffused interests of the voting majority. By
-    highlighting the disconnect between public opinion and policy outcomes, it
-    identifies $20B+ in annual wealth extraction and market distortions that
-    suppress median wealth and misallocate global resources.
-  scoredAt: '2025-12-31T05:44:43.707Z'
+    This content exposes a fundamental 'Principal-Agent' failure in modern
+    governance: the disconnect between public will and legislative output. By
+    highlighting 'Corporate Welfare' (wealth extraction), it targets the
+    drainage of median wealth. It is highly relevant today as national debt and
+    inflation put pressure on the average citizen's quality of life, while
+    multi-billion dollar subsidies for profitable sectors (Defense,
+    Agribusiness) remain untouched by 'budget cuts.' The humor makes the pill of
+    'wealth extraction' easier to swallow, increasing the likelihood of the
+    information being shared and internalized.
+  scoredAt: '2025-12-31T06:01:43.834Z'
   model: gemini-3-flash-preview
+  length: 3043
+  imageCount: 1
 ---
 ![Socialism for the Rich. Capitalism for the Rest.](/wp-content/uploads/2011/09/socialism-rich.jpg)
 

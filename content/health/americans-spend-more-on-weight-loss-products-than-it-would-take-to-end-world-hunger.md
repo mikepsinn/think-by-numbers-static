@@ -27,19 +27,21 @@ tags:
   - health
   - utilitarianism
 aiScores:
-  quality: 4
-  value: 3
+  quality: 7
+  value: 8
+  timeliness: 6
   reasoning: >-
-    The post identifies a stark misallocation of resources but fails to provide
-    a viable policy mechanism or recognize public choice realities. It ignores
-    'The Knowledge Problem' and the institutional failures (corruption, lack of
-    property rights, and trade barriers) that actually cause hunger, mistakenly
-    suggesting that simple capital redirection is a solution. Furthermore, it
-    attacks private consumer choices rather than the systemic government
-    failures, such as agricultural subsidies and regulatory capture, that
-    contribute to both food waste and the obesity epidemic.
-  scoredAt: '2025-12-31T05:46:18.656Z'
+    The core argument—the absurdity of resource misallocation between
+    'over-consumption correction' and 'under-consumption survival'—is an
+    evergreen critique of modern economics. However, the data (2008/2013) is
+    significantly outdated. Current estimates for ending hunger have risen due
+    to inflation and conflict, while the US weight loss market has ballooned
+    further (especially with the advent of GLP-1 drugs). Updating the numbers
+    would amplify the impact of this 'third-grade math' revelation.
+  scoredAt: '2025-12-31T06:03:29.761Z'
   model: gemini-3-flash-preview
+  length: 1728
+  imageCount: 1
 ---
 Americans spend [$60 billion](https://money.usnews.com/money/personal-finance/articles/2013/01/02/the-heavy-price-of-losing-weight) annually trying to have less food on their bodies. Gym memberships, weight-loss programs, diet soda. It's like reverse shopping, except you pay more.
 

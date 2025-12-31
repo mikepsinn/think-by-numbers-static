@@ -27,18 +27,21 @@ tags:
   - psychology
   - science
 aiScores:
-  quality: 3
-  value: 2
+  quality: 7
+  value: 8
+  timeliness: 10
   reasoning: >-
-    The data provides a biological foundation for the 'Knowledge Problem,'
-    demonstrating that conscious processing is a low-bandwidth bottleneck. This
-    suggests that top-down, centralized 'conscious' planning of an economy is
-    mathematically inferior to the distributed 'subconscious' processing of a
-    free market. However, the post is truncated mid-sentence and fails to
-    explicitly link these neuro-physiological facts to the destruction of
-    harmful public policies or the exposure of regulatory capture.
-  scoredAt: '2025-12-31T05:49:25.595Z'
+    This data exposes the massive 'blind spot' in human cognition. While the
+    post cuts off, the implication is vital: because our conscious 'firewall' is
+    27,500x weaker than our sensory input, we are biologically vulnerable to
+    'nudging,' dark patterns, and predatory marketing. This matters now because
+    the attention economy and algorithmic policy-making leverage this exact
+    bandwidth gap to extract wealth and influence behavior without the user's
+    conscious consent.
+  scoredAt: '2025-12-31T06:06:37.678Z'
   model: gemini-3-flash-preview
+  length: 2902
+  imageCount: 0
 ---
 Your conscious mind is the intern who thinks they're running the company.
 

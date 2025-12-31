@@ -13,14 +13,20 @@ metadata:
 tags:
   - subscription
 aiScores:
-  quality: 2
+  quality: 3
   value: 1
+  timeliness: 4
   reasoning: >-
-    This is an administrative meta-page for subscription management; it contains
-    no substantive economic analysis, data on government failure, or actionable
-    insights to improve median wellbeing.
-  scoredAt: '2025-12-31T05:47:34.113Z'
+    This content is administrative boilerplate rather than substantive analysis.
+    While the 'Think by Numbers' brand alignment matches the mission's goal of
+    data-driven decision-making, this specific page provides no data, exposes no
+    harmful policies, and offers no actionable insights to improve median health
+    or wealth. It is a functional utility page that lacks the investigative
+    impact required by the mission.
+  scoredAt: '2025-12-31T06:04:55.348Z'
   model: gemini-3-flash-preview
+  length: 481
+  imageCount: 0
 ---
 
 # Manage Subscriptions

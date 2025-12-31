@@ -29,15 +29,20 @@ tags:
   - health
 aiScores:
   quality: 8
-  value: 8
+  value: 9
+  timeliness: 8
   reasoning: >-
-    The post presents a clear, data-driven critique of regulatory policy using
-    logical economic frameworks and specific cost-benefit projections, though
-    its tone is intentionally polemical. The information is highly relevant for
-    understanding the intersection of public health, economic impact, and
-    administrative decision-making.
-  scoredAt: '2025-12-31T05:40:27.484Z'
+    This post identifies a systemic 'binary thinking' flaw in regulatory logic
+    that prioritizes administrative simplicity over probabilistic health
+    outcomes. By contrasting 30% efficacy with the $3.7 trillion cost of Long
+    COVID, it exposes how bureaucratic inertia acts as a massive hidden tax on
+    both public health and the economy. It is highly relevant as the precedent
+    set here dictates how future pandemic responses and Long COVID treatments
+    will be gated.
+  scoredAt: '2025-12-31T06:08:44.832Z'
   model: gemini-3-flash-preview
+  length: 6835
+  imageCount: 0
 ---
 The FDA revoked monoclonal antibodies because they became "less effective" against new variants. Not ineffective. Less effective.
 

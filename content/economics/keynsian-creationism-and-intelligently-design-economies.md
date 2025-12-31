@@ -23,19 +23,23 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 8
-  value: 9
+  quality: 7
+  value: 8
+  timeliness: 9
   reasoning: >-
-    This piece utilizes a powerful, counter-intuitive analogy to expose the
-    fundamental flaw in central planning: the 'pretense of knowledge.' By
-    framing Keynesian intervention as a form of 'Creationism,' it highlights how
-    top-down manipulation of interest rates and 'zombie company' bailouts
-    prevents the healthy, bottom-up evolution of the economy. It is highly
-    relevant today as the Federal Reserve's attempts to 'design' a soft landing
-    often result in the wealth extraction of the many to subsidize the
-    inefficiency of the few.
-  scoredAt: '2025-12-31T05:48:37.049Z'
+    This analysis identifies a fundamental cognitive bias in modern governance:
+    the 'Intelligent Design' fallacy applied to economics. It matters now
+    because the global economy is currently suffering from the 'fragility'
+    caused by decades of central bank intervention. By comparing Keynesianism to
+    Creationism, it de-mystifies 'expert' authority and exposes how top-down
+    interventions—like bailouts and interest rate manipulation—disrupt the
+    natural 'evolutionary' weeding out of inefficient firms. This prevents the
+    'bottom-up' wealth creation necessary for median prosperity and keeps the
+    economy in a state of artificial, vulnerable stagnation.
+  scoredAt: '2025-12-31T05:59:55.146Z'
   model: gemini-3-flash-preview
+  length: 1801
+  imageCount: 0
 ---
 The mythology of effective [Keynesian](https://en.wikipedia.org/wiki/Keynsianism) centralized economic planning is born of the same mother as the mythology of [creationist](https://en.wikipedia.org/wiki/Creationism) intelligent design.  Both of these fantasies arise as a result of the human mind’s inability to deal with complex systems.
 

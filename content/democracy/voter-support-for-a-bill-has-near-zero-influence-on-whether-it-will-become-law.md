@@ -24,16 +24,18 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 5
-  value: 8
+  quality: 9
+  value: 10
+  timeliness: 10
   reasoning: >-
-    The content identifies the root cause of systemic health and wealth
-    stagnation: the total decoupling of public interest from policy outcomes
-    (plutocracy). While the mechanism is a 'timeless' insight into wealth
-    extraction, the specific Gilens & Page study relies on data that is now over
-    a decade old, which triggers the penalty for dated statistics per the
-    mission parameters.
-  scoredAt: '2025-12-31T05:48:39.772Z'
+    This content exposes the fundamental structural failure of modern American
+    governance: the decoupling of public will from policy outcomes. By citing
+    the Gilens & Page study, it provides a data-backed explanation for why
+    median wealth and health often stagnate despite popular support for reform.
+    It identifies the 'wealth extraction' mechanism as a systemic exclusion of
+    90% of the population from the legislative process, making it an essential
+    foundation for any movement seeking to improve median societal outcomes.
+  scoredAt: '2025-12-31T05:58:11.833Z'
   model: gemini-3-flash-preview
   length: 6237
   imageCount: 2

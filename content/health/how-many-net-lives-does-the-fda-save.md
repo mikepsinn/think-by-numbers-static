@@ -30,16 +30,19 @@ tags:
 aiScores:
   quality: 8
   value: 9
+  timeliness: 10
   reasoning: >-
-    The post effectively utilizes public choice theory to expose the asymmetric
-    incentive structure (Type II error bias) of the FDA. By highlighting how a
-    narrow mandate on safety/efficacy creates an 'invisible graveyard' of
-    delayed innovations, it challenges a foundational regulatory bottleneck that
-    suppresses median health and inflates drug costs. It clearly illustrates how
-    bureaucratic risk-aversion leads to net negative outcomes for global
-    wellbeing.
-  scoredAt: '2025-12-31T05:46:32.733Z'
+    This content exposes the 'Invisible Graveyard'—the millions who die from the
+    delay of life-saving drugs due to bureaucratic risk aversion (Type II
+    errors). By shifting the focus from 'preventing bad drugs' to 'maximizing
+    net lives saved,' it targets a fundamental bottleneck in human longevity. It
+    is timely because AI-driven drug discovery is currently hitting the brick
+    wall of 1960s-era regulatory frameworks, making this the primary obstacle to
+    a 21st-century health explosion.
+  scoredAt: '2025-12-31T06:03:43.886Z'
   model: gemini-3-flash-preview
+  length: 24002
+  imageCount: 11
 ---
 ## The FDA's Mandate is Not to Maximize Lives Saved
 

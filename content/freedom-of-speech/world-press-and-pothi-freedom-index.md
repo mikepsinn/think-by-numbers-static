@@ -23,18 +23,22 @@ metadata:
 tags:
   - freedom-of-speech
 aiScores:
-  quality: 8
-  value: 9
+  quality: 7
+  value: 8
+  timeliness: 5
   reasoning: >-
-    From a public choice perspective, censorship is the ultimate tool for
-    protecting rent-seeking elites and regulatory capture. By highlighting the
-    arrest of a systems administrator for hosting whistleblower content, this
-    post exposes how state power is used to suppress the information necessary
-    for institutional accountability. Protecting the 'marketplace of ideas' is
-    the most high-leverage way to prevent wealth extraction and promote the
-    innovation required to maximize median health and wealth.
-  scoredAt: '2025-12-31T05:44:23.513Z'
+    The content highlights a critical and often overlooked mechanism of
+    censorship: 'Infrastructure Choking.' By targeting the system administrator
+    (Pothi) rather than just the content creator, authorities can dismantle the
+    means of whistleblowing entirely. This exposes a major vulnerability in the
+    pursuit of wealth/health transparency. However, the specific case and calls
+    to action date back to 2014, which significantly reduces the immediate
+    relevance of the links and petition for a modern audience, even though the
+    underlying principle remains an 'Evergreen' necessity for progress.
+  scoredAt: '2025-12-31T06:01:23.161Z'
   model: gemini-3-flash-preview
+  length: 5629
+  imageCount: 2
 ---
 > [![Press freedom speech propaganda poster](/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster-230x300-1407292210.jpg)](http://thinkbynumbers.org/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg)"All censorships exist to prevent anyone from challenging current conceptions and existing institutions. All progress is initiated by challenging current conceptions, and executed by supplanting existing institutions. Consequently, the first condition of progress is the removal of censorship." — [George Bernard Shaw](https://www.goodreads.com/author/show/5217.George_Bernard_Shaw)
 

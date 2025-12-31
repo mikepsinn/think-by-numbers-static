@@ -22,15 +22,21 @@ tags:
 aiScores:
   quality: 3
   value: 2
+  timeliness: 3
   reasoning: >-
-    The content uses significantly outdated data from 2017 and 2019, which
-    triggers the 'dated stats' penalty (max 5/10). Beyond the age of the data,
-    the piece fails the mission of exposing harmful policies or wealth
-    extraction; it merely provides a surface-level explanation of money as a
-    social construct without offering actionable insights or novel critiques of
-    how that 'stuff' is distributed.
-  scoredAt: '2025-12-31T05:48:00.772Z'
+    The content contains significant economic inaccuracies and outdated data. It
+    conflates GDP (annual flow of production) with Money Supply or Total Wealth
+    (stock), which are fundamentally different metrics. Using 2017 data in 2024
+    (where global GDP has surpassed $100 trillion nominal and population has
+    exceeded 8 billion) renders the specific math obsolete. Furthermore, it
+    fails the mission of 'exposing harmful policies' as it relies on a cliché
+    philosophical trope ('money is a hallucination') rather than identifying
+    actionable mechanisms of wealth extraction or systemic inequality that
+    affect the median person's health or happiness.
+  scoredAt: '2025-12-31T05:59:21.016Z'
   model: gemini-3-flash-preview
+  length: 928
+  imageCount: 0
 ---
 In 2017, humans produced [$127.8 trillion](https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html) worth of stuff (GDP). That's a lot of stuff. Where do we keep it all?
 

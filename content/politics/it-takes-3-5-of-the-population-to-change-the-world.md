@@ -22,18 +22,22 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 7
-  value: 8
+  quality: 9
+  value: 10
+  timeliness: 9
   reasoning: >-
-    By quantifying the threshold for social change (3.5%), this post mitigates
-    the 'rational ignorance' and 'learned helplessness' hurdles identified in
-    public choice theory. It provides a strategic roadmap for overcoming
-    concentrated interest groups and regulatory capture through active
-    participation, directly empowering the median citizen to challenge
-    wealth-extracting status quo policies through mechanisms like ballot
-    initiatives.
-  scoredAt: '2025-12-31T05:48:40.891Z'
+    This content transforms political despair into a solvable math problem. By
+    citing Chenoweth's 3.5% rule, it provides a data-backed antidote to the 'my
+    action doesn't matter' fallacy. It bridges historical success (Hawaii,
+    India) with modern, actionable mechanisms (U.S. ballot initiative
+    requirements), making it a high-leverage tool for civic engagement. The
+    distinction between 'clicking like' and 'showing up' is the critical
+    distinction needed to move from digital performance to tangible policy
+    change.
+  scoredAt: '2025-12-31T06:06:02.297Z'
   model: gemini-3-flash-preview
+  length: 3182
+  imageCount: 0
 ---
 You need 3.5% of people actively engaged to change society. That's it.
 

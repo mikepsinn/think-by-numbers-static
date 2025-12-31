@@ -30,18 +30,21 @@ metadata:
 tags:
   - psychology
 aiScores:
-  quality: 4
-  value: 2
+  quality: 6
+  value: 5
+  timeliness: 7
   reasoning: >-
-    While the post challenges the status quo of human agency, it fails to
-    provide any actionable insights for public policy or resource allocation.
-    From a public choice perspective, it ignores how deterministic views might
-    influence incentive structures or legal frameworks. Furthermore, the text is
-    incomplete and lacks a connection to wealth creation, health optimization,
-    or the exposure of government failure, potentially promoting a fatalism that
-    undermines individual economic initiative.
-  scoredAt: '2025-12-31T05:49:15.235Z'
+    While the neuroscience is foundational and clear, the content lacks an
+    actionable 'policy' to dismantle. To maximize median
+    health/wealth/happiness, this insight must be bridged to how current systems
+    (legal, marketing, and gambling) exploit this '10-second gap.' Without
+    connecting the illusion of free will to the predatory extraction of wealth
+    through behavioral engineering, it remains a philosophical curiosity rather
+    than a tool for systemic change.
+  scoredAt: '2025-12-31T06:06:29.307Z'
   model: gemini-3-flash-preview
+  length: 2928
+  imageCount: 1
 ---
 Your brain decided you would read this sentence 10 seconds before "you" did.
 

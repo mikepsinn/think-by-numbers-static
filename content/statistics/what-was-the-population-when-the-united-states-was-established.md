@@ -27,14 +27,22 @@ metadata:
 tags:
   - statistics
 aiScores:
-  quality: 7
-  value: 6
+  quality: 8
+  value: 7
+  timeliness: 9
   reasoning: >-
-    The post is well-written and uses a compelling analogy to frame historical
-    data, though it offers a relatively brief and simplified perspective on the
-    complexities of political scaling.
-  scoredAt: '2025-12-31T05:39:22.775Z'
+    This content exposes a fundamental 'Scaling Mismatch' in governance. By
+    highlighting the 134x increase in population since the system's inception,
+    it shifts the focus from partisan blame to structural obsolescence. It
+    suggests that modern political gridlock is not just a failure of character,
+    but a mathematical inevitability when using an 18th-century 'operating
+    system' (designed for 2.5M people) to manage a 21st-century civilization of
+    335M. This perspective is vital for moving toward systemic reforms that
+    could improve median wealth and happiness.
+  scoredAt: '2025-12-31T06:07:19.383Z'
   model: gemini-3-flash-preview
+  length: 1065
+  imageCount: 0
 ---
 When the United States declared independence in 1776, about **2.5 million people** lived in the original 13 states. That's fewer people than currently live in Chicago.
 

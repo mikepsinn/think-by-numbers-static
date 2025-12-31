@@ -49,19 +49,22 @@ tags:
   - financial-sector
   - gdp
 aiScores:
-  quality: 4
-  value: 5
+  quality: 7
+  value: 9
+  timeliness: 8
   reasoning: >-
-    The core thesis—financialization as a form of rent-seeking that extracts
-    wealth from the productive economy—is essential for understanding median
-    wealth stagnation. However, the data is severely dated (2007/2009),
-    triggering the 'dated stats' penalty. While the mechanism of
-    'money-shuffling' is a timeless critique of resource misallocation, using
-    15-year-old figures weakens the current actionable impact and ignores
-    post-2008 regulatory shifts and the more recent 2020-2024 inflationary
-    environment.
-  scoredAt: '2025-12-31T05:49:23.866Z'
+    This content exposes 'financialization'—the process by which the financial
+    sector ceases to serve the productive economy and instead begins to extract
+    rent from it. The comparison between the cost of 'paper shuffling' and the
+    cost of physical survival (food/housing) is a powerful frame for
+    understanding why median wealth has stagnated. Although the specific data
+    points are from the 2007-2009 era, the mechanism is an evergreen principle
+    of wealth extraction that has only intensified, making it a critical 'hidden
+    tax' for the public to understand.
+  scoredAt: '2025-12-31T06:01:00.606Z'
   model: gemini-3-flash-preview
+  length: 5782
+  imageCount: 2
 ---
 The financial sector receives more of the average paycheck than any other sector of the economy.  Its share of the economy totals $2 trillion dollars.
 

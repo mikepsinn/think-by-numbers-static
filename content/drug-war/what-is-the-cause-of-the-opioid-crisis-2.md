@@ -26,15 +26,17 @@ tags:
 aiScores:
   quality: 9
   value: 9
+  timeliness: 10
   reasoning: >-
-    The content effectively utilizes comparative data to dismantle the
-    'opioid-specific' narrative, exposing a broader systemic failure in mental
-    health and drug policy. By highlighting the 5,105% increase in meth deaths
-    alongside opioids, it proves the issue is a demand-side crisis of despair
-    and a supply-side crisis of contamination (Iron Law of Prohibition), rather
-    than just 'addictive pills.' This shifts the focus from ineffective
-    supply-side crackdowns to necessary structural health reforms.
-  scoredAt: '2025-12-31T05:48:51.412Z'
+    This content challenges the 'supply-side' narrative of the drug crisis by
+    using comparative data across different substances. By highlighting that
+    deaths from meth and cocaine are rising at similar or higher rates than
+    opioids, it effectively argues that the root cause is a systemic
+    'demand-side' mental health collapse rather than a specific chemical. This
+    reframing is essential for shifting public policy from failed
+    interdiction/prohibition toward high-impact mental health and economic
+    stability interventions.
+  scoredAt: '2025-12-31T05:58:24.742Z'
   model: gemini-3-flash-preview
   length: 10415
   imageCount: 0

@@ -26,18 +26,20 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 9
-  value: 8
+  quality: 8
+  value: 7
+  timeliness: 10
   reasoning: >-
-    This post effectively exposes 'rational irrationality,' a core tenet of
-    Public Choice theory. By demonstrating that voters prioritize tribal
-    signaling over objective reality, it undermines the status quo myth of the
-    'informed electorate.' Highlighting this bias is essential for advocating
-    for decentralized governance and constitutional constraints that limit the
-    ability of irrational majorities to misallocate resources and extract
-    wealth.
-  scoredAt: '2025-12-31T05:48:46.830Z'
+    This post directly addresses 'Wishful Thinking Bias' during a major election
+    year. By exposing how the brain uses 'statistics as a costume' for
+    preference, it helps individuals decouple their emotional state from
+    political outcomes. This reduces the systemic 'shock' and subsequent social
+    instability/anger that occurs when a 'certain' victory results in a loss,
+    which is a primary driver of modern polarization and mental distress.
+  scoredAt: '2025-12-31T06:06:07.067Z'
   model: gemini-3-flash-preview
+  length: 2145
+  imageCount: 0
 ---
 Most voters believe their candidate will win. Both sides think this. Simultaneously. Despite the mathematical impossibility.
 

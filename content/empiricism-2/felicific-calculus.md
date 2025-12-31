@@ -25,17 +25,20 @@ tags:
   - empiricism
   - utilitarianism
 aiScores:
-  quality: 4
-  value: 2
+  quality: 5
+  value: 6
+  timeliness: 9
   reasoning: >-
-    The content describes an 18th-century philosophical framework (Bentham's
-    Felicific Calculus) rather than exposing a modern policy or wealth
-    extraction mechanism. While the tool itself is a clear mechanism for
-    analysis, the post lacks novel insights, modern data, or specific targets.
-    It functions as a theoretical manual rather than an actionable exposure of
-    current systemic harm.
-  scoredAt: '2025-12-31T05:49:20.910Z'
+    While the content is a foundational explanation of Utilitarianism, the text
+    cuts off mid-sentence, reducing its immediate utility. However, this matters
+    NOW because modern policy—from AI alignment to healthcare rationing
+    (QALYs)—is built on these exact variables. By mastering the 'calculator,'
+    citizens can expose when 'The Greater Good' is being used as a mathematical
+    front for wealth extraction or the marginalization of the median individual.
+  scoredAt: '2025-12-31T06:00:40.828Z'
   model: gemini-3-flash-preview
+  length: 3072
+  imageCount: 0
 ---
 The **felicific calculus** is an algorithm for calculating the degree or amount of [pleasure](https://en.wikipedia.org/wiki/Pleasure) that a specific action is likely to cause. The algorithm is also known as the utility calculus, the hedonistic calculus, and the hedonic calculus.
 

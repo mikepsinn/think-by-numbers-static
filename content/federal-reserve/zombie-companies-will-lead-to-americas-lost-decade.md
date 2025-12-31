@@ -29,19 +29,20 @@ tags:
   - federal-reserve
 aiScores:
   quality: 7
-  value: 8
+  value: 9
+  timeliness: 8
   reasoning: >-
-    The post effectively utilizes Public Choice theory to highlight how central
-    bank intervention and 'easy money' policies facilitate wealth extraction by
-    politically connected 'zombie' firms. By explaining the Cantillon
-    Effect—where new money benefits the first recipients
-    (corporations/lobbyists) at the expense of median purchasing power—it
-    identifies a primary driver of modern inequality and economic stagnation.
-    While the text is slightly truncated, its focus on creative destruction
-    versus state-sponsored stagnation directly addresses the root causes of
-    misallocated resources.
-  scoredAt: '2025-12-31T05:44:11.455Z'
+    This content directly addresses a systemic 'wealth extraction' mechanism
+    (the Cantillon Effect) where new money benefits the first recipients
+    (corporations) at the expense of the general public's purchasing power. It
+    contrasts the 'pain now, growth later' Volcker approach with the 'stagnation
+    forever' Japan approach, which is the exact crossroad the US economy faces
+    as it attempts to transition out of the Zero Interest Rate Policy (ZIRP)
+    era.
+  scoredAt: '2025-12-31T06:01:09.562Z'
   model: gemini-3-flash-preview
+  length: 6901
+  imageCount: 5
 ---
 The Fed is printing money and giving it to Zombie Companies. These are firms that don't survive by producing value for customers. They survive by borrowing at near 0% interest from the Federal Reserve, which creates this money from nothing.
 

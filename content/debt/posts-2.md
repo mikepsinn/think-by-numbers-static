@@ -42,17 +42,18 @@ tags:
   - federal-reserve
   - financial-sector
 aiScores:
-  quality: 4
-  value: 4
+  quality: 7
+  value: 9
+  timeliness: 6
   reasoning: >-
-    While the underlying mechanism—central bank interest rate manipulation and
-    government subsidies distorting market demand—is a 'timeless mechanism,' the
-    specific data points are severely dated (2009-2011). The prompt explicitly
-    caps dated statistics at 5/10. In the current economic cycle, the housing
-    crisis is characterized by inventory shortages rather than the 14 million
-    empty units described, making this post an autopsy of a past event rather
-    than an actionable exposure of current wealth extraction.
-  scoredAt: '2025-12-31T05:48:10.321Z'
+    The content masterfully explains 'malinvestment'—how distorted price signals
+    (via the Fed and subsidies) lead to the physical destruction of wealth.
+    While the specific data points are from the 2008-2011 era, the mechanism is
+    a 'timeless principle' of Austrian economics. It matters NOW because as
+    interest rates fluctuate today, the same boom-bust cycle threatens current
+    median wealth, though the current symptom is inventory shortage rather than
+    surplus.
+  scoredAt: '2025-12-31T05:57:46.790Z'
   model: gemini-3-flash-preview
   length: 5812
   imageCount: 1

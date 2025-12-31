@@ -19,16 +19,21 @@ metadata:
 tags:
   - monkey-business
 aiScores:
-  quality: 2
-  value: 1
+  quality: 3
+  value: 2
+  timeliness: 2
   reasoning: >-
-    This content is purely entertainment and fails to address systemic issues
-    such as regulatory capture, wealth extraction, or market inefficiencies. It
-    offers no actionable policy insights and does not contribute to the
-    optimization of public resources or the improvement of median global health,
-    wealth, or happiness.
-  scoredAt: '2025-12-31T05:48:15.502Z'
+    The content addresses a specific corporate controversy (Budweiser watering
+    down beer) that peaked over a decade ago (circa 2013). While it uses a
+    'scientific' framing, it serves as a humorous defense of a corporation
+    rather than an exposure of harmful policies or wealth extraction.
+    Furthermore, it encourages day drinking, which contradicts the mission of
+    maximizing median health. The inclusion of a legacy Flash object tag
+    confirms the content is technically and topically dated.
+  scoredAt: '2025-12-31T06:05:36.500Z'
   model: gemini-3-flash-preview
+  length: 3247
+  imageCount: 0
 ---
 Anheuser-Busch got caught watering down beer to boost profits. I decided to investigate using science, which is like regular investigation but with more expensive machines that go beep.
 

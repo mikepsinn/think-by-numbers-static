@@ -19,15 +19,20 @@ tags:
   - solutions
 aiScores:
   quality: 8
-  value: 7
+  value: 9
+  timeliness: 9
   reasoning: >-
-    The writing is exceptionally engaging and uses clever analogies to simplify
-    complex ethical and biological concepts, though it is slightly marred by an
-    incomplete final sentence. While highly thought-provoking and addressing a
-    fundamental human concern, the content is more speculative philosophy than
-    actionable information.
-  scoredAt: '2025-12-31T05:39:06.907Z'
+    The post identifies a massive global opportunity cost: the 154:1 ratio of
+    destruction-spending vs. well-being-research. By reframing suffering as a
+    biological 'technical debt' rather than an inescapable facet of the human
+    condition, it challenges the status quo of wealth extraction via the
+    military-industrial complex. It is timely because current advances in CRISPR
+    and neuro-tech make the 'Hedonistic Imperative' a plausible engineering goal
+    rather than mere sci-fi.
+  scoredAt: '2025-12-31T06:06:59.155Z'
   model: gemini-3-flash-preview
+  length: 2965
+  imageCount: 0
 ---
 Pain exists because millions of years ago, a monkey that didn't feel pain touched something hot and died. His cousin, who DID feel pain, screamed and lived long enough to make more monkeys. You're descended from the screaming monkey. Congratulations.
 

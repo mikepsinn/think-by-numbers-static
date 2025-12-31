@@ -21,17 +21,24 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 4
-  value: 3
+  quality: 7
+  value: 9
+  timeliness: 9
   reasoning: >-
-    While the 'perception gap' is a powerful psychological concept, this
-    specific content relies on a viral video from 2012 and data from a 2011
-    study. Under the provided constraints, dated statistics are capped at 5/10.
-    Furthermore, it identifies a symptom (inequality) rather than exposing a
-    specific, actionable policy mechanism currently extracting wealth, making it
-    more descriptive than investigative for a modern context.
-  scoredAt: '2025-12-31T05:48:57.927Z'
+    This content addresses a fundamental psychological barrier to policy reform:
+    the 'Perception Gap.' By exposing that the actual distribution of wealth is
+    significantly more extreme than what the average citizen even perceives as
+    'unfair,' it removes the veil of normalization that protects extractive
+    policies. While the specific study referenced (Norton/Ariely) is roughly a
+    decade old, the mechanism—wealth concentration occurring faster than public
+    awareness can track it—is an evergreen principle of power. It is highly
+    relevant today because the gap has only widened since the video's release,
+    making the psychological 'anchoring' effect even more dangerous to the
+    median person's financial health.
+  scoredAt: '2025-12-31T06:00:19.152Z'
   model: gemini-3-flash-preview
+  length: 790
+  imageCount: 0
 ---
 Americans were asked to estimate wealth distribution. Then they were shown the actual numbers. The gap between perception and reality was larger than the wealth gap itself. Which is saying something, because the wealth gap is roughly the size of the Grand Canyon.
 

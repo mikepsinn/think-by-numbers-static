@@ -26,14 +26,20 @@ metadata:
 tags:
   - taxes
 aiScores:
-  quality: 8
-  value: 9
+  quality: 9
+  value: 10
+  timeliness: 10
   reasoning: >-
-    The post effectively uses punchy analogies and data-driven arguments to
-    simplify a complex economic issue, making a highly relevant topic accessible
-    to a general audience.
-  scoredAt: '2025-12-31T05:39:43.136Z'
+    This highlights a massive, artificial 'efficiency tax' imposed on the median
+    citizen to protect the profits of the tax-prep lobby (rent-seeking). The
+    data is staggering—billions of hours and hundreds of billions of dollars
+    lost to a process the government could automate. It is highly timely as the
+    IRS is currently piloting 'Direct File' programs, making this a live
+    political and economic battleground for median wealth preservation.
+  scoredAt: '2025-12-31T06:07:47.770Z'
   model: gemini-3-flash-preview
+  length: 5156
+  imageCount: 0
 ---
 The IRS already knows how much you owe. Your employer tells them. Your bank tells them. Everyone tells them everything.
 

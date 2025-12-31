@@ -26,17 +26,24 @@ tags:
   - government-spending
   - military
 aiScores:
-  quality: 7
-  value: 9
+  quality: 5
+  value: 4
+  timeliness: 3
   reasoning: >-
-    From a public choice perspective, this post exposes the ultimate
-    misallocation of resources: the 'broken window' fallacy on a global scale.
-    By highlighting the trillions diverted from productive private investment
-    into state-sponsored destruction, it identifies a primary barrier to
-    maximizing median wealth and health. While high on cynicism, it effectively
-    frames military spending as a systemic failure of government priorities.
-  scoredAt: '2025-12-31T05:45:09.399Z'
+    While the core argument—that military spending represents a massive
+    opportunity cost for human advancement—is a 'timeless mechanism' (8/10 for
+    principle), the execution is severely hampered by the data. The provided
+    chart ends in 2007, missing the last 17 years of massive shifts in global
+    spending, the conclusion of the War on Terror, the rise of China's military
+    budget, and the current conflicts in Ukraine and Gaza. To effectively expose
+    wealth extraction TODAY, the data needs to reflect current trillion-dollar
+    budgets and modern defense contractor lobbying. The cynical tone, while
+    engaging, offers no 'actionable' path toward the mission of maximizing
+    health or wealth, settling instead for nihilism.
+  scoredAt: '2025-12-31T06:02:15.719Z'
   model: gemini-3-flash-preview
+  length: 1514
+  imageCount: 0
 ---
 ## How Much Do You Spend on Weapons?
 

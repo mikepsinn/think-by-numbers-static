@@ -21,19 +21,21 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 4
-  value: 3
+  quality: 6
+  value: 7
+  timeliness: 9
   reasoning: >-
-    While the 'Hockey Stick' of human progress is a powerful concept for
-    historical context, this submission is incomplete (containing broken code
-    snippets) and lacks a specific, actionable target. It identifies the
-    historical 'loudest guy' (monarchs/clergy) but fails to expose modern-day
-    'kings and priests' or specific current policies that are stifling progress
-    today. To maximize median well-being, the focus must shift from celebrating
-    1800s progress to attacking current regulatory capture or wealth extraction
-    mechanisms.
-  scoredAt: '2025-12-31T05:48:43.537Z'
+    The 'Hockey Stick' graph of human progress is the most important data set in
+    history. This content effectively contrasts 'authority-based' societies
+    (kings/priests) with 'evidence-based' societies. It matters NOW because
+    modern discourse is seeing a resurgence of 'the loudest guy in the room'
+    over empirical testing. However, the score is lowered by the inclusion of
+    raw, unrendered code which obscures the message and reduces the actionable
+    impact.
+  scoredAt: '2025-12-31T06:00:00.952Z'
   model: gemini-3-flash-preview
+  length: 20600
+  imageCount: 2
 ---
 For 10,000 years, life expectancy was 28. GDP per capita was $100. Then around 1800, both numbers suddenly decided to go vertical. It's like humanity spent 10,000 years in the tutorial level and then someone finally pressed start.
 

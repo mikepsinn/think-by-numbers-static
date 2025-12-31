@@ -24,19 +24,22 @@ tags:
   - government-spending
   - military
 aiScores:
-  quality: 6
-  value: 8
+  quality: 8
+  value: 9
+  timeliness: 9
   reasoning: >-
-    The post effectively highlights a massive government failure and the lack of
-    accountability in military spending, which is a primary driver of wealth
-    extraction and resource misallocation. While it simplifies the accounting
-    nature of the $2.3 trillion discrepancy (which were transactional mismatches
-    rather than 'missing' cash), the public choice theory argument remains
-    strong: a bureaucracy that cannot track its transactions is inherently
-    shielded from efficiency incentives, reducing median wellbeing by
-    squandering taxpayer resources.
-  scoredAt: '2025-12-31T05:44:30.557Z'
+    This piece exposes a fundamental mechanism of wealth extraction: the
+    'audit-proof' status of the military-industrial complex. While the $2.3
+    trillion figure originates from 2001, the policy failure is evergreen. The
+    Pentagon failed its sixth consecutive audit in November 2023, unable to
+    account for over $3.8 trillion in assets. Contrasting the IRS's scrutiny of
+    $600 Venmo transactions with the military's inability to track trillions
+    highlights a systemic double standard that directly impacts the median
+    citizen's wealth and tax burden.
+  scoredAt: '2025-12-31T06:01:30.184Z'
   model: gemini-3-flash-preview
+  length: 2371
+  imageCount: 0
 ---
 http://youtu.be/XXm2yaoWyN8
 

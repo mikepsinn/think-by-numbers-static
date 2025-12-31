@@ -20,14 +20,22 @@ metadata:
     ogImage: /assets/og-images/terms-of-service.png
     infographic: /assets/infographics/terms-of-service.png
 aiScores:
-  quality: 4
-  value: 2
+  quality: 6
+  value: 3
+  timeliness: 8
   reasoning: >-
-    While the text is clear and functional, it is a standard, generic privacy
-    policy template rather than an actual blog post, providing no original
-    analysis or the educational 'math' promised in the description.
-  scoredAt: '2025-12-31T05:39:48.303Z'
+    The content is a standard, boilerplate privacy policy. While it clearly
+    outlines the technical mechanisms of data retention (cookies, EXIF data, and
+    embedded tracking), it lacks the 'mission-driven' impact of exposing harmful
+    systemic policies or wealth extraction. It serves more as a defensive legal
+    disclosure than an offensive tool for maximizing median health or wealth.
+    Its strength lies in its timeless relevance to digital privacy, but it
+    offers little novel insight into how these mechanisms negatively affect the
+    average person's life outcomes beyond basic digital hygiene.
+  scoredAt: '2025-12-31T06:07:55.586Z'
   model: gemini-3-flash-preview
+  length: 1695
+  imageCount: 0
 ---
 
 # Terms of Service – Think by Numbers

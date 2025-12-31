@@ -14,14 +14,20 @@ tags:
   - politics
   - democracy
 aiScores:
-  quality: 5
-  value: 4
+  quality: 6
+  value: 5
+  timeliness: 9
   reasoning: >-
-    The writing is witty and clear with helpful guidance on online discourse,
-    but the post is incomplete and cuts off mid-sentence, failing to deliver its
-    full argument.
-  scoredAt: '2025-12-31T05:40:50.791Z'
+    The content addresses the 'Rational Ignorance' paradox of voting, which is
+    an evergreen topic in political science. It provides high value regarding
+    'online hygiene'—encouraging facts over personal attacks—which directly
+    impacts the median happiness of digital communities. However, it fails to
+    'expose a harmful policy' or wealth extraction mechanism, which was a core
+    part of the mission. The text is also truncated at the end.
+  scoredAt: '2025-12-31T06:09:13.343Z'
   model: gemini-3-flash-preview
+  length: 2697
+  imageCount: 0
 ---
 
 # Vote!

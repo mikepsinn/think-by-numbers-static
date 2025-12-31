@@ -25,19 +25,21 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 6
-  value: 8
+  quality: 5
+  value: 7
+  timeliness: 3
   reasoning: >-
-    The post effectively identifies a massive misallocation of resources and a
-    classic public choice failure: rent-seeking via corporate welfare. By
-    highlighting that taxpayer-funded subsidies to corporations (concentrated
-    benefits) exceed certain social safety nets (diffuse costs), it exposes how
-    regulatory capture extracts wealth from the median citizen to benefit
-    politically connected elites. While the satirical tone is high-impact for
-    shifting public opinion, the data is outdated (citing 2006 and 2012
-    figures), which slightly diminishes its utility for current policy advocacy.
-  scoredAt: '2025-12-31T05:44:37.078Z'
+    While the core argument—wealth extraction via corporate subsidies—is vital
+    for understanding median wealth stagnation, this specific content is
+    severely outdated. Citing 2006 data ($92B vs $59B) in 2024 is misleading;
+    for context, SNAP (food stamp) spending alone was approximately $119 billion
+    in 2022. The 'evergreen' principle of corporate welfare is a 9/10, but using
+    18-year-old statistics weakens the ability to influence current policy or
+    public opinion. The incomplete sentence at the end further reduces quality.
+  scoredAt: '2025-12-31T06:01:37.017Z'
   model: gemini-3-flash-preview
+  length: 17617
+  imageCount: 4
 ---
 ![Corporate Welfare Piggy Bank](/wp-content/uploads/2012/11/corporate-welfare-piggy-bank.jpg)
 

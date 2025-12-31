@@ -21,18 +21,21 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 4
-  value: 3
+  quality: 5
+  value: 4
+  timeliness: 4
   reasoning: >-
-    The content relies on significantly outdated statistics (World population
-    passed 8 billion, not 7.3 billion) and dated studies. The $75,000 happiness
-    plateau mentioned (Kahneman & Deaton, 2010) has been largely superseded by
-    more recent research (Killingsworth, 2021) showing happiness continues to
-    rise with income. Critically, it focuses on 'Average GDP' which masks the
-    wealth extraction/inequality issues the mission seeks to expose; it fails to
-    address the 'median' experience or specific harmful policies, functioning
-    more as a 2010-era blog post than a contemporary exposé.
-  scoredAt: '2025-12-31T05:49:25.150Z'
+    The content relies on the famous 2010 Kahneman-Deaton study regarding the
+    $75,000 happiness cap, which has since been updated by newer research
+    (Killingsworth, 2021) showing happiness often continues to rise beyond that
+    point. Furthermore, $75,000 in 2010 is approximately $108,000 today due to
+    inflation, making the 'actionable' advice misleading for current financial
+    planning. While the link between GDP and suffering reduction is a timeless
+    principle, the article uses 'mean' averages ($17,500 per person) which
+    obscures the 'median' reality and wealth extraction the mission seeks to
+    expose. It describes the 'what' of GDP but fails to expose 'harmful
+    policies' that prevent that $127T from benefiting the median individual.
+  scoredAt: '2025-12-31T05:58:59.975Z'
   model: gemini-3-flash-preview
   length: 10032
   imageCount: 1

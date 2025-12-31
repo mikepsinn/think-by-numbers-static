@@ -20,18 +20,22 @@ metadata:
 tags:
   - empiricism
 aiScores:
-  quality: 4
-  value: 3
+  quality: 6
+  value: 7
+  timeliness: 9
   reasoning: >-
-    While the premise of data-driven decision-making is essential for optimal
-    policy, the content relies on the 'Triune Brain' theory, which is
-    scientifically dated and largely considered a myth in modern neuroscience.
-    The text identifies human irrationality but fails to expose a specific
-    harmful policy or mechanism of wealth extraction. It lacks actionable data
-    or contemporary examples to drive the mission of increasing median
-    wealth/health.
-  scoredAt: '2025-12-31T05:49:27.256Z'
+    The core premise—that cognitive biases and emotional reasoning lead to
+    suboptimal policy and resource allocation—is a fundamental truth for
+    maximizing human flourishing. However, the 'Triune Brain' model (Lizard vs.
+    Spock) is considered scientifically outdated/oversimplified in modern
+    neuroscience. The value lies in the 'Numbers cannot lie' mantra, which
+    challenges the 'harmful policy' of emotional governance, though the text
+    would be more impactful if it transitioned from the 'reptilian' metaphor
+    into specific data-driven policy failures (e.g., misallocated tax spending).
+  scoredAt: '2025-12-31T06:00:48.164Z'
   model: gemini-3-flash-preview
+  length: 20029
+  imageCount: 2
 ---
 ### Numbers cannot lie.
 

@@ -32,19 +32,21 @@ tags:
   - healthcare
   - podcast
 aiScores:
-  quality: 8
-  value: 9
+  quality: 7
+  value: 8
+  timeliness: 6
   reasoning: >-
-    The post effectively exposes a textbook case of regressive wealth transfer
-    and regulatory capture. By highlighting how the HITECH Act used taxes from
-    lower-income administrative staff to subsidize high-earning physicians, it
-    demonstrates a failure in public policy that reduces median wealth and
-    increases inequality. It correctly identifies that while efficiency is a
-    market good, using coercive taxation to fund capital investments for the
-    wealthy—which then displace the very workers who paid the tax—is a net
-    negative for median wellbeing and a distortion of market incentives.
-  scoredAt: '2025-12-31T05:47:21.982Z'
+    This content exposes a classic 'reverse Robin Hood' mechanism: using
+    regressive taxation to subsidize the automation of middle-class jobs for the
+    benefit of high-income earners. While the specific HITECH Act data is from
+    the Obama era, the principle is extremely relevant today as governments
+    consider multi-billion dollar subsidies for AI and green tech. It serves as
+    a warning of how 'progress' and 'efficiency' incentives can be used as a
+    cover for wealth extraction from the working class to the top 0.2%.
+  scoredAt: '2025-12-31T06:04:40.713Z'
   model: gemini-3-flash-preview
+  length: 2423
+  imageCount: 1
 ---
 [![Graph Illustrating Average US Doctor's Salary vs Median Citizen Income](/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320-672x224.jpg)](http://thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph-960x320.jpg)
 

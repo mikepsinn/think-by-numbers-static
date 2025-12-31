@@ -32,16 +32,19 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 5
-  value: 6
+  quality: 8
+  value: 9
+  timeliness: 9
   reasoning: >-
-    While the core mechanism—the disconnect between public will and legislative
-    outcome—is the primary bottleneck to improving median wealth and health, the
-    submission relies heavily on the Gilens & Page study from 2014 and older
-    graphics. Per the instructions, dated stats and references older than 5
-    years cap the score, despite the 'timeless' nature of the wealth-extraction
-    mechanism being exposed.
-  scoredAt: '2025-12-31T05:48:30.795Z'
+    This content identifies the structural root of why median wealth and health
+    often stagnate despite public demand for change. By citing the Gilens & Page
+    study, it provides a data-backed 'smoking gun' for elite capture. It is
+    highly relevant now as economic inequality reaches historic highs,
+    explaining the 'flat line' of democratic responsiveness. While it lacks a
+    specific tactical 'call to action,' it provides the necessary intellectual
+    framework for citizens to stop blaming fellow voters and start looking at
+    the wealth-policy feedback loop.
+  scoredAt: '2025-12-31T05:58:05.781Z'
   model: gemini-3-flash-preview
   length: 3579
   imageCount: 3

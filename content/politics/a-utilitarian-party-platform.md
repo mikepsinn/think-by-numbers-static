@@ -20,17 +20,21 @@ tags:
 aiScores:
   quality: 8
   value: 9
+  timeliness: 10
   reasoning: >-
-    The post directly attacks the status quo of nationalistic protectionism and
-    tribal signaling, which are primary drivers of global resource
-    misallocation. By advocating for free trade and labor mobility
-    (immigration), it addresses the two most significant levers for increasing
-    global median wealth. While the public choice economist remains wary of
-    government-led 'population control' due to the risk of bureaucratic
-    overreach, the emphasis on cost-benefit analysis and evidence-based aid
-    challenges the inefficient 'signaling' currently dominating public policy.
-  scoredAt: '2025-12-31T05:48:27.354Z'
+    This platform directly attacks the core inefficiency of modern governance:
+    tribal signaling over resource optimization. By applying 'third-grade math'
+    to global issues, it exposes how protectionism and border restrictions act
+    as a massive tax on the global poor to satisfy domestic optics. It matters
+    now because as populist protectionism rises, the opportunity cost—measured
+    in human lives and global GDP—is reaching a breaking point. The focus on
+    'marginal utility' (a dollar helping a poor person more than a rich one) is
+    the ultimate 'hidden fact' that remains ignored by almost all mainstream
+    political discourse.
+  scoredAt: '2025-12-31T06:05:49.681Z'
   model: gemini-3-flash-preview
+  length: 3530
+  imageCount: 0
 ---
 Penn psychologist [Jonathan Baron](http://www.sas.upenn.edu/~baron/) wrote a political platform based on a simple question: What if you tried to help people instead of signaling tribal affiliation?
 

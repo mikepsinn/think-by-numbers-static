@@ -25,14 +25,17 @@ tags:
 aiScores:
   quality: 2
   value: 1
+  timeliness: 2
   reasoning: >-
-    This content is a humorous linguistic diversion that fails to address wealth
-    extraction, regulatory capture, or public policy. From a public choice
-    perspective, it represents a misallocation of cognitive resources, providing
-    zero actionable insights for improving median global wellbeing or correcting
-    market failures.
-  scoredAt: '2025-12-31T05:48:21.488Z'
+    This content is a satirical linguistic deconstruction rather than a serious
+    policy exposure. While it uses mathematical concepts for humor, it lacks
+    data, fails to identify current systemic harms or wealth extraction, and
+    focuses on the dated persona of a disgraced celebrity. It offers no
+    actionable insights for improving median health, wealth, or happiness.
+  scoredAt: '2025-12-31T06:05:42.664Z'
   model: gemini-3-flash-preview
+  length: 2473
+  imageCount: 1
 ---
 Bill Cosby claimed to be "hip." Mathematics, however, tells a different story. A story involving trigonometric functions and the fundamental impossibility of being both a cosine and a square simultaneously.
 

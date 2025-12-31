@@ -6,6 +6,7 @@ import { generateGeminiFlashContent, extractJsonFromResponse } from './lib/llm.j
 interface PostScore {
   qualityScore: number;      // 1-10: Overall quality (writing, clarity, accuracy)
   valueScore: number;         // 1-10: Educational value and importance
+  timelinessScore: number;    // 1-10: Modern relevance and timeliness
   reasoning: string;          // Brief explanation of the scores
 }
 
@@ -39,18 +40,18 @@ async function scorePost(filePath: string): Promise<PostScore> {
 
 Score 1-10:
 - Clarity: Clear mechanism? Strong data? Actionable?
-- Impact: Novel/counter-intuitive insights? Hidden facts few know? Exposes wealth extraction/misallocation?
-
-Timeliness: Elections/politicians >5yr old max 4/10. Dated stats max 5/10. Timeless mechanisms full potential.
+- Impact: If everyone knew this, how much better would the world be? Novel insights? Hidden facts? Exposes wealth extraction?
+- Relevance: Useful TODAY? Timeless mechanisms=10. Current data=10. Evergreen principle=7-9. Dated politics=2-4.
 
 Title: ${title}
 Description: ${description}
 Content: ${truncatedContent}
 
-JSON only:
+JSON:
 {
   "qualityScore": <1-10>,
   "valueScore": <1-10>,
+  "timelinessScore": <1-10>,
   "reasoning": "<why this matters NOW>"
 }`;
 
@@ -60,8 +61,9 @@ JSON only:
 
     // Validate scores are in range
     if (result.qualityScore < 1 || result.qualityScore > 10 ||
-        result.valueScore < 1 || result.valueScore > 10) {
-      throw new Error(`Invalid scores received: quality=${result.qualityScore}, value=${result.valueScore}`);
+        result.valueScore < 1 || result.valueScore > 10 ||
+        result.timelinessScore < 1 || result.timelinessScore > 10) {
+      throw new Error(`Invalid scores received: quality=${result.qualityScore}, value=${result.valueScore}, timeliness=${result.timelinessScore}`);
     }
 
     return result;
@@ -71,6 +73,7 @@ JSON only:
     return {
       qualityScore: 5,
       valueScore: 5,
+      timelinessScore: 5,
       reasoning: 'Error occurred during scoring, using default values'
     };
   }
@@ -85,10 +88,26 @@ async function updatePostFrontmatter(filePath: string, scores: PostScore): Promi
   const htmlImages = (bodyContent.match(/<img[^>]*>/g) || []).length;
   const imageCount = markdownImages + htmlImages;
 
+  // Calculate composite score (0-10 scale)
+  // Normalize length and images to 0-10 scale
+  const lengthScore = Math.min(bodyContent.length / 5000, 1) * 10;
+  const imageScore = Math.min(imageCount / 5, 1) * 10;
+
+  // Weighted average: Value=35%, Quality=25%, Timeliness=25%, Length=10%, Images=5%
+  const compositeScore = (
+    scores.valueScore * 0.35 +
+    scores.qualityScore * 0.25 +
+    scores.timelinessScore * 0.25 +
+    lengthScore * 0.10 +
+    imageScore * 0.05
+  );
+
   // Update frontmatter with scores and metadata
   data.aiScores = {
     quality: scores.qualityScore,
     value: scores.valueScore,
+    timeliness: scores.timelinessScore,
+    composite: Math.round(compositeScore * 10) / 10, // Round to 1 decimal
     reasoning: scores.reasoning,
     scoredAt: new Date().toISOString(),
     model: 'gemini-3-flash-preview',
@@ -125,7 +144,12 @@ async function main() {
       const scores = await scorePost(postPath);
       await updatePostFrontmatter(postPath, scores);
 
-      console.log(`  ✅ Quality: ${scores.qualityScore}/10 | Value: ${scores.valueScore}/10`);
+      // Get composite score from updated frontmatter
+      const updatedContent = await fs.readFile(postPath, 'utf-8');
+      const { data } = matter(updatedContent);
+      const composite = data.aiScores?.composite || 0;
+
+      console.log(`  ✅ Quality: ${scores.qualityScore}/10 | Value: ${scores.valueScore}/10 | Timeliness: ${scores.timelinessScore}/10 | Composite: ${composite}/10`);
       console.log(`  📝 ${scores.reasoning}`);
 
       processedCount++;

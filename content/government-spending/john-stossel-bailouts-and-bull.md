@@ -28,16 +28,20 @@ tags:
   - government-spending
 aiScores:
   quality: 7
-  value: 8
+  value: 9
+  timeliness: 8
   reasoning: >-
-    The post effectively exposes regulatory capture and the moral hazard created
-    by central bank interventions. By highlighting the upward redistribution of
-    wealth through 'privatized gains and socialized losses,' it challenges a
-    status quo that reduces median wealth and market efficiency. The $16,000 per
-    worker figure provides a tangible metric for the cost of government failure
-    and resource misallocation.
-  scoredAt: '2025-12-31T05:45:29.205Z'
+    This content exposes the fundamental mechanism of 'Moral Hazard' and wealth
+    redistribution from the bottom to the top. While the specific examples are
+    from 2008, the principle of 'Privatizing Gains and Socializing Losses'
+    explains the current 2024 housing crisis and the widening wealth gap. It
+    connects the dots between central bank policy (QE) and the median worker's
+    declining purchasing power, which is the root cause of much current social
+    unrest.
+  scoredAt: '2025-12-31T06:02:37.681Z'
   model: gemini-3-flash-preview
+  length: 3918
+  imageCount: 4
 ---
 ## Toxic Assets
 

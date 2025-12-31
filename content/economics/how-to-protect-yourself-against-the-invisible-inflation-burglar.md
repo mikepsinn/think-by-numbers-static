@@ -25,17 +25,20 @@ tags:
   - economics
 aiScores:
   quality: 6
-  value: 5
+  value: 8
+  timeliness: 9
   reasoning: >-
-    The content clearly explains the mechanism of wealth extraction via monetary
-    debasement (hidden tax). However, it loses significant points on timeliness
-    and actionability: it claims prices have stayed 'relatively stable' despite
-    money supply growth, which is factually outdated following the 2021-2023
-    inflation surge. Furthermore, the text cuts off before providing the
-    promised 'protection' strategies, leaving the reader with a problem but no
-    solution.
-  scoredAt: '2025-12-31T05:48:21.681Z'
+    This content addresses a fundamental mechanism of wealth extraction: the
+    debasement of currency. By framing inflation as a 'hidden flat tax,' it
+    exposes how the median citizen's purchasing power is eroded to fund policy
+    without direct consent. It is highly relevant given the post-2020 expansion
+    of the M2 money supply. However, the score is tempered because the
+    'Actionable' portion promised in the title (How to Protect Yourself) is
+    missing from the text, and the content cuts off mid-sentence.
+  scoredAt: '2025-12-31T05:59:40.901Z'
   model: gemini-3-flash-preview
+  length: 11245
+  imageCount: 10
 ---
 ## Two Types of Inflation
 

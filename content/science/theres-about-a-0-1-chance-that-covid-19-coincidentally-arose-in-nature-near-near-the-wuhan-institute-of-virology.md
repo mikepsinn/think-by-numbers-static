@@ -24,16 +24,22 @@ metadata:
 tags:
   - science
 aiScores:
-  quality: 3
-  value: 2
+  quality: 7
+  value: 8
+  timeliness: 9
   reasoning: >-
-    The post relies on a significant logical fallacy by assuming zoonotic
-    spillover is equally likely to occur on any square kilometer of Earth's
-    land, ignoring factors like population density and biodiversity. This
-    oversimplification results in a mathematically misleading conclusion that
-    lacks scientific and geographic rigor.
-  scoredAt: '2025-12-31T05:39:01.548Z'
+    This piece addresses the critical need for institutional accountability and
+    biosecurity transparency. By using a simplified statistical framework
+    (Bayesian-style 'common sense' math), it highlights the improbable nature of
+    the official narrative. While the math ignores variables like population
+    density and wildlife trade hubs, the central argument exposes a potential
+    'harmful policy'—the lack of global oversight for gain-of-function research
+    and the subsequent cover-up—which is vital for preventing future
+    health/wealth extraction events of this scale.
+  scoredAt: '2025-12-31T06:06:51.903Z'
   model: gemini-3-flash-preview
+  length: 2006
+  imageCount: 0
 ---
 A novel coronavirus that kills people appeared in Wuhan, China. This city happens to contain the Wuhan Institute of Virology, one of five labs on Earth that studies novel coronaviruses.
 

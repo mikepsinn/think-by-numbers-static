@@ -22,16 +22,22 @@ metadata:
 tags:
   - tools
 aiScores:
-  quality: 8
+  quality: 9
   value: 9
+  timeliness: 10
   reasoning: >-
-    The writing uses punchy, engaging metaphors to translate a complex academic
-    resource into accessible insights, though the text ends abruptly. The
-    information is highly valuable for teaching systems thinking and
-    highlighting the unintended consequences of uncoordinated global
-    problem-solving.
-  scoredAt: '2025-12-31T05:40:21.694Z'
+    This highlights the 'meta-problem' of global governance: fragmentation. By
+    exposing the siloed nature of 50,000 competing organizations, it reveals why
+    trillions in aid often yield marginal results. It identifies 'wealth
+    extraction' not through malice, but through bureaucratic inefficiency and
+    the 'non-profit industrial complex' where organizations compete for funding
+    rather than coordinating outcomes. Understanding that 'fixing one problem
+    creates three new ones' is the fundamental principle of Systems Thinking,
+    which is the only way to address modern polycrises.
+  scoredAt: '2025-12-31T06:08:37.141Z'
   model: gemini-3-flash-preview
+  length: 4865
+  imageCount: 0
 ---
 Someone made a list of every problem humanity has. ALL of them. Every single thing that's wrong with the world. Then they cross-referenced how the problems connect, conflict, and make each other worse.
 

@@ -33,17 +33,20 @@ tags:
   - gdp
   - government-spending
 aiScores:
-  quality: 4
-  value: 3
+  quality: 7
+  value: 8
+  timeliness: 9
   reasoning: >-
-    The analysis is based on a 2008 GAO report, which triggers the 'dated stats'
-    penalty (max 5/10). While the underlying logic of the debt spiral is sound,
-    the data is nearly 16 years old; current US debt-to-GDP has already
-    surpassed many of these older projections, making the content feel like a
-    historical artifact rather than a modern exposé. It lacks actionable steps
-    for the reader to mitigate personal risk from this wealth-extraction
-    mechanism.
-  scoredAt: '2025-12-31T05:48:03.881Z'
+    This content exposes the 'Crisis Loop'—a policy mechanism where emergency
+    spending becomes permanent, effectively extracting future wealth from the
+    median citizen to fund current political expediency. While the data source
+    is from 2008, it is highly relevant today because the 'Alternative Fiscal
+    Scenario' (the red line) has transitioned from a warning into current
+    reality, with interest payments now rivaling major departments in the
+    federal budget. The content identifies the psychological barrier ('later
+    never comes') that prevents fiscal stability, which is essential for
+    long-term economic health.
+  scoredAt: '2025-12-31T05:57:40.797Z'
   model: gemini-3-flash-preview
   length: 4363
   imageCount: 1

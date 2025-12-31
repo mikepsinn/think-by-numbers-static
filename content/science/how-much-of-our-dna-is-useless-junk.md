@@ -21,14 +21,21 @@ metadata:
 tags:
   - science
 aiScores:
-  quality: 7
-  value: 6
+  quality: 5
+  value: 2
+  timeliness: 9
   reasoning: >-
-    The writing is highly engaging and uses effective metaphors to simplify a
-    complex concept, though it overlooks the scientific nuance and ongoing
-    debate regarding the functional roles of non-coding DNA.
-  scoredAt: '2025-12-31T05:38:55.545Z'
+    While the writing is clear and the biological concept is evergreen, this
+    content fails the specific mission of exposing 'harmful policies' or 'wealth
+    extraction.' There is no actionable takeaway for the reader to improve their
+    health, wealth, or happiness. Furthermore, the '75% junk' figure is a point
+    of significant debate in modern genomics (ENCODE project), meaning the data
+    isn't as 'strong' or 'settled' as the mission requires for high-impact
+    disclosure.
+  scoredAt: '2025-12-31T06:06:45.327Z'
   model: gemini-3-flash-preview
+  length: 1563
+  imageCount: 0
 ---
 At least 75% of your genome is useless junk.
 

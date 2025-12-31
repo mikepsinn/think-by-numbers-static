@@ -15,17 +15,18 @@ tags:
   - empiricism
   - crowdsourcing
 aiScores:
-  quality: 6
-  value: 8
+  quality: 8
+  value: 9
+  timeliness: 9
   reasoning: >-
-    The content identifies a massive resource misallocation (terrorism spending
-    vs. starvation) and exposes the 'wealth extraction' loop where defense
-    contractors influence policy. It highlights the decoupling of tax allocation
-    from human utility, contrasting low-probability threats with certain
-    preventable mortality. While the actionable 'Step 3' is truncated, the
-    diagnostic of the military-industrial complex as a feedback loop is a
-    powerful exposure of harmful policy.
-  scoredAt: '2025-12-31T05:47:50.411Z'
+    The content identifies a fundamental 'bug' in human governance: the
+    misalignment between resource allocation and actual mortality risks (e.g.,
+    $1T on terrorism vs. negligible spend on preventable starvation). It exposes
+    the 'wealth extraction' loop involving military-industrial interests and
+    'dead president' papers. This is an evergreen principle of political economy
+    that remains highly relevant as global tensions rise and social safety nets
+    feel the strain of inefficiency.
+  scoredAt: '2025-12-31T05:57:27.920Z'
   model: gemini-3-flash-preview
   length: 3407
   imageCount: 0

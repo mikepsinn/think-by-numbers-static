@@ -24,17 +24,21 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 9
-  value: 8
+  quality: 8
+  value: 7
+  timeliness: 6
   reasoning: >-
-    This post effectively exposes 'fiscal illusion' and the political 'ratchet
-    effect,' where temporary emergency spending becomes the new baseline for
-    future growth. By debunking the media-supported narrative of fiscal
-    responsibility, it helps the public recognize how government expansion is
-    obfuscated, which is vital for preventing long-term wealth erosion through
-    inflation and debt-driven misallocation of resources.
-  scoredAt: '2025-12-31T05:45:48.706Z'
+    This piece exposes the 'Baseline Reset'—a timeless political maneuver used
+    to normalize massive spending. While the specific data regarding the Obama
+    administration is a decade old, the mechanism is identical to modern fiscal
+    spin (e.g., current claims of deficit reduction following the massive
+    COVID-era spending spikes). Understanding this prevents the public from
+    accepting 'less worse' as 'good' while the underlying wealth extraction via
+    debt continues.
+  scoredAt: '2025-12-31T06:03:00.254Z'
   model: gemini-3-flash-preview
+  length: 1497
+  imageCount: 1
 ---
 The Associated Press ran a story titled "Obama plans to slash deficit in half." This is technically true. It's also technically misleading.
 

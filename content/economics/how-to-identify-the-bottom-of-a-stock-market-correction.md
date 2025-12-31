@@ -27,19 +27,22 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 5
-  value: 6
+  quality: 7
+  value: 8
+  timeliness: 9
   reasoning: >-
-    The mechanism described—comparing the S&P 500 index to actual corporate
-    profits after tax—is a classic and highly effective way to identify
-    speculative bubbles and wealth extraction. However, the provided content is
-    based on stats from April 2020 (as seen in the image path). Per the
-    instructions, dated stats cap the quality score at 5/10. While the logic is
-    sound for helping the 'median' person avoid buying at the peak of a
-    herd-driven cycle, the analysis requires current 2024 data to be fully
-    actionable for maximizing wealth in the present market.
-  scoredAt: '2025-12-31T05:48:14.770Z'
+    This content exposes the fundamental mechanism of wealth extraction: the
+    decoupling of asset prices from real-world utility (profits). By identifying
+    the 'herd mentality' feedback loop, it provides a shield for the median
+    person against market manias. It is highly relevant today as retail
+    investors are frequently lured into overvalued markets (AI, tech, or meme
+    stocks) where prices have long since abandoned the gravity of earnings. The
+    content is only held back by an incomplete ending and a missing
+    visualization.
+  scoredAt: '2025-12-31T05:59:34.649Z'
   model: gemini-3-flash-preview
+  length: 5720
+  imageCount: 3
 ---
 ## Why isn’t a share of stock just a worthless piece of paper?
 

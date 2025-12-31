@@ -39,16 +39,22 @@ tags:
   - financial-sector
   - gdp
 aiScores:
-  quality: 7
-  value: 4
+  quality: 8
+  value: 9
+  timeliness: 9
   reasoning: >-
-    The content identifies a clear mechanism of wealth extraction—taxing
-    productive entities to subsidize insolvent ones (moral hazard). However, the
-    specific case studies (1982 Chile/Mexico) and the referenced study are
-    decades old, triggering the timeliness penalty for dated statistics and
-    historical political contexts.
-  scoredAt: '2025-12-31T05:47:46.023Z'
+    This content exposes a fundamental mechanism of wealth extraction: the
+    'Zombie Bank' phenomenon. By comparing Chile's liquidation approach to
+    Mexico's nationalization, it provides a data-backed counter-narrative to the
+    modern 'Too Big to Fail' dogma. It is highly relevant today as global debt
+    levels rise and the temptation for taxpayer-funded bailouts recurs. The
+    clarity of the 'homework' analogy makes complex macroeconomics accessible,
+    highlighting how 'stabilization' policies often act as a hidden tax on the
+    productive class to protect an insolvent elite.
+  scoredAt: '2025-12-31T05:59:07.432Z'
   model: gemini-3-flash-preview
+  length: 2639
+  imageCount: 1
 ---
 This [study](https://www.minneapolisfed.org/research/SR/SR421.pdf) by the Federal Reserve examines the effects of government intervention and the absence thereof in two similar financial crises which occurred simultaneously in Chile and Mexico. Chile liquidated the insolvent banks and instituted a new regulatory system to prevent future abuses. Mexico nationalized the entire banking system keeping the insolvent banks on life support at the expense of the taxpayer.
 

@@ -34,18 +34,19 @@ tags:
 aiScores:
   quality: 8
   value: 9
+  timeliness: 10
   reasoning: >-
-    The content effectively illustrates the 'Cantillon Effect'—the systemic
-    mechanism where those closest to the point of money creation (large
-    financial institutions) extract wealth from the general population through
-    currency debasement. By highlighting the 1971 decoupling of productivity and
-    wages, it provides a clear historical anchor for the stagnation of the
-    middle class. This is critically relevant today as high inflation and
-    interest rate cycles continue to disproportionately affect median wealth,
-    making the exposure of monetary policy as a tool for wealth redistribution
-    highly actionable for public awareness.
-  scoredAt: '2025-12-31T05:48:07.425Z'
+    This content exposes the 'Cantillon Effect'—the mechanism where those
+    closest to the money printer (banks) benefit from new capital before
+    inflation hits the general economy. By linking the 1971 departure from the
+    gold standard to the decoupling of wages and productivity, it provides a
+    clear, systemic explanation for the shrinking middle class. It is critically
+    relevant NOW as global inflation and interest rate hikes have made the cost
+    of living a primary driver of median unhappiness.
+  scoredAt: '2025-12-31T05:59:27.679Z'
   model: gemini-3-flash-preview
+  length: 5808
+  imageCount: 4
 ---
 Prior to 1971, productivity growth was very closely tied to wage growth. However, around 1971, there was a stark and sudden decoupling between productivity and wages.
 

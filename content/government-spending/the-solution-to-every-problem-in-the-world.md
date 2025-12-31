@@ -29,19 +29,22 @@ tags:
   - health
 aiScores:
   quality: 7
-  value: 8
+  value: 9
+  timeliness: 10
   reasoning: >-
-    The post effectively identifies a massive government failure in resource
-    allocation, highlighting that spending priorities are decoupled from actual
-    risk profiles (162x military vs. brain research). From a public choice
-    perspective, this exposes how the military-industrial complex captures
-    resources that could otherwise be used to preserve human capital—the
-    ultimate source of wealth and innovation. By framing brain health as the
-    'solution to every problem,' it provides a compelling, if slightly
-    hyperbolic, case for shifting public policy away from low-ROI security
-    theater toward high-ROI cognitive preservation.
-  scoredAt: '2025-12-31T05:46:00.856Z'
+    This content addresses a massive systemic misallocation of resources: the
+    'Fear-Based Budgeting' trap. By highlighting the 162x spending gap between
+    military (external threats) and brain research (internal/biological
+    threats), it exposes a policy failure that directly impacts global health
+    and economic stability. As the global population ages, the 'natural brain
+    rot' and neurological disease burden represent the single greatest threat to
+    human capital and median wealth. The argument is actionable at a policy
+    level and offers a novel framing of cognitive health as the prerequisite for
+    solving all other crises.
+  scoredAt: '2025-12-31T06:03:15.852Z'
   model: gemini-3-flash-preview
+  length: 8857
+  imageCount: 6
 ---
 Guess what holds the solution to every problem in the world? It's the human brain!
 

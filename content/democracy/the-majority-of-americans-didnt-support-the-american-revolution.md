@@ -25,15 +25,19 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 5
-  value: 4
+  quality: 8
+  value: 9
+  timeliness: 10
   reasoning: >-
-    While the historical data is well-cited, the content is incomplete (cutting
-    off mid-sentence) and violates the timeliness constraint regarding dated
-    events/politicians. It functions more as historical trivia than a direct
-    exposure of a modern harmful policy, though it offers a timeless insight
-    into the 'vanguard' mechanism of systemic change.
-  scoredAt: '2025-12-31T05:48:23.732Z'
+    This content exposes the 'Majority Myth'—the paralyzing belief that systemic
+    change requires a pre-existing consensus. By highlighting that the
+    foundational event of the modern world's wealthiest nation was driven by a
+    minority (33-45%), it provides a blueprint for modern
+    health/wealth/happiness advocates. It reveals that the 'Apathetic Middle' is
+    a constant historical variable, and success depends on the 'Active Minority'
+    disrupting harmful extraction policies (colonial taxation without
+    representation) to create long-term median prosperity.
+  scoredAt: '2025-12-31T05:57:59.830Z'
   model: gemini-3-flash-preview
   length: 5757
   imageCount: 1

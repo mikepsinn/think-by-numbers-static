@@ -18,14 +18,24 @@ metadata:
 tags:
   - terrorism
 aiScores:
-  quality: 6
-  value: 6
+  quality: 8
+  value: 7
+  timeliness: 5
   reasoning: >-
-    The post provides useful historical data and reputable sources to challenge
-    common stereotypes, but the information is significantly outdated (ending in
-    2000) and the tone is unnecessarily condescending.
-  scoredAt: '2025-12-31T05:40:06.836Z'
+    The content provides a vital data-driven counter-narrative to the 'Clash of
+    Civilizations' trope, which has historically fueled xenophobia and justified
+    high-cost, interventionist foreign policies. By highlighting the LTTE (Tamil
+    Tigers) as the primary practitioners of suicide terrorism in the late 20th
+    century, it exposes the political and nationalist drivers of violence that
+    are often ignored in favor of religious framing. However, the data is
+    significantly dated (ending in 2000/2005), failing to account for the
+    massive shifts in global terrorism trends post-9/11, the Iraq War, and the
+    rise of ISIS, which reduces its immediate 'actionability' for current policy
+    debates.
+  scoredAt: '2025-12-31T06:08:15.780Z'
   model: gemini-3-flash-preview
+  length: 2056
+  imageCount: 2
 ---
 ## Suicide terrorism is not primarily Islamic fundamentalism
 

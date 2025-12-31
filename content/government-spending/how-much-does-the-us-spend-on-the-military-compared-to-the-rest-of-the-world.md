@@ -25,19 +25,23 @@ tags:
   - government-spending
   - military
 aiScores:
-  quality: 7
-  value: 8
+  quality: 6
+  value: 7
+  timeliness: 5
   reasoning: >-
-    The post effectively utilizes public choice theory concepts by highlighting
-    a massive misallocation of resources (opportunity cost). It exposes the
-    absurdity of US military spending relative to population and global peers,
-    suggesting a high level of government waste and interest-group capture. By
-    framing the $600 billion as equivalent to the entire economic output of a
-    productive nation like Switzerland, it makes the 'unseen' costs of the
-    military-industrial complex tangible to the reader, thereby challenging the
-    status quo and advocating for more productive resource allocation.
-  scoredAt: '2025-12-31T05:45:22.405Z'
+    The content effectively uses satire to highlight the massive opportunity
+    cost of US military spending, which directly relates to the mission of
+    maximizing median wealth/happiness by questioning resource allocation.
+    However, the data is significantly outdated; the US military budget has
+    surpassed $800-900 billion in recent years, making the $600 billion figure
+    used here a low estimate that actually undersells the current scale of the
+    issue. While the logic and comparison to Switzerland's GDP remain a strong
+    'evergreen' rhetorical device, the outdated statistics reduce its immediate
+    impact for 2024 discourse.
+  scoredAt: '2025-12-31T06:02:30.290Z'
   model: gemini-3-flash-preview
+  length: 1763
+  imageCount: 1
 ---
 ## The Numbers
 

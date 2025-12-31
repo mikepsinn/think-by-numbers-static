@@ -24,17 +24,19 @@ metadata:
 tags:
   - democracy
 aiScores:
-  quality: 6
+  quality: 7
   value: 8
+  timeliness: 9
   reasoning: >-
-    The content addresses a critical modern delusion: the 'authoritarian growth'
-    myth. While the statistics are ~10 years old, the underlying mechanism is
-    timeless and vital for protecting median wealth against current global
-    trends of democratic backsliding. Exposing that autocracy acts as a 20%
-    long-term tax on personal prosperity directly impacts the mission of
-    maximizing wealth by reframing voting as an economic asset rather than just
-    a civic duty.
-  scoredAt: '2025-12-31T05:48:16.221Z'
+    Global democracy is currently in a 15-year 'recession' with many nations
+    sliding toward autocracy under the promise of 'stability' or 'efficiency.'
+    This content counters that narrative by citing rigorous economic data
+    (likely the Acemoglu/WEF study) to prove that democracy is actually the
+    superior wealth-generation engine for the median citizen. Reframing civil
+    liberties as an economic 'compound interest' mechanism makes the defense of
+    democratic institutions a matter of self-interest rather than just abstract
+    morality.
+  scoredAt: '2025-12-31T05:57:52.995Z'
   model: gemini-3-flash-preview
   length: 3225
   imageCount: 3

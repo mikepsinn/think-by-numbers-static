@@ -11,9 +11,22 @@ eleventyComputed:
 
 <div class="container">
   <div class="main-content">
-    <h2>Recent Posts</h2>
+    <div class="post-header-controls">
+      <h2>Recent Posts</h2>
+      <div class="sort-controls">
+        <label for="post-sort">Sort by:</label>
+        <select id="post-sort">
+          <option value="composite">Best Overall (Composite)</option>
+          <option value="value">Most Impact (Value)</option>
+          <option value="quality">Best Quality</option>
+          <option value="timeliness">Most Relevant Today</option>
+          <option value="date-new">Newest First</option>
+          <option value="date-old">Oldest First</option>
+        </select>
+      </div>
+    </div>
 
-    <div class="post-grid">
+    <div class="post-grid" id="post-grid">
       {%- for post in pagedPosts %}
       {%- if post.data.title and post.inputPath.endsWith('.md') %}
       {% include "post-card.njk" %}
@@ -84,3 +97,127 @@ eleventyComputed:
     </div>
   </aside>
 </div>
+
+<script>
+(function() {
+  // Calculate composite score from individual scores
+  function calculateComposite(quality, value, timeliness, length, imageCount) {
+    const lengthScore = Math.min(length / 5000, 1) * 10;
+    const imageScore = Math.min(imageCount / 5, 1) * 10;
+
+    return (
+      value * 0.35 +
+      quality * 0.25 +
+      timeliness * 0.25 +
+      lengthScore * 0.10 +
+      imageScore * 0.05
+    );
+  }
+
+  // Store ALL posts for client-side sorting (not just current page)
+  const postsData = [
+    {%- for post in collections.posts %}
+    {%- if post.data.title and post.inputPath.endsWith('.md') %}
+    {
+      url: "{{ post.url }}",
+      title: {{ post.data.title | decodeHtml | dump | safe }},
+      description: {{ (post.data.description or post.data.metadata.summary or '') | dump | safe }},
+      ogImage: "{{ post.data.metadata.media.ogImage or '' }}",
+      date: "{{ post.date | dateToISO }}",
+      timestamp: {{ post.date.getTime() }},
+      aiScores: {
+        quality: {{ post.data.aiScores.quality or 0 }},
+        value: {{ post.data.aiScores.value or 0 }},
+        timeliness: {{ post.data.aiScores.timeliness or 0 }},
+        length: {{ post.data.aiScores.length or 0 }},
+        imageCount: {{ post.data.aiScores.imageCount or 0 }}
+      }
+    }{% if not loop.last %},{% endif %}
+    {%- endif %}
+    {%- endfor %}
+  ].map(post => ({
+    ...post,
+    aiScores: {
+      ...post.aiScores,
+      composite: calculateComposite(
+        post.aiScores.quality,
+        post.aiScores.value,
+        post.aiScores.timeliness,
+        post.aiScores.length,
+        post.aiScores.imageCount
+      )
+    }
+  }));
+
+  const sortSelect = document.getElementById('post-sort');
+  const postGrid = document.getElementById('post-grid');
+  const pagination = document.querySelector('.pagination');
+
+  function renderPosts(posts) {
+    postGrid.innerHTML = posts.map(post => `
+      <article class="post-card">
+        ${post.ogImage ? `
+        <div class="post-image">
+          <a href="${post.url}">
+            <img src="${post.ogImage}" alt="${post.title}">
+          </a>
+        </div>
+        ` : ''}
+        <div class="post-header">
+          <h3 class="post-title">
+            <a href="${post.url}">${post.title}</a>
+          </h3>
+        </div>
+        <div class="post-info">
+          <div class="entry-summary">
+            ${post.description ? `<p>${post.description}</p>` : ''}
+          </div>
+        </div>
+        <div class="post-footer">
+          <small>
+            <a href="${post.url}">
+              <span class="read-more">Read more</span>
+            </a>
+          </small>
+          ${post.aiScores.composite ? `<small class="post-score">${post.aiScores.composite.toFixed(1)}/10</small>` : ''}
+        </div>
+      </article>
+    `).join('');
+  }
+
+  function sortPosts(sortBy) {
+    let sorted = [...postsData];
+
+    switch(sortBy) {
+      case 'composite':
+        sorted.sort((a, b) => b.aiScores.composite - a.aiScores.composite);
+        break;
+      case 'value':
+        sorted.sort((a, b) => b.aiScores.value - a.aiScores.value);
+        break;
+      case 'quality':
+        sorted.sort((a, b) => b.aiScores.quality - a.aiScores.quality);
+        break;
+      case 'timeliness':
+        sorted.sort((a, b) => b.aiScores.timeliness - a.aiScores.timeliness);
+        break;
+      case 'date-new':
+        sorted.sort((a, b) => b.timestamp - a.timestamp);
+        break;
+      case 'date-old':
+        sorted.sort((a, b) => a.timestamp - b.timestamp);
+        break;
+    }
+
+    // Show all posts when sorting, hide pagination
+    renderPosts(sorted);
+    if (pagination) {
+      pagination.style.display = 'none';
+    }
+  }
+
+  sortSelect.addEventListener('change', (e) => {
+    sortPosts(e.target.value);
+  });
+})();
+</script>

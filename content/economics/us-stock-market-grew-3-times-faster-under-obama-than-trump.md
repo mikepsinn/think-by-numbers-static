@@ -24,16 +24,22 @@ metadata:
 tags:
   - economics
 aiScores:
-  quality: 3
-  value: 2
+  quality: 6
+  value: 5
+  timeliness: 3
   reasoning: >-
-    The data is over five years old (published in 2019) and focuses on
-    historical presidential windows, triggering the strict 'Timeliness' penalty.
-    While it challenges partisan narratives regarding market performance, it
-    fails to expose current wealth extraction mechanisms or provide actionable
-    insights for median wealth/health in the present economic climate.
-  scoredAt: '2025-12-31T05:48:50.167Z'
+    While the data debunking political hyperbole is factually sound and provides
+    a necessary reality check on 'market-savior' narratives, the data is
+    significantly dated (pre-COVID). From a 'median wealth' perspective, stock
+    market returns are a poor proxy for the well-being of the bottom 90% of the
+    population. To better fit the mission, the content should address how these
+    gains—under both administrations—were often driven by wealth extraction
+    mechanisms like stock buybacks or quantitative easing rather than
+    improvements in median health or happiness.
+  scoredAt: '2025-12-31T06:00:12.081Z'
   model: gemini-3-flash-preview
+  length: 990
+  imageCount: 1
 ---
 ![US Stock Market Grew 3 Times Faster Under Obama Than Trump](/wp-content/uploads/2019/06/us-stock-market-returns-under-trump-obama-480x325.png)
 

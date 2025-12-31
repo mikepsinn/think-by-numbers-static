@@ -25,17 +25,22 @@ tags:
   - military
 aiScores:
   quality: 7
-  value: 9
+  value: 8
+  timeliness: 6
   reasoning: >-
-    The post powerfully illustrates the massive opportunity cost and deadweight
-    loss of government misallocation. By contrasting $1.8 trillion in
-    destructive military spending against a pittance for life-extending
-    research, it exposes a catastrophic failure of current resource allocation.
-    From a public choice perspective, this highlights how the
-    military-industrial complex extracts wealth for concentrated interests at
-    the expense of global median health and wealth.
-  scoredAt: '2025-12-31T05:45:43.098Z'
+    The core argument—the staggering opportunity cost of military spending
+    versus life-improving research—is a powerful example of systemic wealth
+    extraction and misallocation. The visual metaphor of a 17,000-pixel chart
+    effectively communicates the scale of the disparity. However, the data and
+    political references (President Obama, 2013 spending) are over a decade old.
+    While the 'evergreen principle' of the military-industrial complex remains a
+    10, the 'dated politics' and stale data reduce its immediate utility for a
+    2024 audience who would be more moved by current $2.44 trillion global
+    military spending figures.
+  scoredAt: '2025-12-31T06:02:53.901Z'
   model: gemini-3-flash-preview
+  length: 8565
+  imageCount: 1
 ---
 Dear Decent American Citizen,
 

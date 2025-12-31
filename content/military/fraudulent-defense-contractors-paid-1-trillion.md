@@ -26,17 +26,21 @@ metadata:
 tags:
   - military
 aiScores:
-  quality: 8
+  quality: 7
   value: 9
+  timeliness: 8
   reasoning: >-
-    The post effectively exposes a massive systemic wealth transfer from the
-    median taxpayer to politically connected firms via regulatory capture. By
-    highlighting that contractors receive larger contracts after fraud, it
-    illustrates the 'concentrated benefits, diffuse costs' failure of government
-    procurement and the total lack of market-like accountability, which directly
-    reduces global aggregate wealth.
-  scoredAt: '2025-12-31T05:47:40.142Z'
+    This piece exposes a systemic 'wealth extraction' loop where the Department
+    of Defense rewards criminal behavior with increased funding, effectively
+    making fraud a profitable business strategy. While the specific data points
+    cited (Bernie Sanders' 2011 report) are slightly dated, the underlying
+    mechanism—the 'Too Big to Debar' status of major defense contractors—is an
+    evergreen principle of the military-industrial complex that remains a
+    primary driver of taxpayer wealth depletion today.
+  scoredAt: '2025-12-31T06:05:02.195Z'
   model: gemini-3-flash-preview
+  length: 4106
+  imageCount: 0
 ---
 
 The Pentagon paid $1.1 trillion over a decade to contractors who defrauded the government. After being convicted of crimes, they got more money. The math requires third-grade arithmetic, so the confusion is notable.

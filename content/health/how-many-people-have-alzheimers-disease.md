@@ -20,15 +20,20 @@ tags:
 aiScores:
   quality: 7
   value: 6
+  timeliness: 4
   reasoning: >-
-    The post effectively highlights a massive misallocation of resources toward
-    a disease that catastrophically impacts median health and wealth. While it
-    uses punchy, accessible math to expose the discrepancy between public
-    research funding and private consumption, it lacks a specific public choice
-    analysis of the regulatory barriers (like FDA friction) or the incentive
-    structures within the NIH that prevent more effective resource allocation.
-  scoredAt: '2025-12-31T05:46:40.651Z'
+    The content uses a powerful rhetorical device—comparing private spending on
+    'forgetting' (alcohol) versus public spending on 'curing forgetting'
+    (Alzheimer's). This effectively highlights a societal misallocation of
+    resources. However, the data is from 2018; since then, NIH funding for
+    Alzheimer's has nearly doubled to approximately $3.7 billion. Because the
+    'harmful policy' of underfunding has been significantly addressed in the
+    intervening years, the impact of the argument is weakened by outdated
+    statistics.
+  scoredAt: '2025-12-31T06:03:54.020Z'
   model: gemini-3-flash-preview
+  length: 1854
+  imageCount: 0
 ---
 [44 million](https://www.alzheimers.net/resources/alzheimers-statistics/) people worldwide have Alzheimer's or related dementia. That's roughly the population of Spain, except they're all slowly forgetting who and where they are. And probably whether they're Spanish.
 

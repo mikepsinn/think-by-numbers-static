@@ -26,17 +26,21 @@ tags:
   - healthcare
 aiScores:
   quality: 9
-  value: 8
+  value: 9
+  timeliness: 10
   reasoning: >-
-    This post identifies a textbook case of regulatory capture and paternalism
-    where the FDA restricts individual access to private information. By
-    highlighting the 17-year institutional lag in medical research adoption, it
-    exposes a massive systemic inefficiency. Providing decentralized, free tools
-    to bypass these state-enforced bottlenecks empowers individuals to optimize
-    their own human capital (health) and reduces the deadweight loss caused by
-    information asymmetry and rent-seeking intermediaries.
-  scoredAt: '2025-12-31T05:47:15.021Z'
+    This content directly addresses systemic inefficiencies in the
+    medical-regulatory complex (the '17-year gap') and provides immediate,
+    actionable workarounds for individuals to reclaim their health data. By
+    framing the FDA's restrictions as a 'blackout' on personal property, it
+    aligns perfectly with the mission of exposing wealth/health extraction by
+    gatekeepers. It is highly relevant now as 23andMe faces corporate
+    instability, making it urgent for users to secure and interpret their raw
+    data independently.
+  scoredAt: '2025-12-31T06:04:32.820Z'
   model: gemini-3-flash-preview
+  length: 2292
+  imageCount: 0
 ---
 You paid 23andMe for your genetic data. The FDA then [restricted](https://en.wikipedia.org/wiki/23andMe#FDA) what 23andMe can tell you about your own DNA. It's like buying a book and having the government black out most of the pages to protect you from dangerous information about yourself.
 

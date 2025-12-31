@@ -23,17 +23,22 @@ metadata:
 tags:
   - health
 aiScores:
-  quality: 7
-  value: 8
+  quality: 5
+  value: 6
+  timeliness: 4
   reasoning: >-
-    The post effectively applies public choice theory to explain why policy
-    attention is misallocated: politicians and media prioritize 'villain-driven'
-    narratives (opioids/Big Pharma) over more lethal but less politically
-    exploitable threats (cancer). By exposing this availability heuristic, it
-    challenges the status quo of narrative-based resource allocation which
-    prioritizes optics over the maximization of median lifespan.
-  scoredAt: '2025-12-31T05:47:00.507Z'
+    This piece highlights the 'Availability Heuristic'—how media-driven outrage
+    focuses on 'villainous' causes of death while ignoring statistically larger
+    threats. However, the data is significantly outdated; since the 2017-2019
+    data cited, the fentanyl surge has narrowed the gap (cancer deaths are now
+    roughly 5-6x opioid deaths, not 14x). Furthermore, the advice 'don't take
+    opioids' is a reductive solution to a complex systemic addiction crisis,
+    which weakens the impact for a reader seeking actionable health policy
+    insights.
+  scoredAt: '2025-12-31T06:04:16.602Z'
   model: gemini-3-flash-preview
+  length: 2508
+  imageCount: 1
 ---
 Your odds of dying:
 - From an opioid overdose: [1 in 96](https://www.npr.org/2019/01/14/684695273/report-americans-are-now-more-likely-to-die-of-an-opioid-overdose-than-on-the-ro)

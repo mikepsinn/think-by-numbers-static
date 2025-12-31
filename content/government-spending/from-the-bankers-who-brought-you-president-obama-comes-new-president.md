@@ -50,20 +50,21 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 9
-  value: 9
+  quality: 7
+  value: 8
+  timeliness: 4
   reasoning: >-
-    This post masterfully applies public choice theory by exposing the 'illusion
-    of choice' in the political marketplace. It uses specific budget data to
-    demonstrate that despite partisan rhetoric, the fiscal trajectory remains
-    virtually identical under both major parties—a clear indicator of regulatory
-    capture by financial elites. By highlighting that the 'difference' is only
-    0.26% while the systemic debt grows, it provides the necessary cognitive
-    shift for readers to stop focusing on minor partisan theater and start
-    questioning the underlying mechanisms of wealth extraction and state
-    expansion that reduce median long-term prosperity.
-  scoredAt: '2025-12-31T05:45:02.732Z'
+    This content exposes the 'Uniparty' mechanism—the illusion of choice where
+    two seemingly opposed candidates propose nearly identical fiscal outcomes.
+    While the specific data is from 2012 (the debt has since doubled and
+    spending has tripled), the evergreen principle remains: political theater
+    focuses on marginal differences (0.26%) to distract from the 99.74%
+    consensus that benefits the banking sector and the military-industrial
+    complex.
+  scoredAt: '2025-12-31T06:02:06.699Z'
   model: gemini-3-flash-preview
+  length: 3740
+  imageCount: 2
 ---
 [![](/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic-480x160.jpg)](http://thinkbynumbers.org/wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg)
 

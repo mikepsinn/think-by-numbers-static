@@ -27,18 +27,22 @@ metadata:
 tags:
   - healthcare
 aiScores:
-  quality: 7
-  value: 8
+  quality: 8
+  value: 10
+  timeliness: 10
   reasoning: >-
-    The post identifies a significant correlation between industrial food policy
-    and the mental health crisis, effectively challenging the status quo of
-    psychiatric medicalization. From a public choice perspective, it exposes how
-    the agricultural-industrial complex and deceptive labeling (regulatory
-    failure) drive inflammatory diets that destroy median health and happiness,
-    providing a clear path for policy advocates to target harmful food subsidies
-    and labeling laws.
-  scoredAt: '2025-12-31T05:47:07.257Z'
+    This content exposes a systemic 'health extraction' mechanism: the
+    replacement of nutrient-dense whole foods with subsidized, pro-inflammatory
+    industrial seed oils. By linking the 'Kynurenine Shunt' (inflammation
+    diverting tryptophan from serotonin production) to dietary shifts, it
+    provides a biological explanation for the mental health crisis. If widely
+    understood, it shifts the solution from lifelong pharmaceutical dependency
+    (treating symptoms) to dietary intervention (addressing the root cause),
+    representing a massive potential increase in median health and happiness.
+  scoredAt: '2025-12-31T06:04:24.212Z'
   model: gemini-3-flash-preview
+  length: 2908
+  imageCount: 7
 ---
 The US suicide rate jumped 40% over the last 20 years. Turns out when you replace vegetables with fried oil and your immune system with constant inflammation, your brain stops making the chemicals that prevent you from wanting to die. The math is third-grade level. The confusion is notable.
 

@@ -33,17 +33,17 @@ tags:
   - debt
   - taxes
 aiScores:
-  quality: 3
-  value: 2
+  quality: 7
+  value: 4
+  timeliness: 2
   reasoning: >-
-    The content is over 12 years old, focusing on the 2012 Republican primary
-    candidates and their specific tax plans. Per the strict timeliness
-    constraints, topics involving politicians or elections older than 5 years
-    are capped at a maximum of 4/10. While the mechanism of exposing the gap
-    between 'fiscal conservative' rhetoric and debt-increasing policy is useful,
-    the data is entirely obsolete and lacks current actionable value for voters
-    or citizens today.
-  scoredAt: '2025-12-31T05:47:56.571Z'
+    While the writing is clear and the metaphors are punchy, the content is over
+    a decade old (2012 election). It serves as an excellent case study of the
+    'fiscal conservative' branding paradox—where tax cuts are marketed as
+    responsible despite increasing debt—but the specific data points and
+    candidates are no longer relevant to current policy decisions. Its impact is
+    limited to historical analysis rather than actionable modern reform.
+  scoredAt: '2025-12-31T05:57:33.699Z'
   model: gemini-3-flash-preview
   length: 4258
   imageCount: 1

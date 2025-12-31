@@ -31,16 +31,21 @@ tags:
   - economics
   - federal-reserve
 aiScores:
-  quality: 6
-  value: 8
+  quality: 8
+  value: 9
+  timeliness: 10
   reasoning: >-
-    The post identifies a clear mechanism for wealth extraction (the Cantillon
-    Effect) by correlating the 2020 M2 money supply surge with the wealth growth
-    of the Top 1%. While the text ends abruptly and the 2020 data is approaching
-    the 5-year 'dated' threshold, it successfully exposes the 'Productivity
-    Heist' and the systemic misallocation of capital that explains the current
-    cost-of-living crisis for the median household.
-  scoredAt: '2025-12-31T05:49:02.954Z'
+    This content exposes the 'Cantillon Effect'—the phenomenon where those
+    closest to the money printer (banks and the 1%) benefit from new capital
+    before it devalues the currency for everyone else. By linking the 1:1
+    correlation of the $4 trillion M2 expansion to the wealth growth of the 1%,
+    it transforms an abstract economic concept into a visceral theft. It is
+    highly relevant now as the median citizen struggles with the 'cost of living
+    crisis,' which is the direct result of the currency debasement described
+    here. The 1971 decoupling insight provides the necessary historical context
+    to show this isn't a one-time error, but a structural feature of the current
+    monetary system.
+  scoredAt: '2025-12-31T05:58:32.482Z'
   model: gemini-3-flash-preview
   length: 2711
   imageCount: 5

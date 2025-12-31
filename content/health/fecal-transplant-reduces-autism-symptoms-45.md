@@ -23,18 +23,19 @@ tags:
 aiScores:
   quality: 8
   value: 9
+  timeliness: 9
   reasoning: >-
-    This post challenges the medical status quo by highlighting a high-leverage,
-    low-cost biological intervention that outperforms traditional pharmaceutical
-    approaches. From a public choice perspective, it exposes how
-    'professionalized' gatekeeping and regulatory naming conventions (MTT vs.
-    poop transplant) create barriers to entry for simple, effective treatments.
-    Shifting the paradigm from expensive symptom management to microbial
-    logistics represents a massive potential for resource reallocation and an
-    increase in median wellbeing by bypassing the bloated medical-industrial
-    complex.
-  scoredAt: '2025-12-31T05:46:26.421Z'
+    This highlights a massive paradigm shift in neurodevelopmental health:
+    moving from 'incurable' behavioral management to systemic biological
+    optimization. It exposes the failure of siloed medicine—where brain health
+    is treated separately from gut health—and offers a high-impact, data-backed
+    solution to a condition affecting millions. It is timely because the
+    gut-brain axis is currently the most significant frontier in preventative
+    and restorative medicine.
+  scoredAt: '2025-12-31T06:03:35.811Z'
   model: gemini-3-flash-preview
+  length: 1716
+  imageCount: 0
 ---
 Autistic children get [gastrointestinal problems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3981895/) more often than other children. Scientists noticed this and wondered if fixing gut bacteria might help with autism symptoms. It's called the gut-brain axis, which is what scientists call it when your stomach has opinions about your brain.
 

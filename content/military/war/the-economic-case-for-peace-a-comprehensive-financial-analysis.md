@@ -30,16 +30,18 @@ tags:
 aiScores:
   quality: 7
   value: 9
+  timeliness: 10
   reasoning: >-
-    The post effectively utilizes the concept of opportunity cost to frame war
-    not as a necessity of statecraft, but as a massive wealth extraction
-    mechanism that robs the median individual of $74,259. By translating
-    abstract trillions into a 'car-sized' lifetime cost, it challenges the
-    status quo of the military-industrial complex and highlights the
-    catastrophic misallocation of resources away from productive human capital
-    and toward destruction.
-  scoredAt: '2025-12-31T05:48:00.021Z'
+    Global military spending is currently at an all-time high ($2.44 trillion in
+    2023). This content successfully translates abstract 'trillions'—which the
+    human brain cannot visualize—into a tangible 'lifetime car' ($74k). By
+    including 'Indirect Costs' like lost human capital and infrastructure
+    destruction, it exposes the true wealth extraction of the 'war machine'
+    beyond just tax dollars, showing the opportunity cost of human progress.
+  scoredAt: '2025-12-31T06:05:21.950Z'
   model: gemini-3-flash-preview
+  length: 6818
+  imageCount: 0
 ---
 
 War costs you $74,259 over your lifetime. That's not a metaphor. That's actual money taken from things you could use. Here's the math.

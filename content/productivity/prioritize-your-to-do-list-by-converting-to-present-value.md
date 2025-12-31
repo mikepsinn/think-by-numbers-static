@@ -23,17 +23,21 @@ tags:
   - productivity
 aiScores:
   quality: 9
-  value: 6
+  value: 9
+  timeliness: 10
   reasoning: >-
-    The post provides a highly clear, actionable application of the Present
-    Value formula, a core tool for rational resource allocation. While it
-    empowers individual wealth and happiness by exposing the high opportunity
-    cost of commuting (a major source of 'misallocated human capital'), it
-    misses a higher score by failing to critique the public policies—such as
-    restrictive zoning and transportation subsidies—that create the inefficient
-    status quo of suburban sprawl and forced long commutes.
-  scoredAt: '2025-12-31T05:49:02.588Z'
+    This content provides a rigorous mathematical framework for the 'Time is
+    Money' cliché, converting abstract opportunity costs into concrete financial
+    data. By using a 10% discount rate (the opportunity cost of capital), it
+    exposes the massive 'hidden tax' of long commutes and inefficient housing
+    choices. This empowers the median individual to make life-altering
+    decisions—like moving or changing jobs—based on NPV (Net Present Value)
+    rather than emotional inertia, directly combating the wealth and happiness
+    extraction inherent in modern urban sprawl.
+  scoredAt: '2025-12-31T06:06:21.119Z'
   model: gemini-3-flash-preview
+  length: 4487
+  imageCount: 0
 ---
 There are infinite ways to spend your most valuable resource: time. How do you decide the most cost-effective way to spend it? Convert the returns of each activity to its present value and pick the activity with the highest present value.
 

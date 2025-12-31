@@ -29,19 +29,22 @@ metadata:
 tags:
   - corporate-welfare
 aiScores:
-  quality: 7
+  quality: 6
   value: 8
+  timeliness: 7
   reasoning: >-
-    The post effectively utilizes the 'diffuse costs, concentrated benefits'
-    framework of public choice theory by translating a massive headline figure
-    into a relatable $2,000-per-household cost. It exposes the moral hazard and
-    wealth extraction inherent in 'too big to fail' policies, though it loses
-    slight points for using dated 2011 figures regarding repayment. By framing
-    the bailout as a forced socialization of private losses, it challenges the
-    status quo of regulatory capture and advocates for market discipline, which
-    is essential for long-term median wealth preservation.
-  scoredAt: '2025-12-31T05:44:49.522Z'
+    This content exposes the mechanism of 'Socialized Losses, Privatized Gains.'
+    While the specific AIG data is dated (the bailout was actually fully repaid
+    with a profit by 2012, contrary to the 2011-era prediction in the text), the
+    evergreen principle of 'Moral Hazard' is vital. It illustrates how political
+    contributions from firms like Goldman Sachs correlate with systemic safety
+    nets, a mechanism that remains the primary threat to median wealth during
+    every financial cycle (most recently seen in the 2023 banking sector
+    interventions).
+  scoredAt: '2025-12-31T06:01:51.529Z'
   model: gemini-3-flash-preview
+  length: 4899
+  imageCount: 4
 ---
 The average American household paid $2,000 to bail out AIG. Your bill arrived without your consent. You paid it anyway.
 

@@ -25,14 +25,20 @@ tags:
 aiScores:
   quality: 8
   value: 9
+  timeliness: 7
   reasoning: >-
-    The post effectively utilizes reputable data from START and Our World in
-    Data to present a clear, punchy, and data-driven critique of national
-    spending. It provides high value by reframing public policy through a
-    'cost-per-life' lens, encouraging critical thinking about resource
-    allocation.
-  scoredAt: '2025-12-31T05:39:53.794Z'
+    This content exposes a massive 'misallocation of capital'—a core mechanism
+    of wealth extraction. By quantifying the cost per life saved at over $1.1
+    billion, it highlights the extreme inefficiency of the security state
+    compared to other life-saving sectors like healthcare or infrastructure.
+    While the data points end in 2016/2017, the evergreen principle remains:
+    fear-based budgeting allows for the extraction of trillions from the public
+    treasury with near-zero ROI for the median citizen's actual safety or
+    health.
+  scoredAt: '2025-12-31T06:08:02.007Z'
   model: gemini-3-flash-preview
+  length: 1418
+  imageCount: 0
 ---
 Between September 11, 2001 and December 31, 2016, [3,222 Americans](https://www.start.umd.edu/pubs/START_AmericanTerrorismDeaths_FactSheet_Nov2017.pdf) died in terrorist attacks. This includes the attackers themselves and excludes deaths in Afghanistan and Iraq.
 

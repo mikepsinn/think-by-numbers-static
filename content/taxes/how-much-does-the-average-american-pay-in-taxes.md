@@ -25,13 +25,20 @@ tags:
 aiScores:
   quality: 7
   value: 8
+  timeliness: 9
   reasoning: >-
-    The post excels at simplifying complex macroeconomic concepts and making
-    them accessible, though its data points are several years out of date. It
-    provides significant value by explaining the gap between personal tax
-    contributions and total government spending.
-  scoredAt: '2025-12-31T05:39:38.455Z'
+    This content exposes the 'Invisible Tax.' By highlighting the massive gap
+    between personal tax contributions and per-capita federal spending, it
+    illustrates that the 'difference' is paid for via inflation (monetary
+    debasement) and debt. This is highly relevant as inflation remains a primary
+    driver of median wealth erosion. However, the data provided is slightly
+    dated (reflecting ~2019 figures); current federal spending is closer to
+    $6.1T+, which makes the discrepancy—and the subsequent impact on the average
+    citizen—even more extreme than the text suggests.
+  scoredAt: '2025-12-31T06:07:41.673Z'
   model: gemini-3-flash-preview
+  length: 2433
+  imageCount: 0
 ---
 The average American household pays [$10,489](https://www.jct.gov/publications.html?func=startdown&id=4763) in "personal taxes" each year. This represents [14% of average household income](https://en.wikipedia.org/wiki/Household_income_in_the_United_States).
 

@@ -37,15 +37,20 @@ tags:
   - terrorism
   - war
 aiScores:
-  quality: 6
-  value: 7
+  quality: 8
+  value: 8
+  timeliness: 9
   reasoning: >-
-    The post provides clear historical context and specific data points often
-    omitted from mainstream discourse, though its quality is lowered by a highly
-    polemical tone and the omission of significant counter-arguments regarding
-    state-sponsored proxy violence.
-  scoredAt: '2025-12-31T05:40:00.458Z'
+    This content exposes a massive 'blind spot' in Western geopolitical
+    narratives. By contrasting the 1988 downing of Iran Air Flight 655 and the
+    1953 coup against a democratically elected leader with current rhetoric, it
+    challenges the 'unprovoked aggressor' trope. Understanding these historical
+    grievances is essential for preventing escalatory military policies that
+    drain national wealth and risk lives.
+  scoredAt: '2025-12-31T06:08:08.264Z'
   model: gemini-3-flash-preview
+  length: 11203
+  imageCount: 17
 ---
 Many Americans believe Iran is a suicidal, psychopathic nation eager to kill as many Americans as possible.
 

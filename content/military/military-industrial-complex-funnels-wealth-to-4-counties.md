@@ -25,20 +25,21 @@ metadata:
 tags:
   - military
 aiScores:
-  quality: 5
-  value: 8
+  quality: 4
+  value: 6
+  timeliness: 9
   reasoning: >-
-    The post correctly identifies a massive public choice failure: the
-    concentration of wealth in administrative hubs through rent-seeking rather
-    than market value creation. By highlighting that the richest US counties are
-    those extracting tax dollars via the Military-Industrial Complex, it exposes
-    how government spending redistributes wealth from the productive median
-    population to a concentrated political elite. However, the satirical tone
-    and simplistic 'geometry' metaphors, while accessible, lack the rigorous
-    data and specific policy prescriptions needed to maximize its utility for
-    systemic change.
-  scoredAt: '2025-12-31T05:47:46.350Z'
+    The core observation—that the concentration of federal 'defense' spending
+    creates a localized wealth bubble at the expense of the rest of the
+    nation—is a profound example of wealth extraction. However, the reasoning in
+    the text relies on satirical filler (geometry, circles vs. squares) rather
+    than explaining the actual mechanisms of lobbying, revolving doors, and
+    cost-plus contracting. It identifies the 'where' but fails to rigorously
+    explain the 'how,' which limits its power to drive policy change.
+  scoredAt: '2025-12-31T06:05:08.586Z'
   model: gemini-3-flash-preview
+  length: 4462
+  imageCount: 2
 ---
 
 The four richest counties in America all surround the Pentagon. This is either a remarkable coincidence or weapons are very profitable. I checked the math.

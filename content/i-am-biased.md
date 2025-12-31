@@ -14,17 +14,20 @@ tags:
   - empiricism
   - philosophy
 aiScores:
-  quality: 7
+  quality: 6
   value: 6
+  timeliness: 9
   reasoning: >-
-    The post correctly identifies a fundamental public choice failure: the
-    misallocation of resources based on emotional salience rather than
-    statistical impact (e.g., lightning vs. pandemics). It challenges the status
-    quo of tribal signaling over empirical outcomes—a necessary prerequisite for
-    optimizing median wellbeing—though it remains slightly too abstract to
-    trigger immediate policy shifts.
-  scoredAt: '2025-12-31T05:47:28.955Z'
+    The content addresses the fundamental 'meta-problem' of policy-making:
+    tribalism and emotional bias over statistical utility. While it lacks
+    specific data or a deep dive into a single harmful policy, it exposes the
+    mechanism of resource misallocation (e.g., lightning vs. pandemics). It
+    serves as a strong intellectual framework for a 'check the numbers' approach
+    to governance, though the text cuts off abruptly at the end.
+  scoredAt: '2025-12-31T06:04:49.126Z'
   model: gemini-3-flash-preview
+  length: 2527
+  imageCount: 0
 ---
 
 # I Am Biased

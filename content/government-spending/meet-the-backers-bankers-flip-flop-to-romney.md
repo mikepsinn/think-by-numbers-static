@@ -37,15 +37,20 @@ tags:
 aiScores:
   quality: 7
   value: 8
+  timeliness: 4
   reasoning: >-
-    This post effectively illustrates regulatory capture and the 'moral hazard'
-    inherent in the 'too big to fail' doctrine. By highlighting how both major
-    party candidates received significant funding from the very institutions
-    they bailed out, it exposes the mechanism of wealth extraction from
-    taxpayers to the financial elite, which directly erodes median wealth and
-    market discipline.
-  scoredAt: '2025-12-31T05:45:35.101Z'
+    This content clearly exposes the 'Hedged Bet' mechanism used by the
+    financial elite to ensure wealth extraction regardless of which party wins.
+    By showing that the same institutions receiving taxpayer-funded bailouts
+    (TARP) were simultaneously funding both sides of the 2012 election, it
+    reveals the illusion of choice in financial regulation. However, the score
+    is lowered because the specific examples (Obama vs. Romney) are over a
+    decade old; while the principle is evergreen, the data feels like a history
+    lesson rather than an urgent 2024 warning.
+  scoredAt: '2025-12-31T06:02:45.286Z'
   model: gemini-3-flash-preview
+  length: 3979
+  imageCount: 1
 ---
 The Wall Street banks that funded Obama in 2008 switched to Romney in 2012.
 

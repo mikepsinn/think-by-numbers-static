@@ -18,18 +18,20 @@ metadata:
 tags:
   - politics
 aiScores:
-  quality: 8
+  quality: 6
   value: 7
+  timeliness: 10
   reasoning: >-
-    The post applies Public Choice Theory—specifically the concepts of Rational
-    Ignorance and Rational Abstention—to challenge the 'civic duty' status quo.
-    By highlighting the statistical insignificance of individual votes and the
-    'lesser of two evils' trap, it exposes how current democratic rituals often
-    validate subpar political actors and regulatory capture. It encourages
-    higher-information participation and warns against the misallocation of
-    individual resources (time/safety) toward ineffective political theater.
-  scoredAt: '2025-12-31T05:48:53.876Z'
+    This content challenges the 'lesser of two evils' voting trap, which is a
+    primary mechanism for systemic stagnation and wealth extraction. By shifting
+    the focus from 'strategic winning' to 'principled preference,' it encourages
+    a breakdown of the political duopoly. However, the statistical argument for
+    apathy (staying home) is a double-edged sword that can lead to lower median
+    outcomes if the most informed citizens opt out entirely.
+  scoredAt: '2025-12-31T06:06:14.365Z'
   model: gemini-3-flash-preview
+  length: 3599
+  imageCount: 0
 ---
 # Should You Vote?
 

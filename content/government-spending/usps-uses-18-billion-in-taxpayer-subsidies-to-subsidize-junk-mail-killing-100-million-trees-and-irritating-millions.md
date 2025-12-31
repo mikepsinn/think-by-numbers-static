@@ -24,18 +24,23 @@ metadata:
 tags:
   - government-spending
 aiScores:
-  quality: 9
-  value: 8
+  quality: 8
+  value: 9
+  timeliness: 7
   reasoning: >-
-    This post effectively exposes a textbook public choice failure: concentrated
-    benefits for advertisers and junk mailers at the expense of diffuse costs to
-    taxpayers and the environment. By highlighting the $143B in unfunded
-    liabilities and the 65% price distortion, it identifies a massive
-    misallocation of resources and a government-sanctioned negative externality.
-    Correcting this policy would directly increase median wealth by reducing
-    taxpayer-funded debt and improve happiness by eliminating unwanted waste.
-  scoredAt: '2025-12-31T05:46:07.488Z'
+    This content effectively exposes a 'hidden' wealth extraction mechanism: the
+    subsidization of a nuisance (junk mail) that creates massive environmental
+    externalities. By framing the USPS deficit as a direct subsidy to bulk
+    advertisers, it shifts the narrative from 'postal inefficiency' to
+    'corporate welfare.' While the specific postage rates cited ($0.55) have
+    since risen to $0.68+, the underlying principle of the 'Marketing Mail'
+    discount versus the cost of delivery remains a core driver of both postal
+    debt and environmental waste, making it highly relevant to discussions on
+    fiscal and ecological responsibility.
+  scoredAt: '2025-12-31T06:03:22.699Z'
   model: gemini-3-flash-preview
+  length: 10962
+  imageCount: 4
 ---
 As of 2020, the cost to you for a stamp is [$0.55](https://www.stamps.com/usps/current-postage-rates/). Junk mailers enjoy a 65% discount as the USPS bulk mail rate given to them is only [$0.19](https://www.themailshark.com/resources/blog/bulk-mail-postage-rates/).
 

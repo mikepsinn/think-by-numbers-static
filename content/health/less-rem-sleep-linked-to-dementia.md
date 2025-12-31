@@ -21,16 +21,21 @@ tags:
   - health
 aiScores:
   quality: 9
-  value: 8
+  value: 9
+  timeliness: 10
   reasoning: >-
-    The post effectively exposes the misallocation of societal resources by
-    contrasting free, high-impact behavioral interventions with the rent-seeking
-    pursuit of patentable pharmaceuticals. It highlights a systemic failure
-    where incentives favor expensive late-stage treatments over zero-cost
-    prevention, directly addressing a primary drain on global median wealth and
-    health.
-  scoredAt: '2025-12-31T05:46:46.476Z'
+    This content bridges a critical gap between neuroscience and personal
+    agency. It highlights a massive 'wealth extraction' mechanism: the
+    pharmaceutical industry's incentive to prioritize high-cost, late-stage
+    treatments (pills) over free, preventative behaviors (sleep). By quantifying
+    the risk (1% REM = 9% risk), it transforms a vague health suggestion into an
+    urgent, actionable data point for the reader. In an era of 'hustle culture'
+    and blue-light addiction, this is the most relevant health intervention
+    possible for preserving cognitive capital.
+  scoredAt: '2025-12-31T06:03:59.900Z'
   model: gemini-3-flash-preview
+  length: 1868
+  imageCount: 0
 ---
 People who developed dementia spent [17% of their sleep time in REM](https://www.livescience.com/60216-decreased-rem-sleep-dementia-risk.html), compared to 20% for people who didn't get dementia. That's only a 3% difference, which doesn't sound like much until you do the math.
 

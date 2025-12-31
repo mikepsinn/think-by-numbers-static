@@ -33,14 +33,21 @@ metadata:
     infographic: >-
       /assets/infographics/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
 aiScores:
-  quality: 8
+  quality: 7
   value: 8
+  timeliness: 10
   reasoning: >-
-    The writing is highly engaging and effectively simplifies complex economic
-    theories like rational ignorance and systematic bias, though the text is
-    truncated mid-sentence.
-  scoredAt: '2025-12-31T05:40:32.895Z'
+    This content exposes the 'rational irrationality' trap—the mechanism by
+    which democracy often produces suboptimal economic outcomes because
+    individual voters bear no cost for being wrong. By identifying make-work and
+    anti-foreign biases, it highlights why the public frequently supports
+    policies that decrease median wealth (e.g., protectionism and Luddism). It
+    is highly relevant today as global economies grapple with automation and
+    shifting trade alliances.
+  scoredAt: '2025-12-31T06:08:52.604Z'
   model: gemini-3-flash-preview
+  length: 8305
+  imageCount: 0
 ---
 Your vote in a presidential election has approximately the same probability of changing the outcome as winning the lottery seven times in a row, being struck by lightning twice, and getting a royal flush in poker - all on the same day.
 

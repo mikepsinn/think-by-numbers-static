@@ -160,7 +160,13 @@ module.exports = function(eleventyConfig) {
         return false;
       })
       .sort((a, b) => {
-        // Sort by date (newest first)
+        // Sort by composite AI score (highest first), fallback to date
+        const scoreA = a.data.aiScores?.composite || 0;
+        const scoreB = b.data.aiScores?.composite || 0;
+        if (scoreB !== scoreA) {
+          return scoreB - scoreA;
+        }
+        // If scores are equal, sort by date (newest first)
         return b.date - a.date;
       });
   });

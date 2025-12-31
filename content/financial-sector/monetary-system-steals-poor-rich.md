@@ -31,15 +31,19 @@ tags:
 aiScores:
   quality: 8
   value: 9
+  timeliness: 10
   reasoning: >-
-    The post exposes the Cantillon effect, a core mechanism of systemic wealth
-    extraction where monetary expansion benefits early recipients
-    (banks/government) at the expense of the poor whose purchasing power is
-    debased. Highlighting this hidden regressive tax is essential for
-    dismantling the institutionalized misallocation of resources and protecting
-    median wealth.
-  scoredAt: '2025-12-31T05:44:17.747Z'
+    This content addresses the 'Cantillon Effect'—the mechanism where those
+    closest to the money creation source (banks and government) benefit from new
+    capital before it devalues the currency in the broader economy. In an era of
+    record-high sovereign debt and persistent inflation, understanding that
+    inflation is a regressive tax on labor and a subsidy for asset holders is
+    the most critical step for the median individual to protect their wealth. It
+    exposes the core engine of modern wealth inequality.
+  scoredAt: '2025-12-31T06:01:15.617Z'
   model: gemini-3-flash-preview
+  length: 509
+  imageCount: 0
 ---
 Required viewing for anyone who does not yet understand the complicated mechanism by which the banking system transfers wealth from those at the bottom to those at the top.
 
