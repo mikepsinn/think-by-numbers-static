@@ -3,9 +3,11 @@ title: How To Calculate Morality Using The Utilitarian Calculator
 authors: []
 date: 2012-11-26T03:50:41.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2012/11/felicific-calculus.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2012/11/felicific-calculus.jpg'
   media:
     featuredImage: /wp-content/uploads/2012/11/felicific-calculus.jpg
+    ogImage: /assets/og-images/empiricism-2/felicific-calculus.png
+    infographic: /assets/infographics/empiricism-2/felicific-calculus.png
   categories:
     - Empiricism
     - Utilitarianism
@@ -13,9 +15,9 @@ metadata:
     - economics
     - felicific calculus
     - utilitarianism
-  uuid: 11ty/import::wordpress::http://crowdsourcingutopia.com/?p=53
+  uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/?p=53'
   type: wordpress
-  url: https://thinkbynumbers.org/empiricism-2/felicific-calculus/
+  url: 'https://thinkbynumbers.org/empiricism-2/felicific-calculus/'
 tags:
   - empiricism
   - utilitarianism

@@ -1,15 +1,22 @@
 ---
 title: The Encyclopedia of World Problems and Human Potential
-description: 50,000 organizations solve poverty using different definitions. Database maps how fixing one problem creates three new ones. It's free.
+description: >-
+  50,000 organizations solve poverty using different definitions. Database maps
+  how fixing one problem creates three new ones. It's free.
 authors: []
 date: 2012-11-26T20:57:01.000Z
 metadata:
   categories:
     - Tools
-  uuid: 11ty/import::wordpress::http://crowdsourcingutopia.com/?p=64
+  uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/?p=64'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/tools/the-encyclopedia-of-world-problems-and-human-potential/
+  media:
+    ogImage: >-
+      /assets/og-images/tools/the-encyclopedia-of-world-problems-and-human-potential.png
+    infographic: >-
+      /assets/infographics/tools/the-encyclopedia-of-world-problems-and-human-potential.png
 tags:
   - tools
 ---

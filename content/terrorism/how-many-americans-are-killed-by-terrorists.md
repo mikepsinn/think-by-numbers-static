@@ -7,9 +7,13 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2019/05/fatalities-from-terrorism.png
   media:
     featuredImage: /wp-content/uploads/2019/05/fatalities-from-terrorism.png
+    ogImage: >-
+      /assets/og-images/terrorism/how-many-americans-are-killed-by-terrorists.png
+    infographic: >-
+      /assets/infographics/terrorism/how-many-americans-are-killed-by-terrorists.png
   categories:
     - Terrorism
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9571
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9571'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/terrorism/how-many-americans-are-killed-by-terrorists/

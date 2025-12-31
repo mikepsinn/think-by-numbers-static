@@ -1,6 +1,8 @@
 ---
 title: How much do we spend on the military?
-description: US military spending 1914-2007. Countries spend trillions preparing to kill each other, then kill each other, then prepare again. Beautiful cycle.
+description: >-
+  US military spending 1914-2007. Countries spend trillions preparing to kill
+  each other, then kill each other, then prepare again. Beautiful cycle.
 authors: []
 date: 2019-05-08T03:17:34.000Z
 metadata:
@@ -9,10 +11,14 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2019/05/military-expenditure-by-country-in-thousands-of-2000-us-dollars.png
+    ogImage: >-
+      /assets/og-images/government-spending/how-much-do-we-spend-on-the-military.png
+    infographic: >-
+      /assets/infographics/government-spending/how-much-do-we-spend-on-the-military.png
   categories:
     - Government Spending
     - Military
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9561
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9561'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/how-much-do-we-spend-on-the-military/

@@ -1,6 +1,8 @@
 ---
 title: What Would Have Happened If We Let AIG Fail?
-description: AIG bailout cost $2,000 per household. Goldman gave Obama $43 million, got billions back. Like ordering bottle service except you weren't at club.
+description: >-
+  AIG bailout cost $2,000 per household. Goldman gave Obama $43 million, got
+  billions back. Like ordering bottle service except you weren't at club.
 authors: []
 date: 2009-04-13T22:29:00.000Z
 metadata:
@@ -8,6 +10,10 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2009/04/featured-image-aig-bailout-infographic.jpg
   media:
     featuredImage: /wp-content/uploads/2009/04/featured-image-aig-bailout-infographic.jpg
+    ogImage: >-
+      /assets/og-images/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail.png
+    infographic: >-
+      /assets/infographics/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail.png
   categories:
     - Corporate Welfare
   tags:
@@ -16,7 +22,7 @@ metadata:
     - credit default swap
     - subsidies
     - wall st
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=13
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=13'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail/

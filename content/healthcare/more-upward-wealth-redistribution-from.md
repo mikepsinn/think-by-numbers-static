@@ -1,12 +1,16 @@
 ---
-title: Government Pays Doctors $44,000 to Use an iPad
-description: Government gave doctors earning $200k up to $44k for iPads costing $500. Took taxes from staff making $25/hour who then lost jobs to the technology.
+title: 'Government Pays Doctors $44,000 to Use an iPad'
+description: >-
+  Government gave doctors earning $200k up to $44k for iPads costing $500. Took
+  taxes from staff making $25/hour who then lost jobs to the technology.
 authors: []
 date: 2011-08-06T04:57:00.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph.jpg'
   media:
     featuredImage: /wp-content/uploads/2011/08/Doctor-Ipad-Graph.jpg
+    ogImage: /assets/og-images/healthcare/more-upward-wealth-redistribution-from.png
+    infographic: /assets/infographics/healthcare/more-upward-wealth-redistribution-from.png
   categories:
     - Corporate Welfare
     - Healthcare
@@ -19,7 +23,7 @@ metadata:
     - subsidies
     - technology
     - wealth redistribution
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=18
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=18'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/healthcare/more-upward-wealth-redistribution-from/

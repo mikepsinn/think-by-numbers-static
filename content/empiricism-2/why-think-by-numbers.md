@@ -7,11 +7,13 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2011/09/The-Triune-Brain-Final-web.jpg
   media:
     featuredImage: /wp-content/uploads/2011/09/The-Triune-Brain-Final-web.jpg
+    ogImage: /assets/og-images/empiricism-2/why-think-by-numbers.png
+    infographic: /assets/infographics/empiricism-2/why-think-by-numbers.png
   categories:
     - Empiricism
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8476
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8476'
   type: wordpress
-  url: https://thinkbynumbers.org/empiricism-2/why-think-by-numbers/
+  url: 'https://thinkbynumbers.org/empiricism-2/why-think-by-numbers/'
 tags:
   - empiricism
 ---

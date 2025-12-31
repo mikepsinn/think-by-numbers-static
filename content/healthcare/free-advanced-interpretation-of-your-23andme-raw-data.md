@@ -1,18 +1,24 @@
 ---
 title: Free Advanced Interpretation of Your 23andMe Raw Data
-description: FDA restricted what 23andMe tells you about your DNA. Takes doctors 17 years to use new genetic research. Free tools interpret your data now.
+description: >-
+  FDA restricted what 23andMe tells you about your DNA. Takes doctors 17 years
+  to use new genetic research. Free tools interpret your data now.
 authors: []
 date: 2019-07-07T23:58:16.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2019/07/dna.png
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2019/07/dna.png'
   media:
     featuredImage: /wp-content/uploads/2019/07/dna.png
+    ogImage: >-
+      /assets/og-images/healthcare/free-advanced-interpretation-of-your-23andme-raw-data.png
+    infographic: >-
+      /assets/infographics/healthcare/free-advanced-interpretation-of-your-23andme-raw-data.png
   categories:
     - Healthcare
   tags:
     - 23andMe
     - free genetic interpretation tools
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9654
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9654'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/healthcare/free-advanced-interpretation-of-your-23andme-raw-data/

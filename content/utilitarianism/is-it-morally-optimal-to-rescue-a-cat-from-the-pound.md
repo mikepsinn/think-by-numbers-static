@@ -3,14 +3,16 @@ title: Is it morally optimal to rescue a cat from the pound?
 authors: []
 date: 2020-05-23T14:40:10.000Z
 metadata:
-  featuredImage: >-
-    https://thinkbynumbers.org/wp-content/uploads/2024/05/cat-rescue-ethics.webp
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2024/05/cat-rescue-ethics.webp'
   media:
-    featuredImage: >-
-      /wp-content/uploads/2024/05/cat-rescue-ethics.webp
+    featuredImage: /wp-content/uploads/2024/05/cat-rescue-ethics.webp
+    ogImage: >-
+      /assets/og-images/utilitarianism/is-it-morally-optimal-to-rescue-a-cat-from-the-pound.png
+    infographic: >-
+      /assets/infographics/utilitarianism/is-it-morally-optimal-to-rescue-a-cat-from-the-pound.png
   categories:
     - Utilitarianism
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10728
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10728'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/utilitarianism/is-it-morally-optimal-to-rescue-a-cat-from-the-pound/

@@ -1,18 +1,22 @@
 ---
 title: $1.5 Trillion Has Been Wasted on a Drug War that Hasn't Even Reduced Drug Use
-description: $1.5 trillion spent on drug war enforcement with zero change in addiction rates. Like paying someone $10 billion yearly to not do their job.
+description: >-
+  $1.5 trillion spent on drug war enforcement with zero change in addiction
+  rates. Like paying someone $10 billion yearly to not do their job.
 authors: []
 date: 2013-04-05T02:01:10.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif'
   media:
     featuredImage: /wp-content/uploads/2013/04/image_gallery.gif
+    ogImage: /assets/og-images/drug-war/drug-war-statistics.png
+    infographic: /assets/infographics/drug-war/drug-war-statistics.png
   categories:
     - Drug War
     - Government Spending
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8293
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8293'
   type: wordpress
-  url: https://thinkbynumbers.org/drug-war/drug-war-statistics/
+  url: 'https://thinkbynumbers.org/drug-war/drug-war-statistics/'
 tags:
   - drug-war
   - government-spending

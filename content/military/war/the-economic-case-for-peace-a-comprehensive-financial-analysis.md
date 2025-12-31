@@ -1,12 +1,18 @@
 ---
-title: War Costs the Average Person $74,259 Over Their Lifetime
-description: War costs you $74,259 in lifetime taxes. That's a car's worth of money spent on bombs instead of things that don't explode people.
+title: 'War Costs the Average Person $74,259 Over Their Lifetime'
+description: >-
+  War costs you $74,259 in lifetime taxes. That's a car's worth of money spent
+  on bombs instead of things that don't explode people.
 authors: []
 date: 2024-03-14T05:23:52.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2024/03/world-without-war.png
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2024/03/world-without-war.png'
   media:
     featuredImage: /wp-content/uploads/2024/03/world-without-war.png
+    ogImage: >-
+      /assets/og-images/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis.png
+    infographic: >-
+      /assets/infographics/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis.png
   categories:
     - War
   tags:
@@ -15,7 +21,7 @@ metadata:
     - military spending
     - Peace Studies
     - Public Health
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10700
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10700'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis/

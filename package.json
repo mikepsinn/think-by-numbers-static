@@ -10,7 +10,8 @@
     "clean": "npx rimraf _site",
     "generate-images": "tsx scripts/generate-project-images.ts",
     "generate-images:file": "tsx scripts/generate-project-images.ts",
-    "generate-checklist": "tsx scripts/generate-post-checklist.ts"
+    "generate-checklist": "tsx scripts/generate-post-checklist.ts",
+    "prepare": "husky || true"
   },
   "keywords": [
     "eleventy",
@@ -29,6 +30,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@types/node": "^22.10.2",
+    "husky": "^9.1.7",
     "luxon": "^3.4.4",
     "pagefind": "^1.0.4",
     "rimraf": "^5.0.5",

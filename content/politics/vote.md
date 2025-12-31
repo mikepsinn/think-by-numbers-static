@@ -2,16 +2,19 @@
 title: There's a 0.00001% Chance that Your Vote Will Matter
 authors: []
 date: 2014-11-05T05:17:16.000Z
-description: Your vote has 0.00001% chance of mattering. Car accident driving to polls has 0.002% chance. You're 200X more likely to get injured than change outcome.
+description: >-
+  Your vote has 0.00001% chance of mattering. Car accident driving to polls has
+  0.002% chance. You're 200X more likely to get injured than change outcome.
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2014/11/vote-button-495.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2014/11/vote-button-495.jpg'
   media:
     featuredImage: /wp-content/uploads/2014/11/vote-button-495.jpg
+    infographic: /assets/infographics/politics/vote.png
   categories:
     - Politics
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8707
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8707'
   type: wordpress
-  url: https://thinkbynumbers.org/politics/vote/
+  url: 'https://thinkbynumbers.org/politics/vote/'
 tags:
   - politics
 ---

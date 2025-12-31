@@ -1,6 +1,8 @@
 ---
 title: GOP Presidential Candidates' Budget Plans EXPOSED!!!
-description: Ron Paul proposed $1 trillion cuts. Romney, Gingrich, Cain only $20 billion each. Real inflation 10% not 3.5%. Hidden tax hits hardest.
+description: >-
+  Ron Paul proposed $1 trillion cuts. Romney, Gingrich, Cain only $20 billion
+  each. Real inflation 10% not 3.5%. Hidden tax hits hardest.
 authors: []
 date: 2011-11-07T00:52:13.000Z
 metadata:
@@ -9,6 +11,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2011/11/Budget-spending-cuts-by-GOP-Republican-presidential-primary-candidates-2012-infographic.jpg
+    infographic: >-
+      /assets/infographics/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared.png
   categories:
     - Government Spending
     - Podcast
@@ -35,7 +39,7 @@ metadata:
     - slider
     - spending cut
     - taxpayer
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1123
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1123'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/spending-cuts-budget-2012-republican-primary-candidates-compared/

@@ -2,14 +2,21 @@
 title: Has political power become more decentralized over time?
 authors: []
 date: 2019-05-19T02:10:56.000Z
-description: Democracies doubled, autocracies halved in 60 years. Progress measured by fewer countries where one person decides if you die. Bar is underground.
+description: >-
+  Democracies doubled, autocracies halved in 60 years. Progress measured by
+  fewer countries where one person decides if you die. Bar is underground.
 metadata:
   categories:
     - Politics
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9607
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9607'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/politics/has-political-power-become-more-decentralized-over-time/
+  media:
+    ogImage: >-
+      /assets/og-images/politics/has-political-power-become-more-decentralized-over-time.png
+    infographic: >-
+      /assets/infographics/politics/has-political-power-become-more-decentralized-over-time.png
 tags:
   - politics
 ---

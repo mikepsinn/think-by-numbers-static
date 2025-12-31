@@ -1,10 +1,15 @@
 ---
-title: "Terms of Service"
-description: "Your comment cookies last one year. Your embedded content tracks you forever. The math on privacy is technically depressing."
-date: 2024-12-25
+title: Terms of Service
+description: >-
+  Your comment cookies last one year. Your embedded content tracks you forever.
+  The math on privacy is technically depressing.
+date: 2024-12-25T00:00:00.000Z
 type: page
 metadata:
-  url: https://thinkbynumbers.org/terms-of-service/
+  url: 'https://thinkbynumbers.org/terms-of-service/'
+  media:
+    ogImage: /assets/og-images/terms-of-service.png
+    infographic: /assets/infographics/terms-of-service.png
 ---
 
 # Terms of Service – Think by Numbers

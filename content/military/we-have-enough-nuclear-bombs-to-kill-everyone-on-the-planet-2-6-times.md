@@ -1,19 +1,25 @@
 ---
 title: We Have Enough Nuclear Bombs to Kill EVERYONE 130 Times
-description: 15,000 nuclear weapons can kill everyone 2.6 times. After the first death, you're just showing off with expensive redundancy.
+description: >-
+  15,000 nuclear weapons can kill everyone 2.6 times. After the first death,
+  you're just showing off with expensive redundancy.
 authors: []
 date: 2020-02-08T06:34:05.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2020/02/nuclear-bombs.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2020/02/nuclear-bombs.jpg'
   media:
     featuredImage: /wp-content/uploads/2020/02/nuclear-bombs.jpg
+    ogImage: >-
+      /assets/og-images/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times.png
+    infographic: >-
+      /assets/infographics/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times.png
   categories:
     - Military
   tags:
     - military spending
     - nuclear weapons
     - war
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=2263
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=2263'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times/

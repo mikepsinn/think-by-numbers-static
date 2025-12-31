@@ -2,18 +2,25 @@
 title: How to Identify the Bottom of a Stock Market Correction
 authors: []
 date: 2020-04-08T02:46:16.000Z
-description: Stock prices follow profits until positive feedback loops create bubbles. More buyers raise prices, higher prices attract more buyers. Then the music stops and someone's holding the bag.
+description: >-
+  Stock prices follow profits until positive feedback loops create bubbles. More
+  buyers raise prices, higher prices attract more buyers. Then the music stops
+  and someone's holding the bag.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/04/sp-500-vs-corporate-profits-after-tax-2020-1.png
   media:
     featuredImage: >-
       /wp-content/uploads/2020/04/sp-500-vs-corporate-profits-after-tax-2020-1.png
+    ogImage: >-
+      /assets/og-images/economics/how-to-identify-the-bottom-of-a-stock-market-correction.png
+    infographic: >-
+      /assets/infographics/economics/how-to-identify-the-bottom-of-a-stock-market-correction.png
   categories:
     - Economics
   tags:
     - economics
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9718
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9718'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/economics/how-to-identify-the-bottom-of-a-stock-market-correction/

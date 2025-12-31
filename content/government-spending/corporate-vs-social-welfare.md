@@ -2,7 +2,9 @@
 title: >-
   Government Spends More on Corporate Welfare Subsidies than Social Welfare
   Programs
-description: US spends $92 billion on corporate welfare vs $59 billion on food stamps. CEOs need help buying medium-sized yachts apparently.
+description: >-
+  US spends $92 billion on corporate welfare vs $59 billion on food stamps. CEOs
+  need help buying medium-sized yachts apparently.
 authors: []
 date: 2011-03-07T03:03:00.000Z
 metadata:
@@ -10,14 +12,16 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2008/03/corporate-welfare-piggy-bank-thumb-150x150.jpg
   media:
     featuredImage: /wp-content/uploads/2008/03/corporate-welfare-piggy-bank-thumb-150x150.jpg
+    ogImage: /assets/og-images/government-spending/corporate-vs-social-welfare.png
+    infographic: /assets/infographics/government-spending/corporate-vs-social-welfare.png
   categories:
     - Government Spending
   tags:
     - corporate welfare
     - Government Spending
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=5
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=5'
   type: wordpress
-  url: https://thinkbynumbers.org/government-spending/corporate-vs-social-welfare/
+  url: 'https://thinkbynumbers.org/government-spending/corporate-vs-social-welfare/'
 tags:
   - government-spending
 ---

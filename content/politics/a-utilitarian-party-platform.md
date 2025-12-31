@@ -2,13 +2,18 @@
 title: A Utilitarian Party Platform
 authors: []
 date: 2013-03-09T19:13:30.000Z
-description: Political platform asks "what if you tried helping people instead of signaling tribal affiliation?" Uses third-grade math. Revolutionary, apparently.
+description: >-
+  Political platform asks "what if you tried helping people instead of signaling
+  tribal affiliation?" Uses third-grade math. Revolutionary, apparently.
 metadata:
   categories:
     - Politics
-  uuid: 11ty/import::wordpress::http://crowdsourcingutopia.com/blog/?p=242
+  uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/blog/?p=242'
   type: wordpress
-  url: https://thinkbynumbers.org/politics/a-utilitarian-party-platform/
+  url: 'https://thinkbynumbers.org/politics/a-utilitarian-party-platform/'
+  media:
+    ogImage: /assets/og-images/politics/a-utilitarian-party-platform.png
+    infographic: /assets/infographics/politics/a-utilitarian-party-platform.png
 tags:
   - politics
 ---

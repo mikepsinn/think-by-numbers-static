@@ -71,21 +71,20 @@ async function generateImagesForPost(
   let ogImagePath: string | null = null;
   let infographicImagePath: string | null = null;
 
-  // Extract excerpt for image generation prompt (first 500 chars of content)
-  const excerpt = body
+  // Clean the full post content for image generation prompt
+  const cleanedContent = body
     .replace(/<[^>]+>/g, '') // Remove HTML tags
     .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1') // Remove markdown links, keep text
     .replace(/!\[([^\]]*)\]\([^)]+\)/g, '') // Remove images
     .replace(/\s+/g, ' ') // Normalize whitespace
-    .trim()
-    .substring(0, 500);
+    .trim();
 
   // Generate OG image (optimized for social media thumbnails)
   if (!hasOgImage || forceRegenerate) {
     console.log(`  Generating OG image (social media optimized)...`);
     const ogPrompt = `Create fun retro scientific black and white image illustrating the following content "${frontmatter.title}".
 
-Article summary: ${excerpt}
+Full article content: ${cleanedContent}
 
 `;
 
@@ -113,17 +112,11 @@ Article summary: ${excerpt}
     console.log(`  Generating infographic (detailed)...`);
     const infographicPrompt = `Create a detailed infographic for an article titled "${frontmatter.title}".
 
-Style: Classic black and white design with serif fonts (like Crimson Text or Baskerville), minimal and academic aesthetic, similar to Benjamin Franklin era publications.
+Style: Fun black and white scientific illustration style.
 
-Article summary: ${excerpt}
+Full article content: ${cleanedContent}
 
-Important:
-- Visualize the key data or concepts from the article
-- Use charts, graphs, or diagrams where appropriate
-- Black and white only
-- Clean, timeless design
-- Large, readable text
-- No photos of people`;
+`;
 
     try {
       const infographicFiles = await generateAndSaveImages({

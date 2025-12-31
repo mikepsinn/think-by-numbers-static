@@ -3,9 +3,13 @@ title: Zombie Companies Will Lead to America's Lost Decade
 authors: []
 date: 2021-09-21T06:42:10.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2021/09/ScreenClip.png
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2021/09/ScreenClip.png'
   media:
     featuredImage: /wp-content/uploads/2021/09/ScreenClip.png
+    ogImage: >-
+      /assets/og-images/federal-reserve/zombie-companies-will-lead-to-americas-lost-decade.png
+    infographic: >-
+      /assets/infographics/federal-reserve/zombie-companies-will-lead-to-americas-lost-decade.png
   categories:
     - Federal Reserve
   tags:
@@ -13,7 +17,7 @@ metadata:
     - inflation
     - investing
     - money supply
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10416
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10416'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/federal-reserve/zombie-companies-will-lead-to-americas-lost-decade/

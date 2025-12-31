@@ -1,6 +1,8 @@
 ---
 title: What is the cause of the opioid crisis?
-description: Opioid deaths increased 1,000% while meth deaths rose 5,105% and cocaine 670%. Government blames drugs, ignores untreated mental illness epidemic.
+description: >-
+  Opioid deaths increased 1,000% while meth deaths rose 5,105% and cocaine 670%.
+  Government blames drugs, ignores untreated mental illness epidemic.
 authors: []
 date: 2019-05-25T04:16:02.000Z
 metadata:
@@ -8,6 +10,8 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2019/05/DEA_topper-extend-scaled.jpg
   media:
     featuredImage: /wp-content/uploads/2019/05/DEA_topper-extend-scaled.jpg
+    ogImage: /assets/og-images/drug-war/what-is-the-cause-of-the-opioid-crisis-2.png
+    infographic: /assets/infographics/drug-war/what-is-the-cause-of-the-opioid-crisis-2.png
   categories:
     - Drug War
   tags:

@@ -3,16 +3,18 @@ title: How much of our DNA is useless junk?
 authors: []
 date: 2019-06-23T00:03:46.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2019/07/dna.png
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2019/07/dna.png'
   media:
     featuredImage: /wp-content/uploads/2019/07/dna.png
+    ogImage: /assets/og-images/science/how-much-of-our-dna-is-useless-junk.png
+    infographic: /assets/infographics/science/how-much-of-our-dna-is-useless-junk.png
   categories:
     - Science
   tags:
     - dna
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9627
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9627'
   type: wordpress
-  url: https://thinkbynumbers.org/science/how-much-of-our-dna-is-useless-junk/
+  url: 'https://thinkbynumbers.org/science/how-much-of-our-dna-is-useless-junk/'
 tags:
   - science
 ---

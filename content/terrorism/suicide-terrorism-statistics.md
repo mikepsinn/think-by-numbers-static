@@ -8,6 +8,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2012/01/tbn-think-by-numbers-infographic-intervention-increases-terrorism-960-320.png
+    ogImage: /assets/og-images/terrorism/suicide-terrorism-statistics.png
+    infographic: /assets/infographics/terrorism/suicide-terrorism-statistics.png
   categories:
     - Terrorism
   tags:
@@ -22,9 +24,9 @@ metadata:
     - terrorist attacks
     - The Strategic Logic of Suicide Terrorism
     - war
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=992
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=992'
   type: wordpress
-  url: https://thinkbynumbers.org/terrorism/suicide-terrorism-statistics/
+  url: 'https://thinkbynumbers.org/terrorism/suicide-terrorism-statistics/'
 tags:
   - terrorism
 ---

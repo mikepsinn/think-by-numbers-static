@@ -1,6 +1,9 @@
 ---
 title: Obama to cut deficit in half... After quadrupling it.
-description: Obama quadrupled deficit to $2 trillion, then cut to $533 billion. Media called it fiscal responsibility. Like setting house on fire then putting out half.
+description: >-
+  Obama quadrupled deficit to $2 trillion, then cut to $533 billion. Media
+  called it fiscal responsibility. Like setting house on fire then putting out
+  half.
 authors: []
 date: 2009-03-08T04:27:00.000Z
 metadata:
@@ -8,9 +11,13 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2009/03/Obama-to-cut-deficit-in-half.jpg
   media:
     featuredImage: /wp-content/uploads/2009/03/Obama-to-cut-deficit-in-half.jpg
+    ogImage: >-
+      /assets/og-images/government-spending/obama-to-cut-deficit-in-half-after.png
+    infographic: >-
+      /assets/infographics/government-spending/obama-to-cut-deficit-in-half-after.png
   categories:
     - Government Spending
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=8
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=8'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/obama-to-cut-deficit-in-half-after/

@@ -2,14 +2,20 @@
 title: It Takes 3.5% of the Population to Change the World
 authors: []
 date: 2025-01-17T09:53:43.000Z
-description: Harvard study shows 3.5% active participation changes society. Not clicking "like." Actual showing up. Your government publishes the percentage needed.
+description: >-
+  Harvard study shows 3.5% active participation changes society. Not clicking
+  "like." Actual showing up. Your government publishes the percentage needed.
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2025/01/change-the-world.webp
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2025/01/change-the-world.webp'
   media:
     featuredImage: /wp-content/uploads/2025/01/change-the-world.webp
+    ogImage: >-
+      /assets/og-images/politics/it-takes-3-5-of-the-population-to-change-the-world.png
+    infographic: >-
+      /assets/infographics/politics/it-takes-3-5-of-the-population-to-change-the-world.png
   categories:
     - Politics
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10786
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10786'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/politics/it-takes-3-5-of-the-population-to-change-the-world/

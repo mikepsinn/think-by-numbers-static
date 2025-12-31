@@ -2,7 +2,9 @@
 title: >-
   Governments Spend $1.8 Trillion Murdering Us and Destroying Our Property
   Annually
-description: $1.8 trillion global military spending vs $100 million brain research. Chart required 17,000 pixels high to show military spending properly.
+description: >-
+  $1.8 trillion global military spending vs $100 million brain research. Chart
+  required 17,000 pixels high to show military spending properly.
 authors: []
 date: 2013-04-06T03:53:44.000Z
 metadata:
@@ -11,12 +13,13 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2013/04/Cropped-Priorities-Money-Spent-on-War-Sports-Neuroscience-Cancer-Research-Graph-Think-by-Numbers.png
+    infographic: /assets/infographics/government-spending/military-spending.png
   categories:
     - Government Spending
     - Military
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8255
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8255'
   type: wordpress
-  url: https://thinkbynumbers.org/government-spending/military-spending/
+  url: 'https://thinkbynumbers.org/government-spending/military-spending/'
 tags:
   - government-spending
   - military

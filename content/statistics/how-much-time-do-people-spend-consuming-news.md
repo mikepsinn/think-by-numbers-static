@@ -7,11 +7,13 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2020/08/pexels-photo-3278364.jpeg
   media:
     featuredImage: /wp-content/uploads/2020/08/pexels-photo-3278364.jpeg
+    infographic: >-
+      /assets/infographics/statistics/how-much-time-do-people-spend-consuming-news.png
   categories:
     - Statistics
   tags:
     - news consumption
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9591
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9591'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/statistics/how-much-time-do-people-spend-consuming-news/

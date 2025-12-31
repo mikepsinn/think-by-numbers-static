@@ -3,9 +3,13 @@ title: A More Progressive Tax System Makes People Happier
 authors: []
 date: 2011-09-09T03:49:26.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/09/SmileyMoneyFace.jpg'
   media:
     featuredImage: /wp-content/uploads/2011/09/SmileyMoneyFace.jpg
+    ogImage: >-
+      /assets/og-images/taxes/a-more-progressive-tax-system-makes-people-happier.png
+    infographic: >-
+      /assets/infographics/taxes/a-more-progressive-tax-system-makes-people-happier.png
   categories:
     - Taxes
   tags:
@@ -13,7 +17,7 @@ metadata:
     - government
     - Government Spending
     - happiness
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=249
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=249'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/taxes/a-more-progressive-tax-system-makes-people-happier/

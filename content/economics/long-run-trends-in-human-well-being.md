@@ -2,17 +2,22 @@
 title: Long-Term Trends in Human Well-Being
 authors: []
 date: 2020-04-02T05:56:11.000Z
-description: For 10,000 years life expectancy was 28 and GDP was $100. Around 1800 both went vertical. Humanity spent 10,000 years in tutorial mode then someone pressed start.
+description: >-
+  For 10,000 years life expectancy was 28 and GDP was $100. Around 1800 both
+  went vertical. Humanity spent 10,000 years in tutorial mode then someone
+  pressed start.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/04/trends-in-human-well-being.png
   media:
     featuredImage: /wp-content/uploads/2020/04/trends-in-human-well-being.png
+    ogImage: /assets/og-images/economics/long-run-trends-in-human-well-being.png
+    infographic: /assets/infographics/economics/long-run-trends-in-human-well-being.png
   categories:
     - Economics
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9700
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9700'
   type: wordpress
-  url: https://thinkbynumbers.org/economics/long-run-trends-in-human-well-being/
+  url: 'https://thinkbynumbers.org/economics/long-run-trends-in-human-well-being/'
 tags:
   - economics
 ---

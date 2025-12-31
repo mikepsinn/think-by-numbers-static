@@ -30,6 +30,23 @@ When highlighting economic absurdity:
 
 **The #1 Goal: Make writing FUNNIER**
 
+## Meta Descriptions (150 chars max)
+
+**Formula: SHOCKING FACT/NUMBER + ABSURD OBSERVATION**
+
+Must include:
+1. **The specific number/stat** that makes the article clickable
+2. **Searchable keywords** - topic must be immediately clear
+3. **One concrete absurdity** - specific, not philosophical
+
+Test: After reading, can someone answer "What surprising fact will I learn?" and "Is this about [topic]?"
+
+Avoid:
+- Vague observations without specifics
+- Overusing "papers/dead presidents" (sparingly)
+- Abstract philosophy
+- Hiding the content behind the joke
+
 # Images
 
 Do not remove any images or charts or important math or anything! 

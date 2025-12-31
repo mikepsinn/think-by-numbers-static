@@ -4,12 +4,18 @@ title: >-
   Millionaires
 authors: []
 date: 2011-10-21T08:32:19.000Z
-description: Half of Congress are millionaires vs 1% of population. When representatives are 50X wealthier than you, they represent millionaires. Shocking discovery.
+description: >-
+  Half of Congress are millionaires vs 1% of population. When representatives
+  are 50X wealthier than you, they represent millionaires. Shocking discovery.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2011/10/Unrepresentative-Democracy-e1319168693378.jpg
   media:
     featuredImage: /wp-content/uploads/2011/10/Unrepresentative-Democracy-e1319168693378.jpg
+    ogImage: >-
+      /assets/og-images/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires.png
+    infographic: >-
+      /assets/infographics/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires.png
   categories:
     - Democracy
   tags:
@@ -19,7 +25,7 @@ metadata:
     - economics
     - millionaires in congress
     - salaries congress
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=950
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=950'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires/

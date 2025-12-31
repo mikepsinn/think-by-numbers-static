@@ -1,6 +1,8 @@
 ---
 title: Only 0.000000002% of Potential Treatments Have Been Studied
-description: Only 21,000 of 1.162 quadrillion possible drug combinations tested. Would take 3.2 billion years at current pace. Earth is 4.5 billion years old.
+description: >-
+  Only 21,000 of 1.162 quadrillion possible drug combinations tested. Would take
+  3.2 billion years at current pace. Earth is 4.5 billion years old.
 authors: []
 date: 2022-03-24T05:55:19.000Z
 metadata:
@@ -8,11 +10,15 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2022/03/how-much-we-know-numbers.png
   media:
     featuredImage: /wp-content/uploads/2022/03/how-much-we-know-numbers.png
+    ogImage: >-
+      /assets/og-images/health/only-0-000000002-of-potential-treatments-have-been-studied.png
+    infographic: >-
+      /assets/infographics/health/only-0-000000002-of-potential-treatments-have-been-studied.png
   categories:
     - Health
   tags:
     - clinical research
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10432
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10432'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/health/only-0-000000002-of-potential-treatments-have-been-studied/

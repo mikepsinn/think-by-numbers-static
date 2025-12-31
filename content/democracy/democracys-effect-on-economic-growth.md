@@ -1,22 +1,26 @@
 ---
-title: Democracy Gonna Make You Rich, Bitch!
+title: 'Democracy Gonna Make You Rich, Bitch!'
 authors: []
 date: 2020-09-15T05:09:31.000Z
-description: Democracy increases GDP 20% over 30 years. Only get-rich-quick scheme that works. Like compound interest except voting rights make money somehow.
+description: >-
+  Democracy increases GDP 20% over 30 years. Only get-rich-quick scheme that
+  works. Like compound interest except voting rights make money somehow.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/09/Country-based-correlation-scatter-plot-for-log-GDP-per-capita-and-Democracy-for-the-year.png
   media:
     featuredImage: >-
       /wp-content/uploads/2020/09/Country-based-correlation-scatter-plot-for-log-GDP-per-capita-and-Democracy-for-the-year.png
+    ogImage: /assets/og-images/democracy/democracys-effect-on-economic-growth.png
+    infographic: /assets/infographics/democracy/democracys-effect-on-economic-growth.png
   categories:
     - Democracy
   tags:
     - democracy
     - democracy and economic growth
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10000
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10000'
   type: wordpress
-  url: https://thinkbynumbers.org/democracy/democracys-effect-on-economic-growth/
+  url: 'https://thinkbynumbers.org/democracy/democracys-effect-on-economic-growth/'
 tags:
   - democracy
 ---

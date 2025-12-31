@@ -2,12 +2,16 @@
 title: Most Voters Believe Their Own Party Will Win
 authors: []
 date: 2020-08-29T03:25:00.000Z
-description: 87% of Democrats and 62% of Republicans both predicted they'd win same election. Math doesn't work. Brain lies to you wearing statistics costume.
+description: >-
+  87% of Democrats and 62% of Republicans both predicted they'd win same
+  election. Math doesn't work. Brain lies to you wearing statistics costume.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/08/wishful-thinking-bias-in-voters-chart.png
   media:
     featuredImage: /wp-content/uploads/2020/08/wishful-thinking-bias-in-voters-chart.png
+    infographic: >-
+      /assets/infographics/politics/most-voters-believe-their-own-party-will-win.png
   categories:
     - Politics
   tags:
@@ -15,7 +19,7 @@ metadata:
     - voter bias
     - voting
     - wishful thinking bias
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9981
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9981'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/politics/most-voters-believe-their-own-party-will-win/

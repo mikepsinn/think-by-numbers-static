@@ -1,14 +1,19 @@
 ---
 title: The Wisdom of Crowds
-description: "Random farmers guessed an ox's weight within 1 pound. Experts were wrong. Crowds beat geniuses when math says they shouldn't."
+description: >-
+  Random farmers guessed an ox's weight within 1 pound. Experts were wrong.
+  Crowds beat geniuses when math says they shouldn't.
 authors: []
 date: 2012-11-24T07:40:17.000Z
 metadata:
   categories:
     - Solutions
-  uuid: 11ty/import::wordpress::http://crowdsourcingutopia.com/?p=1
+  uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/?p=1'
   type: wordpress
-  url: https://thinkbynumbers.org/solutions/wisdom-of-crowds/
+  url: 'https://thinkbynumbers.org/solutions/wisdom-of-crowds/'
+  media:
+    ogImage: /assets/og-images/solutions/wisdom-of-crowds.png
+    infographic: /assets/infographics/solutions/wisdom-of-crowds.png
 tags:
   - solutions
 ---

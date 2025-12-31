@@ -8,6 +8,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2012/07/C-_Users_Mike_Documents_Think-by-Numbers_Posts-Completed_Iran-US-Violence_iran-us-government-civilian-direct-deaths-punch-out.jpg
+    ogImage: /assets/og-images/terrorism/iran-terrorism-history.png
+    infographic: /assets/infographics/terrorism/iran-terrorism-history.png
   categories:
     - Terrorism
     - War
@@ -25,9 +27,9 @@ metadata:
     - us foreign relations
     - war
     - war statistics
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1913
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1913'
   type: wordpress
-  url: https://thinkbynumbers.org/terrorism/iran-terrorism-history/
+  url: 'https://thinkbynumbers.org/terrorism/iran-terrorism-history/'
 tags:
   - terrorism
   - war

@@ -1,6 +1,8 @@
 ---
-title: Anti-Terrorism Spending 50,000 Times More Than on Any Other Cause of Death
-description: $500 million per terrorism death vs $2,000 per stroke death. You're 3x more likely to be struck by lightning than killed by terrorists.
+title: 'Anti-Terrorism Spending 50,000 Times More Than on Any Other Cause of Death'
+description: >-
+  $500 million per terrorism death vs $2,000 per stroke death. You're 3x more
+  likely to be struck by lightning than killed by terrorists.
 authors: []
 date: 2016-10-04T14:40:00.000Z
 metadata:
@@ -8,11 +10,13 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2013/10/death-and-dollars-2.jpg
   media:
     featuredImage: /wp-content/uploads/2013/10/death-and-dollars-2.jpg
+    ogImage: /assets/og-images/government-spending/false-sense-of-insecurity.png
+    infographic: /assets/infographics/government-spending/false-sense-of-insecurity.png
   categories:
     - Government Spending
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=4
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=4'
   type: wordpress
-  url: https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/
+  url: 'https://thinkbynumbers.org/government-spending/false-sense-of-insecurity/'
 tags:
   - government-spending
 ---

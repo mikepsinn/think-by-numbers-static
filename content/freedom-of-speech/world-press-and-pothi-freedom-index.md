@@ -7,9 +7,13 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg
   media:
     featuredImage: /wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg
+    ogImage: >-
+      /assets/og-images/freedom-of-speech/world-press-and-pothi-freedom-index.png
+    infographic: >-
+      /assets/infographics/freedom-of-speech/world-press-and-pothi-freedom-index.png
   categories:
     - Freedom of Speech
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8637
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8637'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/freedom-of-speech/world-press-and-pothi-freedom-index/

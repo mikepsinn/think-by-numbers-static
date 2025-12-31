@@ -1,10 +1,15 @@
 ---
-title: "The Empiricist Movement"
-description: "Looking at evidence is considered a radical political position by half the planet. Organizations trying rational thinking anyway."
-date: 2013-06-25
+title: The Empiricist Movement
+description: >-
+  Looking at evidence is considered a radical political position by half the
+  planet. Organizations trying rational thinking anyway.
+date: 2013-06-25T00:00:00.000Z
 type: page
 metadata:
-  url: https://thinkbynumbers.org/empiricist-movement/
+  url: 'https://thinkbynumbers.org/empiricist-movement/'
+  media:
+    ogImage: /assets/og-images/empiricist-movement.png
+    infographic: /assets/infographics/empiricist-movement.png
 tags:
   - empiricism
   - rationality

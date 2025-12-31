@@ -1,10 +1,15 @@
 ---
-title: "Vote!"
-description: "You're 200x more likely to get injured driving to vote than to affect the election outcome. Democracy is irrational but do it anyway."
-date: 2013-06-25
+title: Vote!
+description: >-
+  You're 200x more likely to get injured driving to vote than to affect the
+  election outcome. Democracy is irrational but do it anyway.
+date: 2013-06-25T00:00:00.000Z
 type: page
 metadata:
-  url: https://thinkbynumbers.org/vote-2/
+  url: 'https://thinkbynumbers.org/vote-2/'
+  media:
+    ogImage: /assets/og-images/vote-2.png
+    infographic: /assets/infographics/vote-2.png
 tags:
   - politics
   - democracy

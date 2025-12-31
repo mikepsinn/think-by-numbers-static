@@ -8,6 +8,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2011/02/featured-image-debt-by-GOP-presidential-candidate-2012.jpg
+    ogImage: /assets/og-images/debt/debt-swell-top-gop-hopefuls-tax-plans.png
+    infographic: /assets/infographics/debt/debt-swell-top-gop-hopefuls-tax-plans.png
   categories:
     - Debt
     - Taxes
@@ -20,9 +22,9 @@ metadata:
     - gop
     - romney
     - tax policies
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1818
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1818'
   type: wordpress
-  url: https://thinkbynumbers.org/debt/debt-swell-top-gop-hopefuls-tax-plans/
+  url: 'https://thinkbynumbers.org/debt/debt-swell-top-gop-hopefuls-tax-plans/'
 tags:
   - debt
   - taxes

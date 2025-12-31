@@ -1,13 +1,20 @@
 ---
 title: How to Overcome Bias in Crowdsourcing Participants
-description: Your vote has same odds as winning lottery 7 times. CAPTCHA for stupidity filters crowdsourcing bias by removing people who guess wrong.
+description: >-
+  Your vote has same odds as winning lottery 7 times. CAPTCHA for stupidity
+  filters crowdsourcing bias by removing people who guess wrong.
 authors: []
 date: 2012-11-24T23:15:44.000Z
 metadata:
-  uuid: 11ty/import::wordpress::http://crowdsourcingutopia.com/?p=12
+  uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/?p=12'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants/
+  media:
+    ogImage: >-
+      /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
+    infographic: >-
+      /assets/infographics/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
 ---
 Your vote in a presidential election has approximately the same probability of changing the outcome as winning the lottery seven times in a row, being struck by lightning twice, and getting a royal flush in poker - all on the same day.
 

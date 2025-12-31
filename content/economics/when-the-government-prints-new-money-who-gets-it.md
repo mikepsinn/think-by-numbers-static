@@ -1,18 +1,25 @@
 ---
-title: When the government prints new money, who gets it?
+title: 'When the government prints new money, who gets it?'
 authors: []
 date: 2020-08-02T02:45:30.000Z
-description: Federal Reserve creates money electronically, buys bonds from investors. Bondholders get free money first. By the time it reaches you, inflation already ate it. Money printer go brr.
+description: >-
+  Federal Reserve creates money electronically, buys bonds from investors.
+  Bondholders get free money first. By the time it reaches you, inflation
+  already ate it. Money printer go brr.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2020/07/money-printer-go-brr-photo.gif
   media:
     featuredImage: /wp-content/uploads/2020/07/money-printer-go-brr-photo.gif
+    ogImage: >-
+      /assets/og-images/economics/when-the-government-prints-new-money-who-gets-it.png
+    infographic: >-
+      /assets/infographics/economics/when-the-government-prints-new-money-who-gets-it.png
   categories:
     - Economics
     - Federal Reserve
     - Government Spending
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9800
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9800'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/economics/when-the-government-prints-new-money-who-gets-it/

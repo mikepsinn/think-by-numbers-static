@@ -7,6 +7,10 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2012/04/featured-image-GDP-by-Indusrty-Graph.jpg
   media:
     featuredImage: /wp-content/uploads/2012/04/featured-image-GDP-by-Indusrty-Graph.jpg
+    ogImage: >-
+      /assets/og-images/federal-reserve/financial-sector-costs-us-more-than-all.png
+    infographic: >-
+      /assets/infographics/federal-reserve/financial-sector-costs-us-more-than-all.png
   categories:
     - Corporate Welfare
     - Federal Reserve
@@ -31,7 +35,7 @@ metadata:
     - wall st
     - wall street
     - where your tax dollars are going
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=12
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=12'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/federal-reserve/financial-sector-costs-us-more-than-all/

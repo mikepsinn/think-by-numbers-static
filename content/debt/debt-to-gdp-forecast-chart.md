@@ -7,6 +7,8 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2009/02/Debt-to-GDP-Forecast-Chart.png
   media:
     featuredImage: /wp-content/uploads/2009/02/Debt-to-GDP-Forecast-Chart.png
+    ogImage: /assets/og-images/debt/debt-to-gdp-forecast-chart.png
+    infographic: /assets/infographics/debt/debt-to-gdp-forecast-chart.png
   categories:
     - Debt
     - GDP
@@ -19,9 +21,9 @@ metadata:
     - government debt
     - Government Spending
     - national debt
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=6
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=6'
   type: wordpress
-  url: https://thinkbynumbers.org/debt/debt-to-gdp-forecast-chart/
+  url: 'https://thinkbynumbers.org/debt/debt-to-gdp-forecast-chart/'
 tags:
   - debt
   - gdp

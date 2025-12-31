@@ -7,6 +7,8 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2011/09/featured-image-House-Bubble.jpg
   media:
     featuredImage: /wp-content/uploads/2011/09/featured-image-House-Bubble.jpg
+    ogImage: /assets/og-images/debt/posts-2.png
+    infographic: /assets/infographics/debt/posts-2.png
   categories:
     - Debt
     - Economics
@@ -27,9 +29,9 @@ metadata:
     - median home price
     - recession
     - subsidies
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=15
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=15'
   type: wordpress
-  url: https://thinkbynumbers.org/debt/posts-2/
+  url: 'https://thinkbynumbers.org/debt/posts-2/'
 tags:
   - debt
   - economics

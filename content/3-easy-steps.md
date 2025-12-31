@@ -1,10 +1,15 @@
 ---
-title: "Crowdsourcing Utopia: Solve All the World's Problems in 3 Easy Steps"
-description: "Governments spend $1 trillion on terrorism (kills fewer than lightning) while children starve. Third-grade math could fix this."
-date: 2013-06-25
+title: 'Crowdsourcing Utopia: Solve All the World''s Problems in 3 Easy Steps'
+description: >-
+  Governments spend $1 trillion on terrorism (kills fewer than lightning) while
+  children starve. Third-grade math could fix this.
+date: 2013-06-25T00:00:00.000Z
 type: page
 metadata:
-  url: https://thinkbynumbers.org/3-easy-steps/
+  url: 'https://thinkbynumbers.org/3-easy-steps/'
+  media:
+    ogImage: /assets/og-images/3-easy-steps.png
+    infographic: /assets/infographics/3-easy-steps.png
 tags:
   - solutions
   - empiricism

@@ -1,6 +1,8 @@
 ---
 title: The Solution to Every Problem in the World
-description: 1 in 20 million terrorism death chance. 1 in 10 Alzheimer's chance. We spend 162x more on military than brain research. Math is wrong.
+description: >-
+  1 in 20 million terrorism death chance. 1 in 10 Alzheimer's chance. We spend
+  162x more on military than brain research. Math is wrong.
 authors: []
 date: 2022-11-13T05:40:11.000Z
 metadata:
@@ -11,10 +13,15 @@ metadata:
     - ccrowdsourcing
     - Government Spending
     - military spending
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10619
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10619'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/the-solution-to-every-problem-in-the-world/
+  media:
+    ogImage: >-
+      /assets/og-images/government-spending/the-solution-to-every-problem-in-the-world.png
+    infographic: >-
+      /assets/infographics/government-spending/the-solution-to-every-problem-in-the-world.png
 tags:
   - government-spending
   - health

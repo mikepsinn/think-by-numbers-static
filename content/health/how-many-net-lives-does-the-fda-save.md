@@ -1,6 +1,8 @@
 ---
 title: How many NET lives are saved by efficacy trials?
-description: FDA regulations killed medical progress by 70% in 1962. Lifespan growth immediately cut in half. Drug development now costs 13 times more.
+description: >-
+  FDA regulations killed medical progress by 70% in 1962. Lifespan growth
+  immediately cut in half. Drug development now costs 13 times more.
 authors: []
 date: 2022-03-24T06:09:34.000Z
 metadata:
@@ -9,6 +11,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2019/07/real-world-evidence-in-efficacy-clinical-trials-vs-rcts.png
+    ogImage: /assets/og-images/health/how-many-net-lives-does-the-fda-save.png
+    infographic: /assets/infographics/health/how-many-net-lives-does-the-fda-save.png
   categories:
     - Health
     - Healthcare
@@ -16,9 +20,9 @@ metadata:
   tags:
     - FDA
     - fda cost-benefit analysis
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9646
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9646'
   type: wordpress
-  url: https://thinkbynumbers.org/health/how-many-net-lives-does-the-fda-save/
+  url: 'https://thinkbynumbers.org/health/how-many-net-lives-does-the-fda-save/'
 tags:
   - health
   - healthcare

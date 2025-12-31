@@ -2,12 +2,19 @@
 title: How The Federal Reserve Steals from the Poor and Gives to the Rich
 authors: []
 date: 2022-02-16T12:40:13.000Z
-description: Before 1971 productivity and wages grew together. After 1971 they suddenly split. Productivity kept rising, wages flatlined. Federal Reserve counterfeiting is Robin Hood in reverse.
+description: >-
+  Before 1971 productivity and wages grew together. After 1971 they suddenly
+  split. Productivity kept rising, wages flatlined. Federal Reserve
+  counterfeiting is Robin Hood in reverse.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/productivity-pay-gap.png
   media:
     featuredImage: /wp-content/uploads/2021/03/productivity-pay-gap.png
+    ogImage: >-
+      /assets/og-images/economics/how-the-federal-reserve-steals-from-the-poor-and-gives-to-the-rich.png
+    infographic: >-
+      /assets/infographics/economics/how-the-federal-reserve-steals-from-the-poor-and-gives-to-the-rich.png
   categories:
     - Economics
     - Federal Reserve
@@ -16,7 +23,7 @@ metadata:
     - counterfeiting
     - Federal Reserve
     - quantitative easing
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9806
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9806'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/economics/how-the-federal-reserve-steals-from-the-poor-and-gives-to-the-rich/

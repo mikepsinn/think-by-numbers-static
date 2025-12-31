@@ -3,14 +3,16 @@ title: Drink by Numbers!
 authors: []
 date: 2013-02-28T22:36:49.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2013/02/Duffman2.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2013/02/Duffman2.jpg'
   media:
     featuredImage: /wp-content/uploads/2013/02/Duffman2.jpg
+    ogImage: /assets/og-images/monkey-business/drink-by-numbers.png
+    infographic: /assets/infographics/monkey-business/drink-by-numbers.png
   categories:
     - Monkey Business
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=8242
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8242'
   type: wordpress
-  url: https://thinkbynumbers.org/monkey-business/drink-by-numbers/
+  url: 'https://thinkbynumbers.org/monkey-business/drink-by-numbers/'
 tags:
   - monkey-business
 ---

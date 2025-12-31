@@ -1,19 +1,25 @@
 ---
 title: Fraudulent Defense Contractors Paid $1 Trillion
-description: Pentagon paid $1.1 trillion to convicted fraudulent defense contractors over 10 years, then gave them raises for stealing from taxpayers.
+description: >-
+  Pentagon paid $1.1 trillion to convicted fraudulent defense contractors over
+  10 years, then gave them raises for stealing from taxpayers.
 authors: []
 date: 2011-10-21T07:45:18.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/10/war-profiteer.gif
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/10/war-profiteer.gif'
   media:
     featuredImage: /wp-content/uploads/2011/10/war-profiteer.gif
+    ogImage: >-
+      /assets/og-images/military/fraudulent-defense-contractors-paid-1-trillion.png
+    infographic: >-
+      /assets/infographics/military/fraudulent-defense-contractors-paid-1-trillion.png
   categories:
     - Military
   tags:
     - defense contractors
     - taxpayer
     - us military spending
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=947
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=947'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/military/fraudulent-defense-contractors-paid-1-trillion/

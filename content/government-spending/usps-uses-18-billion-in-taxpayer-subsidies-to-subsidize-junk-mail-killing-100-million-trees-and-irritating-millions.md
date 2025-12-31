@@ -2,16 +2,22 @@
 title: >-
   USPS Has Received Over $45 Billion from Taxpayers to Reduce the Cost of Junk
   Mail, Killing Billions of Trees
-description: USPS junk mail 65% discount kills 100 million trees annually. You pay $126/year so credit card offers arrive faster. Beautiful circle of life.
+description: >-
+  USPS junk mail 65% discount kills 100 million trees annually. You pay
+  $126/year so credit card offers arrive faster. Beautiful circle of life.
 authors: []
 date: 2020-04-02T00:14:11.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2020/04/junk-mail.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2020/04/junk-mail.jpg'
   media:
     featuredImage: /wp-content/uploads/2020/04/junk-mail.jpg
+    ogImage: >-
+      /assets/og-images/government-spending/usps-uses-18-billion-in-taxpayer-subsidies-to-subsidize-junk-mail-killing-100-million-trees-and-irritating-millions.png
+    infographic: >-
+      /assets/infographics/government-spending/usps-uses-18-billion-in-taxpayer-subsidies-to-subsidize-junk-mail-killing-100-million-trees-and-irritating-millions.png
   categories:
     - Government Spending
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9690
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9690'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/usps-uses-18-billion-in-taxpayer-subsidies-to-subsidize-junk-mail-killing-100-million-trees-and-irritating-millions/

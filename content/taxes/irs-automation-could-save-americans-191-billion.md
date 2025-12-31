@@ -3,15 +3,19 @@ title: IRS Automation Could Save Americans $191 Billion
 authors: []
 date: 2024-08-31T08:00:15.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2024/08/irs.png
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2024/08/irs.png'
   media:
     featuredImage: /wp-content/uploads/2024/08/irs.png
+    ogImage: >-
+      /assets/og-images/taxes/irs-automation-could-save-americans-191-billion.png
+    infographic: >-
+      /assets/infographics/taxes/irs-automation-could-save-americans-191-billion.png
   categories:
     - Taxes
   tags:
     - IRS
     - taxes
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10742
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10742'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/taxes/irs-automation-could-save-americans-191-billion/

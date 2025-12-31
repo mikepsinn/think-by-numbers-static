@@ -1,6 +1,8 @@
 ---
 title: Military-Industrial Complex Funnels Wealth to 4 Counties
-description: America's 4 richest counties all surround the Pentagon. Defense contractors discovered money can't travel far from where it's printed.
+description: >-
+  America's 4 richest counties all surround the Pentagon. Defense contractors
+  discovered money can't travel far from where it's printed.
 authors: []
 date: 2021-03-20T23:24:06.000Z
 metadata:
@@ -8,11 +10,15 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2021/03/Map_of_USA_VA-e1616263111399.png
   media:
     featuredImage: /wp-content/uploads/2021/03/Map_of_USA_VA-e1616263111399.png
+    ogImage: >-
+      /assets/og-images/military/military-industrial-complex-funnels-wealth-to-4-counties.png
+    infographic: >-
+      /assets/infographics/military/military-industrial-complex-funnels-wealth-to-4-counties.png
   categories:
     - Military
   tags:
     - military spending
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10220
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10220'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/military/military-industrial-complex-funnels-wealth-to-4-counties/

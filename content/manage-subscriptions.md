@@ -1,10 +1,15 @@
 ---
-title: "Manage Subscriptions"
-description: "Subscribe to evidence-based analysis or unsubscribe. Either way, we'll use data instead of feelings to manage your preferences."
-date: 2024-12-25
+title: Manage Subscriptions
+description: >-
+  Subscribe to evidence-based analysis or unsubscribe. Either way, we'll use
+  data instead of feelings to manage your preferences.
+date: 2024-12-25T00:00:00.000Z
 type: page
 metadata:
-  url: https://thinkbynumbers.org/manage-subscriptions/
+  url: 'https://thinkbynumbers.org/manage-subscriptions/'
+  media:
+    ogImage: /assets/og-images/manage-subscriptions.png
+    infographic: /assets/infographics/manage-subscriptions.png
 tags:
   - subscription
 ---

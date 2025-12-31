@@ -1,18 +1,22 @@
 ---
-title: Subconscious Processes 27,500 Times More Data than the Conscious Mind
+title: 'Subconscious Processes 27,500 Times More Data than the Conscious Mind'
 authors: []
 date: 2020-12-06T01:51:09.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2020/12/johnny-5.gif
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2020/12/johnny-5.gif'
   media:
     featuredImage: /wp-content/uploads/2020/12/johnny-5.gif
+    ogImage: >-
+      /assets/og-images/psychology/subconscious-processes-27500-times-more-data-than-the-conscious-mind.png
+    infographic: >-
+      /assets/infographics/psychology/subconscious-processes-27500-times-more-data-than-the-conscious-mind.png
   categories:
     - Psychology
     - Science
   tags:
     - cognitive bandwidth
     - subconscious processing speed
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10051
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10051'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/psychology/subconscious-processes-27500-times-more-data-than-the-conscious-mind/

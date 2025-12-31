@@ -1,10 +1,15 @@
 ---
-title: "I Am Biased"
-description: "Humans invented both antibiotics and weapons to prevent antibiotics from working. Using statistics to decide who dies is radical."
-date: 2013-06-25
+title: I Am Biased
+description: >-
+  Humans invented both antibiotics and weapons to prevent antibiotics from
+  working. Using statistics to decide who dies is radical.
+date: 2013-06-25T00:00:00.000Z
 type: page
 metadata:
-  url: https://thinkbynumbers.org/i-am-biased/
+  url: 'https://thinkbynumbers.org/i-am-biased/'
+  media:
+    ogImage: /assets/og-images/i-am-biased.png
+    infographic: /assets/infographics/i-am-biased.png
 tags:
   - empiricism
   - philosophy

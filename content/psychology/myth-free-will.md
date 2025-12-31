@@ -3,9 +3,11 @@ title: Are You Reading this of Your Own Free Will?
 authors: []
 date: 2011-10-26T16:11:50.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/10/brain-gears.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/10/brain-gears.jpg'
   media:
     featuredImage: /wp-content/uploads/2011/10/brain-gears.jpg
+    ogImage: /assets/og-images/psychology/myth-free-will.png
+    infographic: /assets/infographics/psychology/myth-free-will.png
   categories:
     - Psychology
   tags:
@@ -19,9 +21,9 @@ metadata:
     - research
     - steven pinker
     - weird science
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1036
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1036'
   type: wordpress
-  url: https://thinkbynumbers.org/psychology/myth-free-will/
+  url: 'https://thinkbynumbers.org/psychology/myth-free-will/'
 tags:
   - psychology
 ---

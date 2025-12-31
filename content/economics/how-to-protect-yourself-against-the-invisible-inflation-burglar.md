@@ -2,15 +2,22 @@
 title: How to Protect Yourself Against the Invisible Inflation Burglar
 authors: []
 date: 2021-09-21T06:17:23.000Z
-description: Monetary inflation (money supply) vs price inflation (CPI). Money supply exploded, prices stayed stable. Inflation is hidden flat tax governments use instead of asking citizens to pay.
+description: >-
+  Monetary inflation (money supply) vs price inflation (CPI). Money supply
+  exploded, prices stayed stable. Inflation is hidden flat tax governments use
+  instead of asking citizens to pay.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/inflation-Rise-and-Fall-of-the-USD-64c2.jpg
   media:
     featuredImage: /wp-content/uploads/2021/03/inflation-Rise-and-Fall-of-the-USD-64c2.jpg
+    ogImage: >-
+      /assets/og-images/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar.png
+    infographic: >-
+      /assets/infographics/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar.png
   categories:
     - Economics
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10059
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10059'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar/

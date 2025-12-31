@@ -7,13 +7,15 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2012/12/world-clock-statistics-featured-image.jpg
   media:
     featuredImage: /wp-content/uploads/2012/12/world-clock-statistics-featured-image.jpg
+    ogImage: /assets/og-images/statistics/world-clock-statistics.png
+    infographic: /assets/infographics/statistics/world-clock-statistics.png
   categories:
     - Statistics
   tags:
     - world clock
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=3258
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=3258'
   type: wordpress
-  url: https://thinkbynumbers.org/statistics/world-clock-statistics/
+  url: 'https://thinkbynumbers.org/statistics/world-clock-statistics/'
 tags:
   - statistics
 ---

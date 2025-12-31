@@ -8,6 +8,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2011/10/featured-image-monetary-system-steals-from-poor.jpg
+    ogImage: /assets/og-images/financial-sector/monetary-system-steals-poor-rich.png
+    infographic: /assets/infographics/financial-sector/monetary-system-steals-poor-rich.png
   categories:
     - Financial Sector
   tags:
@@ -16,7 +18,7 @@ metadata:
     - occupy wall street
     - transfer of wealth
     - us monetary system
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=647
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=647'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/financial-sector/monetary-system-steals-poor-rich/

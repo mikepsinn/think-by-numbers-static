@@ -1,6 +1,8 @@
 ---
-title: Bailout Costs $16,000 per Worker
-description: Fed printed $6 trillion for bank bailouts. Stock prices soared, rich got richer, poor can't afford houses. Inflation only 1.5% though.
+title: 'Bailout Costs $16,000 per Worker'
+description: >-
+  Fed printed $6 trillion for bank bailouts. Stock prices soared, rich got
+  richer, poor can't afford houses. Inflation only 1.5% though.
 authors: []
 date: 2009-03-19T05:31:00.000Z
 metadata:
@@ -8,13 +10,16 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2009/03/Bailout-Costs-16000-per-Worker.png
   media:
     featuredImage: /wp-content/uploads/2009/03/Bailout-Costs-16000-per-Worker.png
+    ogImage: /assets/og-images/government-spending/john-stossel-bailouts-and-bull.png
+    infographic: >-
+      /assets/infographics/government-spending/john-stossel-bailouts-and-bull.png
   categories:
     - Corporate Welfare
     - Government Spending
   tags:
     - corporate welfare
     - Government Spending
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=9
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=9'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/john-stossel-bailouts-and-bull/

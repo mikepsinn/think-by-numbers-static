@@ -1,14 +1,19 @@
 ---
 title: How many people have Alzheimer's disease?
-description: 44 million people worldwide have Alzheimer's. NIH spends $327 per victim while Americans spend $1,200 per person on alcohol to forget things temporarily.
+description: >-
+  44 million people worldwide have Alzheimer's. NIH spends $327 per victim while
+  Americans spend $1,200 per person on alcohol to forget things temporarily.
 authors: []
 date: 2019-05-08T04:39:29.000Z
 metadata:
   categories:
     - Health
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=9566
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9566'
   type: wordpress
-  url: https://thinkbynumbers.org/health/how-many-people-have-alzheimers-disease/
+  url: 'https://thinkbynumbers.org/health/how-many-people-have-alzheimers-disease/'
+  media:
+    ogImage: /assets/og-images/health/how-many-people-have-alzheimers-disease.png
+    infographic: /assets/infographics/health/how-many-people-have-alzheimers-disease.png
 tags:
   - health
 ---

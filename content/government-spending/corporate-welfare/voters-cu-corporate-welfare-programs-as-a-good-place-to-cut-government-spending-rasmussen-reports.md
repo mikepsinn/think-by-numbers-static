@@ -2,13 +2,19 @@
 title: >-
   Voters See 'Corporate Welfare' Programs As A Good Place To Cut Government
   Spending
-description: 70% oppose weapons subsidies, 46% oppose farm subsidies. Government does it anyway. Democracy works perfectly if you order cinder blocks not pizza.
+description: >-
+  70% oppose weapons subsidies, 46% oppose farm subsidies. Government does it
+  anyway. Democracy works perfectly if you order cinder blocks not pizza.
 authors: []
 date: 2011-09-07T03:29:41.000Z
 metadata:
-  featuredImage: https://thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich.jpg
+  featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/09/socialism-rich.jpg'
   media:
     featuredImage: /wp-content/uploads/2011/09/socialism-rich.jpg
+    ogImage: >-
+      /assets/og-images/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports.png
+    infographic: >-
+      /assets/infographics/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports.png
   categories:
     - Corporate Welfare
   tags:
@@ -17,7 +23,7 @@ metadata:
     - farm subsidies
     - Government Spending
     - subsidies
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=241
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=241'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports/

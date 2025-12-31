@@ -1,14 +1,19 @@
 ---
 title: The Hedonistic Imperative
-description: "Military gets $2 trillion, brain research gets $13 billion. We spend 154x more on bombs than abolishing all suffering forever."
+description: >-
+  Military gets $2 trillion, brain research gets $13 billion. We spend 154x more
+  on bombs than abolishing all suffering forever.
 authors: []
 date: 2012-11-26T00:41:10.000Z
 metadata:
   categories:
     - Solutions
-  uuid: 11ty/import::wordpress::http://crowdsourcingutopia.com/?p=35
+  uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/?p=35'
   type: wordpress
-  url: https://thinkbynumbers.org/solutions/the-hedonistic-imperative/
+  url: 'https://thinkbynumbers.org/solutions/the-hedonistic-imperative/'
+  media:
+    ogImage: /assets/og-images/solutions/the-hedonistic-imperative.png
+    infographic: /assets/infographics/solutions/the-hedonistic-imperative.png
 tags:
   - solutions
 ---

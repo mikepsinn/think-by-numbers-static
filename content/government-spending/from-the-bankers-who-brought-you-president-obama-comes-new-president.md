@@ -1,6 +1,8 @@
 ---
 title: From the Bankers Who Brought You President Obama Comes NEW PRESIDENT™!
-description: Obama budget $3.80 trillion vs Romney $3.79 trillion. 0.26% difference. Same banks fund both. Democracy is working perfectly wrong.
+description: >-
+  Obama budget $3.80 trillion vs Romney $3.79 trillion. 0.26% difference. Same
+  banks fund both. Democracy is working perfectly wrong.
 authors: []
 date: 2012-11-01T18:50:15.000Z
 metadata:
@@ -9,6 +11,10 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2012/11/Obamney-Obama-Romney-Spending-Contributors-Infographic.jpg
+    ogImage: >-
+      /assets/og-images/government-spending/from-the-bankers-who-brought-you-president-obama-comes-new-president.png
+    infographic: >-
+      /assets/infographics/government-spending/from-the-bankers-who-brought-you-president-obama-comes-new-president.png
   categories:
     - Government Spending
   tags:
@@ -37,7 +43,7 @@ metadata:
     - wall st
     - wall street contributions
     - war
-  uuid: 11ty/import::wordpress::http://thinkbynumbers.org/?p=2406
+  uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=2406'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/government-spending/from-the-bankers-who-brought-you-president-obama-comes-new-president/

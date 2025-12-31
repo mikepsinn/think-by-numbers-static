@@ -2,13 +2,20 @@
 title: Top 1% Received all of the $4 Trillion Printed in 2020
 authors: []
 date: 2021-02-07T09:09:19.000Z
-description: Federal Reserve printed $4 trillion in 2020. Top 1% wealth increased by exactly $4 trillion that year. St. Louis Fed confirms. The math matches perfectly. Totally normal economic policy.
+description: >-
+  Federal Reserve printed $4 trillion in 2020. Top 1% wealth increased by
+  exactly $4 trillion that year. St. Louis Fed confirms. The math matches
+  perfectly. Totally normal economic policy.
 metadata:
   featuredImage: >-
     https://thinkbynumbers.org/wp-content/uploads/2021/03/4-trillion-new-money-from-federal-reserve-went-to-top-1-percent.png
   media:
     featuredImage: >-
       /wp-content/uploads/2021/03/4-trillion-new-money-from-federal-reserve-went-to-top-1-percent.png
+    ogImage: >-
+      /assets/og-images/economics/4-trillion-printed-in-2020-went-entirely-to-the-top-1-percent.png
+    infographic: >-
+      /assets/infographics/economics/4-trillion-printed-in-2020-went-entirely-to-the-top-1-percent.png
   categories:
     - Economics
     - Federal Reserve
@@ -16,7 +23,7 @@ metadata:
     - Federal Reserve
     - inequality
     - money supply
-  uuid: 11ty/import::wordpress::https://thinkbynumbers.org/?p=10120
+  uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10120'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/economics/4-trillion-printed-in-2020-went-entirely-to-the-top-1-percent/

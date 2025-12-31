@@ -1,15 +1,22 @@
 ---
 title: 'Algonomy: A Framework for Dealing with Suffering'
-description: 47 fields study suffering but none study suffering itself. It's like having Flame, Smoke, and Heat departments but nobody puts out fires.
+description: >-
+  47 fields study suffering but none study suffering itself. It's like having
+  Flame, Smoke, and Heat departments but nobody puts out fires.
 authors: []
 date: 2012-11-26T20:54:22.000Z
 metadata:
   categories:
     - Tools
-  uuid: 11ty/import::wordpress::http://crowdsourcingutopia.com/?p=62
+  uuid: '11ty/import::wordpress::http://crowdsourcingutopia.com/?p=62'
   type: wordpress
   url: >-
     https://thinkbynumbers.org/tools/algonomy-a-framework-for-dealing-with-suffering/
+  media:
+    ogImage: >-
+      /assets/og-images/tools/algonomy-a-framework-for-dealing-with-suffering.png
+    infographic: >-
+      /assets/infographics/tools/algonomy-a-framework-for-dealing-with-suffering.png
 tags:
   - tools
 ---
