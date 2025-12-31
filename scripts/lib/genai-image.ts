@@ -204,7 +204,7 @@ export async function addWatermark(
 
   // Calculate font size based on image width (1.5% of width - smaller)
   const fontSize = Math.floor(imageWidth * 0.015)
-  const padding = 10
+  const padding = 3
 
   // Create text SVG with transparent background
   const text = 'ThinkByNumbers.org'
