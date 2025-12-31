@@ -140,28 +140,38 @@
     }
 
     .social-icons {
-      max-width: 900px;
+      max-width: 1200px;
       margin: 0 auto;
       padding: 0 20px;
       text-align: right;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 20px;
     }
 
     .social-icons a {
-      margin-left: 16px;
       text-decoration: none;
       color: var(--color-bg);
-      font-size: 0.85em;
-      font-weight: 400;
+      font-size: 1.2em;
       transition: opacity 0.2s;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
     }
 
     .social-icons a:hover {
       opacity: 0.7;
     }
 
+    .social-icons a .label {
+      font-size: 0.7em;
+      font-weight: 400;
+    }
+
     /* Main Header */
     .main-header {
-      max-width: 900px;
+      max-width: 1200px;
       margin: 0 auto;
       padding: 40px 20px 30px;
       border-bottom: var(--border-subtle) solid var(--color-text-light);
@@ -214,24 +224,32 @@
 
     /* Container */
     .container {
-      max-width: 900px;
+      max-width: 1200px;
       margin: 0 auto;
       padding: 40px 20px;
-      display: grid;
-      grid-template-columns: 1fr 300px;
-      gap: 50px;
     }
 
     .main-content {
-      min-width: 0;
+      width: 100%;
+    }
+
+    /* Hide sidebar */
+    .sidebar {
+      display: none;
     }
 
     /* Post Grid */
     .post-grid {
       display: grid;
-      grid-template-columns: 1fr;
+      grid-template-columns: repeat(2, 1fr);
       gap: 40px;
       margin-top: 30px;
+    }
+
+    @media (max-width: 1024px) {
+      .post-grid {
+        grid-template-columns: 1fr;
+      }
     }
 
     .post-card {
@@ -481,7 +499,7 @@
 
     footer a {
       color: var(--color-bg);
-      text-decoration: underline;
+      text-decoration: none;
       font-weight: 400;
     }
 
@@ -707,17 +725,19 @@
       }
 
       .container {
-        grid-template-columns: 1fr;
         padding: 20px 15px;
       }
 
       .post-grid {
-        grid-template-columns: 1fr;
         gap: 25px;
       }
 
-      .sidebar {
-        position: static;
+      .social-icons {
+        gap: 15px;
+      }
+
+      .social-icons a .label {
+        display: none;
       }
 
       nav {
@@ -776,6 +796,68 @@
       background: #2a2a2a;
       border-color: var(--color-black);
     }
+
+    /* Lightbox */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 9999;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.9);
+      cursor: zoom-out;
+    }
+
+    .lightbox.active {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      animation: fadeIn 0.2s;
+    }
+
+    .lightbox img {
+      max-width: 95%;
+      max-height: 95%;
+      object-fit: contain;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+      cursor: default;
+    }
+
+    .lightbox-close {
+      position: absolute;
+      top: 20px;
+      right: 30px;
+      color: #fff;
+      font-size: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      background: none;
+      border: none;
+      padding: 0;
+      line-height: 1;
+      transition: color 0.2s;
+    }
+
+    .lightbox-close:hover {
+      color: #ccc;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    /* Make content images clickable */
+    .main-content img {
+      cursor: zoom-in;
+      transition: opacity 0.2s;
+    }
+
+    .main-content img:hover {
+      opacity: 0.85;
+    }
   </style>
 </head>
 <body>
@@ -783,7 +865,26 @@
     {# Social Media Header #}
     <div class="social-header">
       <div class="social-icons">
-        <a href="#footer" title="Menu">MENU</a>
+        <a href="{{ site.social.twitter }}" target="_blank" title="Twitter">
+          <i class="fa-brands fa-twitter"></i>
+          <span class="label">Twitter</span>
+        </a>
+        <a href="{{ site.social.facebook }}" target="_blank" title="Facebook">
+          <i class="fa-brands fa-facebook"></i>
+          <span class="label">Facebook</span>
+        </a>
+        <a href="{{ site.social.linkedin }}" target="_blank" title="LinkedIn">
+          <i class="fa-brands fa-linkedin"></i>
+          <span class="label">LinkedIn</span>
+        </a>
+        <a href="{{ site.social.youtube }}" target="_blank" title="YouTube">
+          <i class="fa-brands fa-youtube"></i>
+          <span class="label">YouTube</span>
+        </a>
+        <a href="#footer" title="Menu">
+          <i class="fa-solid fa-bars"></i>
+          <span class="label">Menu</span>
+        </a>
       </div>
     </div>
 
@@ -803,16 +904,26 @@
   </main>
 
   <footer id="footer">
+    <div style="margin-bottom: 25px; padding-bottom: 20px; border-bottom: 1px solid rgba(255,255,255,0.2);">
+      <a href="/" style="margin: 0 10px; text-decoration: none;">
+        <i class="fa-solid fa-home"></i> Home
+      </a>
+      <a href="/search/" style="margin: 0 10px; text-decoration: none;">
+        <i class="fa-solid fa-search"></i> Search
+      </a>
+      <a href="/subscribe/" style="margin: 0 10px; text-decoration: none;">
+        <i class="fa-solid fa-envelope"></i> Subscribe
+      </a>
+      <a href="/empiricism-2/why-think-by-numbers/" style="margin: 0 10px; text-decoration: none;">
+        <i class="fa-solid fa-lightbulb"></i> Why Think by Numbers
+      </a>
+    </div>
     <div style="margin-bottom: 20px;">
-      <a href="/" style="margin: 0 8px;">Home</a>
-      <a href="/empiricism-2/why-think-by-numbers/" style="margin: 0 8px;">Why Think by Numbers?</a>
-      <a href="/subscribe/" style="margin: 0 8px;">Subscribe</a>
       <a href="https://warondisease.org" target="_blank" style="margin: 0 8px;">Vote to End War and Disease</a>
       <a href="https://manual.warondisease.org" target="_blank" style="margin: 0 8px;">How to End War and Disease</a>
       <a href="https://dih.earth" target="_blank" style="margin: 0 8px;">Decentralized Institutes of Health</a>
       <a href="https://dfda.earth" target="_blank" style="margin: 0 8px;">Decentralized FDA</a>
       <a href="https://wishocracy.org" target="_blank" style="margin: 0 8px;">Wishocracy</a>
-      <a href="/search/" style="margin: 0 8px;">Search</a>
     </div>
     <div style="margin-bottom: 20px;">
       <a href="{{ site.social.twitter }}" target="_blank" style="margin: 0 8px; text-decoration: none;"><i class="fa-brands fa-twitter"></i> Twitter</a>
@@ -896,5 +1007,57 @@
     })();
   </script>
   {%- endif %}
+
+  {# Lightbox for images #}
+  <div class="lightbox" id="lightbox">
+    <button class="lightbox-close" aria-label="Close">&times;</button>
+    <img src="" alt="">
+  </div>
+
+  <script>
+    (function() {
+      const lightbox = document.getElementById('lightbox');
+      const lightboxImg = lightbox.querySelector('img');
+      const closeBtn = lightbox.querySelector('.lightbox-close');
+
+      // Make all content images clickable (exclude post card thumbnails and logo)
+      document.querySelectorAll('.main-content img').forEach(img => {
+        // Skip if image is already in a link or is the logo
+        if (img.closest('a') || img.closest('.logo')) {
+          return;
+        }
+
+        img.addEventListener('click', function(e) {
+          e.preventDefault();
+          lightboxImg.src = this.src;
+          lightboxImg.alt = this.alt || '';
+          lightbox.classList.add('active');
+          document.body.style.overflow = 'hidden';
+        });
+      });
+
+      // Close lightbox when clicking the close button
+      closeBtn.addEventListener('click', closeLightbox);
+
+      // Close lightbox when clicking the background
+      lightbox.addEventListener('click', function(e) {
+        if (e.target === lightbox) {
+          closeLightbox();
+        }
+      });
+
+      // Close lightbox with Escape key
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && lightbox.classList.contains('active')) {
+          closeLightbox();
+        }
+      });
+
+      function closeLightbox() {
+        lightbox.classList.remove('active');
+        document.body.style.overflow = '';
+      }
+    })();
+  </script>
 </body>
 </html>
