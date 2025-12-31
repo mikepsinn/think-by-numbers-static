@@ -81,20 +81,16 @@ async function updateImage(imagePath: string): Promise<void> {
 
   console.log(`  Title: ${metadata.title}`);
 
-  try {
-    // Read existing image
-    const imageBuffer = await fs.readFile(imagePath);
+  // Read existing image
+  const imageBuffer = await fs.readFile(imagePath);
 
-    // Apply watermark and metadata
-    const updatedBuffer = await addWatermark(imageBuffer, metadata);
+  // Apply watermark and metadata
+  const updatedBuffer = await addWatermark(imageBuffer, metadata);
 
-    // Save updated image
-    await fs.writeFile(imagePath, updatedBuffer);
+  // Save updated image
+  await fs.writeFile(imagePath, updatedBuffer);
 
-    console.log(`  [OK] Updated with watermark and metadata`);
-  } catch (error) {
-    console.error(`  [ERROR] Failed to update image:`, error);
-  }
+  console.log(`  [OK] Updated with watermark and metadata`);
 }
 
 /**
@@ -116,17 +112,10 @@ async function main() {
 
   // Process each image
   let updated = 0;
-  let skipped = 0;
-  let failed = 0;
 
   for (const imagePath of images) {
-    try {
-      await updateImage(imagePath);
-      updated++;
-    } catch (error) {
-      console.error(`[ERROR] Failed to process ${imagePath}:`, error);
-      failed++;
-    }
+    await updateImage(imagePath);
+    updated++;
   }
 
   // Summary
@@ -134,7 +123,6 @@ async function main() {
   console.log('Summary:');
   console.log(`  Total images: ${images.length}`);
   console.log(`  Updated: ${updated}`);
-  console.log(`  Failed: ${failed}`);
   console.log('='.repeat(60) + '\n');
 }
 

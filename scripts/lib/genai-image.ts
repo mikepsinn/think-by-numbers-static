@@ -202,27 +202,22 @@ export async function addWatermark(
   const imageWidth = imgMetadata.width || 1200
   const imageHeight = imgMetadata.height || 630
 
-  // Calculate font size based on image width (2% of width)
-  const fontSize = Math.floor(imageWidth * 0.02)
+  // Calculate font size based on image width (1.5% of width - smaller)
+  const fontSize = Math.floor(imageWidth * 0.015)
   const padding = 10
 
   // Create text SVG with transparent background
-  // Using semi-transparent white text for visibility on dark images
   const text = 'ThinkByNumbers.org'
   const textWidth = text.length * fontSize * 0.6 // Approximate width
-  const textHeight = fontSize * 1.2
+  const textHeight = fontSize * 1.4
 
   const svgText = `
     <svg width="${textWidth}" height="${textHeight}">
-      <style>
-        .watermark {
-          fill: rgba(255, 255, 255, 0.7);
-          font-size: ${fontSize}px;
-          font-family: 'Courier New', monospace;
-          font-weight: normal;
-        }
-      </style>
-      <text x="0" y="${fontSize}" class="watermark">${text}</text>
+      <text x="0" y="${fontSize}"
+            font-family="Courier New, monospace"
+            font-size="${fontSize}px"
+            font-weight="600"
+            fill="rgba(0, 0, 0, 0.8)">${text}</text>
     </svg>
   `
 
@@ -232,34 +227,38 @@ export async function addWatermark(
   const left = imageWidth - textWidth - padding
   const top = imageHeight - textHeight - padding
 
-  // Prepare EXIF metadata
-  const exif: Record<string, any> = {}
-  if (metadata?.title) exif.Title = metadata.title
-  if (metadata?.description) exif.Description = metadata.description
-  if (metadata?.author) exif.Artist = metadata.author
-  if (metadata?.copyright) exif.Copyright = metadata.copyright
-  if (metadata?.keywords) exif.Keywords = metadata.keywords.join(', ')
+  // Prepare EXIF metadata in proper IFD0 structure
+  const exifData: any = {}
+
+  if (metadata?.description || metadata?.author || metadata?.copyright) {
+    exifData.IFD0 = {}
+    if (metadata?.description) exifData.IFD0.ImageDescription = metadata.description
+    if (metadata?.author) exifData.IFD0.Artist = metadata.author
+    if (metadata?.copyright) exifData.IFD0.Copyright = metadata.copyright
+  }
 
   // Composite text onto image and add metadata
-  const result = await image
-    .composite([
-      {
-        input: textBuffer,
-        left: Math.floor(left),
-        top: Math.floor(top),
-      },
-    ])
-    .withMetadata({
-      exif: Object.keys(exif).length > 0 ? exif : undefined,
-    })
-    .toBuffer()
+  let processedImage = image.composite([
+    {
+      input: textBuffer,
+      left: Math.floor(left),
+      top: Math.floor(top),
+    },
+  ])
+
+  // Add EXIF metadata if we have any
+  if (Object.keys(exifData).length > 0) {
+    processedImage = processedImage.withExif(exifData)
+  }
+
+  const result = await processedImage.toBuffer()
 
   log.info('Watermark and metadata applied', {
     text,
     imageWidth,
     imageHeight,
     fontSize,
-    metadataFields: Object.keys(exif)
+    hasMetadata: Object.keys(exifData).length > 0
   })
   return result
 }
