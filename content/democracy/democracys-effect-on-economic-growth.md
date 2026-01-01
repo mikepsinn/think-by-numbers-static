@@ -11,8 +11,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2020/09/Country-based-correlation-scatter-plot-for-log-GDP-per-capita-and-Democracy-for-the-year.png
-    ogImage: /assets/og-images/democracy/democracys-effect-on-economic-growth.png
-    infographic: /assets/infographics/democracy/democracys-effect-on-economic-growth.png
+    ogImage: /assets/og-images/democracy/democracys-effect-on-economic-growth.jpg
+    infographic: /assets/infographics/democracy/democracys-effect-on-economic-growth.jpg
   categories:
     - Democracy
   tags:

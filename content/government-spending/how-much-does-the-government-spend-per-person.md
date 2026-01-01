@@ -16,11 +16,11 @@ metadata:
     https://thinkbynumbers.org/government-spending/how-much-does-the-government-spend-per-person/
   media:
     featuredImage: >-
-      /assets/og-images/government-spending/how-much-does-the-government-spend-per-person.png
+      /assets/og-images/government-spending/how-much-does-the-government-spend-per-person.jpg
     ogImage: >-
-      /assets/og-images/government-spending/how-much-does-the-government-spend-per-person.png
+      /assets/og-images/government-spending/how-much-does-the-government-spend-per-person.jpg
     infographic: >-
-      /assets/infographics/government-spending/how-much-does-the-government-spend-per-person.png
+      /assets/infographics/government-spending/how-much-does-the-government-spend-per-person.jpg
 tags:
   - government-spending
 aiScores:

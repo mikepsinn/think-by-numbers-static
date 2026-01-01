@@ -10,9 +10,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2011/10/war-profiteer.gif
     ogImage: >-
-      /assets/og-images/military/fraudulent-defense-contractors-paid-1-trillion.png
+      /assets/og-images/military/fraudulent-defense-contractors-paid-1-trillion.jpg
     infographic: >-
-      /assets/infographics/military/fraudulent-defense-contractors-paid-1-trillion.png
+      /assets/infographics/military/fraudulent-defense-contractors-paid-1-trillion.jpg
   categories:
     - Military
   tags:

@@ -14,10 +14,10 @@ metadata:
   url: >-
     https://thinkbynumbers.org/health/fecal-transplant-reduces-autism-symptoms-45/
   media:
-    featuredImage: /assets/og-images/health/fecal-transplant-reduces-autism-symptoms-45.png
-    ogImage: /assets/og-images/health/fecal-transplant-reduces-autism-symptoms-45.png
+    featuredImage: /assets/og-images/health/fecal-transplant-reduces-autism-symptoms-45.jpg
+    ogImage: /assets/og-images/health/fecal-transplant-reduces-autism-symptoms-45.jpg
     infographic: >-
-      /assets/infographics/health/fecal-transplant-reduces-autism-symptoms-45.png
+      /assets/infographics/health/fecal-transplant-reduces-autism-symptoms-45.jpg
 tags:
   - health
 aiScores:

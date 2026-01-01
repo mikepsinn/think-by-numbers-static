@@ -10,9 +10,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2020/12/johnny-5.gif
     ogImage: >-
-      /assets/og-images/psychology/subconscious-processes-27500-times-more-data-than-the-conscious-mind.png
+      /assets/og-images/psychology/subconscious-processes-27500-times-more-data-than-the-conscious-mind.jpg
     infographic: >-
-      /assets/infographics/psychology/subconscious-processes-27500-times-more-data-than-the-conscious-mind.png
+      /assets/infographics/psychology/subconscious-processes-27500-times-more-data-than-the-conscious-mind.jpg
   categories:
     - Psychology
     - Science

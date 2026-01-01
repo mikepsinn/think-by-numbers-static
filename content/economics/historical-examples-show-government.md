@@ -13,8 +13,8 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2009/02/featured-image-Keynes-Time2.jpg
   media:
     featuredImage: /wp-content/uploads/2009/02/featured-image-Keynes-Time2.jpg
-    ogImage: /assets/og-images/economics/historical-examples-show-government.png
-    infographic: /assets/infographics/economics/historical-examples-show-government.png
+    ogImage: /assets/og-images/economics/historical-examples-show-government.jpg
+    infographic: /assets/infographics/economics/historical-examples-show-government.jpg
   categories:
     - Corporate Welfare
     - Economics

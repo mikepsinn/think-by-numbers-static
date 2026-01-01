@@ -11,8 +11,8 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2013/03/government-spending-usa-factory-gdp.jpg
   media:
     featuredImage: /wp-content/uploads/2013/03/government-spending-usa-factory-gdp.jpg
-    ogImage: /assets/og-images/economics/gdp-and-you.png
-    infographic: /assets/infographics/economics/gdp-and-you.png
+    ogImage: /assets/og-images/economics/gdp-and-you.jpg
+    infographic: /assets/infographics/economics/gdp-and-you.jpg
   categories:
     - Economics
   uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8269'

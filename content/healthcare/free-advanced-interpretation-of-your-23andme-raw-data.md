@@ -10,9 +10,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2019/07/dna.png
     ogImage: >-
-      /assets/og-images/healthcare/free-advanced-interpretation-of-your-23andme-raw-data.png
+      /assets/og-images/healthcare/free-advanced-interpretation-of-your-23andme-raw-data.jpg
     infographic: >-
-      /assets/infographics/healthcare/free-advanced-interpretation-of-your-23andme-raw-data.png
+      /assets/infographics/healthcare/free-advanced-interpretation-of-your-23andme-raw-data.jpg
   categories:
     - Healthcare
   tags:

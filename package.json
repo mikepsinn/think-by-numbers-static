@@ -11,6 +11,7 @@
     "generate-images": "tsx scripts/generate-project-images.ts",
     "generate-images:file": "tsx scripts/generate-project-images.ts",
     "update-images": "tsx scripts/update-existing-images.ts",
+    "fix-image-extensions": "tsx scripts/fix-image-extensions.ts",
     "generate-checklist": "tsx scripts/generate-post-checklist.ts",
     "score-posts": "tsx scripts/score-posts.ts",
     "prepare": "husky || true"

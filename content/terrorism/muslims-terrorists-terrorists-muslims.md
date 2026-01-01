@@ -12,9 +12,9 @@ metadata:
   type: wordpress
   url: 'https://thinkbynumbers.org/terrorism/muslims-terrorists-terrorists-muslims/'
   media:
-    featuredImage: /assets/og-images/terrorism/muslims-terrorists-terrorists-muslims.png
-    ogImage: /assets/og-images/terrorism/muslims-terrorists-terrorists-muslims.png
-    infographic: /assets/infographics/terrorism/muslims-terrorists-terrorists-muslims.png
+    featuredImage: /assets/og-images/terrorism/muslims-terrorists-terrorists-muslims.jpg
+    ogImage: /assets/og-images/terrorism/muslims-terrorists-terrorists-muslims.jpg
+    infographic: /assets/infographics/terrorism/muslims-terrorists-terrorists-muslims.jpg
 tags:
   - terrorism
 aiScores:

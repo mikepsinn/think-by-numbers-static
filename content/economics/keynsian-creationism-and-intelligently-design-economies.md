@@ -15,11 +15,11 @@ metadata:
     https://thinkbynumbers.org/economics/keynsian-creationism-and-intelligently-design-economies/
   media:
     featuredImage: >-
-      /assets/og-images/economics/keynsian-creationism-and-intelligently-design-economies.png
+      /assets/og-images/economics/keynsian-creationism-and-intelligently-design-economies.jpg
     ogImage: >-
-      /assets/og-images/economics/keynsian-creationism-and-intelligently-design-economies.png
+      /assets/og-images/economics/keynsian-creationism-and-intelligently-design-economies.jpg
     infographic: >-
-      /assets/infographics/economics/keynsian-creationism-and-intelligently-design-economies.png
+      /assets/infographics/economics/keynsian-creationism-and-intelligently-design-economies.jpg
 tags:
   - economics
 aiScores:

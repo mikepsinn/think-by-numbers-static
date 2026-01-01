@@ -11,8 +11,8 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2009/02/Debt-to-GDP-Forecast-Chart.png
   media:
     featuredImage: /wp-content/uploads/2009/02/Debt-to-GDP-Forecast-Chart.png
-    ogImage: /assets/og-images/debt/debt-to-gdp-forecast-chart.png
-    infographic: /assets/infographics/debt/debt-to-gdp-forecast-chart.png
+    ogImage: /assets/og-images/debt/debt-to-gdp-forecast-chart.jpg
+    infographic: /assets/infographics/debt/debt-to-gdp-forecast-chart.jpg
   categories:
     - Debt
     - GDP

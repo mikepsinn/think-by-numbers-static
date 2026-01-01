@@ -12,9 +12,9 @@ metadata:
   type: wordpress
   url: 'https://thinkbynumbers.org/health/how-many-people-have-alzheimers-disease/'
   media:
-    featuredImage: /assets/og-images/health/how-many-people-have-alzheimers-disease.png
-    ogImage: /assets/og-images/health/how-many-people-have-alzheimers-disease.png
-    infographic: /assets/infographics/health/how-many-people-have-alzheimers-disease.png
+    featuredImage: /assets/og-images/health/how-many-people-have-alzheimers-disease.jpg
+    ogImage: /assets/og-images/health/how-many-people-have-alzheimers-disease.jpg
+    infographic: /assets/infographics/health/how-many-people-have-alzheimers-disease.jpg
 tags:
   - health
 aiScores:

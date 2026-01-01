@@ -9,8 +9,8 @@ metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2013/04/image_gallery.gif'
   media:
     featuredImage: /wp-content/uploads/2013/04/image_gallery.gif
-    ogImage: /assets/og-images/drug-war/drug-war-statistics.png
-    infographic: /assets/infographics/drug-war/drug-war-statistics.png
+    ogImage: /assets/og-images/drug-war/drug-war-statistics.jpg
+    infographic: /assets/infographics/drug-war/drug-war-statistics.jpg
   categories:
     - Drug War
     - Government Spending

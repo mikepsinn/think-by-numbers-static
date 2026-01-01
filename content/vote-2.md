@@ -8,8 +8,8 @@ type: page
 metadata:
   url: 'https://thinkbynumbers.org/vote-2/'
   media:
-    ogImage: /assets/og-images/vote-2.png
-    infographic: /assets/infographics/vote-2.png
+    ogImage: /assets/og-images/vote-2.jpg
+    infographic: /assets/infographics/vote-2.jpg
 tags:
   - politics
   - democracy

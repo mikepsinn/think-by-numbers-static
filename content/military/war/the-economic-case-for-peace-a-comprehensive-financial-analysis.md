@@ -10,9 +10,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2024/03/world-without-war.png
     ogImage: >-
-      /assets/og-images/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis.png
+      /assets/og-images/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis.jpg
     infographic: >-
-      /assets/infographics/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis.png
+      /assets/infographics/military/war/the-economic-case-for-peace-a-comprehensive-financial-analysis.jpg
   categories:
     - War
   tags:

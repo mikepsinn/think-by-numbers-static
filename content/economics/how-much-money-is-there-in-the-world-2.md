@@ -14,9 +14,9 @@ metadata:
   type: wordpress
   url: 'https://thinkbynumbers.org/economics/how-much-money-is-there-in-the-world-2/'
   media:
-    featuredImage: /assets/og-images/economics/how-much-money-is-there-in-the-world-2.png
-    ogImage: /assets/og-images/economics/how-much-money-is-there-in-the-world-2.png
-    infographic: /assets/infographics/economics/how-much-money-is-there-in-the-world-2.png
+    featuredImage: /assets/og-images/economics/how-much-money-is-there-in-the-world-2.jpg
+    ogImage: /assets/og-images/economics/how-much-money-is-there-in-the-world-2.jpg
+    infographic: /assets/infographics/economics/how-much-money-is-there-in-the-world-2.jpg
 tags:
   - economics
 aiScores:

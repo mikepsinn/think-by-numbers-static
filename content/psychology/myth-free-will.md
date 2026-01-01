@@ -9,8 +9,8 @@ metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/10/brain-gears.jpg'
   media:
     featuredImage: /wp-content/uploads/2011/10/brain-gears.jpg
-    ogImage: /assets/og-images/psychology/myth-free-will.png
-    infographic: /assets/infographics/psychology/myth-free-will.png
+    ogImage: /assets/og-images/psychology/myth-free-will.jpg
+    infographic: /assets/infographics/psychology/myth-free-will.jpg
   categories:
     - Psychology
   tags:

@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2021/03/productivity-pay-gap.png
     ogImage: >-
-      /assets/og-images/economics/how-the-federal-reserve-steals-from-the-poor-and-gives-to-the-rich.png
+      /assets/og-images/economics/how-the-federal-reserve-steals-from-the-poor-and-gives-to-the-rich.jpg
     infographic: >-
-      /assets/infographics/economics/how-the-federal-reserve-steals-from-the-poor-and-gives-to-the-rich.png
+      /assets/infographics/economics/how-the-federal-reserve-steals-from-the-poor-and-gives-to-the-rich.jpg
   categories:
     - Economics
     - Federal Reserve

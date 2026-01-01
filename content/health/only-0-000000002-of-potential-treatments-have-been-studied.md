@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2022/03/how-much-we-know-numbers.png
     ogImage: >-
-      /assets/og-images/health/only-0-000000002-of-potential-treatments-have-been-studied.png
+      /assets/og-images/health/only-0-000000002-of-potential-treatments-have-been-studied.jpg
     infographic: >-
-      /assets/infographics/health/only-0-000000002-of-potential-treatments-have-been-studied.png
+      /assets/infographics/health/only-0-000000002-of-potential-treatments-have-been-studied.jpg
   categories:
     - Health
   tags:

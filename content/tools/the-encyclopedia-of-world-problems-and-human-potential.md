@@ -14,11 +14,11 @@ metadata:
     https://thinkbynumbers.org/tools/the-encyclopedia-of-world-problems-and-human-potential/
   media:
     featuredImage: >-
-      /assets/og-images/tools/the-encyclopedia-of-world-problems-and-human-potential.png
+      /assets/og-images/tools/the-encyclopedia-of-world-problems-and-human-potential.jpg
     ogImage: >-
-      /assets/og-images/tools/the-encyclopedia-of-world-problems-and-human-potential.png
+      /assets/og-images/tools/the-encyclopedia-of-world-problems-and-human-potential.jpg
     infographic: >-
-      /assets/infographics/tools/the-encyclopedia-of-world-problems-and-human-potential.png
+      /assets/infographics/tools/the-encyclopedia-of-world-problems-and-human-potential.jpg
 tags:
   - tools
 aiScores:

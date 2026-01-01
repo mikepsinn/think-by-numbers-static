@@ -17,8 +17,8 @@ categories:
 metadata:
   url: 'https://thinkbynumbers.org/terms-of-service/'
   media:
-    ogImage: /assets/og-images/terms-of-service.png
-    infographic: /assets/infographics/terms-of-service.png
+    ogImage: /assets/og-images/terms-of-service.jpg
+    infographic: /assets/infographics/terms-of-service.jpg
 aiScores:
   quality: 6
   value: 3

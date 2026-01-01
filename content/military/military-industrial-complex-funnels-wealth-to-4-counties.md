@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2021/03/Map_of_USA_VA-e1616263111399.png
     ogImage: >-
-      /assets/og-images/military/military-industrial-complex-funnels-wealth-to-4-counties.png
+      /assets/og-images/military/military-industrial-complex-funnels-wealth-to-4-counties.jpg
     infographic: >-
-      /assets/infographics/military/military-industrial-complex-funnels-wealth-to-4-counties.png
+      /assets/infographics/military/military-industrial-complex-funnels-wealth-to-4-counties.jpg
   categories:
     - Military
   tags:

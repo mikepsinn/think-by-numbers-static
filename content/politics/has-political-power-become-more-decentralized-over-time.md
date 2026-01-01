@@ -14,11 +14,11 @@ metadata:
     https://thinkbynumbers.org/politics/has-political-power-become-more-decentralized-over-time/
   media:
     featuredImage: >-
-      /assets/og-images/politics/has-political-power-become-more-decentralized-over-time.png
+      /assets/og-images/politics/has-political-power-become-more-decentralized-over-time.jpg
     ogImage: >-
-      /assets/og-images/politics/has-political-power-become-more-decentralized-over-time.png
+      /assets/og-images/politics/has-political-power-become-more-decentralized-over-time.jpg
     infographic: >-
-      /assets/infographics/politics/has-political-power-become-more-decentralized-over-time.png
+      /assets/infographics/politics/has-political-power-become-more-decentralized-over-time.jpg
 tags:
   - politics
 aiScores:

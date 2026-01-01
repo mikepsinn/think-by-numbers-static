@@ -10,8 +10,8 @@ metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2012/11/Armey.gif'
   media:
     featuredImage: /wp-content/uploads/2012/11/Armey.gif
-    ogImage: /assets/og-images/economics/ideal-level-of-government-spending.png
-    infographic: /assets/infographics/economics/ideal-level-of-government-spending.png
+    ogImage: /assets/og-images/economics/ideal-level-of-government-spending.jpg
+    infographic: /assets/infographics/economics/ideal-level-of-government-spending.jpg
   categories:
     - Economics
     - GDP

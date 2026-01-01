@@ -56,8 +56,8 @@ async function generateImagesForPost(
   const infographicOutputDir = path.join('content', 'assets', 'infographics', dirName);
 
   // Check if images already exist
-  const ogImageFile = path.join(ogOutputDir, `${fileName}.png`);
-  const infographicImageFile = path.join(infographicOutputDir, `${fileName}.png`);
+  const ogImageFile = path.join(ogOutputDir, `${fileName}.jpg`);
+  const infographicImageFile = path.join(infographicOutputDir, `${fileName}.jpg`);
 
   const hasOgImage = await fs.access(ogImageFile).then(() => true).catch(() => false);
   const hasInfographic = await fs.access(infographicImageFile).then(() => true).catch(() => false);
@@ -110,6 +110,7 @@ Full article content: ${cleanedContent}
         aspectRatio: '16:9',
         outputDir: ogOutputDir,
         filePrefix: fileName,
+        format: 'jpg',
         metadata: imageMetadata,
       });
 
@@ -141,6 +142,7 @@ Full article content: ${cleanedContent}
         aspectRatio: '3:4',
         outputDir: infographicOutputDir,
         filePrefix: fileName,
+        format: 'jpg',
         metadata: imageMetadata,
       });
 

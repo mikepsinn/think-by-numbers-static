@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2014/08/Press-freedom-speech-propaganda-poster.jpg
     ogImage: >-
-      /assets/og-images/freedom-of-speech/world-press-and-pothi-freedom-index.png
+      /assets/og-images/freedom-of-speech/world-press-and-pothi-freedom-index.jpg
     infographic: >-
-      /assets/infographics/freedom-of-speech/world-press-and-pothi-freedom-index.png
+      /assets/infographics/freedom-of-speech/world-press-and-pothi-freedom-index.jpg
   categories:
     - Freedom of Speech
   uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8637'

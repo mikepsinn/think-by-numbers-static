@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2009/04/featured-image-aig-bailout-infographic.jpg
     ogImage: >-
-      /assets/og-images/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail.png
+      /assets/og-images/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail.jpg
     infographic: >-
-      /assets/infographics/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail.png
+      /assets/infographics/government-spending/corporate-welfare/what-would-happen-if-we-let-aig-fail.jpg
   categories:
     - Corporate Welfare
   tags:

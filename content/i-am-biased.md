@@ -8,8 +8,8 @@ type: page
 metadata:
   url: 'https://thinkbynumbers.org/i-am-biased/'
   media:
-    ogImage: /assets/og-images/i-am-biased.png
-    infographic: /assets/infographics/i-am-biased.png
+    ogImage: /assets/og-images/i-am-biased.jpg
+    infographic: /assets/infographics/i-am-biased.jpg
 tags:
   - empiricism
   - philosophy

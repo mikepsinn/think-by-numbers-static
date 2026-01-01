@@ -12,8 +12,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2011/02/featured-image-debt-by-GOP-presidential-candidate-2012.jpg
-    ogImage: /assets/og-images/debt/debt-swell-top-gop-hopefuls-tax-plans.png
-    infographic: /assets/infographics/debt/debt-swell-top-gop-hopefuls-tax-plans.png
+    ogImage: /assets/og-images/debt/debt-swell-top-gop-hopefuls-tax-plans.jpg
+    infographic: /assets/infographics/debt/debt-swell-top-gop-hopefuls-tax-plans.jpg
   categories:
     - Debt
     - Taxes

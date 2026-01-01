@@ -10,9 +10,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2025/01/change-the-world.webp
     ogImage: >-
-      /assets/og-images/politics/it-takes-3-5-of-the-population-to-change-the-world.png
+      /assets/og-images/politics/it-takes-3-5-of-the-population-to-change-the-world.jpg
     infographic: >-
-      /assets/infographics/politics/it-takes-3-5-of-the-population-to-change-the-world.png
+      /assets/infographics/politics/it-takes-3-5-of-the-population-to-change-the-world.jpg
   categories:
     - Politics
   uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10786'

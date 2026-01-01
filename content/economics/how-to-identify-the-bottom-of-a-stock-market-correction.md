@@ -13,9 +13,9 @@ metadata:
     featuredImage: >-
       /wp-content/uploads/2020/04/sp-500-vs-corporate-profits-after-tax-2020-1.png
     ogImage: >-
-      /assets/og-images/economics/how-to-identify-the-bottom-of-a-stock-market-correction.png
+      /assets/og-images/economics/how-to-identify-the-bottom-of-a-stock-market-correction.jpg
     infographic: >-
-      /assets/infographics/economics/how-to-identify-the-bottom-of-a-stock-market-correction.png
+      /assets/infographics/economics/how-to-identify-the-bottom-of-a-stock-market-correction.jpg
   categories:
     - Economics
   tags:

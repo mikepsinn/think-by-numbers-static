@@ -8,8 +8,8 @@ type: page
 metadata:
   url: 'https://thinkbynumbers.org/3-easy-steps/'
   media:
-    ogImage: /assets/og-images/3-easy-steps.png
-    infographic: /assets/infographics/3-easy-steps.png
+    ogImage: /assets/og-images/3-easy-steps.jpg
+    infographic: /assets/infographics/3-easy-steps.jpg
 tags:
   - solutions
   - empiricism

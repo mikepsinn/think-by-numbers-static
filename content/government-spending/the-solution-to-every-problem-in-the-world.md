@@ -19,11 +19,11 @@ metadata:
     https://thinkbynumbers.org/government-spending/the-solution-to-every-problem-in-the-world/
   media:
     featuredImage: >-
-      /assets/og-images/government-spending/the-solution-to-every-problem-in-the-world.png
+      /assets/og-images/government-spending/the-solution-to-every-problem-in-the-world.jpg
     ogImage: >-
-      /assets/og-images/government-spending/the-solution-to-every-problem-in-the-world.png
+      /assets/og-images/government-spending/the-solution-to-every-problem-in-the-world.jpg
     infographic: >-
-      /assets/infographics/government-spending/the-solution-to-every-problem-in-the-world.png
+      /assets/infographics/government-spending/the-solution-to-every-problem-in-the-world.jpg
 tags:
   - government-spending
   - health

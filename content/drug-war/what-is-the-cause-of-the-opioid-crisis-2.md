@@ -10,8 +10,8 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2019/05/DEA_topper-extend-scaled.jpg
   media:
     featuredImage: /wp-content/uploads/2019/05/DEA_topper-extend-scaled.jpg
-    ogImage: /assets/og-images/drug-war/what-is-the-cause-of-the-opioid-crisis-2.png
-    infographic: /assets/infographics/drug-war/what-is-the-cause-of-the-opioid-crisis-2.png
+    ogImage: /assets/og-images/drug-war/what-is-the-cause-of-the-opioid-crisis-2.jpg
+    infographic: /assets/infographics/drug-war/what-is-the-cause-of-the-opioid-crisis-2.jpg
   categories:
     - Drug War
   tags:

@@ -8,8 +8,8 @@ type: page
 metadata:
   url: 'https://thinkbynumbers.org/empiricist-movement/'
   media:
-    ogImage: /assets/og-images/empiricist-movement.png
-    infographic: /assets/infographics/empiricist-movement.png
+    ogImage: /assets/og-images/empiricist-movement.jpg
+    infographic: /assets/infographics/empiricist-movement.jpg
 tags:
   - empiricism
   - rationality

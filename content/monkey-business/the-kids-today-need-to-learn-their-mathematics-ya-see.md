@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2011/09/cos-b-square-cosby-thumb-125x125.jpg
     ogImage: >-
-      /assets/og-images/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see.png
+      /assets/og-images/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see.jpg
     infographic: >-
-      /assets/infographics/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see.png
+      /assets/infographics/monkey-business/the-kids-today-need-to-learn-their-mathematics-ya-see.jpg
   categories:
     - Monkey Business
   uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=200'

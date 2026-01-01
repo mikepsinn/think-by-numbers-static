@@ -9,8 +9,8 @@ metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2012/11/felicific-calculus.jpg'
   media:
     featuredImage: /wp-content/uploads/2012/11/felicific-calculus.jpg
-    ogImage: /assets/og-images/empiricism-2/felicific-calculus.png
-    infographic: /assets/infographics/empiricism-2/felicific-calculus.png
+    ogImage: /assets/og-images/empiricism-2/felicific-calculus.jpg
+    infographic: /assets/infographics/empiricism-2/felicific-calculus.jpg
   categories:
     - Empiricism
     - Utilitarianism

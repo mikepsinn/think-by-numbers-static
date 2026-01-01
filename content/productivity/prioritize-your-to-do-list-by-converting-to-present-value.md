@@ -14,11 +14,11 @@ metadata:
     https://thinkbynumbers.org/productivity/prioritize-your-to-do-list-by-converting-to-present-value/
   media:
     featuredImage: >-
-      /assets/og-images/productivity/prioritize-your-to-do-list-by-converting-to-present-value.png
+      /assets/og-images/productivity/prioritize-your-to-do-list-by-converting-to-present-value.jpg
     ogImage: >-
-      /assets/og-images/productivity/prioritize-your-to-do-list-by-converting-to-present-value.png
+      /assets/og-images/productivity/prioritize-your-to-do-list-by-converting-to-present-value.jpg
     infographic: >-
-      /assets/infographics/productivity/prioritize-your-to-do-list-by-converting-to-present-value.png
+      /assets/infographics/productivity/prioritize-your-to-do-list-by-converting-to-present-value.jpg
 tags:
   - productivity
 aiScores:

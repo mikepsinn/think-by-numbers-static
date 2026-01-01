@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2009/03/Obama-to-cut-deficit-in-half.jpg
     ogImage: >-
-      /assets/og-images/government-spending/obama-to-cut-deficit-in-half-after.png
+      /assets/og-images/government-spending/obama-to-cut-deficit-in-half-after.jpg
     infographic: >-
-      /assets/infographics/government-spending/obama-to-cut-deficit-in-half-after.png
+      /assets/infographics/government-spending/obama-to-cut-deficit-in-half-after.jpg
   categories:
     - Government Spending
   uuid: '11ty/import::wordpress::http://thinkbynumbers.org/wordpress/?p=8'

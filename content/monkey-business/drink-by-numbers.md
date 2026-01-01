@@ -9,8 +9,8 @@ metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2013/02/Duffman2.jpg'
   media:
     featuredImage: /wp-content/uploads/2013/02/Duffman2.jpg
-    ogImage: /assets/og-images/monkey-business/drink-by-numbers.png
-    infographic: /assets/infographics/monkey-business/drink-by-numbers.png
+    ogImage: /assets/og-images/monkey-business/drink-by-numbers.jpg
+    infographic: /assets/infographics/monkey-business/drink-by-numbers.jpg
   categories:
     - Monkey Business
   uuid: '11ty/import::wordpress::http://thinkbynumbers.org/?p=8242'

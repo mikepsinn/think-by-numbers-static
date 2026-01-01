@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2019/03/2018_Military_Expenditures_by_Country.png
     ogImage: >-
-      /assets/og-images/government-spending/how-much-does-the-us-spend-on-the-military-compared-to-the-rest-of-the-world.png
+      /assets/og-images/government-spending/how-much-does-the-us-spend-on-the-military-compared-to-the-rest-of-the-world.jpg
     infographic: >-
-      /assets/infographics/government-spending/how-much-does-the-us-spend-on-the-military-compared-to-the-rest-of-the-world.png
+      /assets/infographics/government-spending/how-much-does-the-us-spend-on-the-military-compared-to-the-rest-of-the-world.jpg
   categories:
     - Government Spending
     - Military

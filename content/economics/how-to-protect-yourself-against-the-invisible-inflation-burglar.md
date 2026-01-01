@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2021/03/inflation-Rise-and-Fall-of-the-USD-64c2.jpg
     ogImage: >-
-      /assets/og-images/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar.png
+      /assets/og-images/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar.jpg
     infographic: >-
-      /assets/infographics/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar.png
+      /assets/infographics/economics/how-to-protect-yourself-against-the-invisible-inflation-burglar.jpg
   categories:
     - Economics
   uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10059'

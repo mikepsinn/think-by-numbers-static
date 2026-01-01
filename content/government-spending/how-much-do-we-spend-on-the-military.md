@@ -12,9 +12,9 @@ metadata:
     featuredImage: >-
       /wp-content/uploads/2019/05/military-expenditure-by-country-in-thousands-of-2000-us-dollars.png
     ogImage: >-
-      /assets/og-images/government-spending/how-much-do-we-spend-on-the-military.png
+      /assets/og-images/government-spending/how-much-do-we-spend-on-the-military.jpg
     infographic: >-
-      /assets/infographics/government-spending/how-much-do-we-spend-on-the-military.png
+      /assets/infographics/government-spending/how-much-do-we-spend-on-the-military.jpg
   categories:
     - Government Spending
     - Military

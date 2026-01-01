@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2024/08/irs.png
     ogImage: >-
-      /assets/og-images/taxes/irs-automation-could-save-americans-191-billion.png
+      /assets/og-images/taxes/irs-automation-could-save-americans-191-billion.jpg
     infographic: >-
-      /assets/infographics/taxes/irs-automation-could-save-americans-191-billion.png
+      /assets/infographics/taxes/irs-automation-could-save-americans-191-billion.jpg
   categories:
     - Taxes
   tags:

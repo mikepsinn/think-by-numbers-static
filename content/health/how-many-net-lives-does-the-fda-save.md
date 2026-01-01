@@ -11,8 +11,8 @@ metadata:
   media:
     featuredImage: >-
       /wp-content/uploads/2019/07/real-world-evidence-in-efficacy-clinical-trials-vs-rcts.png
-    ogImage: /assets/og-images/health/how-many-net-lives-does-the-fda-save.png
-    infographic: /assets/infographics/health/how-many-net-lives-does-the-fda-save.png
+    ogImage: /assets/og-images/health/how-many-net-lives-does-the-fda-save.jpg
+    infographic: /assets/infographics/health/how-many-net-lives-does-the-fda-save.jpg
   categories:
     - Health
     - Healthcare

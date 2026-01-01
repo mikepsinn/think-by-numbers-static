@@ -13,9 +13,9 @@ metadata:
     featuredImage: >-
       /wp-content/uploads/2021/03/4-trillion-new-money-from-federal-reserve-went-to-top-1-percent.png
     ogImage: >-
-      /assets/og-images/economics/4-trillion-printed-in-2020-went-entirely-to-the-top-1-percent.png
+      /assets/og-images/economics/4-trillion-printed-in-2020-went-entirely-to-the-top-1-percent.jpg
     infographic: >-
-      /assets/infographics/economics/4-trillion-printed-in-2020-went-entirely-to-the-top-1-percent.png
+      /assets/infographics/economics/4-trillion-printed-in-2020-went-entirely-to-the-top-1-percent.jpg
   categories:
     - Economics
     - Federal Reserve

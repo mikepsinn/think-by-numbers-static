@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2020/07/money-printer-go-brr-photo.gif
     ogImage: >-
-      /assets/og-images/economics/when-the-government-prints-new-money-who-gets-it.png
+      /assets/og-images/economics/when-the-government-prints-new-money-who-gets-it.jpg
     infographic: >-
-      /assets/infographics/economics/when-the-government-prints-new-money-who-gets-it.png
+      /assets/infographics/economics/when-the-government-prints-new-money-who-gets-it.jpg
   categories:
     - Economics
     - Federal Reserve

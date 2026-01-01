@@ -10,9 +10,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2020/02/nuclear-bombs.jpg
     ogImage: >-
-      /assets/og-images/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times.png
+      /assets/og-images/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times.jpg
     infographic: >-
-      /assets/infographics/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times.png
+      /assets/infographics/military/we-have-enough-nuclear-bombs-to-kill-everyone-on-the-planet-2-6-times.jpg
   categories:
     - Military
   tags:

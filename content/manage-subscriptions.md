@@ -8,8 +8,8 @@ type: page
 metadata:
   url: 'https://thinkbynumbers.org/manage-subscriptions/'
   media:
-    ogImage: /assets/og-images/manage-subscriptions.png
-    infographic: /assets/infographics/manage-subscriptions.png
+    ogImage: /assets/og-images/manage-subscriptions.jpg
+    infographic: /assets/infographics/manage-subscriptions.jpg
 tags:
   - subscription
 aiScores:

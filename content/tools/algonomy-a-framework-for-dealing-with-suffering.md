@@ -14,11 +14,11 @@ metadata:
     https://thinkbynumbers.org/tools/algonomy-a-framework-for-dealing-with-suffering/
   media:
     featuredImage: >-
-      /assets/og-images/tools/algonomy-a-framework-for-dealing-with-suffering.png
+      /assets/og-images/tools/algonomy-a-framework-for-dealing-with-suffering.jpg
     ogImage: >-
-      /assets/og-images/tools/algonomy-a-framework-for-dealing-with-suffering.png
+      /assets/og-images/tools/algonomy-a-framework-for-dealing-with-suffering.jpg
     infographic: >-
-      /assets/infographics/tools/algonomy-a-framework-for-dealing-with-suffering.png
+      /assets/infographics/tools/algonomy-a-framework-for-dealing-with-suffering.jpg
 tags:
   - tools
 aiScores:

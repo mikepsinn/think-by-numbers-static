@@ -10,9 +10,9 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2009/03/Bailout-Costs-16000-per-Worker.png
   media:
     featuredImage: /wp-content/uploads/2009/03/Bailout-Costs-16000-per-Worker.png
-    ogImage: /assets/og-images/government-spending/john-stossel-bailouts-and-bull.png
+    ogImage: /assets/og-images/government-spending/john-stossel-bailouts-and-bull.jpg
     infographic: >-
-      /assets/infographics/government-spending/john-stossel-bailouts-and-bull.png
+      /assets/infographics/government-spending/john-stossel-bailouts-and-bull.jpg
   categories:
     - Corporate Welfare
     - Government Spending

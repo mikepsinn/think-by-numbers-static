@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2011/09/SmileyMoneyFace.jpg
     ogImage: >-
-      /assets/og-images/taxes/a-more-progressive-tax-system-makes-people-happier.png
+      /assets/og-images/taxes/a-more-progressive-tax-system-makes-people-happier.jpg
     infographic: >-
-      /assets/infographics/taxes/a-more-progressive-tax-system-makes-people-happier.png
+      /assets/infographics/taxes/a-more-progressive-tax-system-makes-people-happier.jpg
   categories:
     - Taxes
   tags:

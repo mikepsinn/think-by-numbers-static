@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2012/04/featured-image-GDP-by-Indusrty-Graph.jpg
     ogImage: >-
-      /assets/og-images/federal-reserve/financial-sector-costs-us-more-than-all.png
+      /assets/og-images/federal-reserve/financial-sector-costs-us-more-than-all.jpg
     infographic: >-
-      /assets/infographics/federal-reserve/financial-sector-costs-us-more-than-all.png
+      /assets/infographics/federal-reserve/financial-sector-costs-us-more-than-all.jpg
   categories:
     - Corporate Welfare
     - Federal Reserve

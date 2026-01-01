@@ -12,9 +12,9 @@ metadata:
     featuredImage: >-
       /wp-content/uploads/2020/08/1200px-Population_of_the_United_States_1790-2000.png
     ogImage: >-
-      /assets/og-images/statistics/what-was-the-population-when-the-united-states-was-established.png
+      /assets/og-images/statistics/what-was-the-population-when-the-united-states-was-established.jpg
     infographic: >-
-      /assets/infographics/statistics/what-was-the-population-when-the-united-states-was-established.png
+      /assets/infographics/statistics/what-was-the-population-when-the-united-states-was-established.jpg
   categories:
     - Statistics
   tags:

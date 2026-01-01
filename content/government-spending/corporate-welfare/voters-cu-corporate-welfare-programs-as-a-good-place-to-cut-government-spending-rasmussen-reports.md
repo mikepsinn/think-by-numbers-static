@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2011/09/socialism-rich.jpg
     ogImage: >-
-      /assets/og-images/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports.png
+      /assets/og-images/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports.jpg
     infographic: >-
-      /assets/infographics/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports.png
+      /assets/infographics/government-spending/corporate-welfare/voters-cu-corporate-welfare-programs-as-a-good-place-to-cut-government-spending-rasmussen-reports.jpg
   categories:
     - Corporate Welfare
   tags:

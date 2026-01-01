@@ -13,9 +13,9 @@ metadata:
     featuredImage: >-
       /wp-content/uploads/2020/09/public-support-for-american-revolution-pie-chart.png
     ogImage: >-
-      /assets/og-images/democracy/the-majority-of-americans-didnt-support-the-american-revolution.png
+      /assets/og-images/democracy/the-majority-of-americans-didnt-support-the-american-revolution.jpg
     infographic: >-
-      /assets/infographics/democracy/the-majority-of-americans-didnt-support-the-american-revolution.png
+      /assets/infographics/democracy/the-majority-of-americans-didnt-support-the-american-revolution.jpg
   categories:
     - Democracy
   uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10012'

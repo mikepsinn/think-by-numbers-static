@@ -16,11 +16,11 @@ metadata:
     https://thinkbynumbers.org/economics/what-percent-of-economists-support-protectionist-tariffs-2/
   media:
     featuredImage: >-
-      /assets/og-images/economics/what-percent-of-economists-support-protectionist-tariffs-2.png
+      /assets/og-images/economics/what-percent-of-economists-support-protectionist-tariffs-2.jpg
     ogImage: >-
-      /assets/og-images/economics/what-percent-of-economists-support-protectionist-tariffs-2.png
+      /assets/og-images/economics/what-percent-of-economists-support-protectionist-tariffs-2.jpg
     infographic: >-
-      /assets/infographics/economics/what-percent-of-economists-support-protectionist-tariffs-2.png
+      /assets/infographics/economics/what-percent-of-economists-support-protectionist-tariffs-2.jpg
 tags:
   - economics
 aiScores:

@@ -27,11 +27,11 @@ metadata:
     https://thinkbynumbers.org/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants/
   media:
     featuredImage: >-
-      /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
+      /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.jpg
     ogImage: >-
-      /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
+      /assets/og-images/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.jpg
     infographic: >-
-      /assets/infographics/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.png
+      /assets/infographics/uncategorized/how-to-overcome-bias-in-crowdsoucing-participants.jpg
 aiScores:
   quality: 7
   value: 8

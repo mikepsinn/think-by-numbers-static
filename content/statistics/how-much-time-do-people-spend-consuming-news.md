@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2020/08/pexels-photo-3278364.jpeg
     infographic: >-
-      /assets/infographics/statistics/how-much-time-do-people-spend-consuming-news.png
+      /assets/infographics/statistics/how-much-time-do-people-spend-consuming-news.jpg
     ogImage: >-
-      /assets/og-images/statistics/how-much-time-do-people-spend-consuming-news.png
+      /assets/og-images/statistics/how-much-time-do-people-spend-consuming-news.jpg
   categories:
     - Statistics
   tags:

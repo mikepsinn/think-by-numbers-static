@@ -13,9 +13,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2011/10/Unrepresentative-Democracy-e1319168693378.jpg
     ogImage: >-
-      /assets/og-images/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires.png
+      /assets/og-images/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires.jpg
     infographic: >-
-      /assets/infographics/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires.png
+      /assets/infographics/democracy/unrepresentative-democracy-government-by-millionaires-for-millionaires.jpg
   categories:
     - Democracy
   tags:

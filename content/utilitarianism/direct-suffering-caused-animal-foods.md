@@ -10,9 +10,9 @@ metadata:
     https://thinkbynumbers.org/wp-content/uploads/2011/10/Suffering-Caused-by-Various-Animal-Foods.jpg
   media:
     featuredImage: /wp-content/uploads/2011/10/Suffering-Caused-by-Various-Animal-Foods.jpg
-    ogImage: /assets/og-images/utilitarianism/direct-suffering-caused-animal-foods.png
+    ogImage: /assets/og-images/utilitarianism/direct-suffering-caused-animal-foods.jpg
     infographic: >-
-      /assets/infographics/utilitarianism/direct-suffering-caused-animal-foods.png
+      /assets/infographics/utilitarianism/direct-suffering-caused-animal-foods.jpg
   categories:
     - Utilitarianism
   uuid: '11ty/import::wordpress::http://thinkbynumbers.org/blog/?p=1067'

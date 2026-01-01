@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2019/06/us-stock-market-returns-under-trump-obama.png
     ogImage: >-
-      /assets/og-images/economics/us-stock-market-grew-3-times-faster-under-obama-than-trump.png
+      /assets/og-images/economics/us-stock-market-grew-3-times-faster-under-obama-than-trump.jpg
     infographic: >-
-      /assets/infographics/economics/us-stock-market-grew-3-times-faster-under-obama-than-trump.png
+      /assets/infographics/economics/us-stock-market-grew-3-times-faster-under-obama-than-trump.jpg
   categories:
     - Economics
   uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=9622'

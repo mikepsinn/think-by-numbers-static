@@ -11,9 +11,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2019/10/Tryptophan-Steal-Chart1-1024x791.jpg
     ogImage: >-
-      /assets/og-images/healthcare/depression-rates-correlate-highly-with-changes-in-diet-and-autoimmune-disease.png
+      /assets/og-images/healthcare/depression-rates-correlate-highly-with-changes-in-diet-and-autoimmune-disease.jpg
     infographic: >-
-      /assets/infographics/healthcare/depression-rates-correlate-highly-with-changes-in-diet-and-autoimmune-disease.png
+      /assets/infographics/healthcare/depression-rates-correlate-highly-with-changes-in-diet-and-autoimmune-disease.jpg
   categories:
     - Healthcare
   tags:

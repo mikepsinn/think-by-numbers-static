@@ -12,9 +12,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2024/07/bottled-water-infrastructure.webp
     ogImage: >-
-      /assets/og-images/economics/bottled-water-costs-40x-more-why-dont-poor-areas-have-water-plants.png
+      /assets/og-images/economics/bottled-water-costs-40x-more-why-dont-poor-areas-have-water-plants.jpg
     infographic: >-
-      /assets/infographics/economics/bottled-water-costs-40x-more-why-dont-poor-areas-have-water-plants.png
+      /assets/infographics/economics/bottled-water-costs-40x-more-why-dont-poor-areas-have-water-plants.jpg
   categories:
     - Economics
   uuid: '11ty/import::wordpress::https://thinkbynumbers.org/?p=10733'

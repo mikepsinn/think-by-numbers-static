@@ -10,9 +10,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2024/11/image.png
     ogImage: >-
-      /assets/og-images/democracy/voter-support-for-a-bill-has-near-zero-influence-on-whether-it-will-become-law.png
+      /assets/og-images/democracy/voter-support-for-a-bill-has-near-zero-influence-on-whether-it-will-become-law.jpg
     infographic: >-
-      /assets/infographics/democracy/voter-support-for-a-bill-has-near-zero-influence-on-whether-it-will-become-law.png
+      /assets/infographics/democracy/voter-support-for-a-bill-has-near-zero-influence-on-whether-it-will-become-law.jpg
   categories:
     - Democracy
   tags:

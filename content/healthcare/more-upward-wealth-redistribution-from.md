@@ -9,8 +9,8 @@ metadata:
   featuredImage: 'https://thinkbynumbers.org/wp-content/uploads/2011/08/Doctor-Ipad-Graph.jpg'
   media:
     featuredImage: /wp-content/uploads/2011/08/Doctor-Ipad-Graph.jpg
-    ogImage: /assets/og-images/healthcare/more-upward-wealth-redistribution-from.png
-    infographic: /assets/infographics/healthcare/more-upward-wealth-redistribution-from.png
+    ogImage: /assets/og-images/healthcare/more-upward-wealth-redistribution-from.jpg
+    infographic: /assets/infographics/healthcare/more-upward-wealth-redistribution-from.jpg
   categories:
     - Corporate Welfare
     - Healthcare

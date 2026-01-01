@@ -13,9 +13,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2025/01/fda-cost-benefit-analysis.webp
     ogImage: >-
-      /assets/og-images/uncategorized/fda-fails-to-apply-basic-rational-cost-benefit-analysis-to-regulatory-decisions.png
+      /assets/og-images/uncategorized/fda-fails-to-apply-basic-rational-cost-benefit-analysis-to-regulatory-decisions.jpg
     infographic: >-
-      /assets/infographics/uncategorized/fda-fails-to-apply-basic-rational-cost-benefit-analysis-to-regulatory-decisions.png
+      /assets/infographics/uncategorized/fda-fails-to-apply-basic-rational-cost-benefit-analysis-to-regulatory-decisions.jpg
   categories:
     - Health
   tags:

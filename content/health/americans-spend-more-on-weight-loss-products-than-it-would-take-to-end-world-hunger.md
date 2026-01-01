@@ -13,9 +13,9 @@ metadata:
   media:
     featuredImage: /wp-content/uploads/2019/04/weight-loss-vs-world-hunger-spending.png
     ogImage: >-
-      /assets/og-images/health/americans-spend-more-on-weight-loss-products-than-it-would-take-to-end-world-hunger.png
+      /assets/og-images/health/americans-spend-more-on-weight-loss-products-than-it-would-take-to-end-world-hunger.jpg
     infographic: >-
-      /assets/infographics/health/americans-spend-more-on-weight-loss-products-than-it-would-take-to-end-world-hunger.png
+      /assets/infographics/health/americans-spend-more-on-weight-loss-products-than-it-would-take-to-end-world-hunger.jpg
   categories:
     - Health
     - Utilitarianism
