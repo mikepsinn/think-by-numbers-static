@@ -6,6 +6,8 @@
   <title>{% if title %}{{ title | safe }} - {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or (content | excerpt) or site.description }}">
   <meta name="author" content="{{ site.author.name }}">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#000000">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
 
   {# Favicon #}
@@ -77,6 +79,55 @@
     "name": "{{ site.author.name }}"
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "{{ site.name }}",
+    "url": "{{ site.url }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.logo }}"
+    },
+    "sameAs": [
+      "{{ site.social.facebook }}",
+      "{{ site.social.linkedin }}",
+      "{{ site.social.youtube }}",
+      "{{ site.social.twitter }}"
+    ]
+  }
+  </script>
+  {%- if title and date %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ title | safe }}",
+    "description": "{{ description or (content | excerpt) or site.description }}",
+    "image": "{{ site.url }}{% if metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% elif metadata.media.ogImage %}{{ metadata.media.ogImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-og.png{% endif %}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author.name }}",
+      "url": "{{ site.author.url }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.name }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ site.logo }}"
+      }
+    },
+    "datePublished": "{{ date | dateToISO }}",
+    "dateModified": "{% if page.inputPath and page.inputPath.includes('/content/') %}{{ page.date | dateToISO }}{% else %}{{ date | dateToISO }}{% endif %}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}"
+    }{% if tags %},
+    "keywords": "{{ tags | join(', ') }}"{% endif %}
+  }
+  </script>
+  {%- endif %}
 
   {# RSS Feeds #}
   <link rel="alternate" type="application/atom+xml" title="{{ site.name }} Feed" href="{{ site.feedPath }}">
