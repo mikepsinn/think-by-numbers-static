@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% if title %}{{ title | decodeHtml }} - {% endif %}{{ site.name }}</title>
+  <title>{% if title %}{{ title | safe }} - {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or (content | excerpt) or site.description }}">
   <meta name="author" content="{{ site.author.name }}">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}">
@@ -16,7 +16,7 @@
   {# Open Graph / Facebook #}
   <meta property="og:locale" content="en_US">
   <meta property="og:type" content="{% if title %}article{% else %}website{% endif %}">
-  <meta property="og:title" content="{% if title %}{{ title | decodeHtml }}{% else %}{{ site.name }}{% endif %}">
+  <meta property="og:title" content="{% if title %}{{ title | safe }}{% else %}{{ site.name }}{% endif %}">
   <meta property="og:description" content="{{ description or (content | excerpt) or site.description }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.name }}">
@@ -45,7 +45,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ site.social.twitterHandle }}">
   <meta name="twitter:creator" content="{{ site.social.twitterHandle }}">
-  <meta name="twitter:title" content="{% if title %}{{ title | decodeHtml }}{% else %}{{ site.name }}{% endif %}">
+  <meta name="twitter:title" content="{% if title %}{{ title | safe }}{% else %}{{ site.name }}{% endif %}">
   <meta name="twitter:description" content="{{ description or (content | excerpt) or site.description }}">
   <meta name="twitter:image" content="{{ site.url }}{% if metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-twitter.png{% endif %}">
 
@@ -1001,7 +1001,7 @@
     var disqus_config = function () {
       this.page.url = '{{ site.url }}{{ page.url }}';
       this.page.identifier = '{{ page.url }}';
-      this.page.title = '{{ title | decodeHtml | escape }}';
+      this.page.title = '{{ title | escape }}';
     };
     (function() {
       var d = document, s = d.createElement('script');
