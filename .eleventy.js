@@ -10,6 +10,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("content/**/assets");
   // Preserve WordPress uploads for SEO (strip /content/ prefix)
   eleventyConfig.addPassthroughCopy({ "content/wp-content": "wp-content" });
+  // Copy redirects file for Netlify/Vercel
+  eleventyConfig.addPassthroughCopy("_redirects");
 
   // Date filters
   eleventyConfig.addFilter("readableDate", (dateObj) => {

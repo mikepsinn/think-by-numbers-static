@@ -1,5 +1,8 @@
 # Redirects for legacy URLs
 # Format: from to [status]
 
+# Author page redirect
+/author/admin/ /author/mikepsinn/ 301
+
 # External redirect to QuantiModo
 /qm https://quantimo.do 302
