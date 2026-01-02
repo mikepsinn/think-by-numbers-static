@@ -6,7 +6,51 @@ permalink: "/author/mikepsinn/"
 
 <div class="container" data-pagefind-ignore>
   <div class="main-content">
-    <h1>Posts by {{ site.author.name }}</h1>
+    <div class="author-bio" style="display: flex; gap: 30px; margin-bottom: 40px; padding-bottom: 30px; border-bottom: 2px solid rgba(255,255,255,0.1);">
+      <div class="author-avatar" style="flex-shrink: 0;">
+        <img src="{{ site.author.avatar }}"
+             alt="{{ site.author.name }}"
+             style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid rgba(255,255,255,0.2);">
+      </div>
+      <div class="author-info" style="flex-grow: 1;">
+        <h1 style="margin-top: 0;">{{ site.author.name }}</h1>
+
+        <p style="font-size: 1.05em; line-height: 1.6; margin: 12px 0;">
+          {{ site.author.bio }}
+        </p>
+
+        <p style="font-size: 1.05em; line-height: 1.6; margin: 12px 0;">
+          {{ site.author.bioExtended }}
+        </p>
+
+        <p style="font-size: 1.05em; line-height: 1.6; margin: 12px 0;">
+          {{ site.author.mission }}
+        </p>
+
+        <div class="author-expertise" style="margin-top: 15px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.1);">
+          <strong style="font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.5px;">Expertise:</strong>
+          <div style="margin-top: 8px;">
+            {% for skill in site.author.expertise %}
+              <span style="display: inline-block; background: rgba(255,255,255,0.1); padding: 4px 12px; margin: 4px 4px 4px 0; border-radius: 3px; font-size: 0.85em;">{{ skill }}</span>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="author-links" style="margin-top: 15px;">
+          <a href="{{ site.author.url }}" target="_blank" style="margin-right: 15px;">
+            <i class="fa-solid fa-globe"></i> Website
+          </a>
+          <a href="{{ site.social.linkedin }}" target="_blank" style="margin-right: 15px;">
+            <i class="fa-brands fa-linkedin"></i> LinkedIn
+          </a>
+          <a href="{{ site.social.twitter }}" target="_blank">
+            <i class="fa-brands fa-twitter"></i> Twitter
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <h2>Posts by {{ site.author.name }}</h2>
 
     {%- set authorPosts = collections.all | reverse %}
     {%- set mdPosts = [] %}
