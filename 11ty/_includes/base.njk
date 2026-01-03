@@ -22,7 +22,7 @@
   <meta property="og:description" content="{{ description or (content | excerpt) or site.description }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:site_name" content="{{ site.name }}">
-  <meta property="og:image" content="{{ site.url }}{% if metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-og.png{% endif %}">
+  <meta property="og:image" content="{{ site.url }}{% if metadata.media.ogImage %}{{ metadata.media.ogImage }}{% elif metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-og.png{% endif %}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
 
@@ -32,7 +32,7 @@
   {% if page.inputPath and page.inputPath.includes('/content/') %}
   <meta property="article:modified_time" content="{{ page.date | dateToISO }}">
   {% endif %}
-  <meta property="article:author" content="{{ site.author.url }}">
+  <meta property="article:author" content="{{ site.url }}/author/mikepsinn/">
   {% if metadata.categories %}
   <meta property="article:section" content="{{ metadata.categories[0] }}">
   {% endif %}
@@ -49,7 +49,7 @@
   <meta name="twitter:creator" content="{{ site.social.twitterHandle }}">
   <meta name="twitter:title" content="{% if title %}{{ title | safe }}{% else %}{{ site.name }}{% endif %}">
   <meta name="twitter:description" content="{{ description or (content | excerpt) or site.description }}">
-  <meta name="twitter:image" content="{{ site.url }}{% if metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-twitter.png{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}{% if metadata.media.ogImage %}{{ metadata.media.ogImage }}{% elif metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-twitter.png{% endif %}">
 
   {# Schema.org structured data #}
   <script type="application/ld+json">
@@ -69,8 +69,9 @@
   {
     "@context": "http://schema.org",
     "@type": "Person",
-    "url": "{{ site.url }}",
+    "url": "{{ site.url }}/author/mikepsinn/",
     "sameAs": [
+      "{{ site.author.url }}",
       "{{ site.social.facebook }}",
       "{{ site.social.linkedin }}",
       "{{ site.social.youtube }}",
@@ -104,11 +105,11 @@
     "@type": "Article",
     "headline": "{{ title | safe }}",
     "description": "{{ description or (content | excerpt) or site.description }}",
-    "image": "{{ site.url }}{% if metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% elif metadata.media.ogImage %}{{ metadata.media.ogImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-og.png{% endif %}",
+    "image": "{{ site.url }}{% if metadata.media.ogImage %}{{ metadata.media.ogImage }}{% elif metadata.media.featuredImage %}{{ metadata.media.featuredImage }}{% else %}/wp-content/uploads/2025/12/think-by-numbers-og.png{% endif %}",
     "author": {
       "@type": "Person",
       "name": "{{ site.author.name }}",
-      "url": "{{ site.author.url }}"
+      "url": "{{ site.url }}/author/mikepsinn/"
     },
     "publisher": {
       "@type": "Organization",
@@ -987,7 +988,7 @@
       <a href="{{ site.social.youtube }}" target="_blank" style="margin: 0 8px; text-decoration: none;"><i class="fa-brands fa-youtube"></i> YouTube</a>
       <a href="https://soundcloud.com/plutonium-kidz" target="_blank" style="margin: 0 8px; text-decoration: none;"><i class="fa-brands fa-soundcloud"></i> SoundCloud</a>
       <a href="{{ site.social.github }}" target="_blank" style="margin: 0 8px; text-decoration: none;"><i class="fa-brands fa-github"></i> GitHub</a>
-      <a href="https://mikesinn.com" target="_blank" style="margin: 0 8px; text-decoration: none;"><i class="fa-solid fa-user"></i> Mike Sinn</a>
+      <a href="/author/mikepsinn/" style="margin: 0 8px; text-decoration: none;"><i class="fa-solid fa-user"></i> About the Author</a>
     </div>
     <p>&copy; 2025 <a href="https://mikesinn.com">Mike P. Sinn</a> | <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></p>
     <p>
